@@ -1,0 +1,5 @@
+# Scene 147 Dialogue
+
+The architect is having a small cup of coffee, and says:
+
+Architect: <<Whether induced by psychedelics, meditation, sleep deprivation, trauma, or three espressos too many, altered states don't just change experience—they reveal how constructed the default mode really is.>>

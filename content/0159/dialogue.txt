@@ -1,0 +1,7 @@
+# Scene 159 Dialogue
+
+[2-panel]
+
+The architect shows admiration. The Architect says:
+
+Architect: <<You swan-dove in with your eyes open and whispered "let's see what breaks." I respect that. Deeply.>>

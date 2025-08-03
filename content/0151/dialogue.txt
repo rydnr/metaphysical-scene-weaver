@@ -1,0 +1,7 @@
+# Scene 151 Dialogue
+
+[2-panel]
+
+The Architect shows Oz from the backstage, unveiling the trickster. The Architect says:
+
+Architect: <<Sometimes it's ecstatic. Sometimes it's terrifying. Always it's revealing.>>
