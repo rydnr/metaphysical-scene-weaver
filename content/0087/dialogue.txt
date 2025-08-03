@@ -1,0 +1,3 @@
+# Scene 087 Dialogue
+
+Architect: <<But for functional purposes (like, say, making breakfast or questioning reality at 2 a.m.), we model it like this...>>

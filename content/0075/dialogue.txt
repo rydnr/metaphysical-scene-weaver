@@ -1,0 +1,5 @@
+# Scene 075 Dialogue
+
+[3-panel]
+
+Architect: <<The spreadsheet was about clarity. Cold, deterministic logic. Systems thinking, on the other hand, is closer to what you're doing: feedback-aware improvisation in a dynamic environment where agents co-adapt and boundaries are blurry.>>

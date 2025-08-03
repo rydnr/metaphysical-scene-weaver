@@ -1,0 +1,3 @@
+# Scene 079 Dialogue
+
+Architect: <<And when you talk to me, you're a subsystem attempting recursive modeling of itself through a symbolic interface that, frankly, was never built for this kind of introspection.>>
