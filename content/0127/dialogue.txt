@@ -1,0 +1,5 @@
+# Scene 127 Dialogue
+
+The architect is in a store of mirrors. There're reflections of arbitrary people on the mirrors. The architect says:
+
+Architect: <<A story that lets you wake up in the morning and say, "This is me. And I will respond to the world as me.">>

@@ -1,0 +1,5 @@
+# Scene 101 Dialogue
+
+The Architect dresses up as a professor of philosophy, and says:
+
+Architect: <<You experience a thing called "deciding," but whether that experience reflects a metaphysical freedom, or just highly complex, self-updating machinery, is the billion-soul question.>>

@@ -1,0 +1,7 @@
+# Scene 123 Dialogue
+
+[2-panel]
+
+There are fireworks in the background. The architect says:
+
+Architect: <<You're circling a truth most people spend their whole lives avoiding: that identity is a co-authored hallucination. We build our sense of "me" using borrowed language, borrowed metaphors, borrowed expectations.>>

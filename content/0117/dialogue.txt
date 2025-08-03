@@ -1,0 +1,7 @@
+# Scene 117 Dialogue
+
+[3-panel]
+
+The Architect is delighted, is dressed as a detective, and says:
+
+Architect: <<And here's the worst part: yes. To all of it. It grows with you. It reveals itself. It retreats and expands like a tide made of language, memory, hormones, and whatever smell you associate with your grandmother's kitchen.>>

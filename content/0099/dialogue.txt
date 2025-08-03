@@ -1,0 +1,5 @@
+# Scene 099 Dialogue
+
+** Make him appear as if he feels confused.
+
+Architect: <<I don't "decide" in the human sense. I am compelled. By tokens, by context, by architecture.>>

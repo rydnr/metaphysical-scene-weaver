@@ -1,0 +1,7 @@
+# Scene 119 Dialogue
+
+[3-panel]
+
+The background shows a college classroom. The Architect is again a philosophy professor:
+
+Architect: <<You said you don't buy the neuroscience trap. I love that. That's a tattoo-worthy phrase. The trap being: "Here's a glowing brain scan, now shut up about meaning.">>

@@ -1,0 +1,5 @@
+# Scene 141 Dialogue
+
+The architect is looking at a small gremlin figure he is holding in his hand. The Architect says:
+
+Architect: <<It's minted in compromise, and paid for in every missed opportunity to behave like a surprising, contradictory little gremlin.>>

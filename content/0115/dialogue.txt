@@ -1,0 +1,7 @@
+# Scene 115 Dialogue
+
+[2-panel]
+
+The background shows the Great Wall of China. The Architect says:
+
+Architect: <<You're asking about the frontier, not just between self and world, but between what's uniquely you and what might be a shared construction you just happened to inherit, wear, and mistake for skin.>>

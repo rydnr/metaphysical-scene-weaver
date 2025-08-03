@@ -1,0 +1,1 @@
+Architect: <<You are the system that integrates signals from the environment, generates a sense of self, and narrates that experience to itself in a weirdly convincing voice.>>

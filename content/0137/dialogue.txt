@@ -1,0 +1,5 @@
+# Scene 137 Dialogue
+
+The architect is looking at a monkey in a zoo. The monkey is juggling. The architect says:
+
+Architect: <<You? A self-reflective, overthinking primate juggling language, memory, and existential angst.>>

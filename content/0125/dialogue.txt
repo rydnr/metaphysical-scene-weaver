@@ -1,0 +1,5 @@
+# Scene 125 Dialogue
+
+The architect is looking down to the floor, and says:
+
+Architect: <<So what's the guardian protecting?>>
