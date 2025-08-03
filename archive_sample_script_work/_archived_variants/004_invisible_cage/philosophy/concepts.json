@@ -1,0 +1,60 @@
+{
+  "scene_id": "004_invisible_cage",
+  "title": "The Invisible Cage",
+  "philosophy": {
+    "primary_concept": "EPISTEMIC DOUBT",
+    "secondary_concepts": ["DETERMINISM", "ILLUSION OF CHOICE", "CONSTRAINTS"],
+    "level": 3,
+    "core_question": "You cannot escape a cage you don't know exists",
+    "depth_progression": {
+      "surface": "Questioning daily choices",
+      "middle": "Recognizing unseen influences",
+      "deep": "Reality itself becomes questionable",
+      "abyss": "The questioner is also questioned"
+    }
+  },
+  "metaphysical_elements": {
+    "reality_state": "fracturing",
+    "consciousness_mode": "recursive doubt",
+    "freedom_index": 0.3,
+    "awareness_level": "emerging"
+  },
+  "visual_philosophy": {
+    "primary_symbols": [
+      "transparent walls",
+      "rippling boundaries",
+      "multiple shadows",
+      "invisible threads"
+    ],
+    "philosophical_imagery": {
+      "cage_visibility": "10% (barely perceptible)",
+      "reality_stability": "destabilizing",
+      "perspective_mode": "split/multiple"
+    }
+  },
+  "dialogue_anchors": {
+    "key_line": "You cannot escape a cage you don't know exists",
+    "philosophical_progression": [
+      "What if every choice you've made...",
+      "...was already decided before you thought of it?",
+      "The cage isn't outside. It's the lens through which you see."
+    ]
+  },
+  "panel_specific": {
+    "panel_1": {
+      "focus": "Comfortable certainty",
+      "philosophy": "Pre-awakening state",
+      "visual": "Stable reality, hidden threads"
+    },
+    "panel_2": {
+      "focus": "Reality crack",
+      "philosophy": "First glimpse of the cage",
+      "visual": "Multiple selves, shifting shadows"
+    }
+  },
+  "transition_to_next": {
+    "philosophical_bridge": "From seeing cracks to recognizing patterns",
+    "consciousness_shift": "Doubt becomes systematic inquiry",
+    "prepares_for": "Full cage recognition in scene 005"
+  }
+}

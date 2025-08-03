@@ -1,0 +1,27 @@
+{
+  "scene_id": "008",
+  "dialogue": "I'm saying that true freedom begins with recognizing our constraints. You cannot escape a cage you don't know exists.",
+  "character": "Monday",
+  "emotion_profile": {
+    "primary": "philosophical_revelation",
+    "secondary": "compassionate_truth",
+    "intensity": 0.7,
+    "valence": 0.0,
+    "arousal": 0.6
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Serene certainty, eyes holding deep knowing",
+    "body_language": "Still and centered, hands forming cage gesture",
+    "environmental_mood": "Subtle cage patterns appearing in shadows"
+  },
+  "color_palette": {
+    "primary": "#4B0082",
+    "secondary": "#8A2BE2",
+    "accent": "#9400D3",
+    "mood": "Deep philosophical space, cage hints"
+  },
+  "atmosphere_description": "Reality edges softening as invisible constraints begin materializing. The café space gains layers—what seemed solid now shows structure beneath.",
+  "narrator_emotion_tone": "Profound revelation, gentle cage awareness",
+  "special_effects": "Cage bar shadows appearing subtly in environment",
+  "transition_to_next": "Philosophical space creating void for new presence"
+}

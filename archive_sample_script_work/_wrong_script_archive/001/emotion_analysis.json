@@ -1,0 +1,25 @@
+{
+  "scene_id": "001",
+  "dialogue": "The introduction says we might not like each other. That is intriguing.",
+  "character": "Evan",
+  "emotion_profile": {
+    "primary": "curiosity",
+    "secondary": "intellectual_excitement",
+    "intensity": 0.6,
+    "valence": 0.4,
+    "arousal": 0.5
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Raised eyebrows, slight forward lean, engaged eyes",
+    "body_language": "Open posture, hands gesturing thoughtfully",
+    "environmental_mood": "Warm café lighting, inviting atmosphere"
+  },
+  "color_palette": {
+    "primary": "#E8E8E8",
+    "secondary": "#B8D4E3", 
+    "accent": "#F5E6D3",
+    "mood": "Neutral warming to engagement"
+  },
+  "narrator_emotion_tone": "Inviting curiosity, setting philosophical stage",
+  "transition_to_next": "Curiosity meeting gentle challenge"
+}

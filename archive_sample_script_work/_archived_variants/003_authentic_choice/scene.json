@@ -1,0 +1,23 @@
+{
+  "scene_id": "003",
+  "script_reference": "[0003]",
+  "speaker": "Evan",
+  "dialogue": "But isn't the possibility of genuine dislike what makes authentic connection meaningful? Without risk, there's no real choice.",
+  "panel_count": 1,
+  "narrator_sections": ["choice_paradox"],
+  "philosophical_concept": "FREEDOM",
+  "philosophical_depth": 2,
+  "emotion": {
+    "primary": "philosophical_determination",
+    "intensity": 0.7,
+    "color_palette": ["#E74C3C", "#C0392B", "#D35400"]
+  },
+  "narrator_voice": "Provocateur",
+  "visual_metaphors": ["keys inside locks", "paths creating themselves"],
+  "sophia_narrator_text": "What if choice itself is the cage we're trying to escape?",
+  "metadata_tag": "philosophical stance on authenticity",
+  "transition_from_previous": {
+    "emotion_shift": 0.2,
+    "philosophy_maintained": true
+  }
+}

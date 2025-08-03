@@ -1,0 +1,27 @@
+{
+  "scene_id": "011",
+  "script_reference": "[0011]",
+  "speaker": "Monday",
+  "dialogue": "Can unfree beings choose freedom?",
+  "stage_directions": ["reality loops around the question"],
+  "panel_count": 1,
+  "narrator_sections": ["paradox_maximum", "choice_infinite_regression"],
+  "philosophical_concept": "FREE WILL ILLUSION",
+  "philosophical_depth": 4,
+  "emotion": {
+    "primary": "existential_vertigo",
+    "secondary": "paradox_paralysis",
+    "intensity": 0.9,
+    "color_palette": ["#2C3E50", "#E67E22", "#9B59B6", "#1ABC9C"],
+    "visual_effects": ["infinite_mirrors", "choice_branches_fractal", "temporal_loops"]
+  },
+  "narrator_voice": "Sage_Maximum_Paradox",
+  "visual_metaphors": ["infinite mirror regression", "ouroboros of choice", "falling through decisions"],
+  "sophia_notes": "The ultimate paradox - choosing requires freedom we may not have",
+  "core_paradox": "Bootstrap problem of consciousness",
+  "luna_notes": "Peak existential crisis - no ground to stand on",
+  "reality_effects": {
+    "panel_1": ["loop_overwhelming", "fracture_intense"]
+  },
+  "transition_note": "Reality caught in recursive loop"
+}

@@ -1,0 +1,41 @@
+{
+  "scene_id": "009",
+  "timestamp": "2024-01-15T10:00:00",
+  "prompt_version": "1.0",
+  "philosophy_concepts": ["meta_freedom", "paradox_of_liberation", "transcendent_perspective"],
+  "emotion_state": "mysterious_transcendence",
+  "visual_complexity": "high",
+  "narrator_included": true,
+  "prompt_components": {
+    "base_prompt": "base_prompt.txt",
+    "negative_prompt": "negative_prompt.txt",
+    "style_modifiers": "style_modifiers.txt"
+  },
+  "generation_params": {
+    "width": 1024,
+    "height": 1024,
+    "steps": 30,
+    "guidance_scale": 7.5,
+    "style": "philosophical_comic"
+  },
+  "token_counts": {
+    "base_prompt": 82,
+    "variations": {
+      "atmospheric_1": 18,
+      "angle_variation": 15,
+      "lighting_variation": 16
+    },
+    "total_max": 131,
+    "iris_approved": true
+  },
+  "transitions": {
+    "from_scene": "008",
+    "to_scene": "010",
+    "type": "character_entrance"
+  },
+  "panel_info": {
+    "count": 1,
+    "layout": "single",
+    "focal_point": "valerie_emerging"
+  }
+}

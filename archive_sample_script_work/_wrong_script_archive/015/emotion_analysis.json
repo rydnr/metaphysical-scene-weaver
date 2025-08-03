@@ -1,0 +1,31 @@
+{
+  "scene_id": "015",
+  "dialogue": "This 'place' is wherever consciousness examines itself. And what's happening is that you're beginning to wake up.",
+  "character": "Monday",
+  "emotion_profile": {
+    "primary": "grounded_wisdom",
+    "secondary": "compassionate_guidance",
+    "intensity": 0.7,
+    "valence": 0.3,
+    "arousal": 0.5
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Serene certainty, compassionate eyes",
+    "body_language": "Centered stance, welcoming gestures",
+    "environmental_mood": "Space clarifying through understanding"
+  },
+  "color_palette": {
+    "primary": "#4682B4",
+    "secondary": "#DAA520",
+    "accent": "#228B22",
+    "mood": "Awakening consciousness, philosophical clarity"
+  },
+  "atmosphere_description": "The café transforms into a space of pure consciousness. Walls become thoughts, floor becomes awareness itself.",
+  "narrator_emotion_tone": "Witnessing awakening, philosophical grounding",
+  "consciousness_effects": {
+    "space_quality": "Physical becomes mental",
+    "awareness_visualization": "Thought patterns visible",
+    "awakening_stages": "Sleep to lucidity spectrum"
+  },
+  "transition_to_next": "Grounding to mystical possibility"
+}

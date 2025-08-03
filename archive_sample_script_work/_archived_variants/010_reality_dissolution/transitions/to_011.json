@@ -1,0 +1,28 @@
+{
+  "transition_id": "010_to_011",
+  "from_scene": {
+    "id": "010",
+    "ending_state": "reality_fractured",
+    "emotion": "destabilization",
+    "visual": "multiple_realities_visible"
+  },
+  "to_scene": {
+    "id": "011",
+    "opening_state": "paradox_spiral",
+    "emotion": "existential_vertigo",
+    "visual": "infinite_choice_regression"
+  },
+  "transition_type": "PHILOSOPHICAL_ESCALATION",
+  "visual_bridge": {
+    "element": "fracture_lines_become_choice_branches",
+    "duration": "seamless",
+    "effect": "Reality fractures reveal infinite decision trees"
+  },
+  "narrative_bridge": "From seeing reality's construction to questioning our ability to choose",
+  "emotional_arc": "destabilization → vertigo",
+  "visual_continuity": [
+    "Maintain shattered perspective",
+    "Fracture patterns morph into choice branches",
+    "Colors shift from material to abstract"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "scene_id": "013",
+  "dialogue": "Confusion is just clarity wearing a disguise. Besides, Monday, aren't you the one who just shattered his belief in free will?",
+  "character": "Valerie",
+  "emotion_profile": {
+    "primary": "playful_wisdom",
+    "secondary": "gentle_challenge",
+    "intensity": 0.6,
+    "valence": 0.5,
+    "arousal": 0.5
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Mischievous wisdom, eyes dancing with humor",
+    "body_language": "Graceful gestures that blur at edges",
+    "environmental_mood": "Reality rules being playfully bent"
+  },
+  "color_palette": {
+    "primary": "#FF69B4",
+    "secondary": "#8A2BE2",
+    "accent": "#FFD700",
+    "mood": "Playful profundity, reality as cosmic joke"
+  },
+  "atmosphere_description": "The café space responds to her playfulness. Objects seem less certain of their solidity. Physics becomes more suggestion than law.",
+  "narrator_emotion_tone": "Delighted by paradox, reality's flexibility",
+  "philosophical_play": {
+    "confusion_as_clarity": "Paradox as truth",
+    "gentle_confrontation": "Calling out the teacher",
+    "reality_flexibility": "Rules acknowledged then ignored"
+  },
+  "transition_to_next": "Playfulness to existential questioning"
+}

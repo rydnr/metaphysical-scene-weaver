@@ -1,0 +1,46 @@
+{
+  "scene_id": "005_questioning_reality",
+  "philosophical_analysis": {
+    "primary_concept": "choice_paradox",
+    "secondary_concepts": ["freedom", "constraint", "self_reference"],
+    "depth_level": 3,
+    "school": "existentialism_meets_zen",
+    "keywords": ["automatons", "freedom", "illusion", "escape", "paradox"]
+  },
+  "narrator_guidance": {
+    "voice": "mystic_provocateur",
+    "tone": "paradox_embracing",
+    "opening": "Evan's frustration mirrors our own—caught between the need to be free and the suspicion that the need itself is the trap...",
+    "philosophical_insight": "The deepest cage is the one that convinces you to build it yourself, bar by comfortable bar, each routine a willing surrender to the known.",
+    "visual_guidance": "Show the paradox visually: the more Evan struggles against determinism, the more his movements seem choreographed.",
+    "closing_reflection": "Perhaps freedom isn't the absence of constraints, but the awareness of them—the first impossible step."
+  },
+  "visual_philosophy": {
+    "primary_symbols": [
+      "maze_dual_perspective",
+      "shadow_selves_multiplying",
+      "reality_fractures"
+    ],
+    "atmospheric_elements": {
+      "lighting": "impossible_light_sources",
+      "texture": "reality_fabric_tearing",
+      "movement": "predetermined_chaos"
+    },
+    "metaphorical_representation": "Evan seeing himself from outside while being inside",
+    "special_effects": {
+      "maze_view": "Simultaneous bird's eye and first-person perspective",
+      "shadow_selves": "Each showing a different choice path",
+      "reality_distortion": "M.C. Escher-like impossible geometries"
+    }
+  },
+  "concept_escalation": {
+    "from": "simple_determinism",
+    "through": "recognition_of_paradox",
+    "to": "meta_awareness_of_choosing_to_see_choice"
+  },
+  "philosophical_questions": [
+    "Can an unfree being choose freedom?",
+    "Is recognizing determinism a determined act?",
+    "Does the question create the questioner?"
+  ]
+}

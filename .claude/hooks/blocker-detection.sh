@@ -1,0 +1,1 @@
+/home/chous/work/metaphysical-scene-weaver/.claude/hooks/blocker-detection-hook.sh

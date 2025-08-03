@@ -1,0 +1,39 @@
+{
+  "scene_id": "012",
+  "script_reference": "[0012]",
+  "speaker": "Evan",
+  "dialogue": "The cage was never locked. You are the key.",
+  "stage_directions": ["touches the tree", "reality reconstructing", "physics breaking"],
+  "panel_count": 3,
+  "narrator_sections": ["awakening_cascade", "reality_reconstruction", "transcendence"],
+  "philosophical_concept": "TRANSCENDENT AWARENESS",
+  "philosophical_depth": 4,
+  "emotion": {
+    "primary": "breakthrough",
+    "secondary": "liberation_ecstasy",
+    "intensity": 1.0,
+    "color_palette": ["#F1C40F", "#3498DB", "#E74C3C", "#ECF0F1"],
+    "visual_effects": ["consciousness_explosion", "reality_rebuilding", "unity_dissolution"]
+  },
+  "narrator_voice": "All_Voices_Unity",
+  "visual_metaphors": ["tree becoming universe at touch", "reality rippling from contact point", "consciousness merging with infinite"],
+  "tree_transformation": {
+    "moment": "Evan's hand touches bark",
+    "effect": "Tree becomes cosmic neural network",
+    "physics": "Laws of nature visibly rewriting"
+  },
+  "sophia_notes": "The ultimate realization - we are both prisoner and key",
+  "climax_achievement": "Maximum philosophical and emotional peak",
+  "luna_notes": "Cathartic release - all tension resolves into understanding",
+  "reality_effects": {
+    "panel_1": ["transcend_moderate", "dissolve_moderate"],
+    "panel_2": ["transcend_intense", "loop_subtle", "dissolve_intense"],
+    "panel_3": ["transcend_overwhelming", "reality_reconstruction"]
+  },
+  "multi_panel_progression": {
+    "panel_1": "Realization dawning",
+    "panel_2": "Reality transforming", 
+    "panel_3": "Transcendent unity"
+  },
+  "transition_note": "Sets up denouement - what comes after awakening?"
+}

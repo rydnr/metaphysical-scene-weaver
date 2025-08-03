@@ -1,0 +1,14 @@
+{
+  "scene_number": "003",
+  "consolidated_from": {
+    "prompt": "003",
+    "narrator": "003_evan_authenticity",
+    "scene_description": "003",
+    "emotion": null,
+    "philosophy": null
+  },
+  "missing_content": [
+    "emotion",
+    "philosophy"
+  ]
+}

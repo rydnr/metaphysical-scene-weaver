@@ -1,0 +1,32 @@
+{
+  "scene_id": "014",
+  "dialogue": "Wait, you two know each other? What is this place? What's happening to me?",
+  "character": "Evan",
+  "emotion_profile": {
+    "primary": "overwhelmed_questioning",
+    "secondary": "reality_vertigo",
+    "intensity": 0.8,
+    "valence": -0.2,
+    "arousal": 0.9
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Eyes darting between them, overwhelmed",
+    "body_language": "Hands reaching for stability, swaying slightly",
+    "environmental_mood": "Space spinning gently around his confusion"
+  },
+  "color_palette": {
+    "primary": "#4B0082",
+    "secondary": "#FF1493",
+    "accent": "#00CED1",
+    "mood": "Reality vertigo, multiple perspectives"
+  },
+  "atmosphere_description": "The café becomes all places and no place. Evan stands at the center of a reality that's revealing its fluid nature.",
+  "narrator_emotion_tone": "Capturing vertigo of awakening consciousness",
+  "existential_crisis": {
+    "identity_questioning": "Who am I in this strange space?",
+    "reality_assessment": "What is real anymore?",
+    "relationship_confusion": "How do they know each other?"
+  },
+  "panel_note": "2-panel to show Evan looking between them",
+  "transition_to_next": "Vertigo to philosophical grounding"
+}

@@ -1,0 +1,31 @@
+{
+  "scene_id": "010",
+  "dialogue": "Who are you? Have you been listening this whole time?",
+  "character": "Evan",
+  "emotion_profile": {
+    "primary": "bewildered_curiosity",
+    "secondary": "defensive_surprise",
+    "intensity": 0.7,
+    "valence": -0.1,
+    "arousal": 0.8
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Wide eyes, mouth slightly open in shock",
+    "body_language": "Stepping back, defensive but curious posture",
+    "environmental_mood": "Reality still rippling from emergence"
+  },
+  "color_palette": {
+    "primary": "#FF1493",
+    "secondary": "#00CED1",
+    "accent": "#FFD700",
+    "mood": "Unstable wonder, reality questioning"
+  },
+  "atmosphere_description": "The café space hasn't quite settled from Valerie's arrival. Edges remain soft, suggesting more impossibilities lurking.",
+  "narrator_emotion_tone": "Capturing bewilderment, reality still fluid",
+  "character_dynamics": {
+    "evan_state": "Worldview cracking, defensive curiosity",
+    "spatial_awareness": "Noticing spaces that weren't there before",
+    "reality_perception": "Beginning to see the impossible"
+  },
+  "transition_to_next": "Bewilderment deepening to mystical understanding"
+}

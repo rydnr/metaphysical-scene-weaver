@@ -1,0 +1,61 @@
+{
+  "scene_id": "007_freedom_illusion",
+  "emotional_journey": {
+    "opening": {
+      "primary": "philosophical_frustration",
+      "intensity": 0.6,
+      "quality": "intellectual_impasse"
+    },
+    "development": {
+      "primary": "anticipatory_mystery",
+      "intensity": 0.65,
+      "quality": "reality_responding",
+      "secondary": ["curiosity", "unease"]
+    },
+    "climax": {
+      "primary": "emergence_preparation",
+      "intensity": 0.7,
+      "quality": "threshold_awareness"
+    }
+  },
+  "visual_emotions": {
+    "color_progression": {
+      "start": ["#708090", "#B0C4DE"],
+      "middle": ["#9370DB", "#8A2BE2"],
+      "end": ["#4B0082", "#6A0DAD"]
+    },
+    "emotional_particles": {
+      "frustration_dissolving": "rigid structures softening",
+      "mystery_building": "shadows gaining substance",
+      "anticipation_manifest": "air particles vibrating"
+    },
+    "atmospheric_emotions": {
+      "opening": "intellectual tension",
+      "middle": "reality becoming responsive",
+      "closing": "emergence imminent"
+    }
+  },
+  "character_emotions": {
+    "evan": {
+      "journey": "frustrated → intrigued → anticipatory",
+      "body_language": "tension releasing, leaning forward",
+      "internal_state": "paradigm preparing to shift"
+    },
+    "monday": {
+      "journey": "knowing → invoking → preparing",
+      "body_language": "still yet vibrant, channeling",
+      "internal_state": "midwife to emergence"
+    }
+  },
+  "liminal_emotions": {
+    "shadow_feelings": "playful anticipation",
+    "spatial_emotion": "reality holding its breath",
+    "threshold_quality": "pregnant pause",
+    "emergence_readiness": 0.85
+  },
+  "transition_emotions": {
+    "from_006": "liberation seeking new expression",
+    "to_008": "anticipation becoming recognition",
+    "emotional_momentum": "building toward manifestation"
+  }
+}

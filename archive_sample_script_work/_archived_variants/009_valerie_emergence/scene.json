@@ -1,0 +1,15 @@
+{
+  "scene_id": "009",
+  "script_reference": "[0009]",
+  "speaker": "Valerie",
+  "dialogue": "Perhaps the cage IS the belief that we need to escape anything at all.",
+  "stage_directions": ["emerges from shadows"],
+  "panel_count": 1,
+  "narrator_sections": ["pre_emergence", "post_introduction"],
+  "philosophical_weight": 0.9,
+  "emotional_intensity": 0.7,
+  "visual_complexity": "high",
+  "transition_type": "character_entrance",
+  "key_moment": true,
+  "narrator_opportunity": "Major character introduction needing atmospheric setup"
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "005",
+  "script_reference": "[0005]",
+  "speaker": "Evan",
+  "dialogue": "I... I thought it was. But now you're making me question everything.",
+  "stage_directions": ["steps back, looking uncertain"],
+  "panel_count": 1,
+  "narrator_sections": ["reality_breakdown", "choice_paradox"],
+  "philosophical_concept": "AWAKENING",
+  "philosophical_depth": 3,
+  "emotion": {
+    "primary": "uncertainty",
+    "secondary": "emerging_fear",
+    "intensity": 0.7,
+    "color_palette": ["#7F8C8D", "#E74C3C", "#2C3E50"],
+    "visual_effects": ["ground_shifting", "perspective_distortion", "multiple_realities"]
+  },
+  "narrator_voice": "Mystic",
+  "visual_metaphors": ["maze from above AND inside", "shadow selves", "fractured mirrors"],
+  "sophia_notes": "The moment of seeing the cage - walls becoming visible",
+  "core_paradox": "How can unfree beings choose freedom?",
+  "luna_notes": "Ground becomes unstable - reality no longer trustworthy"
+}

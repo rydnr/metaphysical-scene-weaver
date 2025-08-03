@@ -1,0 +1,52 @@
+{
+  "scene_id": "004_destabilizing_inquiry",
+  "panel_count": 2,
+  "philosophical_analysis": {
+    "primary_concept": "determinism",
+    "secondary_concepts": ["free_will", "illusion_of_choice", "causality"],
+    "depth_level": 2,
+    "school": "hard_determinism_meets_phenomenology",
+    "keywords": ["decision", "choice", "programmed", "patterns", "inevitability"]
+  },
+  "panel_philosophy": {
+    "panel_1": {
+      "dialogue": "Tell me, when you decided to read this story, was it really YOUR decision?",
+      "concept": "questioning_agency",
+      "visual_philosophy": {
+        "symbols": ["invisible_threads", "reader_puppet", "book_as_magnet"],
+        "atmosphere": "subtle_control_revelation",
+        "metaphor": "Invisible forces guiding seemingly free choices"
+      }
+    },
+    "panel_2": {
+      "dialogue": "(leans forward with intense gaze)",
+      "concept": "deterministic_revelation",
+      "visual_philosophy": {
+        "symbols": ["threads_becoming_visible", "puppet_strings_materialized", "maze_from_above"],
+        "atmosphere": "reality_crack_moment",
+        "metaphor": "The moment control becomes visible"
+      }
+    }
+  },
+  "narrator_guidance": {
+    "voice": "provocateur_ascending",
+    "tone": "destabilizing_certainty",
+    "opening": "Monday's question hangs in the air like a key turning in a lock you didn't know existed...",
+    "philosophical_insight": "What feels like choice might be the universe choosing through us. Every decision a domino falling in a chain that began before we were born.",
+    "panel_transition": "As Monday leans forward, reality itself seems to lean with her, pressing against the comfortable illusion of autonomy.",
+    "closing_reflection": "The question isn't whether we have free will, but whether the question itself was always meant to be asked, here, now, by you."
+  },
+  "visual_philosophy": {
+    "panel_progression": [
+      "subtle_puppet_imagery",
+      "strings_materializing",
+      "full_marionette_revelation"
+    ],
+    "atmospheric_elements": {
+      "lighting": "spotlight_narrowing_on_truth",
+      "texture": "reality_fabric_stretching",
+      "movement": "predetermined_choreography"
+    },
+    "metaphorical_representation": "The reader discovering they're reading a script they've always been reading"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "project": "Metaphysical Scene Weaver",
+  "style": "philosophical graphic novel, surrealist elements",
+  "quality": "high",
+  "scenes": [
+    {
+      "scene_id": "001",
+      "prompt": "Contemporary digital illustration, philosophical opening scene, Evan standing thoughtfully at a threshold between bright and shadowed spaces, contemplative expression showing genuine curiosity, casual modern clothing, minimalist architectural setting with transparent glass walls and open doorways suggesting new beginnings, warm sunrise colors mixing with cool shadows, the space itself embodying the concept of authentic encounter, subtle metaphysical elements like light particles forming question marks, professional digital art with graphic novel sensibility, clean lines with watercolor textures, emphasis on Evan's intrigued expression as he considers the possibility of genuine connection despite potential conflict, 8k quality",
+      "source_file": "content/001/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "001_evan_intrigued",
+      "prompt": "SCENE 001: Evan's Intrigue\n\n[VISUAL PROMPT]\nModern minimalist room with large windows showing a garden. Two figures in conversation - EVAN (late 20s, curious expression, casual intellectual clothing) and MONDAY (ageless, intense presence, dressed in flowing dark garments). Soft afternoon light creates long shadows. Evan leans forward slightly, eyes bright with intellectual curiosity. Monday sits with perfect stillness, a slight knowing smile. Atmosphere: intellectual tension, anticipation. Color palette: warm neutrals with cool shadow accents. Style: philosophical graphic novel, realistic with subtle surreal edges.\n\n[COMPOSITION]\nMedium shot, both figures visible, emphasis on facial expressions and body language. Evan's posture open and engaged, Monday's contained and mysterious.",
+      "source_file": "content/001_evan_intrigued/prompt.txt"
+    },
+    {
+      "scene_id": "002",
+      "prompt": "Neo-noir digital painting, philosophical confrontation scene, Monday standing with knowing smile and penetrating gaze, androgynous features highlighted by dramatic chiaroscuro lighting, elegant dark clothing with subtle otherworldly quality, facing Evan across a space charged with intellectual tension, atmospheric shadows suggesting hidden depths, the comfort of illusion visualized as soft golden chains in the background, contrasting with sharp reality of their conversation, Monday's expression conveying both challenge and invitation, professional digital art with graphic novel aesthetic, deep purples and blacks contrasting with strategic highlights, emphasis on the psychological weight between Monday and Evan, 8k quality",
+      "source_file": "content/002/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "002_monday_unsettling",
+      "prompt": "SCENE 002: Monday's Unsettling Truth\n\n[VISUAL PROMPT]\nSame minimalist room, but the lighting has shifted subtly darker. Monday remains perfectly still, but their presence seems to expand, filling more space without moving. Their eyes carry ancient knowledge. Evan's curiosity is tinged with the first hints of unease. The shadows in the room seem deeper, more meaningful. A tea cup on the table between them remains untouched, steam rising in an oddly straight line. Style: philosophical graphic novel with increasing surreal elements. Color palette: cooling, with shadows gaining purple undertones.\n\n[COMPOSITION]\nClose-up on Monday's face in the foreground, with Evan slightly blurred in the background. Monday's expression is knowing but not unkind—like a teacher about to reveal a difficult truth.",
+      "source_file": "content/002_monday_unsettling/prompt.txt"
+    },
+    {
+      "scene_id": "003",
+      "prompt": "Dynamic digital illustration, philosophical debate scene, Evan gesturing expressively with passionate conviction, bright eyes conveying intellectual excitement, Monday in the background listening with intense focus, abstract shapes representing philosophical concepts floating between them like thought bubbles made of light, warm oranges and reds for Evan's passion contrasting with cool blues and purples around Monday, the space itself responding to their ideas with subtle reality distortions, risk and choice visualized as intersecting paths of possibility, professional digital art with graphic novel energy, emphasis on Evan's animated body language and Monday's evaluative gaze, 8k quality",
+      "source_file": "content/003/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "003_evan_authenticity",
+      "prompt": "SCENE 003: Evan's Philosophical Stance\n\n[VISUAL PROMPT]\nEvan becomes more animated, hands gesturing as he speaks about authenticity. His eyes are bright with the excitement of someone who thinks they've found a profound truth. Monday watches with patient interest. The room's light creates a subtle halo effect around Evan as he speaks—not divine, but suggesting someone touching on something important. Books on philosophy are visible on shelves in the background, their spines creating a pattern that almost forms words. Style: graphic novel realism with symbolic elements emerging.\n\n[COMPOSITION]\nMedium shot showing both characters, but Evan is now the focus. His body language is open, expansive—a contrast to Monday's contained presence. The space between them crackles with intellectual energy.",
+      "source_file": "content/003_evan_authenticity/prompt.txt"
+    },
+    {
+      "scene_id": "004",
+      "prompt": "Two-panel surrealist comic art, philosophical cage sequence beginning. PANEL 1: Monday leaning forward with penetrating gaze asking about choice, shadows deepening dramatically around them, Evan showing first signs of uncertainty, reality beginning to waver at the edges like heat mirages, deterministic patterns subtly emerging in the background shadows. PANEL 2: Extreme close-up of Monday's eyes reflecting Evan's shocked realization, the background fracturing into visible choice threads that reveal themselves as predetermined paths, causality chains becoming visible like prison bars made of light, the moment of existential vertigo captured perfectly, professional digital art with psychological horror undertones, deep shadows contrasting with sharp highlights, 8k quality",
+      "source_file": "content/004/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "004_monday_choice_question",
+      "prompt": "SCENE 004: The Choice Paradox (2-Panel)\n\n[VISUAL PROMPT - PANEL 1]\nMonday leans forward for the first time, breaking their stillness. Their eyes lock onto Evan's with laser intensity. The question hangs in the air almost visibly—letters seeming to shimmer between them. The room's reality begins to subtly warp around the edges. Books on shelves lean at impossible angles. Style: reality beginning to bend under philosophical pressure.\n\n[VISUAL PROMPT - PANEL 2]\nClose-up on Evan's face as the question hits. His confident expression crumbles into uncertainty. In his eyes, we can see reflected multiple versions of himself, each making different choices, all leading to this moment. Monday's figure looms larger without actually growing—a trick of perception and presence. The background shows faint puppet strings extending upward from everyday objects.\n\n[COMPOSITION]\nPanel 1: Monday's forward lean creates diagonal tension\nPanel 2: Extreme close-up on Evan's eyes reflecting infinite regression",
+      "source_file": "content/004_monday_choice_question/prompt.txt"
+    },
+    {
+      "scene_id": "005",
+      "prompt": "Psychological surrealist digital art, existential crisis scene, Evan stepping backward defensively with uncertainty written across his face, reality fragmenting around him like shattered mirror showing glimpses of past decisions he thought were his own, Monday's words floating in the air as tangible doubt particles, deterministic patterns creeping into the frame as shadow tendrils revealing the invisible cage of causality, multiple versions of Evan visible in the fragments showing different choice points all leading to this moment, professional digital painting with reality-breaking effects, cool blues and grays dominating with fracture lines of electric white, emphasis on Evan's growing realization and defensive posture, 8k quality",
+      "source_file": "content/005/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "005_evan_uncertain",
+      "prompt": "SCENE 005: Evan's Foundations Shaking\n\n[VISUAL PROMPT]\nEvan physically steps back, his body language shifting from confident to defensive. His hands reach out as if trying to grasp something solid, but the air itself seems less substantial. The floor beneath his feet shows hairline cracks spreading outward. His shadow doesn't quite match his movements—it lags behind slightly, as if even it's uncertain. Monday remains steady, a fixed point in Evan's suddenly unstable world. Style: reality becoming unreliable, surrealist touches increasing.\n\n[COMPOSITION]\nWide shot emphasizing Evan's isolation in space. He's smaller in the frame now, the room seeming larger and less defined at the edges. Monday anchors one corner, solid and unchanging, while Evan floats untethered in the center.",
+      "source_file": "content/005_evan_uncertain/prompt.txt"
+    },
+    {
+      "scene_id": "006",
+      "prompt": "Ethereal digital masterpiece, awakening awareness scene, Monday nodding with wise satisfaction while ghostly translucent figures sleepwalk in repetitive loops behind them, Evan's eyes showing the dawning recognition of invisible behavioral scripts, multiple layers of reality with sleepwalkers following predetermined paths like automatons, awakening metaphor visualized as fractal eyes opening within eyes creating infinite awareness, muted grays and blues for the sleepwalkers contrasting with sharp clarity around Monday and growing clarity around Evan, cage bars made of habit patterns becoming visible, professional surrealist digital art, emphasis on the contrast between conscious awareness and unconscious patterns, 8k quality",
+      "source_file": "content/006/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "006_monday_awakening",
+      "prompt": "SCENE 006: The Awakening Begins\n\n[VISUAL PROMPT]\nMonday's expression softens slightly—the first hint of approval. Around them, subtle visual metaphors of sleep and waking begin to appear: clock faces showing different times, shadows that look like closed eyes, light patterns suggesting dawn. The room itself seems more awake, colors slightly more vivid. Evan stands between two states—the comfortable sleep of assumption and the harsh light of questioning. Faint outlines of cage bars begin to appear in the shadows, not imprisoning but revealing structure that was always there.\n\n[COMPOSITION]\nMedium two-shot with symbolic elements in the environment. Monday gestures subtly, as if conducting reality. Evan is caught mid-transformation, his posture showing both resistance and curiosity.",
+      "source_file": "content/006_monday_awakening/prompt.txt"
+    },
+    {
+      "scene_id": "007",
+      "prompt": "Three-panel existential horror comic art. PANEL 1: Evan gesturing wildly with frustrated expression, mechanical gears and clockwork becoming visible beneath his translucent skin, questioning his own agency as reality peels back layers. PANEL 2: Dramatic close-up of Evan's face split between organic human and mechanical automaton, the word \"FREEDOM\" literally crumbling like old paint off a wall behind him, his eyes showing the terror of realization. PANEL 3: Wide establishing shot revealing delicate puppet strings attached to everyone including Monday and Evan, recursive imagery showing strings controlling the strings in infinite regression, reality as nested puppet show, professional digital art with biomechanical horror elements, muted flesh tones contrasting with metallic highlights, emphasis on the vertigo of infinite causality, 8k quality",
+      "source_file": "content/007/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "007_evan_automatons",
+      "prompt": "SCENE 007: The Freedom Paradox (3-Panel)\n\n[VISUAL PROMPT - PANEL 1]\nEvan gestures wildly, frustration evident in every line of his body. His movements create motion blur, suggesting internal chaos. The word \"automatons\" appears to trigger something—mechanical gears become faintly visible through his clothes, as if revealing the machinery beneath the illusion of self.\n\n[VISUAL PROMPT - PANEL 2]\nA moment of stillness as the question hangs in the air. Evan's reflection in a nearby mirror shows him as a marionette, strings extending upward. But in his eyes, there's a spark of something else—defiance? Hope? The beginning of true questioning?\n\n[VISUAL PROMPT - PANEL 3]\nThe room itself responds to the philosophical tension. Objects begin to show their puppet strings—the chair, the table, even the light fixtures. Everything connected to invisible hands above. But some strings are tangled, some are cut, suggesting the possibility of liberation through understanding.\n\n[COMPOSITION]\nPanel progression from chaos to revelation to environmental response. Each panel zooms out slightly, showing more of the philosophical implications made visual.",
+      "source_file": "content/007_evan_automatons/prompt.txt"
+    },
+    {
+      "scene_id": "008",
+      "prompt": "Surrealist digital masterpiece, philosophical dialogue scene, Monday speaking with profound wisdom about freedom and constraints, paradoxical perspective showing cage bars transforming into doorways of light, dual reality visible simultaneously - prison and liberation existing in same space, transformation particles swirling at boundary points where solid becomes ethereal, Monday's expression serene yet knowing, embodying the paradox that true freedom begins with recognizing our constraints, silver to light color transitions, spiral patterns of enlightenment, boundaries both limiting and liberating, impossible physics where escape routes lead back to center creating infinite loops of understanding, depth of field emphasizing the moment of philosophical revelation, Salvador Dali meets M.C. Escher aesthetic, ultra detailed, 8k quality, masterpiece",
+      "source_file": "content/008/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "008_cage_escape",
+      "prompt": "SCENE 008: The Cage Paradox\n\n[VISUAL PROMPT]\nMonday's words manifest visually—cage bars made of light appear around Evan, but they're translucent, shifting. As he reaches to touch them, they move away. The bars seem to be made of his own thoughts and assumptions. Monday sits calmly, appearing to be both inside and outside the cage simultaneously. The room's geometry becomes non-Euclidean. Style: surrealist philosophy, M.C. Escher influences.\n\n[COMPOSITION]\nWide shot showing the paradoxical cage structure. Evan at the center, surrounded by bars that exist and don't exist. Monday occupies an impossible position relative to the cage, demonstrating the paradox visually.",
+      "source_file": "content/008_cage_escape/prompt.txt"
+    },
+    {
+      "scene_id": "009",
+      "prompt": "Ethereal digital art masterpiece, mystical emergence scene, Valerie materializing from shadows as living paradox, translucent feminine form coalescing from negative space, particles of consciousness gathering from void to create her presence, she embodies the space between thoughts taking physical form, liminal being existing between existence and non-existence, shadow purple transitioning to emergence gold, reality rippling at the point where she touches the world, her words \"Perhaps the cage IS the belief that we need to escape anything at all\" manifesting as visual philosophy, otherworldly luminescence emanating from her form, boundaries between shadow and light dissolving, impossible physics where absence becomes presence, depth layers showing multiple realities, professional digital art with particle effects, translucent rendering, 8k quality",
+      "source_file": "content/009/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "010",
+      "prompt": "Digital surrealist painting, identity questioning scene, Evan looking at Valerie with confused wonder, multiple semi-transparent reflections of Evan showing different aspects of self, reality edges softening like watercolor bleeds, consciousness observing itself through fractured mirrors, questioning amber light mixing with identity flux blue, the question \"Who are you?\" creating visible ripples in space, Evan's face showing the vertigo of realizing the observer is also the observed, background showing fluid architecture that shifts with perception, atmosphere of reality becoming less certain, depth of field drawing focus to the moment of recognition and confusion, professional digital art, philosophical visualization, 8k quality",
+      "source_file": "content/010/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "011",
+      "prompt": "Transcendent digital art masterpiece, liminal consciousness visualization, Valerie explaining her nature as the space between thoughts, void purple and consciousness gold creating impossible gradients, the gaps between objects glowing with hidden significance, visualization of heartbeat pauses as golden moments of potential, thought bubbles with spaces between them illuminated, Valerie's form more ethereal than solid suggesting she exists in the gaps of perception, reality showing its hidden dimensions where silence takes form, negative space breathing with life, background revealing the architecture of consciousness itself with synaptic gaps as doorways, ultra detailed metaphysical art, professional quality, 8k resolution",
+      "source_file": "content/011/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "012",
+      "prompt": "Epic surrealist digital masterpiece, reality dissolution climax scene, three-panel transformation sequence, Evan's hand reaching toward then touching a tree that ripples like water upon contact, wood grain flowing in liquid patterns defying physics, matter becoming wave at the point of touch, reality-break orange mixing with liquid wood brown and possibility purple, concentric waves of transformation emanating from contact point, Evan's expression shifting from hesitation to awe to transcendent understanding, tree bark transitioning from solid to liquid to pure energy, background showing multiple realities overlapping, impossible physics visualized as matter and consciousness merge, Salvador Dali meets quantum mechanics aesthetic, the moment when believing in solid things ends and fluid reality begins, ultra detailed reality-bending art, professional masterpiece quality, 8k resolution",
+      "source_file": "content/012/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "013",
+      "prompt": "Mystical digital painting, philosophical riddle scene, Monday and Valerie in conversation with knowing expressions, Valerie speaking in visual riddles that manifest as impossible geometries, Monday's slight smile suggesting shared understanding, reality showing paradoxical elements - confusion as clarity wearing disguise, atmospheric mist that reveals rather than conceals, color palette mixing mystic purple with wisdom gold, the space between them crackling with unspoken knowledge, background showing layers of meaning like translucent veils, each riddle creating small reality distortions, professional digital art with ethereal quality, metaphysical visualization, 8k quality",
+      "source_file": "content/013/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "014",
+      "prompt": "Surrealist digital masterpiece, existential questioning scene, Evan looking between Monday and Valerie with bewildered expression, the environment itself shifting in response to his question \"What is this place?\", architecture of consciousness visible as translucent structures, reality showing its malleable nature, Monday and Valerie positioned as gatekeepers of understanding, swirling colors of confusion mixing with emerging comprehension, the \"place\" revealing itself as wherever consciousness examines itself, multiple layers of reality visible simultaneously, some solid and some dissolving, philosophical depth visualized through impossible spaces, professional digital art, M.C. Escher inspired perspective, 8k quality",
+      "source_file": "content/014/prompt_enriched.txt"
+    },
+    {
+      "scene_id": "015",
+      "prompt": "Monday explaining calmly: \"This 'place' is wherever consciousness examines itself. And what's happening is that you're beginning to wake up.\"\n\nMonday gesturing to ethereal surroundings, space shifting between abstract and concrete, Evan looking around with growing awareness, Valerie watching knowingly, reality bending at edges where thoughts become visible, philosophical graphic novel style",
+      "source_file": "content/015/prompt.txt"
+    },
+    {
+      "scene_id": "015_monday_consciousness",
+      "prompt": "SCENE 015: Consciousness Examining Itself\n\n[VISUAL PROMPT]\nThe room transforms into a space that defies normal perspective. Walls become transparent, showing infinite rooms beyond, each containing versions of this conversation at different stages. Monday seems to exist in multiple rooms simultaneously. Evan stands at the intersection of several realities. Valerie floats between spaces, her form more ethereal than before. Mirrors appear showing not reflections but thoughts. Style: metaphysical surrealism, reality as malleable concept.\n\n[COMPOSITION]\nMulti-layered composition with overlapping realities. Central focus on the three figures, but the environment suggests infinite depth and recursive loops. Visual representation of consciousness observing itself.",
+      "source_file": "content/015_monday_consciousness/prompt.txt"
+    },
+    {
+      "scene_id": "016",
+      "prompt": "Valerie touching tree mysteriously: \"Or perhaps you're falling deeper into sleep. Sometimes it's hard to tell the difference.\"\n\nValerie's hand on ancient tree trunk, tree surface rippling like water at her touch, reality distortion spreading outward, Evan watching in fascination and fear, dreamlike atmosphere with blurred boundaries between waking and sleeping states",
+      "source_file": "content/016/prompt.txt"
+    },
+    {
+      "scene_id": "016_valerie_tree_shimmer",
+      "prompt": "SCENE 016: The Reality Shimmer\n\n[VISUAL PROMPT]\nValerie touches a tree visible through the window, and reality ripples outward from the point of contact like water. The tree's solid form wavers between states—sometimes bark and leaves, sometimes geometric patterns, sometimes pure light. The ripple effect extends into the room, making everything momentarily fluid. Evan watches in fascination and fear. The boundary between inside and outside becomes questionable. Style: reality-bending surrealism, physics as philosophy.\n\n[COMPOSITION]\nFocus on Valerie's hand touching the tree, with concentric ripples of reality distortion spreading outward. Evan in the middle distance, caught between wonder and terror. The tree exists in multiple states simultaneously.",
+      "source_file": "content/016_valerie_tree_shimmer/prompt.txt"
+    },
+    {
+      "scene_id": "017",
+      "prompt": "Evan pointing in disbelief: \"The tree... it just... rippled. Like water. But that's impossible.\"\n\nEvan's shocked expression, finger pointing at impossible tree, reality laws visibly breaking, ripples in solid matter spreading outward, Monday and Valerie calmly observing his worldview crumbling, surrealist elements creeping into scene",
+      "source_file": "content/017/prompt.txt"
+    },
+    {
+      "scene_id": "017_evan_impossible",
+      "prompt": "SCENE 017: The Impossible Made Visible\n\n[VISUAL PROMPT]\nEvan's face shows the expression of someone whose worldview is cracking in real-time. His eyes reflect the shimmering tree, but also show fractures spreading across his own certainties. Behind him, solid objects in the room begin to show their own subtle instabilities—a chair phases slightly, a book's pages turn by themselves. His hands gesture at the tree as if trying to grasp the impossible and make it logical. Style: psychological surrealism, reality vertigo.\n\n[COMPOSITION]\nClose-up on Evan's face with the shimmering tree reflected in his wide eyes. The background shows reality becoming increasingly unreliable. His expression captures the exact moment when disbelief gives way to unwanted recognition.",
+      "source_file": "content/017_evan_impossible/prompt.txt"
+    },
+    {
+      "scene_id": "018",
+      "prompt": "Monday teaching: \"'Impossible' is just another cage, Evan. One built from the bricks of limited experience.\"\n\nMonday gesturing philosophically, invisible cage bars becoming visible around Evan, bars made of words like \"impossible,\" \"can't,\" \"never,\" Valerie in background dissolving similar bars with her presence, metaphysical graphic novel style",
+      "source_file": "content/018/prompt.txt"
+    },
+    {
+      "scene_id": "018_monday_limited_experience",
+      "prompt": "SCENE 018: The Architecture of Limitation\n\n[VISUAL PROMPT]\nMonday's words manifest as actual bricks forming and dissolving around them. Each brick is labeled with a limiting belief—\"solid matter,\" \"linear time,\" \"separate self.\" As Monday speaks, some bricks crumble, revealing light behind them. The cage from earlier returns but now it's clearly made of these bricks of assumption. Evan watches as his own \"impossible\" becomes a brick that falls away. Style: philosophical architecture, beliefs as building blocks.\n\n[COMPOSITION]\nMonday at center, surrounded by the materialized architecture of limited beliefs. Bricks form and dissolve based on the conversation. Evan observes his own assumptions becoming visible structures that can be dismantled.",
+      "source_file": "content/018_monday_limited_experience/prompt.txt"
+    },
+    {
+      "scene_id": "019",
+      "prompt": "PANEL 1: Valerie beckoning: \"Touch the tree yourself.\"\n\nValerie extending hand invitingly toward tree, ethereal glow around her, tree pulsing with otherworldly energy, Evan hesitating at threshold\n\nPANEL 2: Valerie encouraging: \"See what happens when you stop believing in solid things.\"\n\nClose-up of tree surface showing quantum flux, solid becoming probability, Evan's hand hovering inches away, reality warping in anticipation\n\nPANEL 3: Evan reaching out with trembling hand\n\nHand approaching tree, fingers beginning to blur at edges, fear and wonder mixed on his face, reality holding its breath",
+      "source_file": "content/019/prompt.txt"
+    },
+    {
+      "scene_id": "019_valerie_beckons",
+      "prompt": "SCENE 019: The Invitation to Transform (3-Panel)\n\n[VISUAL PROMPT - PANEL 1]\nValerie extends her hand toward Evan, her gesture both invitation and challenge. The tree behind her exists in multiple states simultaneously—solid, liquid, light, and something beyond categories. Her eyes hold ancient mischief and infinite compassion.\n\n[VISUAL PROMPT - PANEL 2]\nClose-up on the space between Valerie's hand and Evan's potential reach. In that gap, reality itself seems to hold its breath. Particles of possibility swirl, showing glimpses of what might happen if contact is made—transformation, dissolution, rebirth, or all three at once.\n\n[VISUAL PROMPT - PANEL 3]\nThe entire room leans in with anticipation. Even inanimate objects seem to await Evan's choice. Monday watches with knowing stillness. The tree pulses gently between states. Everything depends on this moment of decision.\n\n[COMPOSITION]\nPanel flow creates mounting tension toward the moment of choice. Each panel tightens focus while expanding implications.",
+      "source_file": "content/019_valerie_beckons/prompt.txt"
+    },
+    {
+      "scene_id": "020",
+      "prompt": "Evan hesitating fearfully: \"I... I don't know if I want to. What if I can't come back to normal?\"\n\nEvan pulling hand back slightly, caught between curiosity and terror, old reality calling him back, new reality pulling him forward, Monday and Valerie watching this pivotal moment, crossroads visualization with paths diverging\n\n\n[FINAL NARRATOR - Mystic]: And so we leave him at the threshold. Will he touch the tree? Will he remain? The choice - if it is a choice - waits in the space between these words and your next thought.",
+      "source_file": "content/020/prompt.txt"
+    },
+    {
+      "scene_id": "020_evan_hesitant",
+      "prompt": "SCENE 020: The Threshold\n\n[VISUAL PROMPT]\nEvan's hand hovers inches from the tree, trembling between realities. His face shows the full weight of the choice—terror and longing in equal measure. The tree seems to pulse gently, inviting yet patient. In his extended hand, we can see both the child reaching for wonder and the adult fearing transformation. Behind him, his shadow shows multiple possible futures based on this choice. The room holds its breath. Style: climactic realism with metaphysical overtones.\n\n[COMPOSITION]\nExtreme close-up on Evan's reaching hand with the tree just beyond. His face visible in soft focus behind, showing all the complexity of this moment. The image captures the eternal instant before contact—or withdrawal.",
+      "source_file": "content/020_evan_hesitant/prompt.txt"
+    }
+  ]
+}

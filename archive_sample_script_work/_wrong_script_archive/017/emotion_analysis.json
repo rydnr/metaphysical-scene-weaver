@@ -1,0 +1,31 @@
+{
+  "scene_id": "017",
+  "dialogue": "The tree... it just... rippled. Like water. But that's impossible.",
+  "character": "Evan",
+  "emotion_profile": {
+    "primary": "shocked_wonder",
+    "secondary": "reality_disruption",
+    "intensity": 0.8,
+    "valence": 0.0,
+    "arousal": 0.9
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Eyes wide, mouth agape, disbelief",
+    "body_language": "Pointing shakily, stepping back",
+    "environmental_mood": "Reality laws visibly breaking"
+  },
+  "color_palette": {
+    "primary": "#FF4500",
+    "secondary": "#00FFFF",
+    "accent": "#FFD700",
+    "mood": "Reality shock, impossible made visible"
+  },
+  "atmosphere_description": "The ripple effect spreads beyond the tree. Other 'solid' objects begin questioning their own certainty.",
+  "narrator_emotion_tone": "Capturing the moment belief systems crack",
+  "reality_break_effects": {
+    "visual_impact": "Solid becoming fluid",
+    "cognitive_dissonance": "Mind rejecting what eyes see",
+    "expanding_effect": "One impossibility allowing others"
+  },
+  "transition_to_next": "Shock to philosophical teaching"
+}

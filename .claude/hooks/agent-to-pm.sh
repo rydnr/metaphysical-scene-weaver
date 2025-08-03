@@ -1,0 +1,1 @@
+/home/chous/work/metaphysical-scene-weaver/.claude/hooks/agent-to-pm-hook.sh

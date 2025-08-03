@@ -1,0 +1,14 @@
+{
+  "scene_number": "002",
+  "consolidated_from": {
+    "prompt": "002",
+    "narrator": "002_monday_unsettling",
+    "scene_description": "002",
+    "emotion": null,
+    "philosophy": null
+  },
+  "missing_content": [
+    "emotion",
+    "philosophy"
+  ]
+}

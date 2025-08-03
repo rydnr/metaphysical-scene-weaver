@@ -1,0 +1,25 @@
+{
+  "scene_id": "003",
+  "dialogue": "But isn't the possibility of genuine dislike what makes authentic connection meaningful? Without risk, there's no real choice.",
+  "character": "Evan",
+  "emotion_profile": {
+    "primary": "philosophical_conviction",
+    "secondary": "earnest_engagement",
+    "intensity": 0.7,
+    "valence": 0.5,
+    "arousal": 0.6
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Eyes brightening with realization, earnest expression",
+    "body_language": "Hands gesturing to emphasize points, leaning in",
+    "environmental_mood": "Light strengthening around Evan, warm conviction"
+  },
+  "color_palette": {
+    "primary": "#FFD700",
+    "secondary": "#4169E1",
+    "accent": "#DC143C",
+    "mood": "Building warmth and conviction"
+  },
+  "narrator_emotion_tone": "Affirming philosophical stance, witnessing awakening",
+  "transition_to_next": "Conviction meeting deeper challenge"
+}

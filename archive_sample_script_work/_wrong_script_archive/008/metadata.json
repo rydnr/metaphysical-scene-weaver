@@ -1,0 +1,14 @@
+{
+  "scene_number": "008",
+  "consolidated_from": {
+    "prompt": "008",
+    "narrator": "008_cage_escape",
+    "scene_description": "008",
+    "emotion": null,
+    "philosophy": null
+  },
+  "missing_content": [
+    "emotion",
+    "philosophy"
+  ]
+}

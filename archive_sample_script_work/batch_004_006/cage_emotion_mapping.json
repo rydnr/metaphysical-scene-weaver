@@ -1,0 +1,157 @@
+{
+  "batch_id": "cage_metaphor_004_006",
+  "philosophical_theme": "FREEDOM_AND_DETERMINISM",
+  
+  "emotion_philosophy_integration": {
+    "scene_004": {
+      "entry_id": "0004",
+      "philosophy": "CHOICE_ILLUSION",
+      "panel_type": "2-panel",
+      "emotion": {
+        "primary": "destabilizing_inquiry",
+        "intensity": 0.8,
+        "valence": -0.3,
+        "arousal": 0.8,
+        "description": "Reality-questioning challenge that shakes foundations"
+      },
+      "visual_atmosphere": {
+        "base_palette": ["#2F4F4F", "#483D8B", "#8B0000"],
+        "lighting": "Multiple contradictory sources, reality fragmenting",
+        "particles": "Certainty fragments breaking apart",
+        "spatial_quality": "Perspective warping, multiple viewpoints"
+      },
+      "visual_metaphors": {
+        "philosophical": ["Choice branching infinitely", "Puppet strings becoming visible", "Mirror maze"],
+        "emotional": ["Ground cracking", "Shadow selves multiplying", "Reality ripples"]
+      },
+      "special_effects": {
+        "monday_lean": "Space ripples from his movement",
+        "evan_shadows": "Multiple possible Evan's visible",
+        "reality_crack": "First visible fracture in certainty"
+      },
+      "prompt_emotion_layer": "[Emotion: destabilizing challenge, reality questioning] [Effects: space rippling, shadow multiplication, perspective fracture]"
+    },
+    
+    "transition_004_005": {
+      "duration": 2,
+      "emotion_shift": {
+        "from": "destabilizing_inquiry",
+        "to": "uncertainty_fear",
+        "intensity_delta": -0.1,
+        "valence_delta": -0.2
+      },
+      "visual_transition": {
+        "color_shift": "Deep blues fracturing into anxious purples",
+        "particle_evolution": "Fragments becoming fear particles",
+        "lighting_change": "Stable light sources failing",
+        "narrator_bridge": "The question hangs in air suddenly too thin to breathe"
+      }
+    },
+    
+    "scene_005": {
+      "entry_id": "0005",
+      "philosophy": "QUESTIONING_FOUNDATION",
+      "emotion": {
+        "primary": "uncertainty",
+        "secondary": "fear",
+        "intensity": 0.7,
+        "valence": -0.5,
+        "arousal": 0.7,
+        "description": "Ground falling away, identity questioning"
+      },
+      "visual_atmosphere": {
+        "base_palette": ["#4B0082", "#8B008B", "#9370DB"],
+        "lighting": "Unstable, flickering between states",
+        "particles": "Doubt wisps, fear fragments",
+        "spatial_quality": "Floor transparency increasing"
+      },
+      "visual_metaphors": {
+        "philosophical": ["Foundations dissolving", "Identity blur", "Choice echoes"],
+        "emotional": ["Vertigo visualization", "Anchor points vanishing", "Safety dissolving"]
+      },
+      "prompt_emotion_layer": "[Emotion: deep uncertainty, existential fear] [Effects: ground transparency, identity blur, flickering reality]"
+    },
+    
+    "transition_005_006": {
+      "duration": 3,
+      "emotion_shift": {
+        "from": "uncertainty_fear",
+        "to": "serene_wisdom",
+        "intensity_delta": -0.1,
+        "valence_delta": 0.4
+      },
+      "visual_transition": {
+        "color_shift": "Anxious purples settling to wise blues",
+        "particle_evolution": "Fear fragments becoming understanding",
+        "lighting_change": "Chaos finding pattern",
+        "narrator_bridge": "In accepting uncertainty, a strange peace emerges"
+      }
+    },
+    
+    "scene_006": {
+      "entry_id": "0006",
+      "philosophy": "CAGE_RECOGNITION",
+      "emotion": {
+        "primary": "serene_wisdom",
+        "secondary": "bittersweet_acceptance",
+        "intensity": 0.6,
+        "valence": 0.1,
+        "arousal": 0.4,
+        "description": "Calm recognition of invisible constraints"
+      },
+      "visual_atmosphere": {
+        "base_palette": ["#4682B4", "#5F9EA0", "#D2691E"],
+        "lighting": "Soft revelation light, philosophical shadows",
+        "particles": "Cage bars materializing gently",
+        "spatial_quality": "Structure becoming visible"
+      },
+      "visual_metaphors": {
+        "philosophical": ["Cage bars as thought patterns", "Freedom within constraints", "Awakening stairs"],
+        "emotional": ["Peaceful acceptance", "Bittersweet understanding", "Gentle revelation"]
+      },
+      "cage_visualization": {
+        "appearance": "Subtle environmental patterns",
+        "material": "Made of beliefs and assumptions",
+        "interaction": "Can be seen but not yet escaped"
+      },
+      "prompt_emotion_layer": "[Emotion: serene wisdom, bittersweet acceptance] [Effects: cage patterns emerging, soft revelation light, philosophical shadows]"
+    }
+  },
+  
+  "cage_metaphor_progression": {
+    "scene_004": "Cage invisible, reality stable",
+    "scene_005": "Reality unstable, cage forming",
+    "scene_006": "Cage visible, acceptance beginning"
+  },
+  
+  "batch_quality_metrics": {
+    "emotional_coherence": {
+      "scene_transitions": "dramatic but logical",
+      "intensity_variance": 0.2,
+      "philosophical_alignment": 0.96
+    },
+    "visual_consistency": {
+      "cage_evolution": "progressive revelation",
+      "reality_stability": "decreasing then stabilizing",
+      "metaphor_strength": 0.94
+    }
+  },
+  
+  "narrator_guidelines": {
+    "scene_004": {
+      "tone": "provocative_challenger",
+      "voice": "reality questioner",
+      "key_line": "When choice meets its mirror, which reflection chooses?"
+    },
+    "scene_005": {
+      "tone": "vertiginous_observer",
+      "voice": "uncertainty narrator",
+      "key_line": "The ground was never solid, only persistently convincing"
+    },
+    "scene_006": {
+      "tone": "wise_teacher",
+      "voice": "gentle revealer",
+      "key_line": "The cage was always there, waiting to be noticed"
+    }
+  }
+}

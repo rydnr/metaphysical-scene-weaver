@@ -1,40 +1,29 @@
-# Metaphysical Scene Weaver
+# Metaphysical Scene Weaver 🎭
 
-An AI-powered system for transforming philosophical dialogue scripts into rich visual graphic novel prompts.
+> Transform philosophical dialogue into vivid graphic novel scenes through AI-powered narrative intelligence
 
 ## Overview
 
-This project takes philosophical conversations (like the Evan/Monday/Valerie dialogue) and generates detailed visual prompts for each scene, capturing not just the literal action but the emotional, philosophical, and metaphorical layers.
+The Metaphysical Scene Weaver is an innovative system that bridges the gap between abstract philosophical concepts and visual storytelling. It analyzes screenplay-like scripts containing deep philosophical themes and generates rich, emotionally resonant visual prompts for graphic novel illustration.
 
-## Features
+## 🌟 Key Features
 
-- **Multi-layered Script Analysis**: Parses dialogue, stage directions, and metadata
-- **Philosophical Interpretation**: Identifies and visualizes abstract concepts
-- **Emotional Mapping**: Translates emotional states into visual elements
-- **Metaphor Translation**: Converts textual metaphors into visual symbols
-- **Character State Tracking**: Maintains consistency across scenes
-- **Seamless Integration**: Works with Semantest for automated image generation
+- **Philosophical Depth Analysis**: Extracts and interprets complex philosophical themes
+- **Emotional Mapping**: Converts abstract concepts into emotional visual landscapes
+- **Narrator Voice Integration**: Supports multiple narrative perspectives and tones
+- **Scene Transition Engine**: Maintains continuity across sequential scenes
+- **Quality Validation**: Ensures prompt coherence and artistic viability
+- **Batch Processing**: Optimized for large-scale scene generation
 
-## Project Structure
+## 📋 Requirements
 
-```
-metaphysical-scene-weaver/
-├── src/
-│   ├── core/              # Core components
-│   ├── processors/        # Script processing modules
-│   ├── integrations/      # External system integrations
-│   └── utils/            # Utility functions
-├── data/                 # Input data
-│   ├── characters/       # Character JSON files
-│   ├── places/          # Location JSON files
-│   └── scripts/         # Script files
-├── config/              # Configuration files
-├── tests/              # Test suite
-├── docs/               # Documentation
-└── output/             # Generated outputs
-```
+- Python 3.9+
+- GPU recommended for transformer models
+- 8GB+ RAM for optimal performance
 
-## Installation
+## 🚀 Quick Start
+
+### Installation
 
 ```bash
 # Clone the repository
@@ -46,40 +35,162 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
-
-# Install in development mode
 pip install -e .
 ```
 
-## Quick Start
+### Basic Usage
+
+```bash
+# Process a single script
+msw process scripts/sample_script.txt
+
+# Start the API server
+msw-server
+
+# Run with specific narrator voice
+msw process scripts/sample_script.txt --narrator contemplative
+```
+
+### Python API
 
 ```python
 from metaphysical_scene_weaver import SceneWeaver
 
 # Initialize the weaver
-weaver = SceneWeaver(
-    characters_file="data/characters/characters.json",
-    places_file="data/places/places.json",
-    style="comic book"
-)
+weaver = SceneWeaver()
 
 # Process a script
-results = weaver.process_script("data/scripts/evan_monday_dialogue.txt")
+result = weaver.process_script(
+    script_path="scripts/sample_script.txt",
+    narrator_voice="philosophical",
+    output_format="graphic_novel"
+)
 
-# Generate visual prompts
-for scene in results:
-    print(f"Scene {scene.id}: {scene.prompt}")
+# Access generated prompts
+for scene in result.scenes:
+    print(f"Scene {scene.id}: {scene.visual_prompt}")
 ```
 
-## Team Structure
+## 🏗️ Architecture
 
-See [TEAM.md](docs/TEAM.md) for details about the development team structure.
+```
+metaphysical-scene-weaver/
+├── src/
+│   ├── core/                 # Core processing engines
+│   │   ├── script_parser.py  # Script analysis
+│   │   ├── scene_weaver.py   # Main orchestration
+│   │   └── quality_validator.py
+│   ├── processors/           # Specialized processors
+│   │   ├── emotional_mapper.py
+│   │   ├── philosophical_interpreter.py
+│   │   └── metaphor_translator.py
+│   ├── api/                  # REST API & WebSocket
+│   │   ├── server.py
+│   │   └── transition_engine.py
+│   └── integrations/         # External services
+│       └── semantest_client.py
+├── content/                  # Generated content
+├── tests/                    # Test suite
+└── docs/                     # Documentation
+```
 
-## Contributing
+## 🎯 Core Components
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+### 1. Script Parser
+Analyzes screenplay-format text to extract:
+- Character dialogue and actions
+- Scene transitions
+- Emotional beats
+- Philosophical concepts
 
-## License
+### 2. Philosophical Interpreter
+- Identifies philosophical themes and concepts
+- Maps abstract ideas to visual metaphors
+- Maintains conceptual consistency
 
-MIT License - see [LICENSE](LICENSE) file for details.
+### 3. Emotional Mapper
+- Translates philosophical concepts to emotional states
+- Creates mood progressions
+- Generates atmosphere descriptors
+
+### 4. Visual Prompt Generator
+- Synthesizes all analyses into coherent visual prompts
+- Optimizes for artist interpretation
+- Ensures technical feasibility
+
+### 5. Quality Validator
+- Checks prompt coherence
+- Validates emotional consistency
+- Ensures philosophical accuracy
+
+## 📚 Documentation
+
+- [API Guide](docs/API_GUIDE.md) - REST API reference
+- [Architecture](docs/ARCHITECTURE.md) - System design details
+- [Development Workflow](docs/DEVELOPMENT_WORKFLOW.md) - Contributing guide
+- [Narrator Style Guide](docs/NARRATOR_STYLE_GUIDE.md) - Voice options
+- [Quick Start Guide](docs/QUICK_START_GUIDE.md) - Detailed setup
+
+## 🧪 Testing
+
+```bash
+# Run all tests
+pytest
+
+# Run specific test categories
+pytest tests/unit/
+pytest tests/integration/
+pytest tests/e2e/
+
+# Run with coverage
+pytest --cov=src --cov-report=html
+```
+
+## 🐳 Docker Deployment
+
+```bash
+# Build the image
+docker build -t metaphysical-scene-weaver .
+
+# Run the container
+docker run -p 8000:8000 metaphysical-scene-weaver
+```
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+### Development Setup
+
+```bash
+# Install development dependencies
+pip install -e ".[dev]"
+
+# Run linters
+black src/ tests/
+ruff check src/ tests/
+mypy src/
+
+# Pre-commit hooks
+pre-commit install
+```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- The philosophical framework is inspired by works of Continental philosophy
+- Visual mapping techniques adapted from cognitive science research
+- Special thanks to the AI artist community for prompt engineering insights
+
+## 📞 Contact
+
+- **Project Lead**: [Your Name](mailto:your.email@example.com)
+- **Issues**: [GitHub Issues](https://github.com/yourusername/metaphysical-scene-weaver/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/metaphysical-scene-weaver/discussions)
+
+---
+
+*"Where philosophy meets visual narrative"* 🎨✨

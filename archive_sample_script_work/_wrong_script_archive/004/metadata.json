@@ -1,0 +1,14 @@
+{
+  "scene_number": "004",
+  "consolidated_from": {
+    "prompt": "004",
+    "narrator": "004_monday_choice_question",
+    "scene_description": "004",
+    "emotion": null,
+    "philosophy": null
+  },
+  "missing_content": [
+    "emotion",
+    "philosophy"
+  ]
+}

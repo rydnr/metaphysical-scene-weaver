@@ -1,0 +1,23 @@
+{
+  "scene_id": "006",
+  "script_reference": "[0006]",
+  "speaker": "Monday",
+  "dialogue": "Good. Questioning is the first step toward awakening. Most people sleepwalk through their choices, following patterns programmed by circumstance.",
+  "panel_count": 1,
+  "narrator_sections": ["cage_dissolution", "liberation_paradox"],
+  "philosophical_concept": "LIBERATION",
+  "philosophical_depth": 3,
+  "emotion": {
+    "primary": "serene_wisdom",
+    "secondary": "bittersweet_recognition",
+    "intensity": 0.6,
+    "color_palette": ["#3498DB", "#9B59B6", "#ECF0F1"],
+    "visual_effects": ["cage_dissolving", "light_through_bars", "boundary_illusion"]
+  },
+  "narrator_voice": "Sage_Mystic_Blend",
+  "visual_metaphors": ["prison bars melting into light", "cage as belief construct", "boundaries as illusion"],
+  "sophia_notes": "The cage IS the belief that we need to escape - ultimate paradox",
+  "meta_commentary": "on free will",
+  "luna_notes": "Emotional resolution through understanding - not escape but transcendence",
+  "transition_note": "Sets up Valerie's entrance as embodiment of this freedom"
+}

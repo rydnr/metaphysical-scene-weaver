@@ -1,0 +1,76 @@
+{
+  "scene_id": "004_invisible_cage",
+  "emotional_journey": {
+    "panel_1": {
+      "start": {
+        "emotion": "confident_curiosity",
+        "intensity": 0.5,
+        "quality": "intellectual_engagement"
+      },
+      "middle": {
+        "emotion": "creeping_doubt",
+        "intensity": 0.6,
+        "quality": "unsettled_questioning"
+      },
+      "end": {
+        "emotion": "philosophical_vertigo",
+        "intensity": 0.7,
+        "quality": "reality_questioning"
+      }
+    },
+    "panel_2": {
+      "start": {
+        "emotion": "destabilizing_inquiry",
+        "intensity": 0.8,
+        "quality": "reality_vertigo"
+      },
+      "peak": {
+        "emotion": "epistemic_shock",
+        "intensity": 0.85,
+        "quality": "foundation_shaking"
+      },
+      "end": {
+        "emotion": "terrible_clarity",
+        "intensity": 0.8,
+        "quality": "unwanted_awakening"
+      }
+    }
+  },
+  "visual_emotions": {
+    "color_progression": {
+      "panel_1": ["#4169E1", "#6495ED", "#FF6347"],
+      "panel_2": ["#FF4500", "#8B0000", "#4B0082"]
+    },
+    "emotional_particles": {
+      "doubt_manifestation": "shadowy wisps forming",
+      "fear_visualization": "invisible threads becoming visible",
+      "vertigo_effect": "reality ripples from center"
+    },
+    "atmospheric_emotions": {
+      "panel_1": "stability slowly dissolving",
+      "panel_2": "full reality fragmentation"
+    }
+  },
+  "character_emotions": {
+    "evan": {
+      "journey": "confident → unsettled → shaken",
+      "body_language": "leaning back, eyes widening",
+      "internal_state": "foundations crumbling"
+    },
+    "monday": {
+      "journey": "knowing → revealing → compassionate",
+      "body_language": "leaning forward, intense gaze",
+      "internal_state": "gentle destruction"
+    }
+  },
+  "reader_emotion": {
+    "intended_effect": "growing unease about own choices",
+    "fourth_wall_break": "questioning reading this very scene",
+    "meta_emotional_loop": "doubt about doubting"
+  },
+  "transition_emotions": {
+    "to_panel_2": "shock of recognition",
+    "to_scene_005": "desperate need to understand",
+    "emotional_momentum": "accelerating uncertainty"
+  }
+}

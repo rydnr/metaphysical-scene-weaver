@@ -1,0 +1,310 @@
+{
+  "summary": {
+    "total_scenes": 20,
+    "complete": 0,
+    "incomplete": 0,
+    "errors": 20
+  },
+  "details": [
+    {
+      "scene": "001",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 001/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/001/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/001/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/001/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/001/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "002",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 002/prompt_enriched.txt",
+        "narrator: 002_monday_unsettling/narrator.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/002/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/002/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "003",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 003/prompt_enriched.txt",
+        "narrator: 003_evan_authenticity/narrator.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/003/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/003/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "004",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 004/prompt_enriched.txt",
+        "narrator: 004_monday_choice_question/narrator.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/004/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/004/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "005",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 005/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/005/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/005/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/005/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/005/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "006",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 006/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/006/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/006/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/006/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/006/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "007",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 007/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/007/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/007/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/007/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/007/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "008",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 008/prompt_enriched.txt",
+        "narrator: 008_cage_escape/narrator.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/008/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/008/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "009",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 009/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "narrator",
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/009/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/009/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "010",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 010/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "narrator",
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/010/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/010/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "011",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 011/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "narrator",
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/011/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/011/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "012",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 012/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "narrator",
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/012/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/012/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "013",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 013/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/013/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/013/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/013/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/013/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "014",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 014/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/014/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/014/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/014/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/014/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "015",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 015/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/015/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/015/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/015/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/015/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "016",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 016/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/016/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/016/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/016/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/016/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "017",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 017/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/017/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/017/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/017/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/017/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "018",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 018/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/018/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/018/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/018/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/018/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "019",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 019/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/019/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/019/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/019/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/019/scene_description.txt') are the same file"
+      ]
+    },
+    {
+      "scene": "020",
+      "status": "partial",
+      "files_copied": [
+        "prompt: 020/prompt_enriched.txt"
+      ],
+      "missing_files": [
+        "emotion",
+        "philosophy"
+      ],
+      "errors": [
+        "Error copying narrator: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/020/narrator.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/020/narrator.txt') are the same file",
+        "Error copying scene_description: PosixPath('/home/chous/work/metaphysical-scene-weaver/content/020/scene_description.txt') and PosixPath('/home/chous/work/metaphysical-scene-weaver/content/020/scene_description.txt') are the same file"
+      ]
+    }
+  ]
+}

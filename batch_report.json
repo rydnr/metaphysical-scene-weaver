@@ -1,0 +1,11 @@
+{
+  "total_scenes": 3,
+  "total_variations": 12,
+  "average_tokens": 86.75,
+  "average_quality": 0.9666666666666665,
+  "token_efficiency": {
+    "target": 150,
+    "actual_avg": 86.75,
+    "under_target_percentage": 100.0
+  }
+}

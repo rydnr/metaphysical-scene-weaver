@@ -1,0 +1,28 @@
+{
+  "scene_id": "009",
+  "emotional_journey": {
+    "entry_point": {
+      "emotion": "intellectual_curiosity",
+      "intensity": 0.7,
+      "narrator_tone": "contemplative"
+    },
+    "peak": {
+      "emotion": "mysterious_transcendence",
+      "intensity": 0.9,
+      "narrator_tone": "mystical"
+    },
+    "exit_point": {
+      "emotion": "unsettled_wonder",
+      "intensity": 0.8,
+      "narrator_tone": "provocative"
+    }
+  },
+  "color_progression": {
+    "start": ["#2C3E50", "#34495E"],
+    "middle": ["#8B78E6", "#9B59B6"],
+    "end": ["#6C5CE7", "#A29BFE"]
+  },
+  "visual_mood": "liminal_mysterious",
+  "emotion_quality_score": 0.88,
+  "luna_notes": "Valerie's entrance marks shift from intellectual to mystical"
+}

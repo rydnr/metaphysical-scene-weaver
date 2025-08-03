@@ -1,0 +1,28 @@
+{
+  "scene_id": "010",
+  "script_reference": "[0010]",
+  "speaker": "Valerie",
+  "dialogue": "Reality isn't what you think it is. It never was.",
+  "stage_directions": ["ethereal presence", "reality warping around her"],
+  "panel_count": 2,
+  "narrator_sections": ["reality_fracture", "perception_collapse"],
+  "philosophical_concept": "REALITY AS CONSTRUCT",
+  "philosophical_depth": 4,
+  "emotion": {
+    "primary": "destabilization",
+    "secondary": "awe_terror",
+    "intensity": 0.8,
+    "color_palette": ["#8E44AD", "#E74C3C", "#34495E", "#F39C12"],
+    "visual_effects": ["reality_fractures", "perspective_splits", "dimension_bleeding"]
+  },
+  "narrator_voice": "Mystic_Provocateur_Blend",
+  "visual_metaphors": ["mirror maze shattering", "reality peeling like paint", "multiple worlds overlapping"],
+  "sophia_notes": "The ultimate revelation - reality itself is the cage",
+  "meta_commentary": "on perception and construction of reality",
+  "luna_notes": "Maximum destabilization - ground becomes meaningless",
+  "reality_effects": {
+    "panel_1": ["fracture_moderate", "dissolve_subtle"],
+    "panel_2": ["fracture_intense", "dissolve_moderate"]
+  },
+  "transition_note": "Valerie's presence causes reality breakdown"
+}

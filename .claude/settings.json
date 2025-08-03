@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": ["Write", "MultiEdit", "Edit", "Bash"],
+    "deny": []
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/chous/work/metaphysical-scene-weaver/.claude/hooks/all-to-scribe.sh"
+          },
+          {
+            "type": "command", 
+            "command": "/home/chous/work/metaphysical-scene-weaver/.claude/hooks/agent-to-pm.sh"
+          },
+          {
+            "type": "command",
+            "command": "/home/chous/work/metaphysical-scene-weaver/.claude/hooks/blocker-detection.sh"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matchers": ["Write", "Edit", "MultiEdit", "Bash"],
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/chous/work/metaphysical-scene-weaver/.claude/hooks/tool-usage-to-pm.sh"
+          },
+          {
+            "type": "command",
+            "command": "/home/chous/work/metaphysical-scene-weaver/.claude/hooks/tool-usage-to-scribe.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

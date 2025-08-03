@@ -1,0 +1,178 @@
+{
+  "batch_id": "cage_metaphor_004_006",
+  "philosophical_theme": "FREEDOM_AND_DETERMINISM",
+  "emotion_driven_prompts": {
+    
+    "scene_004_destabilizing_inquiry": {
+      "entry_id": "0004",
+      "primary_emotion": "destabilizing_inquiry",
+      "intensity": 0.8,
+      
+      "prompt_variations": [
+        {
+          "variation_id": "v1_reality_fracture",
+          "prompt": "[Style: Philosophical surrealism] [Composition: Space warping around leaning figure] [Subject: Monday leaning in as reality ripples outward] [Emotion: destabilizing challenge, reality questioning] [Effects: perspective fractures, multiple Evan shadows, space rippling] [Lighting: Multiple contradictory sources] [Quality: unsettling clarity]",
+          "emotion_focus": "reality_questioning",
+          "visual_metaphor": "fractured_certainty",
+          "token_count": 68
+        },
+        {
+          "variation_id": "v2_choice_illusion",
+          "prompt": "[Style: Dark metaphysical art] [Composition: Branching paths revealing puppet strings] [Subject: Evan surrounded by infinite choices leading nowhere] [Emotion: philosophical vertigo, dawning horror] [Effects: choice branches multiplying, strings materializing] [Colors: Deep blues fracturing to anxious reds] [Quality: hypnotic unease]",
+          "emotion_focus": "choice_paralysis",
+          "visual_metaphor": "infinite_cage",
+          "token_count": 65
+        },
+        {
+          "variation_id": "v3_mirror_maze",
+          "prompt": "[Style: Existential horror elegance] [Composition: Recursive reflections showing different Evans] [Subject: Mirror maze where each reflection acts differently] [Emotion: identity fragmentation, destabilizing multiplicity] [Effects: reality cracks spreading, shadow multiplication] [Quality: beautiful terror]",
+          "emotion_focus": "identity_dissolution",
+          "visual_metaphor": "self_fragmentation",
+          "token_count": 58
+        },
+        {
+          "variation_id": "v4_ground_cracking",
+          "prompt": "[Style: Surrealist philosophy] [Composition: Foundation literally cracking under feet] [Subject: Cafe floor becoming transparent, revealing abyss] [Emotion: foundational doubt, vertigo of understanding] [Effects: certainty fragments floating, perspective warping] [Lighting: Stable light failing] [Quality: visceral philosophy]",
+          "emotion_focus": "foundation_loss",
+          "visual_metaphor": "certainty_collapse",
+          "token_count": 61
+        }
+      ],
+      
+      "visual_consistency": {
+        "maintain_from_003": ["Character positions", "Cafe setting markers"],
+        "introduce": ["Reality instability", "Multiple perspectives", "First cage hints"],
+        "particle_evolution": "Determination arrows fragmenting into doubt particles"
+      }
+    },
+    
+    "scene_005_uncertainty_fear": {
+      "entry_id": "0005",
+      "primary_emotion": "uncertainty",
+      "secondary_emotion": "fear",
+      "intensity": 0.7,
+      
+      "prompt_variations": [
+        {
+          "variation_id": "v1_floor_transparency",
+          "prompt": "[Style: Anxiety-driven surrealism] [Composition: Ground becoming translucent] [Subject: Evan looking down through disappearing floor] [Emotion: vertiginous uncertainty, existential fear] [Effects: floor transparency increasing, anchor points vanishing] [Colors: Anxious purples, unstable violets] [Quality: queasy beauty]",
+          "emotion_focus": "ground_loss",
+          "visual_metaphor": "foundation_dissolution",
+          "token_count": 64
+        },
+        {
+          "variation_id": "v2_identity_blur",
+          "prompt": "[Style: Philosophical horror] [Composition: Figure edges becoming indefinite] [Subject: Evan's outline blurring with environment] [Emotion: identity uncertainty, boundary fear] [Effects: self dissolving at edges, reality flickering] [Lighting: Unstable, strobing between states] [Quality: disturbing fluidity]",
+          "emotion_focus": "self_dissolution",
+          "visual_metaphor": "identity_crisis",
+          "token_count": 60
+        },
+        {
+          "variation_id": "v3_safety_vanishing",
+          "prompt": "[Style: Metaphysical vertigo] [Composition: Safe spaces evaporating] [Subject: Familiar objects losing solidity] [Emotion: deep uncertainty, primal fear] [Effects: doubt wisps multiplying, safety dissolving] [Particles: Fear fragments swirling] [Quality: beautiful terror]",
+          "emotion_focus": "safety_loss",
+          "visual_metaphor": "certainty_evaporation",
+          "token_count": 57
+        },
+        {
+          "variation_id": "v4_echo_void",
+          "prompt": "[Style: Existential minimalism] [Composition: Words echoing in expanding void] [Subject: Dialogue floating in uncertain space] [Emotion: questioning fear, void recognition] [Effects: words fragmenting, meaning dissolving] [Colors: Deep indigos to black] [Quality: sparse horror]",
+          "emotion_focus": "meaning_loss",
+          "visual_metaphor": "void_recognition",
+          "token_count": 56
+        }
+      ],
+      
+      "visual_consistency": {
+        "evolve_from_004": ["Reality cracks deepening", "Multiple perspectives merging"],
+        "maintain": ["Character core identities", "Spatial relationships"],
+        "introduce": ["Cage structure hints", "Void spaces"],
+        "particle_evolution": "Doubt particles becoming fear wisps"
+      }
+    },
+    
+    "scene_006_cage_recognition": {
+      "entry_id": "0006",
+      "primary_emotion": "serene_wisdom",
+      "secondary_emotion": "bittersweet_acceptance",
+      "intensity": 0.6,
+      
+      "prompt_variations": [
+        {
+          "variation_id": "v1_gentle_revelation",
+          "prompt": "[Style: Philosophical enlightenment] [Composition: Cage bars as environmental patterns] [Subject: Subtle cage structure revealed in everyday objects] [Emotion: serene wisdom, bittersweet recognition] [Effects: cage materializing gently, soft revelation light] [Colors: Wise blues, accepting golds] [Quality: profound calm]",
+          "emotion_focus": "peaceful_recognition",
+          "visual_metaphor": "invisible_made_visible",
+          "token_count": 63
+        },
+        {
+          "variation_id": "v2_thought_patterns",
+          "prompt": "[Style: Meditative surrealism] [Composition: Cage bars formed by thought patterns] [Subject: Mental structures becoming visible architecture] [Emotion: wise acceptance, philosophical peace] [Effects: beliefs solidifying as bars, assumptions as walls] [Lighting: Soft philosophical shadows] [Quality: contemplative beauty]",
+          "emotion_focus": "structure_awareness",
+          "visual_metaphor": "mind_architecture",
+          "token_count": 59
+        },
+        {
+          "variation_id": "v3_freedom_paradox",
+          "prompt": "[Style: Zen philosophy visual] [Composition: Open cage door nobody sees] [Subject: Freedom existing within recognized constraints] [Emotion: serene understanding, gentle irony] [Effects: cage transparent yet present, door always open] [Colors: Calming blue-grays, warm earth tones] [Quality: peaceful paradox]",
+          "emotion_focus": "constraint_freedom",
+          "visual_metaphor": "open_prison",
+          "token_count": 61
+        },
+        {
+          "variation_id": "v4_awakening_stairs",
+          "prompt": "[Style: Transcendent realism] [Composition: Cage bars forming ascending stairs] [Subject: Prison becoming path to understanding] [Emotion: bittersweet wisdom, acceptance joy] [Effects: bars transforming to steps, light filtering through] [Particles: Understanding motes] [Quality: transformative serenity]",
+          "emotion_focus": "transcendent_acceptance",
+          "visual_metaphor": "prison_as_teacher",
+          "token_count": 59
+        }
+      ],
+      
+      "visual_consistency": {
+        "resolve_from_005": ["Fear particles settling", "Void spaces organizing"],
+        "maintain": ["Character growth visible", "Environmental continuity"],
+        "complete": ["Full cage visibility", "New understanding in expressions"],
+        "particle_evolution": "Fear wisps becoming wisdom particles"
+      }
+    }
+  },
+  
+  "sequence_emotional_arc": {
+    "004": {
+      "entry": "Reality stable but questioning",
+      "peak": "First cracks in certainty",
+      "exit": "Foundation shaking"
+    },
+    "005": {
+      "entry": "Ground becoming unstable",
+      "peak": "Complete uncertainty",
+      "exit": "Fear recognition"
+    },
+    "006": {
+      "entry": "Fear settling to curiosity",
+      "peak": "Cage revelation",
+      "exit": "Wise acceptance"
+    }
+  },
+  
+  "visual_metaphor_progression": {
+    "reality_stability": ["solid", "cracking", "transparent", "restructured"],
+    "cage_visibility": ["invisible", "hinted", "emerging", "clear"],
+    "emotional_journey": ["confident", "destabilized", "fearful", "wise"],
+    "spatial_quality": ["defined", "warping", "dissolving", "transcendent"]
+  },
+  
+  "prompt_optimization_notes": {
+    "token_efficiency": "Average 60 tokens per prompt",
+    "emotion_clarity": "Each prompt explicitly states emotional intent",
+    "visual_consistency": "Progressive revelation maintains continuity",
+    "philosophical_alignment": "Cage metaphor central to all variations"
+  },
+  
+  "quality_metrics": {
+    "emotion_specificity": 0.95,
+    "philosophical_coherence": 0.94,
+    "visual_progression": 0.93,
+    "prompt_clarity": 0.96
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "transition_id": "011_to_012",
+  "from_scene": {
+    "id": "011",
+    "ending_state": "paradox_maximum",
+    "emotion": "existential_vertigo",
+    "visual": "infinite_loops"
+  },
+  "to_scene": {
+    "id": "012",
+    "opening_state": "tree_approach",
+    "emotion": "anticipation_dread",
+    "visual": "reality_coalescing_around_tree"
+  },
+  "transition_type": "PARADOX_TO_ACTION",
+  "visual_bridge": {
+    "element": "loops_spiral_toward_tree",
+    "duration": "breath_held",
+    "effect": "All paradoxes converge on single point - the tree"
+  },
+  "narrative_bridge": "From infinite questioning to singular moment of action",
+  "emotional_arc": "vertigo → focused_anticipation",
+  "visual_continuity": [
+    "Infinite loops narrow to single path",
+    "Tree emerges as only solid reality",
+    "Evan drawn inexorably forward"
+  ],
+  "tree_foreshadowing": {
+    "appearance": "Tree visible through reality loops",
+    "quality": "Only stable object in chaos",
+    "magnetism": "Drawing Evan like gravity"
+  }
+}

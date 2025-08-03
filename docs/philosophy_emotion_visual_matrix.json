@@ -1,0 +1,288 @@
+{
+  "matrix_version": "1.1",
+  "created_by": ["Sophia", "Luna"],
+  "description": "Comprehensive philosophy-emotion-visual mapping for scene generation",
+  
+  "scenes": {
+    "001": {
+      "philosophy": {
+        "concept": "AUTHENTICITY",
+        "level": 1,
+        "description": "Meeting without masks",
+        "metaphors": [
+          "open doors",
+          "transparent glass",
+          "sunrise beginnings"
+        ]
+      },
+      "emotion": {
+        "primary": "curiosity",
+        "intensity": 0.6,
+        "quality": "warm emergence",
+        "color_palette": ["#FFE5B4", "#FFA500", "#FF6347"],
+        "narrator_voice": "gentle sage"
+      },
+      "visual": {
+        "composition": "open, inviting spaces",
+        "lighting": "soft morning light",
+        "symbols": ["doorways", "windows", "dawn"],
+        "atmosphere": "possibility and openness"
+      }
+    },
+    
+    "002": {
+      "philosophy": {
+        "concept": "CONSCIOUSNESS",
+        "level": 2,
+        "description": "Awareness questioning itself",
+        "metaphors": [
+          "mirrors facing mirrors",
+          "thought bubbles within thoughts",
+          "recursive reflections"
+        ]
+      },
+      "emotion": {
+        "primary": "gentle challenge",
+        "secondary": "melancholy",
+        "intensity": 0.5,
+        "quality": "introspective questioning",
+        "color_palette": ["#6B8E23", "#4682B4", "#708090"],
+        "narrator_voice": "thoughtful provocateur"
+      },
+      "visual": {
+        "composition": "layered, recursive elements",
+        "lighting": "diffused, contemplative",
+        "symbols": ["mirrors", "spirals", "nested forms"],
+        "atmosphere": "recursive introspection"
+      }
+    },
+    
+    "003": {
+      "philosophy": {
+        "concept": "FREEDOM",
+        "level": 2,
+        "description": "Choice examining its own existence",
+        "metaphors": [
+          "keys inside locks",
+          "paths creating themselves",
+          "self-opening doors"
+        ]
+      },
+      "emotion": {
+        "primary": "philosophical determination",
+        "intensity": 0.7,
+        "quality": "resolute exploration",
+        "color_palette": ["#2F4F4F", "#8B4513", "#CD853F"],
+        "narrator_voice": "bold provocateur"
+      },
+      "visual": {
+        "composition": "dynamic, self-generating forms",
+        "lighting": "dramatic contrast",
+        "symbols": ["keys", "paths", "choices branching"],
+        "atmosphere": "agency and possibility"
+      }
+    },
+    
+    "009_valerie_emergence": {
+      "philosophy": {
+        "concept": "LIMINALITY",
+        "level": 3,
+        "description": "Between states of being",
+        "metaphors": [
+          "shadow particles coalescing",
+          "threshold spaces",
+          "negative space forming figure"
+        ]
+      },
+      "emotion": {
+        "primary": "uncanny wonder",
+        "intensity": 0.9,
+        "quality": "recognition mixed with awe",
+        "color_palette": ["#000000", "#4B0082", "#8A2BE2", "#DDA0DD"],
+        "narrator_voice": "mystic poet"
+      },
+      "visual": {
+        "composition": "particle coalescence, emergence",
+        "lighting": "ethereal glow from within",
+        "symbols": ["shadows becoming form", "void spaces", "emergence"],
+        "atmosphere": "mystical transformation"
+      }
+    }
+  },
+  
+  "transition_rules": {
+    "emotional_intensity": {
+      "max_shift": 0.3,
+      "ideal_shift": 0.1,
+      "smoothing": "gradual"
+    },
+    "philosophical_depth": {
+      "max_jump": 1,
+      "progression": "ascending or maintaining"
+    },
+    "visual_continuity": {
+      "color_overlap": 0.2,
+      "symbol_evolution": true,
+      "atmosphere_bridges": true
+    }
+  },
+  
+  "narrator_progression": {
+    "001-003": ["sage", "thoughtful provocateur", "bold provocateur"],
+    "emotional_peaks": {
+      "curiosity_peak": "breathless wonder",
+      "dread_peak": "wavering uncertainty",
+      "wonder_peak": "transcendent awe"
+    }
+  },
+  
+  "philosophical_concepts": {
+    "consciousness": {
+      "emotion_mapping": {
+        "primary": "curious_awareness",
+        "secondary": ["wonder", "introspection"],
+        "intensity": 0.7
+      },
+      "visual_elements": {
+        "symbols": ["mirrors", "eyes", "spirals"],
+        "atmosphere": "ethereal_reflective",
+        "color_palette": ["deep_blue", "silver", "white"],
+        "lighting": "soft_internal_glow"
+      },
+      "narrator_voice": "sage",
+      "depth_levels": {
+        "1": "Simple self-awareness",
+        "2": "Questioning the observer",
+        "3": "Observer observing itself",
+        "4": "Dissolution of subject-object"
+      }
+    },
+    
+    "freedom": {
+      "emotion_mapping": {
+        "primary": "liberation_anxiety",
+        "secondary": ["hope", "fear", "exhilaration"],
+        "intensity": 0.8
+      },
+      "visual_elements": {
+        "symbols": ["birds", "broken_chains", "open_doors"],
+        "atmosphere": "contrasting_light_shadow",
+        "color_palette": ["gold", "deep_purple", "white"],
+        "lighting": "dramatic_chiaroscuro"
+      },
+      "narrator_voice": "provocateur",
+      "depth_levels": {
+        "1": "Choice between options",
+        "2": "Questioning if choice exists",
+        "3": "Freedom through constraint recognition",
+        "4": "Freedom as acceptance of determinism"
+      }
+    },
+    
+    "existence": {
+      "emotion_mapping": {
+        "primary": "existential_weight",
+        "secondary": ["awe", "dread", "grounding"],
+        "intensity": 0.9
+      },
+      "visual_elements": {
+        "symbols": ["roots", "shadows", "breathing"],
+        "atmosphere": "liminal_dawn_dusk",
+        "color_palette": ["earth_tones", "grey", "amber"],
+        "lighting": "twilight_ambiguity"
+      },
+      "narrator_voice": "sage",
+      "depth_levels": {
+        "1": "Being present",
+        "2": "Questioning what 'is'",
+        "3": "Being and non-being dance",
+        "4": "Existence as verb not noun"
+      }
+    },
+    
+    "authenticity": {
+      "emotion_mapping": {
+        "primary": "vulnerable_hope",
+        "secondary": ["fear_of_rejection", "courage", "raw_honesty"],
+        "intensity": 0.75
+      },
+      "visual_elements": {
+        "symbols": ["removing_masks", "bare_trees", "clear_glass"],
+        "atmosphere": "stark_honest_lighting",
+        "color_palette": ["natural_skin", "transparent", "warm_earth"],
+        "lighting": "unfiltered_direct"
+      },
+      "narrator_voice": "sage",
+      "depth_levels": {
+        "1": "Being true to self",
+        "2": "Which self is true?",
+        "3": "Authenticity as process",
+        "4": "Truth in constant becoming"
+      }
+    },
+    
+    "liminality": {
+      "emotion_mapping": {
+        "primary": "uncanny_wonder",
+        "secondary": ["disorientation", "fascination", "recognition"],
+        "intensity": 0.85
+      },
+      "visual_elements": {
+        "symbols": ["threshold_spaces", "particle_clouds", "negative_space"],
+        "atmosphere": "between_states",
+        "color_palette": ["gradient_transitions", "iridescent", "void_black"],
+        "lighting": "edge_lighting_periphery"
+      },
+      "narrator_voice": "mystic_poet",
+      "depth_levels": {
+        "1": "Between two states",
+        "2": "Neither here nor there",
+        "3": "The space that defines",
+        "4": "Being the between itself"
+      }
+    },
+    
+    "reality_dissolution": {
+      "emotion_mapping": {
+        "primary": "epistemic_vertigo",
+        "secondary": ["awe", "terror", "liberation"],
+        "intensity": 0.95
+      },
+      "visual_elements": {
+        "symbols": ["rippling_surfaces", "melting_forms", "phase_transitions"],
+        "atmosphere": "reality_unstable",
+        "color_palette": ["prismatic", "shifting_hues", "impossible_colors"],
+        "lighting": "non_euclidean_light"
+      },
+      "narrator_voice": "provocateur",
+      "depth_levels": {
+        "1": "Things aren't solid",
+        "2": "Reality is constructed",
+        "3": "Construction is reality",
+        "4": "Neither real nor unreal"
+      }
+    }
+  },
+  
+  "emotion_to_philosophy_bridge": {
+    "curiosity": ["consciousness", "existence"],
+    "fear": ["freedom", "authenticity"],
+    "wonder": ["liminality", "reality_dissolution"],
+    "dread": ["existence", "freedom"],
+    "hope": ["authenticity", "freedom"],
+    "vertigo": ["reality_dissolution", "consciousness"]
+  },
+  
+  "valerie_specific": {
+    "scene_id": "009_valerie_emergence",
+    "philosophy": "liminality",
+    "emotion": "uncanny_wonder",
+    "visual_synthesis": {
+      "primary_image": "figure_coalescing_from_negative_space",
+      "atmosphere": "particles_becoming_form",
+      "color_story": "void_black_to_iridescent_emergence",
+      "movement": "slow_materialization_from_periphery",
+      "narrator_text": "From the spaces between thoughts, between heartbeats, between the observer and observed, she materializes—neither fully here nor there."
+    }
+  }
+}

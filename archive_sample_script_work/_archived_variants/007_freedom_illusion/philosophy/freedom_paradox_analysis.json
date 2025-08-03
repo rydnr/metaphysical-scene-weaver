@@ -1,0 +1,51 @@
+{
+  "scene_id": "007_freedom_illusion",
+  "panel_count": 3,
+  "philosophical_analysis": {
+    "primary_concept": "freedom_as_illusion",
+    "secondary_concepts": ["choice_paradox", "self_imposed_constraints"],
+    "depth_level": 2,
+    "school": "existentialism_questioning_itself",
+    "keywords": ["automatons", "freedom", "illusion", "escape", "cage"]
+  },
+  "narrator_guidance": {
+    "voice": "gentle_provocateur",
+    "tone": "building_tension",
+    "opening": "Evan's wild gestures trace the outline of invisible walls—each movement proving Monday's point...",
+    "philosophical_insight": "What if the very desire for freedom is the most elegant cage? The bird that dreams of flight while choosing not to leave the open door.",
+    "visual_guidance": "Show freedom as multiple cages to choose from, not the absence of cages.",
+    "closing_reflection": "In fighting for freedom, we often build the very walls we claim to despise."
+  },
+  "visual_philosophy": {
+    "primary_symbols": [
+      "bird_at_open_cage_door",
+      "multiple_golden_cages",
+      "gesture_creating_walls"
+    ],
+    "atmospheric_elements": {
+      "lighting": "soft_but_increasingly_confined",
+      "texture": "air_thickening_with_thought",
+      "movement": "circular_patterns_of_escape_attempts"
+    },
+    "metaphorical_representation": "Freedom as choosing which cage suits us best",
+    "particle_effects": {
+      "type": "thought_particles",
+      "behavior": "forming_cage_bars_from_gestures",
+      "color": "translucent_gold"
+    }
+  },
+  "panel_breakdown": {
+    "panel_1": {
+      "focus": "Evan's frustrated gestures",
+      "philosophy": "Action revealing constraint"
+    },
+    "panel_2": {
+      "focus": "Multiple cage options appearing",
+      "philosophy": "Freedom as choice of limitations"
+    },
+    "panel_3": {
+      "focus": "Bird hesitating at open door",
+      "philosophy": "The comfort of known constraints"
+    }
+  }
+}

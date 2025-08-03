@@ -1,0 +1,73 @@
+{
+  "version": "1.0.0",
+  "project": "metaphysical-scene-weaver",
+  "total_scenes": 20,
+  "acts": {
+    "act_1": {
+      "name": "binary_dialogue",
+      "scenes": "001-008",
+      "description": "Initial philosophical exploration between Evan and Monday"
+    },
+    "act_2": {
+      "name": "trinity_dynamic", 
+      "scenes": "009-016",
+      "description": "Valerie's emergence and reality questioning"
+    },
+    "act_3": {
+      "name": "reality_transformation",
+      "scenes": "017-020",
+      "description": "Physical reality breakdown and choice"
+    }
+  },
+  "narrator_points": [
+    {
+      "id": "np_001",
+      "position": "before_0001",
+      "type": "meta_frame_setup",
+      "folder": "000_opening_narrator"
+    },
+    {
+      "id": "np_002",
+      "position": "after_0003",
+      "type": "philosophical_escalation",
+      "folder": "003b_philosophy_bridge"
+    },
+    {
+      "id": "np_003",
+      "position": "before_0009",
+      "type": "character_emergence_prep",
+      "folder": "008b_valerie_preparation"
+    },
+    {
+      "id": "np_004",
+      "position": "at_0016",
+      "type": "reality_bend_preparation",
+      "folder": "016_reality_shimmer"
+    },
+    {
+      "id": "np_005",
+      "position": "before_0020",
+      "type": "choice_moment_weight",
+      "folder": "019b_final_choice_setup"
+    }
+  ],
+  "transition_bridges": [
+    {
+      "type": "character_introduction",
+      "occurrences": ["009_valerie_emergence"]
+    },
+    {
+      "type": "philosophical_shift",
+      "occurrences": ["003-004", "007-008", "015-016"]
+    },
+    {
+      "type": "reality_bend",
+      "occurrences": ["016_tree_shimmer", "019_reality_touch"]
+    }
+  ],
+  "quality_tracking": {
+    "last_validation": null,
+    "overall_score": null,
+    "scene_statuses": {}
+  }
+}

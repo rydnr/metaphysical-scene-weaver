@@ -1,0 +1,32 @@
+{
+  "scene_id": "011",
+  "dialogue": "I am the space between your thoughts, Evan. The pause between heartbeats. I've been here all along—you just weren't ready to perceive me.",
+  "character": "Valerie",
+  "emotion_profile": {
+    "primary": "liminal_presence",
+    "secondary": "ancient_playfulness",
+    "intensity": 0.8,
+    "valence": 0.3,
+    "arousal": 0.7
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Timeless wisdom in young features, knowing smile",
+    "body_language": "Existing in multiple states simultaneously",
+    "environmental_mood": "Time flowing differently around her"
+  },
+  "color_palette": {
+    "primary": "#000000",
+    "secondary": "#4B0082",
+    "accent": "#E0FFFF",
+    "mood": "Liminal space visible, time non-linear"
+  },
+  "atmosphere_description": "The café breathes with new awareness. Spaces between objects gain significance. The pause between words holds weight.",
+  "narrator_emotion_tone": "Mystical revelation, poetic impossibility",
+  "liminal_effects": {
+    "time_quality": "Past/present/future overlapping",
+    "space_quality": "Negative space as positive presence",
+    "perception_shift": "Evan seeing what was always there"
+  },
+  "philosophical_weight": "Introduction of consciousness as space itself",
+  "transition_to_next": "Mystical to grounded wisdom"
+}

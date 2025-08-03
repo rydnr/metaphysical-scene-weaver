@@ -1,0 +1,11 @@
+[Unit]
+Description=Metaphysical Scene Weaver Auto-commit Service
+After=network.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/chous/work/metaphysical-scene-weaver
+ExecStart=/home/chous/work/metaphysical-scene-weaver/auto-commit.sh
+User=chous
+StandardOutput=append:/home/chous/work/metaphysical-scene-weaver/.auto-commit.log
+StandardError=append:/home/chous/work/metaphysical-scene-weaver/.auto-commit.log

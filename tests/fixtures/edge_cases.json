@@ -1,0 +1,221 @@
+{
+  "edge_cases": {
+    "empty_inputs": {
+      "empty_dialogue": {
+        "input": "[0001] Evan: <<>>",
+        "expected_behavior": "Handle gracefully, minimal emotion mapping",
+        "test_categories": ["parser", "emotion", "prompt"]
+      },
+      "empty_speaker": {
+        "input": "[0001] : <<Hello world>>",
+        "expected_behavior": "Default to 'Unknown' speaker or skip",
+        "test_categories": ["parser", "character"]
+      },
+      "empty_script": {
+        "input": "",
+        "expected_behavior": "Return empty results, no errors",
+        "test_categories": ["parser", "pipeline"]
+      }
+    },
+    
+    "unicode_and_special_chars": {
+      "unicode_philosophical": {
+        "input": "[0001] Monday: <<∃x(Px ∧ Qx) → ∀y(Ry → Sy) - the formal logic of existence>>",
+        "expected_behavior": "Parse unicode logic symbols correctly",
+        "test_categories": ["parser", "philosophy"]
+      },
+      "multilingual": {
+        "input": "[0001] Evan: <<什么是意识？ What is consciousness? Qu'est-ce que la conscience?>>",
+        "expected_behavior": "Handle multiple languages, extract concepts",
+        "test_categories": ["parser", "philosophy", "emotion"]
+      },
+      "special_punctuation": {
+        "input": "[0001] Monday: <<Reality?! ... or (perhaps) \"reality\"? #deep>>",
+        "expected_behavior": "Parse despite complex punctuation",
+        "test_categories": ["parser", "emotion"]
+      },
+      "emoji_content": {
+        "input": "[0001] Evan: <<I feel 😊 but also 😢 about existence>>",
+        "expected_behavior": "Parse emojis as emotional indicators",
+        "test_categories": ["parser", "emotion"]
+      }
+    },
+    
+    "malformed_entries": {
+      "invalid_id": {
+        "input": "[XXXX] Evan: <<Test dialogue>>",
+        "expected_behavior": "Skip or assign sequential ID",
+        "test_categories": ["parser"]
+      },
+      "missing_brackets": {
+        "input": "0001 Evan: <<Missing brackets>>",
+        "expected_behavior": "Attempt to parse or skip",
+        "test_categories": ["parser"]
+      },
+      "nested_dialogue_markers": {
+        "input": "[0001] Monday: <<<<Nested>> markers>> cause <<confusion>>",
+        "expected_behavior": "Parse outermost markers",
+        "test_categories": ["parser"]
+      },
+      "broken_multiline": {
+        "input": "[0001] Evan: <<This starts but never\n[0002] Monday: <<New entry interrupts>>",
+        "expected_behavior": "Handle incomplete entries gracefully",
+        "test_categories": ["parser"]
+      }
+    },
+    
+    "extreme_lengths": {
+      "very_long_dialogue": {
+        "input": "[0001] Evan: <<${LONG_TEXT}>>",
+        "long_text_size": 10000,
+        "expected_behavior": "Process without memory issues, possibly truncate",
+        "test_categories": ["parser", "performance", "memory"]
+      },
+      "many_short_entries": {
+        "entry_count": 1000,
+        "template": "[${ID}] ${SPEAKER}: <<Short entry ${NUM}>>",
+        "expected_behavior": "Handle large volume efficiently",
+        "test_categories": ["parser", "performance", "pipeline"]
+      },
+      "very_long_speaker_name": {
+        "input": "[0001] ${LONG_NAME}: <<Hello>>",
+        "name_length": 500,
+        "expected_behavior": "Truncate or handle long names",
+        "test_categories": ["parser", "character"]
+      }
+    },
+    
+    "circular_and_self_references": {
+      "self_reference": {
+        "input": "[0001] Evan: <<As I said in entry 0001...>>",
+        "expected_behavior": "Detect but don't infinite loop",
+        "test_categories": ["parser", "context"]
+      },
+      "circular_reference": {
+        "input": "[0001] Evan: <<See 0002>>\n[0002] Monday: <<Refer to 0001>>",
+        "expected_behavior": "Process both without recursion",
+        "test_categories": ["parser", "context"]
+      },
+      "recursive_philosophy": {
+        "input": "[0001] Monday: <<To understand recursion, you must understand recursion>>",
+        "expected_behavior": "Detect recursive concept without hanging",
+        "test_categories": ["philosophy", "parser"]
+      }
+    },
+    
+    "conflicting_metadata": {
+      "multiple_panel_counts": {
+        "input": "[0001] [2-panel] [3-panel] Evan: <<Which panel count?>>",
+        "expected_behavior": "Use first or last panel count consistently",
+        "test_categories": ["parser"]
+      },
+      "contradictory_emotions": {
+        "input": "[0001] Evan: <<I'm extremely happy!>> [[deep sadness]]",
+        "expected_behavior": "Reconcile or flag contradiction",
+        "test_categories": ["parser", "emotion"]
+      },
+      "duplicate_ids": {
+        "input": "[0001] Evan: <<First>>\n[0001] Monday: <<Duplicate ID>>",
+        "expected_behavior": "Handle duplicates by renaming or merging",
+        "test_categories": ["parser"]
+      }
+    },
+    
+    "philosophical_edge_cases": {
+      "nonsense_philosophy": {
+        "input": "[0001] Evan: <<If colorless green ideas sleep furiously, what is being?>>",
+        "expected_behavior": "Attempt parsing, low confidence score",
+        "test_categories": ["philosophy"]
+      },
+      "mixed_concepts": {
+        "input": "[0001] Monday: <<Quantum consciousness emerges from deterministic free will>>",
+        "expected_behavior": "Identify all concepts despite contradictions",
+        "test_categories": ["philosophy"]
+      },
+      "meta_philosophy": {
+        "input": "[0001] Evan: <<Is asking 'what is philosophy?' itself philosophy?>>",
+        "expected_behavior": "Handle meta-references appropriately",
+        "test_categories": ["philosophy"]
+      }
+    },
+    
+    "emotional_edge_cases": {
+      "no_emotion_words": {
+        "input": "[0001] Monday: <<The square root of 4 is 2.>>",
+        "expected_behavior": "Assign neutral or minimal emotion",
+        "test_categories": ["emotion"]
+      },
+      "overwhelming_emotions": {
+        "input": "[0001] Evan: <<I'm happy sad angry fearful surprised disgusted!>>",
+        "expected_behavior": "Balance multiple emotions, sum to 1.0",
+        "test_categories": ["emotion"]
+      },
+      "sarcastic_emotion": {
+        "input": "[0001] Monday: <<Oh, I'm just *thrilled* about this.>> (rolls eyes)",
+        "expected_behavior": "Detect sarcasm from context clues",
+        "test_categories": ["emotion", "context"]
+      }
+    },
+    
+    "character_consistency_breaks": {
+      "character_personality_shift": {
+        "input": "[0001] Monday: <<I don't know anything!>>\n[0002] Monday: <<As the all-knowing sage...>>",
+        "expected_behavior": "Flag inconsistency in character tracker",
+        "test_categories": ["character", "consistency"]
+      },
+      "missing_character_intro": {
+        "input": "[0050] NewCharacter: <<Hello, I've been here all along!>>",
+        "expected_behavior": "Handle new character mid-script",
+        "test_categories": ["character", "parser"]
+      }
+    },
+    
+    "performance_stress_cases": {
+      "rapid_speaker_changes": {
+        "entry_count": 100,
+        "speakers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"],
+        "expected_behavior": "Track all speakers efficiently",
+        "test_categories": ["performance", "character"]
+      },
+      "complex_nested_philosophy": {
+        "depth": 10,
+        "template": "If (${PREV}), then what about (${CONCEPT})?",
+        "expected_behavior": "Parse deep nesting without stack overflow",
+        "test_categories": ["philosophy", "performance"]
+      },
+      "parallel_processing_test": {
+        "concurrent_scripts": 20,
+        "expected_behavior": "Process concurrently without race conditions",
+        "test_categories": ["performance", "api"]
+      }
+    }
+  },
+  
+  "test_combinations": {
+    "unicode_with_emotion": {
+      "inputs": [
+        "[0001] Evan: <<我很困惑 😕 about το είναι>>",
+        "[0002] Monday: <<✨ Understanding flows like 水 (water) ✨>>"
+      ],
+      "test_aspects": ["unicode parsing", "emoji emotion", "multilingual philosophy"]
+    },
+    
+    "malformed_philosophical": {
+      "inputs": [
+        "[XXX Evan <<What is>>",
+        "[0002] : <<...consciousness?>> [[broken metadata]"
+      ],
+      "test_aspects": ["error recovery", "context preservation", "partial parsing"]
+    },
+    
+    "extreme_scene": {
+      "setup": {
+        "dialogue_count": 500,
+        "philosophy_concepts": 50,
+        "emotional_transitions": 100,
+        "character_count": 20
+      },
+      "test_aspects": ["memory usage", "processing time", "quality maintenance"]
+    }
+  }
+}

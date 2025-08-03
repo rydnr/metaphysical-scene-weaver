@@ -1,0 +1,71 @@
+{
+  "scene_id": "009_valerie_emergence",
+  "emotion_visual_prompts": {
+    "base_emotional_atmosphere": {
+      "primary_emotion": "uncanny_wonder",
+      "visual_translation": "dreamlike quality with sharp moments of impossible clarity",
+      "color_emotion": "iridescent purples shifting to deep cosmic blues",
+      "lighting_emotion": "light sources that cast shadows inward",
+      "particle_emotion": "crystallizing shadow fragments with consciousness"
+    },
+    
+    "prompt_variations": [
+      {
+        "variation_id": "v1_crystallization",
+        "prompt": "[Style: Surrealist digital art] [Composition: Figure forming from negative space between two people] [Subject: Valerie crystallizing from shadows and pauses] [Emotion: uncanny wonder, liminal recognition] [Effects: shadow particles coalescing, impossible light angles] [Quality: dreamlike with hyperreal details]",
+        "emotion_focus": "emergence_wonder",
+        "token_count": 67
+      },
+      {
+        "variation_id": "v2_peripheral_manifestation", 
+        "prompt": "[Style: Mystical realism] [Composition: Peripheral vision becoming central] [Subject: Woman materializing from space between thoughts] [Emotion: transcendent mystery, playful profundity] [Effects: reality ripples, time distortion visible] [Quality: ethereal yet sharp]",
+        "emotion_focus": "liminal_playfulness",
+        "token_count": 58
+      },
+      {
+        "variation_id": "v3_impossible_presence",
+        "prompt": "[Style: Metaphysical surrealism] [Composition: Three figures, one impossibly present] [Subject: Valerie existing in multiple states simultaneously] [Emotion: recognition without memory] [Effects: light behaving as liquid, multiple perspectives] [Quality: mind-bending clarity]",
+        "emotion_focus": "paradoxical_existence",
+        "token_count": 56
+      },
+      {
+        "variation_id": "v4_shadow_consciousness",
+        "prompt": "[Style: Dark fantasy realism] [Composition: Shadows gaining form and intention] [Subject: Female figure emerging from collective unconscious] [Emotion: ancient knowing, newborn wonder] [Effects: negative space breathing, peripheral coalescence] [Quality: haunting beauty]",
+        "emotion_focus": "archetypal_emergence",
+        "token_count": 54
+      }
+    ],
+    
+    "emotional_continuity": {
+      "from_previous": {
+        "evan_emotion": "frustrated_questioning",
+        "transition": "reality_crack_widening"
+      },
+      "to_next": {
+        "evan_emotion": "bewildered_recognition",
+        "transition": "acceptance_of_impossible"
+      }
+    },
+    
+    "visual_emotion_notes": {
+      "key_elements": [
+        "Shadows that remember how to speak",
+        "Space between people becoming person-shaped",
+        "Peripheral vision gaining central importance",
+        "Time moving in multiple directions simultaneously"
+      ],
+      "avoid": [
+        "Traditional ghost imagery",
+        "Simple transparency effects",
+        "Normal shadow behavior",
+        "Linear emergence"
+      ],
+      "emphasis": [
+        "The impossible becoming inevitable",
+        "Recognition of something never seen before",
+        "Playful profundity in expression",
+        "Reality's rules gently mocked"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "sequence_id": "reality_dissolution_010_012",
+  "theme": "REALITY → PARADOX → AWAKENING",
+  "visual_progression": "stable → fracturing → transcendent",
+  "scenes": {
+    "010": {
+      "title": "Reality Dissolution",
+      "philosophical_focus": "REALITY AS CONSTRUCT",
+      "expected_emotion": "destabilization",
+      "visual_elements": [
+        "reality_fractures",
+        "multiple_perspectives",
+        "dissolving_boundaries"
+      ],
+      "transition_from_009": "Valerie's presence destabilizes perceived reality",
+      "panel_recommendation": 2
+    },
+    "011": {
+      "title": "Choice Paradox",
+      "philosophical_focus": "FREE WILL ILLUSION",
+      "expected_emotion": "existential_vertigo",
+      "visual_elements": [
+        "infinite_reflections",
+        "choice_branches",
+        "temporal_loops"
+      ],
+      "key_moment": "The ultimate paradox revealed",
+      "panel_recommendation": 1
+    },
+    "012": {
+      "title": "Climax Awakening",
+      "philosophical_focus": "TRANSCENDENT AWARENESS",
+      "expected_emotion": "breakthrough",
+      "visual_elements": [
+        "reality_reconstruction",
+        "consciousness_expansion",
+        "unity_dissolution"
+      ],
+      "climax_note": "Maximum philosophical depth",
+      "panel_recommendation": 3
+    }
+  },
+  "technical_requirements": {
+    "max_tokens_per_prompt": 150,
+    "reality_effects": "progressive_dissolution",
+    "particle_systems": "chaos_to_order",
+    "color_shift": "material_to_ethereal"
+  },
+  "integration_notes": {
+    "sophia_requirement": "Peak philosophical complexity",
+    "luna_requirement": "Emotional climax journey",
+    "iris_requirement": "Reality distortion effects",
+    "quinn_requirement": "Maintain coherence through chaos"
+  }
+}

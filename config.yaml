@@ -1,0 +1,121 @@
+# Metaphysical Scene Weaver Configuration
+
+# Application settings
+app:
+  name: "Metaphysical Scene Weaver"
+  version: "0.1.0"
+  debug: false
+  log_level: "INFO"
+
+# API server settings
+server:
+  host: "0.0.0.0"
+  port: 8000
+  cors_origins:
+    - "http://localhost:3000"
+    - "http://localhost:8080"
+  max_request_size: 10485760  # 10MB
+  request_timeout: 300  # seconds
+
+# Semantest integration
+semantest:
+  api_url: "${SEMANTEST_API_URL}"
+  api_key: "${SEMANTEST_API_KEY}"
+  timeout: 120
+  retry_attempts: 3
+  batch_size: 10
+  rate_limit: 60  # requests per minute
+
+# Processing settings
+processing:
+  max_scenes_per_script: 100
+  max_tokens_per_prompt: 150
+  narrator_voices:
+    - "philosophical"
+    - "contemplative"
+    - "mystical"
+    - "analytical"
+    - "poetic"
+  
+  # Quality thresholds
+  quality:
+    min_coherence_score: 0.7
+    min_emotional_consistency: 0.8
+    max_emotional_shift: 0.3
+    min_philosophical_depth: 0.6
+
+# Narrator settings
+narrator:
+  default_voice: "philosophical"
+  intervention_points:
+    - "scene_transition"
+    - "emotional_peak"
+    - "philosophical_revelation"
+    - "character_transformation"
+    - "metaphorical_bridge"
+  
+  voice_profiles:
+    philosophical:
+      tone: "contemplative"
+      vocabulary_level: "advanced"
+      metaphor_density: "high"
+    
+    contemplative:
+      tone: "reflective"
+      vocabulary_level: "moderate"
+      metaphor_density: "medium"
+    
+    mystical:
+      tone: "ethereal"
+      vocabulary_level: "poetic"
+      metaphor_density: "very_high"
+
+# Content generation
+generation:
+  visual_styles:
+    - "graphic_novel"
+    - "manga"
+    - "realistic"
+    - "surreal"
+    - "abstract"
+  
+  default_style: "graphic_novel"
+  
+  prompt_structure:
+    include_camera_angle: true
+    include_lighting: true
+    include_color_palette: true
+    include_atmosphere: true
+    include_symbolism: true
+
+# File paths
+paths:
+  scripts: "data/scripts"
+  characters: "data/characters"
+  places: "data/places"
+  output: "output"
+  content: "content"
+  logs: "output/logs"
+  cache: ".cache"
+
+# Logging configuration
+logging:
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file_rotation: "daily"
+  max_file_size: "100MB"
+  retention_days: 30
+
+# Performance settings
+performance:
+  enable_caching: true
+  cache_ttl: 3600  # seconds
+  parallel_processing: true
+  max_workers: 4
+  batch_processing: true
+
+# Development settings
+development:
+  enable_hot_reload: true
+  mock_semantest: false
+  save_intermediate_results: true
+  verbose_errors: true

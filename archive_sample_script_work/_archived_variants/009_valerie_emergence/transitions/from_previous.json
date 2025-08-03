@@ -1,0 +1,14 @@
+{
+  "from_scene": "008",
+  "from_speaker": "Monday",
+  "from_concept": "recognizing_constraints",
+  "transition_type": "character_entrance",
+  "visual_bridge": "shadows_deepening",
+  "emotional_shift": {
+    "from": "instructional_certainty",
+    "to": "mysterious_transcendence"
+  },
+  "narrator_bridge": "The conversation had reached its philosophical apex when the shadows themselves decided to speak",
+  "camera_movement": "pull_back_to_reveal",
+  "timing": "dramatic_pause"
+}

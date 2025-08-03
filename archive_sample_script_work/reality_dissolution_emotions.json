@@ -1,0 +1,69 @@
+{
+  "sequence_id": "reality_dissolution_010_012",
+  "emotional_climax_arc": {
+    "010": {
+      "primary": "destabilization",
+      "blend": {
+        "awe": 0.4,
+        "fear": 0.3,
+        "confusion": 0.3
+      },
+      "intensity": 0.8,
+      "description": "Ground becomes meaningless, reality unreliable",
+      "visual_expression": "Wide eyes, reaching for stability, vertigo posture"
+    },
+    "011": {
+      "primary": "existential_vertigo",
+      "blend": {
+        "fear": 0.5,
+        "paralysis": 0.3,
+        "wonder": 0.2
+      },
+      "intensity": 0.9,
+      "description": "Caught in infinite loop of questioning",
+      "visual_expression": "Falling through choices, temporal disorientation"
+    },
+    "012": {
+      "primary": "transcendent_breakthrough",
+      "blend": {
+        "awe": 0.5,
+        "terror": 0.2,
+        "ecstasy": 0.3
+      },
+      "intensity": 1.0,
+      "progression": {
+        "panel_1": {
+          "emotion": "anticipation_dread",
+          "intensity": 0.85
+        },
+        "panel_2": {
+          "emotion": "awe_terror_fusion",
+          "intensity": 0.95
+        },
+        "panel_3": {
+          "emotion": "liberation_ecstasy",
+          "intensity": 1.0
+        }
+      },
+      "description": "Fear transforms to understanding, terror to transcendence",
+      "visual_expression": "From trembling approach to cosmic merger"
+    }
+  },
+  "color_emotional_mapping": {
+    "fear": ["#E74C3C", "#C0392B"],
+    "awe": ["#9B59B6", "#8E44AD"],
+    "confusion": ["#95A5A6", "#7F8C8D"],
+    "ecstasy": ["#F1C40F", "#F39C12"],
+    "transcendence": ["#3498DB", "#ECF0F1"]
+  },
+  "luna_notes": {
+    "key_challenge": "Balancing maximum fear with maximum awe",
+    "solution": "Use tree as grounding element - fear of approach, awe at transformation",
+    "climax_moment": "Fear and awe become same emotion at moment of touch"
+  },
+  "integration_with_philosophy": {
+    "fear_source": "Loss of reality's stability",
+    "awe_source": "Glimpsing true nature of existence",
+    "resolution": "Understanding that fear was of illusion, awe is recognition of truth"
+  }
+}

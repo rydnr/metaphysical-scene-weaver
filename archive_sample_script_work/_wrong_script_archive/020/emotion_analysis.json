@@ -1,0 +1,36 @@
+{
+  "scene_id": "020",
+  "dialogue": "I... I don't know if I want to. What if I can't come back to normal?",
+  "character": "Evan",
+  "emotion_profile": {
+    "primary": "transformative_hesitation",
+    "secondary": "profound_yearning",
+    "intensity": 0.9,
+    "valence": 0.1,
+    "arousal": 0.9
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Fear mixing with deep desire",
+    "body_language": "Hand reaching but trembling",
+    "environmental_mood": "Reality holding its breath"
+  },
+  "color_palette": {
+    "primary": "#000080",
+    "secondary": "#FFD700",
+    "accent": "#DC143C",
+    "mood": "Threshold moment, choice crystallizing"
+  },
+  "atmosphere_description": "Time slows. The space between Evan's hand and the tree becomes infinite. All of reality waits for his choice.",
+  "narrator_emotion_tone": "Holding space for transformation",
+  "threshold_dynamics": {
+    "internal_conflict": "Safety vs growth",
+    "hand_position": "Suspended between worlds",
+    "reality_state": "Pregnant with possibility"
+  },
+  "final_moment": {
+    "question": "What is 'normal' anymore?",
+    "choice": "Transform or retreat",
+    "implication": "No return to unconscious life"
+  },
+  "story_culmination": "All themes converge in this moment"
+}

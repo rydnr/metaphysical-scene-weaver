@@ -1,0 +1,23 @@
+{
+  "scene_id": "002",
+  "script_reference": "[0002]",
+  "speaker": "Monday",
+  "dialogue": "Intriguing? Most find it unsettling. They prefer the comfort of guaranteed connection.",
+  "panel_count": 1,
+  "narrator_sections": ["consciousness_reflection"],
+  "philosophical_concept": "CONSCIOUSNESS",
+  "philosophical_depth": 2,
+  "emotion": {
+    "primary": "gentle_challenge",
+    "secondary": "melancholy",
+    "intensity": 0.5,
+    "color_palette": ["#9B59B6", "#8E44AD", "#BDC3C7"]
+  },
+  "narrator_voice": "shifting_to_provocateur",
+  "visual_metaphors": ["mirrors facing mirrors", "thought bubbles within thoughts"],
+  "sophia_narrator_text": "The mirror turns inward, consciousness catching itself in the act of awareness...",
+  "transition_from_previous": {
+    "emotion_shift": 0.1,
+    "philosophy_deepening": true
+  }
+}

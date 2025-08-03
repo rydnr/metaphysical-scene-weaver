@@ -1,0 +1,110 @@
+{
+  "philosophy_emotion_integration": {
+    "cage_metaphor_sequence": {
+      "scenes": "004-006",
+      "philosophical_arc": "constraint → questioning → liberation through recognition",
+      "emotional_progression": {
+        "004": {
+          "philosophy": "Invisible constraints becoming visible",
+          "emotion": "Destabilizing inquiry with trapped undertones",
+          "fusion": "The comfortable cage revealing its bars"
+        },
+        "005": {
+          "philosophy": "Questioning the nature of freedom itself",
+          "emotion": "Uncertainty/fear as walls close in",
+          "fusion": "Realizing escape might be another cage"
+        },
+        "006": {
+          "philosophy": "Liberation through acceptance of constraints",
+          "emotion": "Serene wisdom of breakthrough",
+          "fusion": "Freedom found within acknowledged limits"
+        }
+      },
+      "visual_metaphors": [
+        "Cage bars as thought patterns",
+        "Invisible walls becoming visible",
+        "Open door that was always there"
+      ]
+    },
+    
+    "liminal_existence_sequence": {
+      "scenes": "009-011",
+      "philosophical_arc": "between states → neither/nor → cosmic vertigo",
+      "emotional_progression": {
+        "009": {
+          "philosophy": "Existence between existence",
+          "emotion": "Uncanny wonder at impossible presence",
+          "fusion": "Meeting what exists in the gaps"
+        },
+        "010": {
+          "philosophy": "Identity in liminal space",
+          "emotion": "Bewildered disorientation",
+          "fusion": "Who am I when categories dissolve?"
+        },
+        "011": {
+          "philosophy": "Consciousness as space itself",
+          "emotion": "Cosmic vertigo of vastness",
+          "fusion": "Realizing you are the space between"
+        }
+      },
+      "visual_metaphors": [
+        "Negative space gaining substance",
+        "Peripheral becoming central",
+        "Existence as pause between heartbeats"
+      ]
+    },
+    
+    "consciousness_awakening_sequence": {
+      "scenes": "015-020",
+      "philosophical_arc": "drop → recognition → ocean → transcendent unity",
+      "emotional_progression": {
+        "015": {
+          "philosophy": "Individual consciousness examining itself",
+          "emotion": "Grounded wisdom with separation awareness",
+          "fusion": "The drop beginning to sense the ocean"
+        },
+        "017": {
+          "philosophy": "Recognizing artificial boundaries",
+          "emotion": "Shocked wonder at false divisions",
+          "fusion": "Seeing the illusion of separation"
+        },
+        "019": {
+          "philosophy": "Invitation to unity consciousness",
+          "emotion": "Cosmic encouragement toward merger",
+          "fusion": "The ocean calling the drop home"
+        },
+        "020": {
+          "philosophy": "Threshold of ego dissolution",
+          "emotion": "Hesitation before transcendent joy",
+          "fusion": "Last moment before drop becomes ocean"
+        }
+      },
+      "visual_metaphors": [
+        "Drop realizing it's ocean",
+        "Boundaries dissolving like mist",
+        "Individual merging with infinite"
+      ]
+    }
+  },
+  
+  "key_emotional_enhancements": {
+    "philosophical_depth_added": {
+      "004": "Trapped recognition beneath inquiry",
+      "005": "Questioning confinement within fear",
+      "006": "Liberation joy in acceptance",
+      "009": "Between-state mystery in emergence",
+      "010": "Identity dissolution in bewilderment",
+      "011": "Vastness vertigo in liminal space",
+      "015": "Separation awareness in wisdom",
+      "017": "Unity recognition in wonder",
+      "019": "Merger invitation in encouragement",
+      "020": "Ego death/rebirth in hesitation"
+    }
+  },
+  
+  "visual_prompt_guidance": {
+    "cage_sequence": "Emphasize progressive visibility of constraints",
+    "liminal_sequence": "Focus on spaces between, negative space importance",
+    "awakening_sequence": "Show boundaries dissolving, unity emerging"
+  }
+}

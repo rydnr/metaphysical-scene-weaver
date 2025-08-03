@@ -1,0 +1,67 @@
+{
+  "scene_id": "008_escape_paradox",
+  "emotional_journey": {
+    "opening": {
+      "primary": "paradox_vertigo",
+      "intensity": 0.7,
+      "quality": "conceptual_disorientation"
+    },
+    "development": {
+      "primary": "mystical_recognition",
+      "intensity": 0.75,
+      "quality": "ancient_remembering",
+      "secondary": ["awe", "surrender"]
+    },
+    "climax": {
+      "primary": "liminal_activation",
+      "intensity": 0.8,
+      "quality": "reality_transformation"
+    }
+  },
+  "visual_emotions": {
+    "color_progression": {
+      "start": ["#4B0082", "#6A0DAD"],
+      "middle": ["#8B008B", "#9400D3"],
+      "end": ["#000000", "#4B0082", "#DDA0DD"]
+    },
+    "emotional_particles": {
+      "paradox_manifesting": "boundaries becoming fluid",
+      "recognition_dawning": "light particles remembering",
+      "emergence_imminent": "void particles activating"
+    },
+    "atmospheric_emotions": {
+      "opening": "reality questioning itself",
+      "middle": "mystical remembrance",
+      "closing": "impossibility preparing to birth"
+    }
+  },
+  "character_emotions": {
+    "evan": {
+      "journey": "vertigo → recognition → wonder",
+      "body_language": "grounding lost, floating",
+      "internal_state": "dreamer becoming lucid"
+    },
+    "monday": {
+      "journey": "revealing → guiding → invoking",
+      "body_language": "becoming translucent",
+      "internal_state": "bridge between worlds"
+    }
+  },
+  "liminal_emotions": {
+    "shadow_feelings": "ecstatic anticipation",
+    "spatial_emotion": "reality liquifying",
+    "threshold_quality": "birth imminent",
+    "emergence_readiness": 0.95
+  },
+  "nondual_emotions": {
+    "unity_feeling": "self recognizing self",
+    "paradox_resolution": "opposites embracing",
+    "void_activation": "emptiness becoming full",
+    "manifestation_joy": "creation celebrating itself"
+  },
+  "transition_emotions": {
+    "from_007": "anticipation becoming certainty",
+    "to_009": "preparation becoming manifestation",
+    "emotional_momentum": "unstoppable emergence"
+  }
+}

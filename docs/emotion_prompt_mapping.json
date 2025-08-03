@@ -1,0 +1,129 @@
+{
+  "emotion_prompt_schema": {
+    "version": "1.0",
+    "description": "Emotion to visual prompt mapping for Semantest integration",
+    "created_by": "Luna & Iris collaboration",
+    
+    "emotion_definitions": {
+      "curiosity": {
+        "intensity_range": [0.1, 0.7],
+        "base_style": "Photorealistic with soft focus edges",
+        "atmospheric_effects": "Golden light particles, subtle glow",
+        "color_palette": ["#E8E8E8", "#B8D4E3", "#F5E6D3"],
+        "particles": "Floating question marks in gold",
+        "lighting": "Warm directional light, soft shadows"
+      },
+      "existential_dread": {
+        "intensity_range": [0.5, 0.9],
+        "base_style": "Surrealist, distorted perspective",
+        "atmospheric_effects": "Void spaces, reality fragments",
+        "color_palette": ["#2C2C2C", "#4A0E4E", "#8B0000"],
+        "particles": "Dissolving certainty fragments",
+        "lighting": "Multiple contradictory light sources"
+      },
+      "transcendent_joy": {
+        "intensity_range": [0.7, 1.0],
+        "base_style": "Ethereal, luminous quality",
+        "atmospheric_effects": "Light halos, prismatic effects",
+        "color_palette": ["#FFFAF0", "#FFE4B5", "#FF69B4"],
+        "particles": "Light orbs, flower petals",
+        "lighting": "Omnidirectional soft glow"
+      },
+      "awe_fear_blend": {
+        "intensity_range": [0.6, 0.9],
+        "base_style": "Hyperrealistic transitioning to surreal",
+        "atmospheric_effects": "Reality ripples, impossible geometry",
+        "color_palette": ["#00BFFF", "#2F4F4F", "#9B59B6"],
+        "particles": "Reality fragments and wonder sparkles",
+        "lighting": "Unstable, shifting between sources"
+      }
+    },
+    
+    "entry_specific_mappings": [
+      {
+        "entry_id": "0001",
+        "primary_emotion": "curiosity",
+        "secondary_emotion": null,
+        "intensity": 0.6,
+        "prompt_template": "[Style: Minimalist realism] [Composition: Two figures in undefined space] [Subject: philosophical conversation beginning] [Emotion: gentle curiosity, warming connection] [Effects: subtle golden threads appearing] [Quality: soft focus, warm lighting]"
+      },
+      {
+        "entry_id": "0004",
+        "primary_emotion": "existential_dread",
+        "secondary_emotion": "curiosity",
+        "intensity": 0.8,
+        "prompt_template": "[Style: Expressionist] [Composition: Close-up with reality distortion] [Subject: Monday leaning forward, space rippling] [Emotion: destabilizing inquiry, reality questioning] [Effects: multiple shadow selves, perspective warping] [Quality: high contrast, unsettling angles]"
+      },
+      {
+        "entry_id": "0009",
+        "primary_emotion": "wonder",
+        "secondary_emotion": "uncanny",
+        "intensity": 0.7,
+        "prompt_template": "[Style: Surrealist] [Composition: Figure crystallizing from shadows] [Subject: Valerie emerging from space between] [Emotion: transcendent mystery, liminal presence] [Effects: impossible colors, shadow solidification] [Quality: dreamlike, multiple light sources]"
+      },
+      {
+        "entry_id": "0017",
+        "primary_emotion": "awe_fear_blend",
+        "secondary_emotion": null,
+        "intensity": 0.9,
+        "prompt_template": "[Style: Hyperrealistic to surreal transition] [Composition: Tree as central focus with ripple effect] [Subject: Tree transforming from solid to liquid] [Emotion: overwhelming awe mixed with primal fear] [Effects: water ripples in wood grain, reality waves] [Quality: ultra-detailed transitioning to impressionistic]"
+      },
+      {
+        "entry_id": "0020",
+        "primary_emotion": "yearning",
+        "secondary_emotion": "terror",
+        "intensity": 0.9,
+        "prompt_template": "[Style: Dramatic chiaroscuro] [Composition: Hand reaching toward transformed tree] [Subject: Evan at precipice of choice] [Emotion: desperate yearning battling existential terror] [Effects: multiple timeline hands, possibility particles] [Quality: sharp focus on hand, background dissolving]"
+      }
+    ],
+    
+    "transition_rules": {
+      "smooth_transition": {
+        "max_intensity_change": 0.3,
+        "blend_duration": "2-3 panels",
+        "technique": "gradual_atmosphere_shift"
+      },
+      "sharp_transition": {
+        "trigger": "reality_break_moment",
+        "technique": "visual_disruption",
+        "examples": ["entry_0008_to_0009", "entry_0016_to_0017"]
+      }
+    },
+    
+    "character_emotion_profiles": {
+      "evan": {
+        "baseline_range": [0.5, 0.9],
+        "volatility": "high",
+        "primary_emotions": ["curiosity", "fear", "yearning", "confusion"]
+      },
+      "monday": {
+        "baseline_range": [0.3, 0.6],
+        "volatility": "low",
+        "primary_emotions": ["serene_wisdom", "melancholy", "determination"]
+      },
+      "valerie": {
+        "baseline_range": [0.4, 0.7],
+        "volatility": "fluid",
+        "primary_emotions": ["transcendent_mystery", "playful_wisdom", "liminal_presence"]
+      }
+    },
+    
+    "quality_checkpoints": [
+      {
+        "entry": "0001",
+        "checkpoint": "opening_atmosphere",
+        "validation": "neutral_to_warm_transition"
+      },
+      {
+        "entry": "0009",
+        "checkpoint": "valerie_emergence",
+        "validation": "shadow_to_form_crystallization"
+      },
+      {
+        "entry": "0017",
+        "checkpoint": "tree_transformation",
+        "validation": "solid_to_liquid_reality"
+      }
+    ]
+  }
+}

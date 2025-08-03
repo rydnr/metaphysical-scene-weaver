@@ -1,0 +1,19 @@
+{
+  "scene_id": "001",
+  "script_reference": "[0001]",
+  "speaker": "Evan",
+  "dialogue": "The introduction says we might not like each other. That is intriguing.",
+  "panel_count": 1,
+  "narrator_sections": ["opening_meta_frame"],
+  "philosophical_concept": "AUTHENTICITY",
+  "philosophical_depth": 1,
+  "emotion": {
+    "primary": "curiosity",
+    "intensity": 0.6,
+    "color_palette": ["#F39C12", "#F1C40F", "#E67E22"]
+  },
+  "narrator_voice": "Sage",
+  "visual_metaphors": ["open doors", "transparent glass", "sunrise beginnings"],
+  "transition_to_next": "gentle_progression",
+  "sophia_narrator_text": "In the space between pretense and truth, two souls prepare to meet..."
+}

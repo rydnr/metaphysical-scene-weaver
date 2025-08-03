@@ -1,0 +1,14 @@
+{
+  "scene_number": "013",
+  "consolidated_from": {
+    "prompt": "013",
+    "narrator": "013",
+    "scene_description": "013",
+    "emotion": null,
+    "philosophy": null
+  },
+  "missing_content": [
+    "emotion",
+    "philosophy"
+  ]
+}

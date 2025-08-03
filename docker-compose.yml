@@ -1,0 +1,69 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    image: metaphysical-scene-weaver:latest
+    container_name: msw-web
+    ports:
+      - "8000:8000"
+    environment:
+      - SEMANTEST_API_URL=${SEMANTEST_API_URL:-https://api.semantest.com/v1}
+      - SEMANTEST_API_KEY=${SEMANTEST_API_KEY}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY:-your_secret_key_here}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - CACHE_ENABLED=${CACHE_ENABLED:-true}
+      - ENABLE_WEBSOCKET=${ENABLE_WEBSOCKET:-true}
+    volumes:
+      - ./data:/app/data
+      - ./content:/app/content
+      - ./output:/app/output
+      - ./config.yaml:/app/config.yaml:ro
+    networks:
+      - msw-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  redis:
+    image: redis:7-alpine
+    container_name: msw-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - msw-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  nginx:
+    image: nginx:alpine
+    container_name: msw-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./ssl:/etc/nginx/ssl:ro
+    networks:
+      - msw-network
+    depends_on:
+      - web
+    restart: unless-stopped
+
+networks:
+  msw-network:
+    driver: bridge
+
+volumes:
+  redis-data:
+    driver: local

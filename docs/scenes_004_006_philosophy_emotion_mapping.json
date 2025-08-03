@@ -1,0 +1,122 @@
+{
+  "sequence_name": "The Cage Metaphor Trilogy",
+  "scenes": {
+    "004": {
+      "title": "Reality's First Crack",
+      "philosophy": {
+        "concept": "EPISTEMIC DOUBT",
+        "level": 3,
+        "description": "When certainty becomes the first casualty",
+        "metaphors": [
+          "cracks in glass reality",
+          "shadows gaining independence",
+          "multiple selves emerging"
+        ],
+        "core_question": "What if everything you know is just one interpretation?"
+      },
+      "emotion": {
+        "primary": "destabilizing inquiry",
+        "intensity": 0.8,
+        "quality": "reality vertigo",
+        "color_palette": ["#4169E1", "#FF4500", "#8B0000"],
+        "narrator_voice": "reality breaker"
+      },
+      "visual": {
+        "composition": "fracturing perspectives, split screens",
+        "lighting": "unstable, flickering between realities",
+        "symbols": ["cracking glass", "multiple shadows", "shifting floors"],
+        "atmosphere": "reality becoming unreliable",
+        "special_effects": "Monday leaning triggers reality ripples"
+      }
+    },
+    
+    "005": {
+      "title": "The Cage Reveals Itself",
+      "philosophy": {
+        "concept": "DETERMINISM VS FREE WILL",
+        "level": 3,
+        "description": "The moment you see the bars you've been grasping",
+        "metaphors": [
+          "invisible prison bars becoming visible",
+          "choices revealing themselves as illusions",
+          "puppet strings made of light"
+        ],
+        "core_question": "Are we choosing, or watching ourselves choose?"
+      },
+      "emotion": {
+        "primary": "uncertainty",
+        "secondary": "fear",
+        "intensity": 0.7,
+        "quality": "ground dissolving",
+        "color_palette": ["#2F4F4F", "#8B4513", "#696969"],
+        "narrator_voice": "whispered revelation"
+      },
+      "visual": {
+        "composition": "cage imagery overlaying reality",
+        "lighting": "prison bar shadows across everything",
+        "symbols": ["bars of light", "maze patterns", "escape routes that loop back"],
+        "atmosphere": "claustrophobic recognition"
+      }
+    },
+    
+    "006": {
+      "title": "The Beautiful Prison",
+      "philosophy": {
+        "concept": "ACCEPTANCE PARADOX",
+        "level": 3,
+        "description": "Finding freedom in acknowledging the cage",
+        "metaphors": [
+          "cage bars becoming musical strings",
+          "prison transforming into cathedral",
+          "chains that connect rather than bind"
+        ],
+        "core_question": "What if the cage is not a prison but a structure for meaning?"
+      },
+      "emotion": {
+        "primary": "serene wisdom",
+        "secondary": "bittersweet acceptance",
+        "intensity": 0.6,
+        "quality": "transcendent understanding",
+        "color_palette": ["#4B0082", "#FFD700", "#E6E6FA"],
+        "narrator_voice": "sage of paradox"
+      },
+      "visual": {
+        "composition": "geometric beauty, sacred patterns",
+        "lighting": "soft illumination through bars",
+        "symbols": ["cathedral windows", "mandala cages", "keys that are also locks"],
+        "atmosphere": "beautiful confinement"
+      }
+    }
+  },
+  
+  "transition_dynamics": {
+    "004_to_005": {
+      "philosophical_bridge": "From questioning reality to seeing the structure",
+      "emotional_shift": "Vertigo settling into recognition",
+      "visual_evolution": "Cracks become bars",
+      "intensity_change": -0.1
+    },
+    "005_to_006": {
+      "philosophical_bridge": "From fear of cage to understanding its purpose",
+      "emotional_shift": "Fear transforming to wisdom",
+      "visual_evolution": "Prison becomes temple",
+      "intensity_change": -0.1
+    }
+  },
+  
+  "narrator_progression": {
+    "voices": ["reality breaker", "whispered revelation", "sage of paradox"],
+    "evolution": "From destabilizing to revealing to reconciling",
+    "key_moments": {
+      "004": "Watch closely as Monday leans forward—reality holds its breath...",
+      "005": "Do you see them now? The bars you've been holding all along?",
+      "006": "Perhaps we were never meant to escape, only to make peace with our beautiful cages."
+    }
+  },
+  
+  "visual_coherence": {
+    "color_story": "Electric uncertainty → Earthy recognition → Transcendent purple-gold",
+    "symbol_evolution": "Cracks → Bars → Sacred geometry",
+    "atmospheric_arc": "Destabilization → Claustrophobia → Transcendent acceptance"
+  }
+}

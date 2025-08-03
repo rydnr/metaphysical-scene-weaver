@@ -1,0 +1,11 @@
+[Unit]
+Description=Run Metaphysical Scene Weaver Auto-commit every 10 minutes
+Requires=metaphysical-auto-commit.service
+
+[Timer]
+OnBootSec=10min
+OnUnitActiveSec=10min
+Persistent=true
+
+[Install]
+WantedBy=timers.target

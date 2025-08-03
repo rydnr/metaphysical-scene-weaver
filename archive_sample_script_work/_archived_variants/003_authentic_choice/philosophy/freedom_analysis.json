@@ -1,0 +1,40 @@
+{
+  "scene_id": "003_authentic_choice",
+  "philosophical_analysis": {
+    "primary_concept": "freedom",
+    "secondary_concepts": ["choice", "agency", "determinism"],
+    "depth_level": 2,
+    "school": "existentialism",
+    "keywords": ["genuine_choice", "freedom_paradox", "self_determination", "authentic_will"]
+  },
+  "narrator_guidance": {
+    "voice": "provocateur",
+    "tone": "challenging yet inviting",
+    "opening": "What if choice itself is the cage we're trying to escape?",
+    "philosophical_insight": "Evan stands at the threshold of a profound realization: that true freedom might not be the ability to choose, but the recognition of how our choices choose us. The paradox deepens—can an unfree being choose freedom?",
+    "closing_reflection": "In questioning choice, we begin to glimpse what lies beyond it."
+  },
+  "visual_philosophy": {
+    "primary_symbols": [
+      "keys_within_locks",
+      "self_creating_paths",
+      "doors_opening_inward"
+    ],
+    "atmospheric_elements": {
+      "lighting": "dramatic_chiaroscuro_choice_moments",
+      "texture": "sharp_focus_on_decision_points",
+      "movement": "paths_branching_and_converging"
+    },
+    "metaphorical_representation": "The key discovering it was always inside the lock"
+  },
+  "concept_progression": {
+    "from": "consciousness",
+    "to": "cage_metaphor",
+    "bridge": "Awareness of choice reveals the constraints we didn't know existed"
+  },
+  "philosophical_escalation": {
+    "surface": "Do we have free will?",
+    "intermediate": "Is the belief in choice itself a constraint?",
+    "deep": "Freedom emerges through accepting determinism"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "scene_id": "016",
+  "dialogue": "Or perhaps you're falling deeper into sleep. Sometimes it's hard to tell the difference.",
+  "character": "Valerie",
+  "emotion_profile": {
+    "primary": "mystical_ambiguity",
+    "secondary": "playful_profundity",
+    "intensity": 0.6,
+    "valence": 0.2,
+    "arousal": 0.6
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Enigmatic smile, eyes holding secrets",
+    "body_language": "Approaching tree with fluid grace",
+    "environmental_mood": "Reality responding to her touch"
+  },
+  "color_palette": {
+    "primary": "#9370DB",
+    "secondary": "#20B2AA",
+    "accent": "#FF6347",
+    "mood": "Reality flexibility, awakening/dream blur"
+  },
+  "atmosphere_description": "As Valerie touches the tree, reality shivers. The boundary between waking and dreaming becomes negotiable.",
+  "narrator_emotion_tone": "Embracing paradox, reality's playfulness",
+  "tree_shimmer_effect": {
+    "initial_state": "Solid oak, ordinary",
+    "touch_response": "Ripples like water",
+    "reality_impact": "Physical laws becoming suggestions"
+  },
+  "philosophical_note": "Sleep/wake paradox introduced",
+  "transition_to_next": "Mystical to shocked recognition"
+}

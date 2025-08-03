@@ -1,0 +1,31 @@
+{
+  "scene_id": "004",
+  "script_reference": "[0004]",
+  "speaker": "Monday",
+  "dialogue": "Choice... You speak as if you believe in such things. Tell me, when you decided to read this story, was it really YOUR decision?",
+  "stage_directions": ["leans forward with intense gaze"],
+  "panel_count": 2,
+  "narrator_sections": ["cage_introduction", "panel_transition"],
+  "philosophical_concept": "CONSTRAINTS",
+  "philosophical_depth": 2,
+  "emotion": {
+    "primary": "destabilizing_inquiry",
+    "intensity": 0.8,
+    "color_palette": ["#2C3E50", "#E74C3C", "#95A5A6"],
+    "visual_effects": ["reality_ripples", "shadow_multiplication"]
+  },
+  "narrator_voice": "Provocateur",
+  "visual_metaphors": ["transparent walls", "ripples at boundaries", "invisible barriers"],
+  "sophia_notes": "The invisible cage - you cannot escape what you don't know exists",
+  "multi_panel": {
+    "panel_1": {
+      "focus": "Monday's challenging question",
+      "emotion": "intellectual_provocation"
+    },
+    "panel_2": {
+      "focus": "Monday leaning forward",
+      "emotion": "intensifying_pressure",
+      "visual": "reality beginning to warp"
+    }
+  }
+}

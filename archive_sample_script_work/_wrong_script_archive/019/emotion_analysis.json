@@ -1,0 +1,32 @@
+{
+  "scene_id": "019",
+  "dialogue": "Touch the tree yourself. See what happens when you stop believing in solid things.",
+  "character": "Valerie",
+  "emotion_profile": {
+    "primary": "cosmic_invitation",
+    "secondary": "transformative_encouragement",
+    "intensity": 0.8,
+    "valence": 0.5,
+    "arousal": 0.8
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Inviting smile, eyes holding universe",
+    "body_language": "Beckoning with ethereal grace",
+    "environmental_mood": "Tree pulsing with possibility"
+  },
+  "color_palette": {
+    "primary": "#8A2BE2",
+    "secondary": "#00FA9A",
+    "accent": "#FF69B4",
+    "mood": "Threshold of transformation"
+  },
+  "atmosphere_description": "The tree becomes the center of all possibility. Its trunk holds doorways to everything. Valerie stands as guide to the impossible.",
+  "narrator_emotion_tone": "Cosmic invitation, reality's threshold",
+  "tree_as_portal": {
+    "visual_state": "Shimmering with inner light",
+    "symbolic_weight": "Gateway to expanded consciousness",
+    "invitation_quality": "Gentle but profound"
+  },
+  "panel_note": "3-panel to show approach sequence",
+  "transition_to_next": "Invitation to final choice"
+}

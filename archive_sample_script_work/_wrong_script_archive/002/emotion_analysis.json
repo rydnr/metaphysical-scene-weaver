@@ -1,0 +1,25 @@
+{
+  "scene_id": "002",
+  "dialogue": "Intriguing? Most find it unsettling. They prefer the comfort of guaranteed connection.",
+  "character": "Monday",
+  "emotion_profile": {
+    "primary": "philosophical_challenge",
+    "secondary": "gentle_provocation",
+    "intensity": 0.5,
+    "valence": 0.1,
+    "arousal": 0.3
+  },
+  "visual_emotion_cues": {
+    "facial_expression": "Knowing half-smile, penetrating gaze",
+    "body_language": "Relaxed but purposeful, slight forward lean",
+    "environmental_mood": "Shadows deepening slightly, cooler tones entering"
+  },
+  "color_palette": {
+    "primary": "#6B7C93",
+    "secondary": "#4A5568",
+    "accent": "#708090",
+    "mood": "Cooling to contemplative"
+  },
+  "narrator_emotion_tone": "Philosophical observer, noting the challenge",
+  "transition_to_next": "Challenge sparking determination"
+}

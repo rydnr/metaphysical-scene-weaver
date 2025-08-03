@@ -1,0 +1,130 @@
+# Philosophical Concept Map for Sample Script
+# Maps dialogue lines to philosophical concepts, visual symbols, and narrator opportunities
+
+script_analysis:
+  title: "Metaphysical Awakening Dialogue"
+  philosophical_arc: "From naive realism to questioning reality itself"
+  
+dialogue_entries:
+  - line: "0001-0003"
+    speaker: "Evan & Monday"
+    concepts:
+      primary: "authenticity"
+      secondary: ["connection", "freedom", "choice"]
+    philosophical_schools: ["existentialism"]
+    depth_level: 1
+    visual_symbols:
+      - "masks"
+      - "open_doors"
+      - "diverging_paths"
+    narrator_commentary: "The dance begins with a question of authentic connection—can we truly meet another without the risk of rejection?"
+    
+  - line: "0004-0006"
+    speaker: "Monday"
+    concepts:
+      primary: "freedom"
+      secondary: ["consciousness", "determinism", "choice"]
+    philosophical_schools: ["existentialism", "phenomenology"]
+    depth_level: 2
+    visual_symbols:
+      - "puppet_strings"
+      - "maze_viewed_from_above"
+      - "mirror_recursion"
+    narrator_commentary: "Monday's challenge strikes at the heart of human agency—are we truly free, or merely experiencing the illusion of choice?"
+    
+  - line: "0007-0009"
+    speaker: "All"
+    concepts:
+      primary: "liberation"
+      secondary: ["cage", "constraints", "awakening"]
+    philosophical_schools: ["buddhism", "existentialism"]
+    depth_level: 2
+    visual_symbols:
+      - "transparent_cage"
+      - "keys_inside_locks"
+      - "birds_at_open_doors"
+    narrator_commentary: "The cage paradox emerges—we cannot escape what we don't perceive. But is the cage real, or is it the belief in the cage?"
+    
+  - line: "0010-0013"
+    speaker: "Valerie"
+    concepts:
+      primary: "liminality"
+      secondary: ["void", "presence", "between_states"]
+    philosophical_schools: ["process_philosophy", "zen"]
+    depth_level: 3
+    visual_symbols:
+      - "threshold_spaces"
+      - "particle_clouds"
+      - "negative_space_figures"
+    narrator_commentary: "Valerie embodies the liminal—neither here nor there, yet everywhere. She is the pause that gives meaning to the notes."
+    
+  - line: "0014-0016"
+    speaker: "All"
+    concepts:
+      primary: "awakening"
+      secondary: ["consciousness", "reality", "perception"]
+    philosophical_schools: ["phenomenology", "buddhism"]
+    depth_level: 2
+    visual_symbols:
+      - "eyes_opening_within_eyes"
+      - "dawn_or_dusk_ambiguity"
+      - "russian_doll_realities"
+    narrator_commentary: "Is awakening an emergence into clarity, or a descent into a more elaborate dream? The question itself may be the answer."
+    
+  - line: "0017-0020"
+    speaker: "All"
+    concepts:
+      primary: "reality_dissolution"
+      secondary: ["maya", "perception", "transformation"]
+    philosophical_schools: ["hinduism", "quantum_philosophy"]
+    depth_level: 3
+    visual_symbols:
+      - "solid_becoming_liquid"
+      - "ripple_effects"
+      - "phase_transitions"
+    narrator_commentary: "The tree's ripple marks the moment when fixed reality reveals its fluid nature. Evan stands at the threshold of a new way of seeing."
+
+philosophical_progression:
+  act_1: "Establishing reality and relationship"
+  act_2: "Questioning the nature of choice and freedom"
+  act_3: "Dissolving the boundaries of perception"
+  
+narrator_voices:
+  wise_guide: "For general philosophical context"
+  provocateur: "For challenging viewer assumptions"
+  mystic_poet: "For liminal and transcendent moments"
+  scholar: "For deeper philosophical references"
+
+visual_philosophy_guidelines:
+  - "Use transparency to show invisible constraints"
+  - "Employ ripple effects for reality distortion"
+  - "Layer multiple realities in single frames"
+  - "Show transformation through intermediate states"
+  - "Use negative space to represent void/potential"
+
+eastern_western_integration:
+  western_concepts:
+    - existential_authenticity
+    - phenomenological_perception
+    - free_will_debate
+  eastern_concepts:
+    - maya_illusion
+    - awakening_enlightenment
+    - non_dual_awareness
+  synthesis_points:
+    - "Where Sartre meets Buddha on the nature of choice"
+    - "Phenomenology and mindfulness as parallel paths"
+    - "The cage as both Western prison and Eastern maya"
+
+depth_accessibility:
+  level_1_surface: "Questions about choice and connection"
+  level_2_intermediate: "Nature of consciousness and freedom"
+  level_3_deep: "Reality as construction, awakening as process"
+  level_4_profound: "Non-dual recognition of seeker and sought"
+
+implementation_notes:
+  - "Each concept should have multiple visual interpretations"
+  - "Narrator commentary should match scene emotional tone"
+  - "Allow for silence—not every concept needs explanation"
+  - "Visual symbols should work both literally and metaphorically"
+  - "Eastern concepts should feel organic, not forced"
