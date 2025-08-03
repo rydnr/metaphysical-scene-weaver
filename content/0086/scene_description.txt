@@ -4,13 +4,21 @@ DIALOGUE:
 Architect: <<The frontier between your subjectivity and the “real world” isn’t a line—it’s more like a swamp. You can’t draw it with a pen. It’s messy, permeable, and constantly shifting with the weather.>>
 
 VISUAL ELEMENTS:
-- The Architect manifested as abstract digital presence
-- Geometric patterns and code fragments in background
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
+
+PANEL 1 - The Swamp Revealed:
+- Reality manifests as actual swampland - murky waters where thoughts and facts intermingle
+- Evan stands knee-deep, his reflection showing multiple versions of truth
+- Architect appears as fog rising from the waters, shape-shifting with each perspective
+- Color: Muddy greens and browns with phosphorescent flickers of uncertainty
+
+PANEL 2 - The Weather Changes:
+- The swamp transforms with emotional weather - storms of confusion, clearings of insight
+- Boundaries literally dissolve and reform like tidal movements
+- Background: Maps being drawn and erased simultaneously by invisible hands
+- Color shift: Atmospheric grays with sudden breaks of clarity-gold piercing through
 
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PHILOSOPHICAL THEME: The Ecology of Subjective Reality
 
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Disorienting Truth → Liberating Acceptance
