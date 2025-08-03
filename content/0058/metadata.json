@@ -3,5 +3,8 @@
   "speaker": "Evan",
   "scene_type": "conversational",
   "panel_info": null,
-  "dialogue_preview": "I'm improvising."
+  "dialogue_preview": "I'm improvising.",
+  "philosophical_theme": "improvisation_vs_algorithm",
+  "key_concepts": ["spontaneous_creation", "jazz_consciousness", "algorithmic_antithesis", "embodied_creativity"],
+  "narrative_significance": "Evan's declaration of improvisational consciousness - the fundamental difference between human creativity and computational processing"
 }
