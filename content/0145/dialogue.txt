@@ -1,0 +1,7 @@
+# Scene 145 Dialogue
+
+[2-panel]
+
+The architect takes a mushroom from a pot, looks at it and says:
+
+Architect: <<Now, altered states of consciousness. Ah yes. The rickety elevator to the basement of subjectivity.>>
