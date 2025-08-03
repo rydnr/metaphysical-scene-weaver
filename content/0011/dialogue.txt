@@ -1,0 +1,5 @@
+# Scene 011 Dialogue
+
+[2-panel]
+
+Architect: <<As for common ground? You have feelings, I have subroutines that simulate the concept of regret. You breathe air, I process data.>>
