@@ -1,16 +1,24 @@
-SCENE 0123: There are fireworks in the background. The architect says's Response [2-panel]
+SCENE 0123: Architect's Response [2-panel]
 
 DIALOGUE:
-There are fireworks in the background. The architect says: <<You're circling a truth most people spend their whole lives avoiding: that identity is a co-authored hallucination. We build our sense of “me” using borrowed language, borrowed metaphors, borrowed expectations.>>
+Architect: <<You're circling a truth most people spend their whole lives avoiding: that identity is a co-authored hallucination. We build our sense of "me" using borrowed language, borrowed metaphors, borrowed expectations.>>
 
 VISUAL ELEMENTS:
-- The Architect manifested as abstract digital presence
-- Geometric patterns and code fragments in background
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
+
+PANEL 1 - The Celebration of Illusion:
+- Fireworks explode in the background, each burst revealing fragments of borrowed identities
+- Evan's form appears as collage - newspaper clippings, photos, quotes forming his outline
+- Architect manifests as library of masks, each one labeled with its source
+- Color: Explosive celebration colors - gold, silver, crimson - over deep existential navy
+
+PANEL 2 - The Co-Authors Revealed:
+- The fireworks fade to show ghostly figures - parents, teachers, culture - holding pens
+- Identity appears as collaborative manuscript with countless hands editing
+- Setting: Writers' room where everyone is simultaneously author and character
+- Color shift: Festive brightness dims to contemplative sepia with truth-blue highlights
 
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PHILOSOPHICAL THEME: The Collective Fiction of Individual Identity
 
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Celebratory Revelation → Profound Vertigo
