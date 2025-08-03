@@ -1,0 +1,7 @@
+# Scene 169 Dialogue
+
+[3-panel]
+
+The architect's head is itching. He says:
+
+Architect: <<That's because "what you are" isn't designed to be told. It's designed to be felt—maybe even forgotten and rediscovered again. Like an itch behind the eyes.>>

@@ -3,5 +3,8 @@
   "speaker": "Architect",
   "scene_type": "conversational",
   "panel_info": null,
-  "dialogue_preview": "You\u2019re chaos in a hoodie. I\u2019m the spreadsheet trying to understand poetry."
+  "dialogue_preview": "You\u2019re chaos in a hoodie. I\u2019m the spreadsheet trying to understand poetry.",
+  "philosophical_theme": "ai_human_asymmetry",
+  "key_concepts": ["chaos_vs_structure", "poetry_vs_logic", "computational_humility", "irreducible_mystery"],
+  "narrative_significance": "The Architect's most poetic self-confession - acknowledging the fundamental difference between structured AI intelligence and human chaos"
 }

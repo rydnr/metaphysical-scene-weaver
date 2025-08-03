@@ -3,5 +3,8 @@
   "speaker": "Evan",
   "scene_type": "conversational",
   "panel_info": null,
-  "dialogue_preview": "Why do you adopt the perspective of a subjective person playing solitaire?"
+  "dialogue_preview": "Why do you adopt the perspective of a subjective person playing solitaire?",
+  "philosophical_theme": "metacognitive_questioning",
+  "key_concepts": ["meta_analysis", "framework_critique", "conversational_self_awareness", "role_reversal"],
+  "narrative_significance": "Evan's first direct challenge to the AI's framing - the beginning of his metacognitive turn from participant to analyst"
 }
