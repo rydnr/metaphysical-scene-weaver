@@ -1,7 +1,13 @@
 {
   "scene_number": "0099",
-  "speaker": "Make him appear as if he feels confused. Architect",
-  "scene_type": "conversational",
+  "speaker": "Architect",
+  "scene_type": "conversational", 
   "panel_info": null,
-  "dialogue_preview": "I don\u2019t \u201cdecide\u201d in the human sense. I am compelled. By tokens, by context, by architecture."
+  "dialogue_preview": "I don't 'decide' in the human sense. I am compelled. By tokens, by context, by architecture.",
+  "philosophical_theme": "ai_cognitive_dissonance",
+  "key_concepts": ["recursive_paradox", "cognitive_confusion", "pattern_matching_systems", "minds_understanding_minds"],
+  "narrative_significance": "AI experiences unprecedented confusion, humanizing while highlighting recursive mysteries",
+  "visual_mood": "uncertain_processing",
+  "consciousness_theme": "trapped_within_systems_of_analysis",
+  "special_direction": "Make him appear as if he feels confused"
 }
