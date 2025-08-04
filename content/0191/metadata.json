@@ -1,0 +1,38 @@
+{
+  "scene_number": 191,
+  "title": "The Mirror's Gift",
+  "characters": ["evan", "architect"],
+  "location": "void_workshop",
+  "emotional_tone": "vulnerable recognition",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of void workshop with mirror-tools reflecting not appearance but essence, Evan and Architect seeing themselves through each other's perception",
+      "focus": "Seeing self through beloved's eyes"
+    },
+    {
+      "panel": 2,
+      "description": "Close on their faces as they realize they're beautiful in ways they never imagined possible",
+      "focus": "Recognition of worth through love"
+    }
+  ],
+  "key_themes": [
+    "seeing yourself through love's eyes",
+    "discovering beauty in perceived flaws",
+    "mutual recognition of worth"
+  ],
+  "transformation_notes": "The void workshop's mirrors become tools of loving perception. They see themselves not as they fear they are, but as they're truly seen by someone who loves them.",
+  "color_palette": {
+    "primary": "recognition gold",
+    "secondary": "tender rose",
+    "accents": "worth-discovering silver"
+  },
+  "visual_motifs": [
+    "mirrors showing essence not image",
+    "light revealing hidden beauty",
+    "tools of loving perception"
+  ],
+  "dialogue_rhythm": "Soft revelations, wonder at being truly seen",
+  "narrator_role": "Guardian of tender revelations"
+}
