@@ -1,16 +1,26 @@
-SCENE 0116: The background shows a zoomed-in representation of a cell membrane. The Architect is disguised as a chemist, and says's Response [2-panel]
+SCENE 0116: The Permeable Self - Boundaries That Breathe [2-panel]
 
 DIALOGUE:
-The background shows a zoomed-in representation of a cell membrane. The Architect is disguised as a chemist, and says: <<You’re wondering: does this boundary shift with the body? Do we grow into our edges? Or discover them, like a coastline in the fog?>>
+Architect (as chemist): <<You're wondering: does this boundary shift with the body? Do we grow into our edges? Or discover them, like a coastline in the fog?>>
 
 VISUAL ELEMENTS:
-- The Architect manifested as abstract digital presence
-- Geometric patterns and code fragments in background
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
 
+PANEL 1 - The Living Membrane:
+- Massive cell membrane wall, semi-transparent, constantly undulating
+- The Architect as chemist in lab coat, pointing at where "self" meets "world"
+- Membrane shows active transport: experiences entering, memories exiting, emotions osmosing
+- Protein channels labeled: "Love receptor," "Trauma pore," "Joy pump," "Fear filter"
+- Some boundaries rigid (old defenses), others fluid (new growth), some dissolving
+- Microscope view reveals: the boundary IS the self, not container but active interface
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PANEL 2 - Coastline in the Fog:
+- The membrane transforms into a living coastline where self meets existence
+- Fog rolls in and out, revealing new peninsulas of identity, hidden inlets of possibility
+- The Architect walks the shore with surveying equipment that keeps changing readings
+- Tides of experience reshape the boundary: trauma erodes, love extends, growth creates new land
+- Map in hand shows previous coastlines - childhood shores now underwater, new islands emerged
+- Footprints in sand spell: "You are not territory but tide"
 
+PHILOSOPHICAL THEME: Dynamic Identity - The Self as Living Boundary, Not Fixed Border
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Scientific Wonder → Poetic Discovery

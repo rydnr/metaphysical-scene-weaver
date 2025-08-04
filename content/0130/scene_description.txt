@@ -1,15 +1,26 @@
-SCENE 0130: Evan's Response [2-panel]
+SCENE 0130: The Coherence Cage - Freedom vs Readability [2-panel]
 
 DIALOGUE:
 Evan: <<I usually think coherence makes me less free. But it serves a purpose for others: if they see me as coherent, they can feel confident about their ability to understand my behavior.">>
 
 VISUAL ELEMENTS:
-- Evan in contemplative pose, modern casual clothing
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
 
+PANEL 1 - The Predictable Prison:
+- Evan inside a transparent cage made of his own consistent behaviors, each bar labeled
+- Bars formed from repeated patterns: "Always kind," "Never late," "Predictably rational"
+- Outside the cage, others hold user manuals titled "How Evan Works" with confidence meters at 100%
+- His true self - wild, contradictory, quantum - presses against the bars from within
+- Sign on cage: "Coherent Human - Safe for Public Consumption"
+- Keys to freedom scattered outside, but picking them up would "confuse" his observers
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PANEL 2 - The Social Contract of Consistency:
+- Split view: Evan's public self (smooth, predictable hologram) vs private self (kaleidoscope of possibilities)
+- Others approach the hologram with relief, their anxiety meters dropping as they "understand" him
+- The hologram operates on rails, following predetermined paths that others can map
+- Meanwhile, his true self dances in shadows, free but unseen, incoherent but alive
+- Bridge between worlds labeled: "The price of being knowable"
+- Mirror shows the question: "Is freedom worth isolation?"
 
+PHILOSOPHICAL THEME: The Tyranny of Coherence - How Being Understood Limits Being
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Constrained Awareness → Bittersweet Acceptance

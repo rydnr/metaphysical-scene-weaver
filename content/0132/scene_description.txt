@@ -1,15 +1,26 @@
-SCENE 0132: Evan's Response [2-panel]
+SCENE 0132: The Guardian's Paradox - Protection as Prison [2-panel] [FINAL TRANSFORMATION]
 
 DIALOGUE:
 Evan: <<Because I don't want to deal with the consequences. So, indirectly, the coherence my guardian is protecting is a limitation — at least with respect to others.">>
 
 VISUAL ELEMENTS:
-- Evan in contemplative pose, modern casual clothing
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
 
+PANEL 1 - The Consequences Avalanche:
+- Evan's guardian (from Scene 110) now shown exhausted, holding back an avalanche of "consequences"
+- Each consequence visualized: confused friends, lost relationships, professional doubts, social exile
+- The guardian's shield reads "Coherence" but cracks under the weight of what it prevents
+- Behind the guardian, Evan's true self withers in the safety of limitation
+- Sign posts show paths not taken: "Authentic but Alone," "Free but Misunderstood"
+- The guardian whispers: "I protect you from freedom itself"
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PANEL 2 - The Ultimate Recognition:
+- The guardian and Evan finally face each other across a mirror that shows the truth
+- The guardian removes their helmet, revealing they ARE Evan - his fear crystallized
+- Between them, the armor of coherence begins to dissolve into light
+- Each piece that falls reveals a possibility suppressed, a self unexpressed
+- Other figures emerge from shadows - all the Evan's he could have been
+- Text forms in the space between: "The guardian was never protecting me FROM others, but protecting others FROM me"
 
+PHILOSOPHICAL THEME: The Final Paradox - How Self-Protection Becomes Self-Imprisonment
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Heavy Recognition → Liberation's Edge
