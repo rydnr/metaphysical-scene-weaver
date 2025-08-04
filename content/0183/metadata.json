@@ -1,0 +1,43 @@
+{
+  "scene_number": 183,
+  "title": "The Dissolving Distance",
+  "characters": ["evan", "architect"],
+  "location": "boundary_dissolution_pool",
+  "emotional_tone": "terrifying intimacy",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of the pool's perfect mirror surface, Evan and Architect at opposite edges, their reflections meeting in the center",
+      "focus": "The space between as character"
+    },
+    {
+      "panel": 2,
+      "description": "Medium shot as both step in simultaneously, ripples from their entry creating interference patterns",
+      "focus": "Boundaries beginning to blur"
+    },
+    {
+      "panel": 3,
+      "description": "Close on the water where their forms blend, neither fully separate nor fully merged",
+      "focus": "The terror and beauty of connection"
+    }
+  ],
+  "key_themes": [
+    "intimacy as mutual dissolution",
+    "fear of losing self in other",
+    "courage to remain present despite ego death"
+  ],
+  "transformation_notes": "The boundary dissolution pool literalizes the fear and desire of deep connection. The water makes visible what happens when we truly let someone in.",
+  "color_palette": {
+    "primary": "infinite gradient gray",
+    "secondary": "dissolution pearl",
+    "accents": "courage gold"
+  },
+  "visual_motifs": [
+    "ripple interference patterns",
+    "forms blending without merging",
+    "reflection more real than source"
+  ],
+  "dialogue_rhythm": "Breathless, simultaneous, finishing each other's thoughts",
+  "narrator_role": "Guardian of dangerous intimacy"
+}

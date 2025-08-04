@@ -1,0 +1,1 @@
+QUALITY EDITOR STATUS: Found CRITICAL issues - 70 empty scenes (41%). Leading urgent repairs with Prompt-Artist. Next: Fill empty scenes.
