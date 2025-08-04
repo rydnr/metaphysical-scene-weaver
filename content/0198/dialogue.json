@@ -1,0 +1,22 @@
+{
+  "scene_number": 198,
+  "speakers": ["evan", "architect"],
+  "dialogue": [
+    {
+      "speaker": "evan",
+      "text": "I keep waiting to arrive somewhere, but..."
+    },
+    {
+      "speaker": "architect", 
+      "text": "But the journey is the destination. The searching is the finding."
+    },
+    {
+      "speaker": "evan",
+      "text": "We're not lost, we're..."
+    },
+    {
+      "speaker": "architect",
+      "text": "Exploring. Always exploring. Even this moment is a doorway."
+    }
+  ]
+}
