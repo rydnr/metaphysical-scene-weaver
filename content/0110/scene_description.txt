@@ -1,15 +1,26 @@
-SCENE 0110: Evan's Response [2-panel]
+SCENE 0110: Guardian at the Gates of Self - Objective Within Subjective [2-panel]
 
 DIALOGUE:
 Evan: <<By understanding that, I would explore certain objectivity inside my subjectivity. Either way, I'm the guardian of what someone else can say about me.>>
 
 VISUAL ELEMENTS:
-- Evan in contemplative pose, modern casual clothing
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
 
+PANEL 1 - The Interior Observatory:
+- Inside Evan's transparent head, a scientific observatory studies his own thoughts
+- Telescope labeled "Self-Examination" pointed inward at swirling subjective experiences
+- Charts mapping patterns: where feelings repeat, where biases live, where truths crystallize
+- Objective instruments measuring subjective storms: emotion thermometers, thought spectrometers
+- A golden thread weaves through chaos, marking moments of genuine self-knowledge
+- Mirror walls show infinite regression: the observer observing the observer observing
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PANEL 2 - Guardian of the Narrative Gates:
+- Evan stands as armored guardian before ornate gates labeled "My Story"
+- Behind gates: a garden where his true narrative grows, tended with care
+- Outside: crowds of others holding signs with their versions of him: "You're just X," "I know you better"
+- His guardian sword can cut false narratives but also opens gates for truth
+- Some visitors bring gifts (insights), others bring poison (projections) - he must discern
+- Above: constellation spelling "Only I can authorize my authentic story"
 
+PHILOSOPHICAL THEME: Self-Sovereignty - The Authority Over One's Own Narrative
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Analytical Introspection → Empowered Boundaries

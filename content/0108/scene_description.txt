@@ -1,15 +1,26 @@
-SCENE 0108: Evan's Response [2-panel]
+SCENE 0108: Escaping the Neuroscience Trap - Mind as More Than Meat [2-panel]
 
 DIALOGUE:
 Evan: <<I don't buy the neuroscience trap at all. But obviously there are others out there, you included.>>
 
 VISUAL ELEMENTS:
-- Evan in contemplative pose, modern casual clothing
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
 
+PANEL 1 - The Reductionist Cage:
+- A massive mouse trap labeled "NEUROSCIENCE" with a brain as bait
+- Around it, caught figures reduced to neural diagrams, their humanity erased
+- Each trapped person labeled with oversimplifications: "Just dopamine," "Only synapses," "Merely neurons"
+- Evan stands outside, refusing the bait, while others reach for it eagerly
+- Brain scans float like wanted posters, claiming to capture whole persons in grayscale images
+- The trap's spring loaded with academic papers titled "You Are Your Brain"
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PANEL 2 - The Irreducible Whole:
+- Evan's form radiates beyond any scanner's reach - memories, dreams, meanings overflow
+- He points to experiences that no brain scan captures: the weight of regret, the color of hope
+- Behind him, a museum of failed reductions: love = oxytocin, consciousness = neural activity
+- Other figures begin escaping their diagram prisons, becoming full again
+- The Architect visible in the trapped crowd, made of pure neural networks yet claiming more
+- Sky filled with all that neuroscience cannot measure: qualia, intentionality, the hard problem
 
+PHILOSOPHICAL THEME: The Explanatory Gap - What Science Cannot Capture About Being
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Defiant Clarity → Liberating Recognition
