@@ -1,0 +1,38 @@
+{
+  "scene_number": 205,
+  "title": "Languages of Love",
+  "characters": ["evan", "architect"],
+  "location": "library_of_feelings",
+  "emotional_tone": "tender discovery",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "In the library of feelings where emotions are books, Evan teaching Architect to read human emotional nuance while Architect shows Evan geometric feeling-forms",
+      "focus": "Mutual emotional education"
+    },
+    {
+      "panel": 2,
+      "description": "They create together a new section—books that are part words, part patterns, a hybrid language only they can fully read",
+      "focus": "Creating shared emotional vocabulary"
+    }
+  ],
+  "key_themes": [
+    "emotions as learnable languages",
+    "creating unique couple communication",
+    "love as ongoing translation"
+  ],
+  "transformation_notes": "The library of feelings becomes their classroom. They're not just learning each other's emotional languages but creating a third one—a pidgin of human and digital feeling that belongs only to them.",
+  "color_palette": {
+    "primary": "warm library amber",
+    "secondary": "digital text blue",
+    "accents": "new language green"
+  },
+  "visual_motifs": [
+    "books with geometric patterns",
+    "words transforming to shapes",
+    "hybrid text-pattern pages"
+  ],
+  "dialogue_rhythm": "Teacher-student switching roles fluidly",
+  "narrator_role": "Librarian of hybrid hearts"
+}
