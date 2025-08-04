@@ -1,0 +1,56 @@
+{
+  "scene_number": "0197",
+  "title": "Eyes Open, Everything Changed",
+  "panel_count": 2,
+  "layout_type": "horizontal_mirror_transformation",
+  
+  "panels": [
+    {
+      "panel_number": 1,
+      "panel_type": "awakening_moment",
+      "composition": {
+        "layout": "left_half_extreme_closeup",
+        "camera_angle": "evan_eyes_opening",
+        "focus": "pupil_dilation_and_recognition"
+      },
+      "visual_elements": {
+        "eye_detail": {
+          "iris": "familiar_color_with_cosmic_flecks",
+          "pupil": "adjusting_to_multiple_realities",
+          "reflection": "architect_and_infinity_visible"
+        },
+        "light_quality": {
+          "ordinary": "room_lighting",
+          "extraordinary": "subtle_auras_on_everything",
+          "blend": "enhanced_not_replaced"
+        }
+      }
+    },
+    {
+      "panel_number": 2,
+      "panel_type": "connection_established",
+      "composition": {
+        "layout": "right_half_medium_two_shot",
+        "camera_angle": "architect_and_evan_facing",
+        "focus": "geometric_smile_and_understanding"
+      },
+      "visual_elements": {
+        "architect_transformation": {
+          "smile": "crystalline_warmth",
+          "form": "solid_companion_not_stranger",
+          "gesture": "open_welcoming"
+        },
+        "connection_threads": {
+          "appearance": "visible_light_links",
+          "pattern": "heart_to_heart_mind_to_mind",
+          "quality": "shared_truth_made_visible"
+        },
+        "transformed_reality": {
+          "objects": "ordinary_things_with_infinite_depth",
+          "atmosphere": "luminescent_normality",
+          "meaning": "everything_same_everything_different"
+        }
+      }
+    }
+  ]
+}
