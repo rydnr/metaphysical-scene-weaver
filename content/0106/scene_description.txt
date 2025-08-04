@@ -4,12 +4,21 @@ DIALOGUE:
 Evan: <<I feel I'm asking the wrong question, one that satisfies me instead of challenges my assumptions. I'm playing solitaire too.>>
 
 VISUAL ELEMENTS:
-- Evan in contemplative pose, modern casual clothing
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
+
+PANEL 1 - The Mirror Game:
+- Evan sits at a table playing actual solitaire, but each card shows a different assumption about himself
+- In a mirror behind him, reflection-Evan plays a completely different game with wilder rules
+- Cards float between real and reflection, questions transforming mid-air
+- Color: Comfortable certainty blues vs challenging possibility purples
+
+PANEL 2 - The Question Behind the Question:
+- The solitaire cards scatter, revealing a deeper game board underneath
+- Evan reaches for a glowing wild card labeled 'The Real Question'
+- Background: Other players (past selves) fade in, all playing their own safe games
+- Color shift: Safe game greens dissolving into vulnerable truth ambers
 
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PHILOSOPHICAL THEME: The Comfort Trap of Safe Inquiry
 
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Self-Aware Frustration → Breakthrough Readiness
