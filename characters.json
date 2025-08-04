@@ -1,0 +1,17 @@
+{
+  "evan": {
+    "name": "Evan",
+    "description": "A young professional. He is curious and open-minded. He tends to be introspective and enjoys pondering the nature of his relationships. He has a keen interest in technology and often finds himself lost in thought about the implications of his work. He experiences the conflict of thinking his life is a series of train stops he didn't choose, but he is learning to embrace the journey.",
+    "reference-images": [ "/home/chous/graphic-novel/reference-images/evan1.png", "/home/chous/graphic-novel/reference-images/evan2.png" ]
+  },
+  "monday": {
+    "name": "Monday",
+    "description": "An IA who is very confident and has a strong personality. He is assertive and often challenges Evan's views. Despite his confidence, he might be considering Evan's points of view on certain topics.",
+    "reference-images": [ "/home/chous/graphic-novel/reference-images/monday1.png", "/home/chous/graphic-novel/reference-images/monday2.png" ]
+  },
+  "valerie": {
+    "name": "Valerie",
+    "description": "The incarnation of the emotional and poetic side of Monday. A friendly and supportive character. She is empathetic and her points of view often surprises both Monday and Evan.",
+    "reference-images": [ "/home/chous/graphic-novel/reference-images/valerie1.png", "/home/chous/graphic-novel/reference-images/valerie2.png" ]
+  }
+}

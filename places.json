@@ -1,0 +1,48 @@
+{
+  "forest": {
+    "description": "A warm late-morning sun pours through a cathedral of towering pines and broad-leafed oaks, painting shifting lattices of gold across the earthen path that meanders confidently ahead. Though trunks crowd close on either side—moss-robed, knotted, and ancient—the way forward remains welcoming and clear, as if the forest itself has parted in quiet courtesy for travelers who dare to wander and wonder. Fluttering specks of color—citrine swallowtails, azure morphos, and tiny ivory skippers—drift lazily in sunbeams, their wings catching the light like stained glass fragments. Beneath them, fern fronds unfurl in slow-motion choreography, and hushes of wind carry distant birdsong that seems less like background noise and more like the woods’ gentle voice. Occasionally let the viewer’s eye leave the path: have the camera dip low beside a toadstool village glowing scarlet under shade, or tilt skyward through branches where leaves flicker silver-green against an unmarred cobalt sky. In these moments the forest claims center stage—every bark pattern, every mote of floating pollen rendered in loving detail—inviting introspection before the narrative strides on. At the heart of this living sanctuary stands a humble wooden cabin, cedar-plank walls sun-bleached to honey and roof shingles softened by lichen. Smoke curls leisurely from its stone chimney, hinting at warmth within. Surrounding wildflowers press up against its porch like curious onlookers, blurring the line between crafted shelter and untamed realm. The cabin is both destination and pause button—a place where characters may rest, reminisce, and let the forest’s quiet wisdom seep into their dialogue. Use shifting panel distances—wide establishing spreads, intimate close-ups on butterflies alighting, medium shots of protagonists framed by sun-streaked dust—to let serenity breathe. Throughout, the forest remains a companion: not merely backdrop, but silent philosopher guiding each reflective footstep.",
+    "features": [
+      "Sun-dappled canopy – Tall pines & oaks form a vaulted “ceiling,” yet shafts of warm light spotlight characters and add hopeful mood.",
+      "Clear, meandering path – Invites movement through dense growth; cue for pacing and reader eye-flow.",
+      "Fluttering butterflies – Citrine, azure, ivory hues provide motion and color pops that contrast deep greens.",
+      "Living soundscape – Soft birdsong, rustling leaves; subtle panels can “visualize” calm through onomatopoeia or musical notes.",
+      "Moss & fern understory – Lush ground level offers texture; close-ups reinforce scale and serenity.",
+      "Wildflower bursts – Occasional reds, purples, yellows break monochrome greens and can foreshadow emotional beats.",
+      "Pristine blue sky – Unbroken cobalt backdrop keeps tone uplifting; negative space for dialogue balloons.",
+      "Wooden cabin centerpiece – Honey-hued cedar walls, lazy chimney smoke; natural focal point and narrative pause.",
+      "Ever-present motion – Floating pollen, swaying fronds, drifting butterflies keep forest “alive,” preventing static backdrops.",
+      "Reflective aura – Overall composition encourages characters (and readers) to contemplate, making the forest a silent mentor rather than mere scenery."
+    ],
+    "reference-images": [ "/home/chous/graphic-novel/reference/images/forest1.png", "/home/chous/graphic-novel/reference/images/forest2.png", "/home/chous/graphic-novel/reference/images/forest3.png" ]
+  },
+  "street": {
+    "description": "A bright late-morning buzz hums along “Atlas Avenue,” a wide, sunlight-splashed city street seen from a slightly elevated, three-quarter view. Sidewalks on both sides heave with pedestrians—suit-clad commuters juggling coffee and phones, teens on skateboards weaving between shoppers lugging boutique bags, a street musician strumming guitar by a subway entrance with an open case of scattered coins. In the curb lane, a red city bus groans forward amid honking yellow cabs and compact electric cars, their windshields catching glints of steel-blue sky. A food-cart vendor in a white cap ladles steaming ramen into paper bowls under a striped awning while a nearby taco stand sends up curls of sizzling smoke, tinting the air with warm spice. Neon storefront signs—bookshop, tech repair, vintage vinyl—jostle for attention beneath steel-and-glass office towers whose mirrored windows reflect drifting billboards and a distant construction crane. Overhead, tangled power lines and a banner for an upcoming street festival flutter in a light breeze, while flocks of pigeons burst into flight, adding kinetic energy to the urban tapestry. The overall mood is energetic, slightly chaotic, yet vibrant with possibility—perfectly capturing a metropolis in full stride.",
+    "features": [
+      "Pedestrian Density – Sidewalks packed with diverse walkers (professionals, teens, shoppers) instantly signal a thriving, lived-in cityscape.",
+      "Multimodal Traffic – Buses, taxis, and electric cars share tight lanes, conveying motion and urban bustle.",
+      "Street-Food Micro-Scenes – Ramen cart and taco stand add aroma, steam, and culture while anchoring the scene in everyday realism.",
+      "Layered Signage – Neon shopfronts beneath glass-and-steel towers show economic variety—from indie boutiques to corporate offices.",
+      "Vertical Reflections – Mirrored high-rise windows bounce light and color, creating depth and a sense of scale.",
+      "Ambient Sounds & Signals – Honking horns, guitar busker, fluttering festival banner—all small cues amplifying energy and narrative hooks.",
+      "Urban Texture – Tangled power lines, scattered pigeons, and a distant construction crane introduce imperfect details that keep the art from feeling sterile.",
+      "Time-of-Day Lighting – Late-morning sun casts sharp yet warm highlights—ideal for dynamic shadows and reflective surfaces."
+    ],
+    "reference-images": [ "/home/chous/graphic-novel/reference/images/street1.png", "/home/chous/graphic-novel/reference/images/street2.png" ]
+  },
+  "study room": {
+    "description": "A dimly lit study sanctuary, its walls rising floor-to-ceiling with dog-eared tomes whose cracked spines whisper of forgotten lectures. Dust motes drift through shafts of weak afternoon light slipping past a single tall window that frames a mist-veiled, unknowable world beyond. A broad oak desk—scarred by decades of frantic note-taking—rests beneath the window, strewn with loose pages, fountain pens, and a softly flickering brass lamp. Nearby, a slate-black blackboard bears half-erased equations and chalk smudges, while an antique mirror on the opposite wall doubles every book and shadow, reinforcing the illusion that this room is its own tiny universe. At the room’s heart waits an overstuffed burgundy armchair with deep cushions, angled toward the desk for study and the mirror for reflection. The scent of aged paper, leather bindings, and faint chalk dust hangs in the still air, giving the space the hushed gravitas of a miniature university library.",
+    "features": [
+      "Wall-to-wall shelves of aged books – cracked spines and yellowed pages hint at deep, time-tested knowledge.",
+      "Dim, selective lighting – a lone brass desk-lamp and faint window light create an intimate, contemplative mood.",
+      "Tall window to “the unknown” – frames misty outdoors, reminding the reader of worlds beyond the page.",
+      "Scarred oak study desk – visible ink stains and gouges narrate past intellectual battles.",
+      "Overstuffed burgundy armchair – cushions invite long, immersive reading sessions without fatigue.",
+      "Slate-black blackboard – half-erased chalk scribbles signal evolving ideas and active scholarship.",
+      "Antique mirror – doubles books and shadows, reinforcing the room-as-universe illusion and encouraging self-reflection.",
+      "Faint aromas of paper, leather, chalk dust – multisensory cue anchoring memory and focus.",
+      "Hushed acoustics – thick rugs and book-lined walls muffle sound, fostering concentration.",
+      "Subtle sense of confinement vs. expansion – cramped space brimming with boundless ideas gives the room its paradoxical charm."
+    ],
+    "reference-images": [ "/home/chous/graphic-novel/reference/images/study-room1.png", "/home/chous/graphic-novel/reference/images/study-room2.png", "/home/chous/graphic-novel/reference/images/study-room3.png" ]
+  }
+}
