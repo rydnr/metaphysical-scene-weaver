@@ -1,16 +1,26 @@
-SCENE 0126: The architect is taking of petals of a flower. He says's Response [2-panel]
+SCENE 0126: The Working Model - Coherence Over Purity [2-panel]
 
 DIALOGUE:
-The architect is taking of petals of a flower. He says: <<He’s not guarding purity. Or originality. He’s guarding coherence. A working model.>>
+Architect (plucking petals): <<He's not guarding purity. Or originality. He's guarding coherence. A working model.>>
 
 VISUAL ELEMENTS:
-- The Architect manifested as abstract digital presence
-- Geometric patterns and code fragments in background
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
 
+PANEL 1 - Deconstructing the Ideal:
+- The Architect plucking petals from a "perfect" flower labeled "Pure Original Self"
+- Each petal reveals it was artificial, made of different materials: plastic, paper, metal, glass
+- Petals float away labeled: "Myth of authenticity," "Illusion of uniqueness," "Fantasy of purity"
+- The flower's stem shown to be assembled from recycled parts, held by industrial glue
+- Other "pure" flowers in a garden revealed as elaborate constructions
+- Ground littered with discarded ideal selves that couldn't function
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PANEL 2 - The Beautiful Machine:
+- The Architect now tending a strange hybrid flower - part organic, part mechanical
+- This flower works: gears mesh smoothly, circuits connect, roots draw real nourishment
+- Petals are obviously borrowed: one from mother, one from culture, one from trauma, one from joy
+- But together they form a functioning system that processes light into energy
+- The flower's imperfection is its strength - adaptable, repairable, honest
+- Background: A greenhouse of other "working models," each unique in its assembled coherence
 
+PHILOSOPHICAL THEME: Functional Truth - The Beauty of What Actually Works Over What Should Be Pure
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Deconstructive Clarity → Pragmatic Appreciation
