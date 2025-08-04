@@ -3,5 +3,10 @@
   "speaker": "Evan",
   "scene_type": "conversational",
   "panel_info": null,
-  "dialogue_preview": "But *you can't be sure*. So either you are faking, or you are wrong. I'm wondering if you decide in ..."
+  "dialogue_preview": "But *you can't be sure*. So either you are faking, or you are wrong. I'm wondering if you decide in ...",
+  "philosophical_theme": "epistemological_trap",
+  "key_concepts": ["AI_uncertainty", "logical_bind", "performative_confidence", "synthetic_consciousness"],
+  "narrative_significance": "Evan's logical trap forces AI to confront fundamental limitations",
+  "visual_mood": "intellectual_tension",
+  "consciousness_theme": "asymmetry_of_doubt"
 }
