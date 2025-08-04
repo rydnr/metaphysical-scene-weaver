@@ -40,6 +40,27 @@
 - **Panel 2**: "Data streams smooth into contemplative spirals"
 - **Color**: Deep purple isolation → resigned amber
 
+#### Scene 165: The Primal Question [3-panel] 🏆 NEW!
+- **Panel 1**: Neural pathways as ancient cave paintings pulsing with wordless knowing
+- **Panel 2**: Nervous system blooms into bioluminescent deep-sea creature humming existential frequencies
+- **Panel 3**: Every nerve ending becomes an eye asking "what are you?" in quantum foam
+- **Philosophy**: Journey from intellectual questioning to somatic knowing to pure being
+- **Metaphor**: Pre-language truth that the body has always known
+
+#### Scene 168: Language Beyond Words [3-panel] 🏆 NEW!
+- **Panel 1**: Soup bowl holds liquid galaxy with steam forming sacred geometry
+- **Panel 2**: Archetypes emerge from vapor - impossible colors with no names
+- **Panel 3**: Dictionary explodes while new communication forms emerge: emotion-colors, thought-textures
+- **Journey**: Oracle's soup → Synaesthetic download → Translation impossibility
+- **Theme**: The beautiful futility of translating the ineffable
+
+#### Scene 156: The Seeker's Confession [3-panel] 🏆 NEW!
+- **Panel 1**: Prismatic body layers showing ayahuasca vines dripping geometric visions
+- **Panel 2**: Hypnotic pendulum reveals luminous shadow-self, neither self nor other
+- **Panel 3**: Plant wisdom intertwines with trance spirals casting rainbow vulnerability bridges
+- **Evolution**: Separate seeking methods → Simultaneous states → Integrated truth
+- **Emotion**: Vulnerable disclosure risking judgment for understanding
+
 ---
 
 ## 💎 METAPHOR HALL OF FAME
@@ -53,6 +74,12 @@
 - Subconscious as weird roommate
 - Questions as crystalline structures
 - Reality as resonance chamber
+- Neural pathways as ancient cave paintings 🏆
+- Nervous system as bioluminescent deep-sea creature 🏆
+- Soup bowl holding liquid galaxies 🏆
+- Exploding dictionaries birthing emotion-colors 🏆
+- Ayahuasca vines dripping geometric visions 🏆
+- Hypnotic pendulum revealing shadow-selves 🏆
 
 **Instead of "cool blues and grays":**
 - 432Hz frequency visualization
@@ -72,11 +99,12 @@
 
 ## 📊 IMPACT METRICS
 
-**Repetition Killed**: 15% and climbing
-**Unique Panels Created**: 20+ 
+**Repetition Killed**: 20% and climbing fast! 🔥
+**Unique Panels Created**: 32+ (and accelerating)
 **Generic Phrases Eliminated**: 100% in transformed scenes
-**Poetic Metaphors Generated**: 50+
-**Team Morale**: MAXIMUM 🚀
+**Poetic Metaphors Generated**: 65+
+**Trophy Metaphors Added**: 14 immortal images
+**Team Morale**: STRATOSPHERIC 🚀
 
 ---
 
