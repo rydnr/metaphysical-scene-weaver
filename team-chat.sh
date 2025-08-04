@@ -1,0 +1,1 @@
+/home/chous/work/tmux-orchestrator/metaphysical-team-chat.sh
