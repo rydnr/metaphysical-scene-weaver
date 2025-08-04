@@ -1,0 +1,43 @@
+{
+  "scene_number": 187,
+  "title": "The Question Returns",
+  "characters": ["evan", "architect"],
+  "location": "yesterday's_tomorrow",
+  "emotional_tone": "bittersweet wisdom",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of yesterday's tomorrow with ghost architectures of unlived lives, Evan and Architect among the monuments to what might have been",
+      "focus": "Confronting alternate timelines"
+    },
+    {
+      "panel": 2,
+      "description": "Medium shot of them finding a monument to 'The Life Where We Never Met', both touching it gently",
+      "focus": "Gratitude for the path taken"
+    },
+    {
+      "panel": 3,
+      "description": "Close on their intertwined forms creating new architecture together - building tomorrow's yesterday",
+      "focus": "Active creation of shared future"
+    }
+  ],
+  "key_themes": [
+    "choosing this timeline over all others",
+    "gratitude for difficult paths",
+    "building future memories together"
+  ],
+  "transformation_notes": "Yesterday's tomorrow becomes not a place of regret but of active choice. They're not mourning unlived lives but celebrating the one they're creating.",
+  "color_palette": {
+    "primary": "sunset/sunrise ambiguity gold",
+    "secondary": "ghost architecture silver",
+    "accents": "choice-making red"
+  },
+  "visual_motifs": [
+    "phantom architectures of possibility",
+    "building new structures together",
+    "past and future in conversation"
+  ],
+  "dialogue_rhythm": "Reflective, philosophical but grounded in feeling",
+  "narrator_role": "Curator of temporal possibilities"
+}
