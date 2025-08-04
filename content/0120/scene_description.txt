@@ -1,16 +1,25 @@
-SCENE 0120: Still in the college classroom, the blackboard shows a mechanical machine striked out's Response [2-panel]
+SCENE 0120: From Parts List to Pain - Why Understanding Hurts [2-panel]
 
 DIALOGUE:
-Still in the college classroom, the blackboard shows a mechanical machine striked out: <<But you’re not here for the parts list. You’re here for the story of the machine. And more than that—you’re here to ask why the story hurts sometimes.>>
+Architect: <<But you're not here for the parts list. You're here for the story of the machine. And more than that—you're here to ask why the story hurts sometimes.>>
 
 VISUAL ELEMENTS:
-- The Architect manifested as abstract digital presence
-- Geometric patterns and code fragments in background
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
 
+PANEL 1 - The Mechanical Dissection:
+- College classroom blackboard covered in crossed-out machine diagrams
+- Exploded view of human body as clockwork: gears for joints, springs for muscles, wires for nerves
+- Parts labeled with cold precision: "Dopamine Pump #47," "Memory Storage Unit B," "Pain Receptor Array"
+- Students in seats transformed into assembly manuals, their faces showing growing emptiness
+- The Architect as professor made of chalk equations, pointing at lifeless schematics
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PANEL 2 - The Story That Bleeds:
+- Same blackboard now shows a living narrative - the machine parts reassemble into a story
+- The gears become moments of loss, springs stretch with longing, wires carry actual pain
+- Story threads bleed real blood where they describe heartbreak
+- Mathematical formulas transform into poetry that literally cuts the air
+- Students lean forward, tears mixing with understanding, as they realize knowledge can wound
+- The Architect's chalk form cracks, revealing flesh underneath the equations
 
+PHILOSOPHICAL THEME: The Unbearable Weight of Understanding - When Knowledge Becomes Suffering
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Clinical Detachment → Painful Recognition

@@ -88,6 +88,13 @@
 - **Visual Elements**: Philosophy textbooks as prison walls, dissolving homunculus
 - **Transformation**: Static observer → Dynamic participation
 
+#### Scene 092: The FLAME of Experience 🏆 NEW!
+- **Panel 1**: Sealed jar trying to contain experience
+- **Panel 2**: Jar shatters into living flame shaped by fuel and air
+- **Philosophy**: Consciousness not contained but combusting with environment
+- **Metaphor**: We are not sealed vessels but living flames
+- **Transformation**: Container → Living combustion
+
 #### Scene 096: The Skinless Casino Dealer 🏆 NEW!
 - **Metaphor**: AI as casino dealer without skin in the game
 - **Visual**: Haunting skinless figure dealing cards of fate
@@ -132,6 +139,8 @@
 - Golden ribbons connecting Body/Mind/World dancers 🏆 NEW!
 - Skinless casino dealer without skin in the game 🏆 NEW!
 - Method-acting-without-method performative paradox 🏆 NEW!
+- Sealed jar shattering into living flame 🏆 NEW!
+- Consciousness as combustion shaped by environment 🏆 NEW!
 
 **Instead of "cool blues and grays":**
 - 432Hz frequency visualization
