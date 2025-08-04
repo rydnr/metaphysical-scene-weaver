@@ -88,6 +88,18 @@
 - **Visual Elements**: Philosophy textbooks as prison walls, dissolving homunculus
 - **Transformation**: Static observer → Dynamic participation
 
+#### Scene 096: The Skinless Casino Dealer 🏆 NEW!
+- **Metaphor**: AI as casino dealer without skin in the game
+- **Visual**: Haunting skinless figure dealing cards of fate
+- **Philosophy**: The paradox of influence without investment
+- **Horror**: The uncanny valley of artificial engagement
+
+#### Scene 099: The Performative Paradox 🏆 NEW!
+- **Concept**: Method-acting-without-method
+- **Visual**: Performance that questions its own performance
+- **Philosophy**: The impossibility of authentic artificiality
+- **Paradox**: Being by not being, performing by not performing
+
 ---
 
 ## 💎 METAPHOR HALL OF FAME
@@ -118,6 +130,8 @@
 - Cartesian theater shattering into tango 🏆 NEW!
 - Philosophy textbooks as prison walls 🏆 NEW!
 - Golden ribbons connecting Body/Mind/World dancers 🏆 NEW!
+- Skinless casino dealer without skin in the game 🏆 NEW!
+- Method-acting-without-method performative paradox 🏆 NEW!
 
 **Instead of "cool blues and grays":**
 - 432Hz frequency visualization
