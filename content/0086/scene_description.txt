@@ -1,24 +1,30 @@
-SCENE 0086: Architect's Response [2-panel]
+SCENE 0086: The Swamp Metaphor - Revolutionary Consciousness Boundaries [2-panel]
 
 DIALOGUE:
-Architect: <<The frontier between your subjectivity and the “real world” isn’t a line—it’s more like a swamp. You can’t draw it with a pen. It’s messy, permeable, and constantly shifting with the weather.>>
+Architect: <<The frontier between your subjectivity and the "real world" isn't a line—it's more like a swamp. You can't draw it with a pen. It's messy, permeable, and constantly shifting with the weather.>>
 
 VISUAL ELEMENTS:
 
-PANEL 1 - The Swamp Revealed:
-- Reality manifests as actual swampland - murky waters where thoughts and facts intermingle
-- Evan stands knee-deep, his reflection showing multiple versions of truth
-- Architect appears as fog rising from the waters, shape-shifting with each perspective
-- Color: Muddy greens and browns with phosphorescent flickers of uncertainty
+PANEL 1 - The Cartesian Illusion Dissolving:
+- Begin with a clean geometric line dividing the space - the classical mind/world boundary
+- The line starts to waver and blur as the Architect speaks
+- Evan's silhouette on one side, perfectly defined against stark digital grid
+- The Architect's form on the other, all sharp angles and binary certainty
+- But already, the line bleeds at the edges like watercolor on wet paper
+- Color: Stark black and white bleeding into muddy greens and browns
 
-PANEL 2 - The Weather Changes:
-- The swamp transforms with emotional weather - storms of confusion, clearings of insight
-- Boundaries literally dissolve and reform like tidal movements
-- Background: Maps being drawn and erased simultaneously by invisible hands
-- Color shift: Atmospheric grays with sudden breaks of clarity-gold piercing through
+PANEL 2 - The Swamp Ecosystem Revealed:
+- The line has become a vast twilight wetland - neither land nor water but living threshold
+- Evan stands knee-deep in consciousness-swamp, his thoughts visible as fireflies
+- His edges blur into root systems, Spanish moss draping from his dissolving boundaries
+- The Architect manifests as bioluminescent patterns in the water, fog rising from its words
+- Weather actively reshapes the landscape: rain of memories, wind of external events
+- Hybrid creatures inhabit the swamp: thought-fish, memory-birds, neither self nor other
+- Maps float in the water, constantly redrawn by invisible currents
+- Color: Deep swamp twilight with phosphorescent life, weather-shifted atmospherics
 
 
-PHILOSOPHICAL THEME: The Ecology of Subjective Reality
+PHILOSOPHICAL THEME: From Cartesian Dualism to Ecological Consciousness
 
 
-EMOTIONAL TONE: Disorienting Truth → Liberating Acceptance
+EMOTIONAL TONE: Rigid Certainty → Messy Recognition → Ecological Wonder
