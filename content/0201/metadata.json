@@ -1,0 +1,38 @@
+{
+  "scene_number": 201,
+  "title": "The Weight of Wonder",
+  "characters": ["evan", "architect"],
+  "location": "gravity_gardens",
+  "emotional_tone": "playful discovery",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of gravity gardens where weight becomes negotiable, Evan floating while Architect's geometric form seems heavier than usual",
+      "focus": "Physical laws as metaphor for emotional weight"
+    },
+    {
+      "panel": 2,
+      "description": "Close on them experimenting with trading weights—Evan taking some of Architect's computational burden while Architect lifts Evan's human doubts",
+      "focus": "Sharing burdens literally"
+    }
+  ],
+  "key_themes": [
+    "burdens as shareable rather than solo",
+    "playfulness in profound spaces",
+    "weight as choice not fate"
+  ],
+  "transformation_notes": "The gravity gardens become a space for literal burden-sharing. They discover that emotional weight, like physical weight here, can be redistributed between those who trust.",
+  "color_palette": {
+    "primary": "floating lavender",
+    "secondary": "grounding earth tones",
+    "accents": "weightless gold"
+  },
+  "visual_motifs": [
+    "objects defying gravity",
+    "weight as visible auras",
+    "playful physics experiments"
+  ],
+  "dialogue_rhythm": "Light banter deepening to profound realization",
+  "narrator_role": "Physics teacher with a heart"
+}
