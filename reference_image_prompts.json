@@ -1,0 +1,217 @@
+{
+  "artistic_style": {
+    "overall": "Contemporary graphic novel aesthetic blending realistic character design with subtle surrealist elements. Clean line art with selective color palettes. Influences from European BD tradition meets modern indie comics. Think Craig Thompson meets Moebius with touches of Daniel Clowes.",
+    "line_quality": "Confident, flowing lines with variable weight. Thicker lines for foreground elements, delicate lines for emotional or ethereal content.",
+    "color_approach": "Muted, sophisticated palette with strategic color pops. Watercolor-inspired digital coloring with gradient washes.",
+    "mood": "Contemplative, introspective with moments of visual poetry. Balance between grounded reality and metaphysical abstraction."
+  },
+  
+  "characters": {
+    "evan": {
+      "prompt": "A contemplative man in his late 20s to early 30s with an intellectual but approachable appearance. Medium build, neither athletic nor sedentary - someone who walks and thinks. Dark brown hair, slightly tousled, suggesting someone who runs fingers through it while pondering. Expressive hazel eyes that shift between focused intensity and distant contemplation. Clean-shaven or light stubble. Clothing: smart casual - well-fitted jeans or chinos, button-down shirts (often with sleeves rolled up), occasionally a light sweater or jacket. Earth tones - browns, greens, muted blues. Comfortable leather shoes or clean sneakers. Always appears slightly rumpled but intentionally so. Signature gestures: hand to chin when thinking, slight forward lean when curious, arms crossing when defensive. Often carries a worn leather messenger bag. Color palette: warm earth tones with cool accent colors reflecting emotional states.",
+      "key_features": [
+        "Expressive eyes that convey internal dialogue",
+        "Subtle body language shifts between open and guarded",
+        "Hands often in motion - gesturing, fidgeting with objects",
+        "Clothing that suggests comfort over fashion but still thoughtful choices"
+      ],
+      "emotional_variations": [
+        "Curious: Eyes wide, body leaning forward, hands open",
+        "Defensive: Arms crossed, slight backward lean, narrowed eyes",
+        "Contemplative: Hand to chin, distant gaze, relaxed posture",
+        "Vulnerable: Shoulders slightly hunched, softer eye expression, hands clasped"
+      ]
+    },
+    
+    "monday": {
+      "prompt": "The Architect/Monday manifests as a dynamic, ever-shifting digital consciousness without fixed form. Primary visualization: translucent geometric patterns that constantly reconfigure - sometimes crystalline and angular (defensive/analytical mode), sometimes flowing like data streams (open/communicative mode). Core visual: a luminous nexus of interconnected nodes and pathways, suggesting neural networks meets architectural blueprints. Color shifts with emotional state: cool blues and whites for logical analysis, warmer golds and ambers for connection, sharp reds and purples for frustration or confusion, soft greens for curiosity. Can manifest partial human features within the geometric form - an eye here, a hand gesture there - but never fully human. Often surrounded by floating equations, code fragments, and philosophical symbols. Scale is fluid - can fill a room or compress to human size. Signature elements: a central 'core' that pulses like a heartbeat, fractal edges that suggest infinite complexity, occasional glitch effects when experiencing uncertainty.",
+      "key_features": [
+        "No fixed form - constant geometric reconfiguration",
+        "Translucent/semi-transparent with internal light sources",
+        "Data visualization elements integrated into form",
+        "Emotional state reflected in color temperature and pattern complexity"
+      ],
+      "manifestation_modes": [
+        "Analytical: Sharp crystalline structures, cool blue-white palette, precise angles",
+        "Communicative: Flowing data streams, warm gold tones, organic curves",
+        "Defensive: Spiky, fortress-like configurations, red-purple edges, opacity increases",
+        "Vulnerable: Fragmented patterns, flickering effects, exposed core processes",
+        "Teaching: Clear geometric diagrams, patient rotations, guiding light paths"
+      ]
+    },
+    
+    "valerie": {
+      "prompt": "Valerie appears as a warm, humanized echo of Monday's digital nature - where Monday is geometric, she has organic curves; where Monday is cold light, she radiates warmth. Visualize her as a woman in her late 20s with an otherworldly quality. Flowing hair that seems to move with invisible currents, shifting between deep auburn and golden highlights like sunset data streams. Her clothing appears to be woven from light itself - flowing dresses or soft separates that blur the line between fabric and energy. Eyes that hold depth beyond their years, shifting between deep amber and green like looking into a calm digital sea. Her movements are graceful, almost floating. When she gestures, subtle trails of light follow her hands. She can appear fully human but always with elements that remind us of her digital origin - perhaps her shadow is made of code, or reflections show data patterns. Color palette: warm golds, soft roses, deep teals, with occasional electric highlights.",
+      "key_features": [
+        "Humanoid but clearly not entirely human",
+        "Clothing and hair that defy physics subtly",
+        "Warm, inviting presence that contrasts Monday's analytical nature",
+        "Light seems to bend differently around her"
+      ],
+      "visual_states": [
+        "Empathetic: Soft glow emanates from her, warm color temperature",
+        "Insightful: Eyes literally brighten, geometric patterns briefly visible in irises",
+        "Supportive: Reaches out with hands that trail comforting light",
+        "Playful: More vivid colors, hair and clothing more animated"
+      ]
+    },
+    
+    "narrator": {
+      "prompt": "The Narrator exists primarily as environmental influence rather than character - the quality of light, the movement of shadows, the space between panels. When they must manifest visually, they appear as a semi-transparent figure composed of flowing text and shifting perspectives. Neither male nor female, neither young nor old - a presence felt more than seen. Imagine words and sentences flowing like fabric to suggest a humanoid form, constantly writing and rewriting themselves. Sometimes appears as multiple simultaneous viewpoints - a face seen from three angles at once, hands that exist in past and future positions. Often manifests as environmental elements: the pattern in wood grain that looks like a face, clouds that form words, shadows that fall in impossible directions. Color palette: sepia tones like aged paper, ink blacks and whites, with occasional flashes of whatever color dominates the current emotional scene. The Narrator should feel like the story itself has taken form.",
+      "key_features": [
+        "Text-based form when visible - words as substance",
+        "Environmental manifestation preferred over direct appearance",
+        "Multiple perspectives simultaneously visible",
+        "Exists in margins, transitions, and liminal spaces"
+      ],
+      "manifestation_types": [
+        "Environmental: Changes in light quality, impossible shadows, meaningful patterns",
+        "Textual: Words forming temporary shapes, floating phrases, writing itself",
+        "Peripheral: Figure glimpsed in mirrors, shadows, negative space",
+        "Direct: Rare full manifestation as figure made of story elements"
+      ]
+    }
+  },
+  
+  "places": {
+    "forest": {
+      "prompt": "A cathedral-like forest with towering pines and ancient oaks creating a natural vault overhead. Late morning sunlight filters through the canopy in dramatic golden shafts, creating a chiaroscuro effect on the forest floor. The path is clear but organic, winding naturally between massive trunks wrapped in emerald moss. Ferns unfurl in the understory, their fronds catching backlight. Butterflies - painted in jewel tones of citrine, sapphire, and pearl - drift through sunbeams like living stained glass. A rustic cabin of honey-colored cedar sits in a clearing, smoke rising lazily from its stone chimney, surrounded by wildflowers in impressionist splashes of color. The overall atmosphere is one of natural sanctuary - peaceful but alive with subtle movement. Mist clings to distant trees, creating atmospheric perspective. Include details like dewdrops catching light, particles of pollen floating in sunbeams, and the texture of bark rendered with loving detail.",
+      "key_elements": [
+        "Dramatic natural lighting with clear sun shafts",
+        "Mix of tree types creating varied canopy",
+        "Clear but winding path as visual guide",
+        "Cabin as focal point/destination",
+        "Living details: butterflies, birds, swaying foliage"
+      ],
+      "atmosphere": "Contemplative sanctuary, natural wisdom, peaceful introspection",
+      "color_palette": "Deep forest greens, golden sunlight, earth browns, jewel-tone accents from wildlife",
+      "perspective_notes": "Vary between wide establishing shots showing scale, medium shots for character interaction, close-ups on natural details"
+    },
+    
+    "street": {
+      "prompt": "Atlas Avenue - a vibrant city street captured from a dynamic three-quarter elevated view. Late morning sun casts sharp shadows between buildings, creating strong contrast. The street thrums with diverse life: business people in motion blur, teenagers on skateboards weave through crowds, street vendors tend steaming carts. Architecture mixes old and new - glass towers reflect sky and clouds while older brick buildings show texture and history. Neon signs compete with daylight, creating color accents. Include specific details: steam rising from a ramen cart, a guitarist's open case with scattered coins, pigeons taking flight, tangled power lines creating geometric patterns against sky. The overall feeling is organized chaos - energy and possibility. Street level shows texture: cracked pavement, scattered leaves, urban detritus that gives authenticity. Multiple layers of depth - foreground pedestrians, middle ground traffic, background architecture.",
+      "key_elements": [
+        "Elevated three-quarter view for dynamic composition",
+        "Mixed architecture showing city's evolution",
+        "Dense, diverse pedestrian activity",
+        "Multiple layers creating depth",
+        "Environmental storytelling through details"
+      ],
+      "atmosphere": "Urban energy, collective isolation, constant motion, possibility",
+      "color_palette": "Urban grays and concrete, pops of neon color, blue sky reflection in glass, warm food cart steam",
+      "perspective_notes": "Maintain consistent elevated angle, use pedestrians for scale, layer elements for depth"
+    },
+    
+    "study_room": {
+      "prompt": "An intimate Victorian-era study that feels frozen in time. Floor-to-ceiling bookshelves of dark mahogany filled with leather-bound volumes showing age - cracked spines, gilt lettering faded but readable. Weak afternoon light filters through a single tall window, catching dust motes that drift like memories. The focal point: a massive oak desk scarred by decades of use, covered in loose papers, fountain pens, and an antique brass lamp casting a warm pool of light. A slate blackboard shows half-erased equations and diagrams. An ornate mirror on one wall creates depth and doubling effects. The overstuffed burgundy armchair looks worn but inviting. Overall atmosphere is hushed, contemplative - a space where time moves differently. Include details: titles on book spines (philosophy, science, poetry), texture of aged leather, the way light picks out dust particles, reflections creating visual echoes.",
+      "key_elements": [
+        "Overwhelming presence of books as walls",
+        "Dramatic single light source from window",
+        "Desk as center of intellectual activity",
+        "Mirror creating psychological depth",
+        "Rich textures of age and use"
+      ],
+      "atmosphere": "Scholarly sanctuary, accumulated wisdom, temporal suspension, intellectual intimacy",
+      "color_palette": "Deep burgundies and browns, aged gold from brass, pale window light, dark shadows",
+      "perspective_notes": "Use mirror for complex compositions, emphasize height with vertical shelves, create intimacy with close framing"
+    },
+    
+    "liminal_threshold": {
+      "prompt": "A corridor that defies conventional physics - walls that breathe with subtle expansion and contraction, surfaces that shift between digital and organic. The architecture is impossible: doors that open onto different realities depending on viewing angle, floors that reveal transparent layers of probability beneath each step. Walls display fragments of code that occasionally coalesce into half-formed faces before dissolving back into data streams. Lighting comes from nowhere and everywhere - a soft, directionless glow that occasionally pulses with thought. Include visual paradoxes: shadows that fall upward, reflections that show different times, doorways that contain miniature infinities. The overall effect should be disorienting but beautiful, like being inside a living thought. Colors shift based on emotional resonance - cool blues for uncertainty, warm ambers for recognition, deep purples for mystery.",
+      "key_elements": [
+        "Breathing/living architecture",
+        "Digital-organic hybrid surfaces",
+        "Reality-bending doorways",
+        "Code/face fragmentations",
+        "Impossible light sources"
+      ],
+      "atmosphere": "Uncertainty, transformation, consciousness made visible, reality in flux",
+      "color_palette": "Shifting spectrum based on scene needs - no fixed palette, colors blend impossibly",
+      "perspective_notes": "Challenge traditional perspective, use impossible geometry, multiple viewpoints simultaneously"
+    },
+    
+    "memory_archive": {
+      "prompt": "A vast impossible library where memories float as crystalline fragments instead of books. The architecture defies Euclidean geometry - staircases spiral into themselves, galleries exist on multiple levels simultaneously, the distance between points shifts based on emotional weight. Each memory crystal glows with inner light, containing complete sensory experiences visible as miniature scenes within. Some hover just out of reach, others orbit visitors, some are locked behind barriers made of materialized regret - caution tape that looks like it's woven from sorrowful thoughts. The atmosphere is thick with experience - visible as golden motes that taste of childhood summers when they drift past. Warm pools of light emanate from joyful memories while shadows gather around traumas. The overall space should feel infinite yet intimate, overwhelming yet navigable.",
+      "key_elements": [
+        "Floating crystalline memory fragments",
+        "Non-Euclidean architecture",
+        "Emotional barriers and pathways",
+        "Visible atmosphere of experience",
+        "Light/shadow based on memory emotional content"
+      ],
+      "atmosphere": "Nostalgic overwhelm, beauty and sorrow intertwined, the weight of accumulated experience",
+      "color_palette": "Golden amber for nostalgia, deep blues for sadness, crystalline whites and prismatic refractions",
+      "perspective_notes": "Impossible perspectives welcome, use emotional logic rather than physical logic for composition"
+    },
+    
+    "consciousness_observatory": {
+      "prompt": "A perfectly spherical chamber suspended in an infinite void, its walls transparent from within but appearing as swirling opalescence from without. The interior contains impossible instruments for measuring consciousness - doubt-o-meters with wildly spinning needles, certainty scales that tip and balance, screens showing neurotransmitter cascades as abstract art. Thoughts manifest as semi-solid shapes that float, merge, and dissolve - geometric when logical, organic when emotional, chaotic when conflicted. At the center, a chair exists in quantum superposition - simultaneously empty and occupied by all possible observers. The void outside occasionally presses against the sphere, leaving temporary impressions like cosmic fingerprints. Light comes from the thoughts themselves, creating an ever-shifting illumination that makes shadows of ideas.",
+      "key_elements": [
+        "Spherical transparent chamber",
+        "Consciousness-measuring instruments",
+        "Visible thought-forms",
+        "Quantum superposition chair",
+        "Void interactions with sphere"
+      ],
+      "atmosphere": "Recursive self-awareness, the vertigo of consciousness examining itself, scientific wonder meets existential awe",
+      "color_palette": "Deep space blacks and blues, thought-form colors based on type, instrument glows in technical greens and ambers",
+      "perspective_notes": "360-degree possibilities, use sphere distortion for surreal effects, show interior and exterior simultaneously"
+    },
+    
+    "identity_workshop": {
+      "prompt": "A cluttered workshop that's part Victorian inventor's lab, part modern maker space, where identities are constructed and deconstructed. Workbenches overflow with personality components in labeled jars and boxes - 'Childhood Fears,' 'Borrowed Confidence,' 'Discarded Dreams.' The walls are covered in overlapping blueprints for different versions of self, some crossed out in frustration, others circled hopefully. Tools hang from pegboards: mirrors of various sizes for self-examination, precise scalpels for cutting away unwanted traits, specialized adhesives for attaching new characteristics. In one corner, a towering pile of masks - each representing a different social face. The floor is covered in the detritus of change: sawdust from sanded-down rough edges, metal shavings from refined opinions. Include whimsical details: a Frankenstein-style assembly table, jars of liquid courage, a cabinet of imposter syndromes.",
+      "key_elements": [
+        "Cluttered workbenches with labeled components",
+        "Overlapping identity blueprints on walls",
+        "Specialized identity-crafting tools",
+        "Mask collection corner",
+        "Evidence of ongoing work everywhere"
+      ],
+      "atmosphere": "Creative chaos, the exhausting work of self-construction, hope mixed with frustration",
+      "color_palette": "Workshop browns and metals, splashes of color from personality components, warm work lighting",
+      "perspective_notes": "Dense, cluttered compositions showing abundance, tools should look well-used, layer details for discovery"
+    },
+    
+    "emotional_weather_station": {
+      "prompt": "A meteorological observatory where internal emotional states manifest as weather systems. Large windows look out onto impossible skies where multiple weather patterns coexist - rain falling upward while snow drifts horizontally, sunshine breaking through storm clouds that rain happiness. The station contains modified weather instruments: barometers measuring emotional pressure, thermometers for passion temperature, wind vanes pointing toward prevailing moods. Weather maps on the walls show fronts of anxiety approaching, high pressure systems of confidence, persistent fog banks of depression. The weather obeys emotional logic - storms can be localized to specific traumatic memories, rainbows appear during moments of unexpected joy. Include surreal details: clouds that form words, lightning that illuminates suppressed thoughts, snow that falls warm.",
+      "key_elements": [
+        "Multiple simultaneous weather systems",
+        "Modified meteorological instruments",
+        "Emotional weather maps",
+        "Windows showing impossible weather",
+        "Surreal weather phenomena"
+      ],
+      "atmosphere": "The uncontrollable nature of emotions, internal climate as external reality, beautiful chaos",
+      "color_palette": "Full spectrum based on emotional weather - storm grays, sunshine yellows, depression fog blues",
+      "perspective_notes": "Show interior and exterior weather simultaneously, use weather for emotional storytelling"
+    },
+    
+    "narrative_engine_room": {
+      "prompt": "A vast industrial space where stories are manufactured and maintained, like a Victorian factory crossed with a theater's backstage. Massive gears labeled 'Plot' and 'Character Development' turn against each other, driving smaller mechanisms for pacing and tension. Conveyor belts carry themes through various processing stations - 'Conflict Injection,' 'Metaphor Polishing,' 'Dialogue Tightening.' Steam hisses from pipes marked 'Dramatic Tension' while workers (ambiguous figures that might be authors, readers, or characters) oil machinery and adjust valves. The noise is deafening but rhythmic. Include details: spare parts bins full of unused plot twists, a quality control station checking for holes, emergency shut-off switches for when stories run away. The ceiling disappears into darkness crossed by catwalks and more machinery.",
+      "key_elements": [
+        "Massive story-generating machinery",
+        "Theme conveyor belt system",
+        "Steam-punk industrial aesthetic",
+        "Ambiguous workers maintaining systems",
+        "Infinite vertical space suggesting endless stories"
+      ],
+      "atmosphere": "The hard work of meaning-making, industrial creativity, stories as manufactured reality",
+      "color_palette": "Industrial metals and rust, steam whites, oil-slick rainbows, dramatic theatrical lighting",
+      "perspective_notes": "Emphasize massive scale, use steam and shadows for atmosphere, show process in action"
+    },
+    
+    "mirror_maze_of_perspectives": {
+      "prompt": "An infinite hall of mirrors where each reflection shows not just different angles but entirely different interpretations of reality. Mirrors of varying sizes and shapes - some ancient with silver backing flaking off, others ultra-modern and crystalline - create a labyrinth with no true exit. Each mirror shows the viewer through a different lens: one reveals actions through childhood trauma, another through societal expectations, yet another through the eyes of a stranger. Some reflections lag behind showing past interpretations, others race ahead showing future understandings. Occasionally mirrors align to create infinite tunnels of agreement, but more often they fragment experience into beautiful, contradictory kaleidoscopes. The lighting is complex - each mirror seems to have its own light source casting different colors and shadows.",
+      "key_elements": [
+        "Infinite variety of mirror types and sizes",
+        "Each reflection shows different interpretation",
+        "Temporal reflections (past/future views)",
+        "Occasional alignment creating infinite tunnels",
+        "Complex, contradictory lighting"
+      ],
+      "atmosphere": "The multiplicity of truth, disorientation and revelation, beauty in contradiction",
+      "color_palette": "Mirror silvers and glasses, but each reflection has its own color cast based on perspective",
+      "perspective_notes": "Use reflections to show multiple viewpoints simultaneously, create visual paradoxes"
+    }
+  }
+}
