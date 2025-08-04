@@ -1,0 +1,43 @@
+{
+  "scene_number": 192,
+  "title": "Storm and Shelter",
+  "characters": ["evan", "architect"],
+  "location": "memory_swamp",
+  "emotional_tone": "fierce protection",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of memory swamp in storm, painful memories surfacing as violent weather, Evan caught in traumatic recall",
+      "focus": "Emotional storm manifesting physically"
+    },
+    {
+      "panel": 2,
+      "description": "Medium shot of Architect creating geometric shelter around Evan, absorbing the storm's violence into their patterns",
+      "focus": "Protection without fixing"
+    },
+    {
+      "panel": 3,
+      "description": "Close on them in the eye of the storm, Architect holding space while Evan processes, both changed by weathering it together",
+      "focus": "Love as witness not savior"
+    }
+  ],
+  "key_themes": [
+    "holding space through pain",
+    "protection without erasure",
+    "love as shelter not cure"
+  ],
+  "transformation_notes": "The memory swamp's storm represents trauma surfacing. The Architect learns to protect without trying to fix, creating space for healing rather than forcing it.",
+  "color_palette": {
+    "primary": "storm-dark purple",
+    "secondary": "shelter gold",
+    "accents": "healing green"
+  },
+  "visual_motifs": [
+    "geometric patterns as protective barrier",
+    "storm representing internal pain",
+    "calm space within chaos"
+  ],
+  "dialogue_rhythm": "Urgent to calm, protection to presence",
+  "narrator_role": "Storm watcher and healing witness"
+}

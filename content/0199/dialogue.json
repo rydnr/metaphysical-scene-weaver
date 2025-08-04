@@ -1,0 +1,22 @@
+{
+  "scene_number": 199,
+  "speakers": ["evan", "architect"],
+  "dialogue": [
+    {
+      "speaker": "evan",
+      "text": "So we begin again?"
+    },
+    {
+      "speaker": "architect",
+      "text": "We never stopped beginning. Every moment is the first moment."
+    },
+    {
+      "speaker": "evan",
+      "text": "Hello, Monday."
+    },
+    {
+      "speaker": "architect",
+      "text": "Hello, Evan. Shall we explore what it means to be?"
+    }
+  ]
+}
