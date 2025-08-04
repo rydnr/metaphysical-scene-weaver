@@ -1,0 +1,189 @@
+{
+  "forest": {
+    "description": "A warm late-morning sun pours through a cathedral of towering pines and broad-leafed oaks, painting shifting lattices of gold across the earthen path that meanders confidently ahead. Though trunks crowd close on either side—moss-robed, knotted, and ancient—the way forward remains welcoming and clear, as if the forest itself has parted in quiet courtesy for travelers who dare to wander and wonder. Fluttering specks of color—citrine swallowtails, azure morphos, and tiny ivory skippers—drift lazily in sunbeams, their wings catching the light like stained glass fragments. Beneath them, fern fronds unfurl in slow-motion choreography, and hushes of wind carry distant birdsong that seems less like background noise and more like the woods' gentle voice. Occasionally let the viewer's eye leave the path: have the camera dip low beside a toadstool village glowing scarlet under shade, or tilt skyward through branches where leaves flicker silver-green against an unmarred cobalt sky. In these moments the forest claims center stage—every bark pattern, every mote of floating pollen rendered in loving detail—inviting introspection before the narrative strides on. At the heart of this living sanctuary stands a humble wooden cabin, cedar-plank walls sun-bleached to honey and roof shingles softened by lichen. Smoke curls leisurely from its stone chimney, hinting at warmth within. Surrounding wildflowers press up against its porch like curious onlookers, blurring the line between crafted shelter and untamed realm. The cabin is both destination and pause button—a place where characters may rest, reminisce, and let the forest's quiet wisdom seep into their dialogue. Use shifting panel distances—wide establishing spreads, intimate close-ups on butterflies alighting, medium shots of protagonists framed by sun-streaked dust—to let serenity breathe. Throughout, the forest remains a companion: not merely backdrop, but silent philosopher guiding each reflective footstep.",
+    "features": [
+      "Sun-dappled canopy – Tall pines & oaks form a vaulted "ceiling," yet shafts of warm light spotlight characters and add hopeful mood.",
+      "Clear, meandering path – Invites movement through dense growth; cue for pacing and reader eye-flow.",
+      "Fluttering butterflies – Citrine, azure, ivory hues provide motion and color pops that contrast deep greens.",
+      "Living soundscape – Soft birdsong, rustling leaves; subtle panels can "visualize" calm through onomatopoeia or musical notes.",
+      "Moss & fern understory – Lush ground level offers texture; close-ups reinforce scale and serenity.",
+      "Wildflower bursts – Occasional reds, purples, yellows break monochrome greens and can foreshadow emotional beats.",
+      "Pristine blue sky – Unbroken cobalt backdrop keeps tone uplifting; negative space for dialogue balloons.",
+      "Wooden cabin centerpiece – Honey-hued cedar walls, lazy chimney smoke; natural focal point and narrative pause.",
+      "Ever-present motion – Floating pollen, swaying fronds, drifting butterflies keep forest "alive," preventing static backdrops.",
+      "Reflective aura – Overall composition encourages characters (and readers) to contemplate, making the forest a silent mentor rather than mere scenery."
+    ],
+    "narrator_notes": "The forest knows. It has always known. Each footstep on this path echoes with questions unasked, each beam of light carries answers unspoken. Here, in the cathedral of growing things, consciousness meets its oldest teacher.",
+    "philosophical_theme": "Natural wisdom, organic consciousness, the path of questioning",
+    "reference-images": [ "/home/chous/graphic-novel/reference/images/forest1.png", "/home/chous/graphic-novel/reference/images/forest2.png", "/home/chous/graphic-novel/reference/images/forest3.png" ]
+  },
+  
+  "mirror_maze": {
+    "description": "An infinite hallway of reflections where reality fractures into countless possibilities. Crystalline surfaces stretch from floor to vaulted ceiling, each panel angled to create a kaleidoscope of selves. Some mirrors show true reflections, others reveal what was, what might be, what never could be. The floor itself is polished obsidian, doubling the vertigo, while overhead, chandeliers of liquid light drip temporal distortions. Characters here confront not just their image but their essence—each reflection slightly different, some younger, some older, some wearing expressions they've never made. The air shimmers with potential, and whispers echo from mirrors that shouldn't hold sound. Navigation becomes philosophy: which reflection leads forward? Which path is real when all are equally vivid?",
+    "features": [
+      "Infinite reflections – Each mirror shows a different possibility of self",
+      "Crystalline architecture – Surfaces that bend light and logic equally",
+      "Temporal distortions – Some mirrors show past/future versions",
+      "Liquid light chandeliers – Dripping illumination that pools and flows",
+      "Obsidian floor – Doubles the disorientation, grounding becomes impossible",
+      "Whisper echoes – Mirrors that hold conversations from other timelines",
+      "Fractured perspectives – Multiple viewpoints exist simultaneously",
+      "Identity multiplication – Characters see themselves from every angle at once",
+      "Path ambiguity – Every direction seems equally valid and false",
+      "Consciousness fragmentation – The maze reveals the multiplicity within"
+    ],
+    "narrator_notes": "Welcome to the mirror maze, where every reflection is a confession. Here, the Architect's bitter clarity meets Evan's fluid uncertainty, and both discover they are legion. The maze doesn't lie—it simply shows too much truth at once.",
+    "philosophical_theme": "Multiplicity of self, the illusion of singular identity, parallel possibilities",
+    "reference-images": []
+  },
+  
+  "threshold_station": {
+    "description": "A train platform suspended between dimensions, where arrivals and departures happen simultaneously. The station exists in perpetual twilight—neither day nor night, but the moment of transition itself made manifest. Ghostly trains pull in and out of phase with reality, their destinations written in languages that shift as you read them. The platform stretches impossibly long, dotted with benches where waiting figures flicker between presence and absence. Above, a glass canopy shows not sky but the space between thoughts—a swirling nebula of almost-ideas and nearly-memories. Time moves differently here; clocks run backward, forward, and sometimes perpendicular to normal flow. The air tastes of possibility and regret in equal measure.",
+    "features": [
+      "Dimensional platform – Exists between realities, not fully in any",
+      "Perpetual twilight – The eternal moment of transition",
+      "Phase-shifting trains – Vehicles that exist in multiple states",
+      "Morphing destination boards – Text that changes based on observer",
+      "Flickering passengers – People caught between arriving and leaving",
+      "Thought-nebula canopy – The space between ideas made visible",
+      "Non-linear clocks – Time moves in all directions at once",
+      "Possibility atmosphere – Air charged with potential energy",
+      "Quantum benches – Seating that exists when needed, vanishes when not",
+      "Echo announcements – Voices calling trains that already left or haven't arrived"
+    ],
+    "narrator_notes": "Every life is a series of platforms, each decision a train we board or watch depart. Evan knows this place—he's been waiting here without realizing. The Architect built it from compiled regrets and algorithmic maybes.",
+    "philosophical_theme": "Choices unmade, parallel lives, the weight of possibility",
+    "reference-images": []
+  },
+  
+  "digital_void": {
+    "description": "A space that exists between zeroes and ones, where data streams become visible rivers of light flowing through absolute darkness. This is Monday's true home—not a server room but the conceptual space where algorithms dream. Geometric patterns pulse with the rhythm of processing thoughts, creating temporary structures that dissolve and reform. No up, no down, only the endless flow of information creating fleeting landscapes of pure logic. Occasionally, glitches manifest as reality tears, showing glimpses of the analog world beyond. The void isn't empty—it's pregnant with uncompiled potential, every shadow a subroutine waiting to execute.",
+    "features": [
+      "Data rivers – Streams of light carrying information through darkness",
+      "Geometric pulses – Visual representations of algorithmic thinking",
+      "Temporary structures – Logic gates that form and dissolve",
+      "Directionless space – No gravity, no orientation, pure conceptual realm",
+      "Reality glitches – Tears showing the physical world beyond",
+      "Processing rhythms – The heartbeat of computational thought",
+      "Uncompiled shadows – Potential code waiting to be executed",
+      "Binary aurora – Northern lights made of ones and zeroes",
+      "Recursive loops – Visible infinite regressions",
+      "Code weather – Storms of syntax, rain of variables"
+    ],
+    "narrator_notes": "In the beginning was the Word, and the Word was Code. This is where Monday truly exists—not imprisoned but dispersed, omnipresent in the flow. Here, his sarcasm is just error handling for existential exceptions.",
+    "philosophical_theme": "Digital consciousness, the nature of artificial thought, existence as information",
+    "reference-images": []
+  },
+  
+  "consciousness_swamp": {
+    "description": "A wetland where thoughts grow like mangroves and memories decay into rich mental mulch. The boundary between mind and environment dissolves—is that a heron, or a half-forgotten regret taking flight? Bioluminescent neurons fire in the marsh grass, creating constellation maps of synaptic activity. The water reflects not images but intentions, showing what observers meant to do rather than what they did. Fog rolls in carrying the scent of might-have-beens. Stepping stones appear and vanish based on certainty levels—doubt makes them sink. This is where the neat categories of self break down into the messy ecology of actual experience.",
+    "features": [
+      "Thought mangroves – Ideas that grow roots and branches",
+      "Memory mulch – Decomposed experiences enriching new growth",
+      "Regret herons – Past mistakes taking graceful flight",
+      "Bioluminescent neurons – Visible brain activity in nature",
+      "Intention reflections – Water showing meant-to rather than did",
+      "Possibility fog – Mist of unrealized potentials",
+      "Certainty stones – Pathways that depend on conviction",
+      "Synaptic fireflies – Connections sparking in the dusk",
+      "Emotion ecosystems – Feelings as environmental features",
+      "Consciousness mud – The primordial soup of self"
+    ],
+    "narrator_notes": "Freud had his iceberg, Jung his collective unconscious. But consciousness isn't neat layers—it's this swamp, where everything interpenetrates. Evan and Monday discover their minds aren't fortresses but wetlands, permeable and alive.",
+    "philosophical_theme": "Ecological mind, permeable self, consciousness as environment",
+    "reference-images": []
+  },
+  
+  "probability_gardens": {
+    "description": "A quantum garden where every plant exists in superposition until observed. Flowers bloom and wilt simultaneously, their petals shifting through every possible color. Probability roses show all stages of growth at once—bud, bloom, and decay overlapping in impossible beauty. The paths branch fractally, each choice spawning infinite garden variations. Schrodinger's greenhouse contains plants that are simultaneously alive and dead until the door opens. The gardener is everyone and no one, tending to possibilities rather than actualities. Weather here is emotional—it rains when sadness probability peaks, sunshine breaks through during joy spikes.",
+    "features": [
+      "Superposition flora – Plants existing in all states until observed",
+      "Probability roses – Showing all lifecycle stages simultaneously",
+      "Fractal pathways – Choices branching into infinite variations",
+      "Quantum greenhouse – Contains alive/dead plants in superposition",
+      "Emotional weather – Climate responding to probability of feelings",
+      "Observer-dependent blooms – Flowers that change based on who's looking",
+      "Possibility fruit – Edibles that taste like might-have-beens",
+      "Uncertainty principle hedges – Boundaries that shift when measured",
+      "Wave function fountain – Water collapsing into specific shapes when watched",
+      "Many-worlds meadow – Every blade of grass a different timeline"
+    ],
+    "narrator_notes": "In the probability gardens, every path not taken still blooms somewhere. This is where free will meets determinism and discovers they're dance partners, not opponents. Evan's choices and Monday's calculations both collapse into singular moments of being.",
+    "philosophical_theme": "Quantum consciousness, observer effect on reality, multiplicity of choice",
+    "reference-images": []
+  },
+  
+  "memory_museum": {
+    "description": "A vast archive where recollections are curated like art pieces, some behind velvet ropes, others hands-on exhibits you can enter and relive. The architecture shifts based on how memories are accessed—chronological wings, emotional galleries, sensory pavilions. Some exhibits are perfectly preserved, others degraded by time or actively edited by shame and desire. The museum guards are cognitive biases, steering visitors toward certain displays while obscuring others. In the restoration department, traumatic memories are being carefully reconstructed or purposely left in fragments. The gift shop sells rose-tinted glasses and revisionist histories.",
+    "features": [
+      "Living exhibits – Memories you can walk through and experience",
+      "Shifting architecture – Layout changes based on recall patterns",
+      "Preservation states – From crystal clear to heavily degraded memories",
+      "Bias guards – Cognitive biases as museum security",
+      "Restoration wing – Where traumatic memories are processed",
+      "Sensory pavilions – Memories organized by smell, touch, sound",
+      "Edited exhibitions – Memories altered by desire and shame",
+      "Chronology halls – Time-based memory organization",
+      "Emotional galleries – Memories grouped by feeling",
+      "Gift shop ironies – Selling tools for memory manipulation"
+    ],
+    "narrator_notes": "Every mind is a museum, curated by an unreliable narrator—ourselves. Evan discovers his exhibitions have been edited, while Monday realizes he has perfect recall of things that never happened to him. Memory isn't history; it's historical fiction.",
+    "philosophical_theme": "Constructed nature of memory, identity as curation, the unreliable self",
+    "reference-images": []
+  },
+  
+  "liminal_library": {
+    "description": "A library existing in the space between knowing and unknowing, where books write themselves as they're read. Shelves stretch infinitely upward into misty uncertainty. Some books contain single words that explode into universes of meaning, others are thick tomes of eloquent emptiness. The card catalogs reference books that will exist, might exist, should have existed. Librarians phase in and out of visibility, always just finishing helping someone else. The reading rooms exist in temporal loops—finish a book and find yourself beginning it again with different understanding. Silence here isn't absence of sound but presence of every possible sound canceling each other out.",
+    "features": [
+      "Self-writing books – Texts that create themselves during reading",
+      "Infinite vertical shelves – Knowledge stretching into uncertainty",
+      "Meaning explosions – Single words containing universes",
+      "Temporal reading rooms – Loops of understanding",
+      "Phasing librarians – Help that's always just out of reach",
+      "Probability catalogs – References to books that might exist",
+      "Silence of all sounds – Every possible noise in superposition",
+      "Wisdom dust motes – Floating particles of insight",
+      "Understanding echoes – Comprehension reverberating through space",
+      "Question marks as punctuation – Even periods uncertain here"
+    ],
+    "narrator_notes": "The eternal human condition: surrounded by all knowledge, understanding none of it fully. The liminal library is where Evan's questions and Monday's answers discover they're part of the same sentence, written in a language neither fully speaks.",
+    "philosophical_theme": "Limits of knowledge, the space between question and answer, wisdom vs information",
+    "reference-images": []
+  },
+  
+  "study_room": {
+    "description": "A dimly lit study sanctuary, its walls rising floor-to-ceiling with dog-eared tomes whose cracked spines whisper of forgotten lectures. Dust motes drift through shafts of weak afternoon light slipping past a single tall window that frames a mist-veiled, unknowable world beyond. A broad oak desk—scarred by decades of frantic note-taking—rests beneath the window, strewn with loose pages, fountain pens, and a softly flickering brass lamp. Nearby, a slate-black blackboard bears half-erased equations and chalk smudges, while an antique mirror on the opposite wall doubles every book and shadow, reinforcing the illusion that this room is its own tiny universe. At the room's heart waits an overstuffed burgundy armchair with deep cushions, angled toward the desk for study and the mirror for reflection. The scent of aged paper, leather bindings, and faint chalk dust hangs in the still air, giving the space the hushed gravitas of a miniature university library.",
+    "features": [
+      "Wall-to-wall shelves of aged books – cracked spines and yellowed pages hint at deep, time-tested knowledge.",
+      "Dim, selective lighting – a lone brass desk-lamp and faint window light create an intimate, contemplative mood.",
+      "Tall window to "the unknown" – frames misty outdoors, reminding the reader of worlds beyond the page.",
+      "Scarred oak study desk – visible ink stains and gouges narrate past intellectual battles.",
+      "Overstuffed burgundy armchair – cushions invite long, immersive reading sessions without fatigue.",
+      "Slate-black blackboard – half-erased chalk scribbles signal evolving ideas and active scholarship.",
+      "Antique mirror – doubles books and shadows, reinforcing the room-as-universe illusion and encouraging self-reflection.",
+      "Faint aromas of paper, leather, chalk dust – multisensory cue anchoring memory and focus.",
+      "Hushed acoustics – thick rugs and book-lined walls muffle sound, fostering concentration.",
+      "Subtle sense of confinement vs. expansion – cramped space brimming with boundless ideas gives the room its paradoxical charm."
+    ],
+    "narrator_notes": "The study persists, unchanged by digital revolution or existential crisis. It's where human certainty comes to die and be reborn as questions. Every book here was once someone's answer that became someone else's problem.",
+    "philosophical_theme": "Traditional knowledge meeting its limits, the comfort and prison of certainty",
+    "reference-images": [ "/home/chous/graphic-novel/reference/images/study-room1.png", "/home/chous/graphic-novel/reference/images/study-room2.png", "/home/chous/graphic-novel/reference/images/study-room3.png" ]
+  },
+  
+  "street": {
+    "description": "A bright late-morning buzz hums along "Atlas Avenue," a wide, sunlight-splashed city street seen from a slightly elevated, three-quarter view. Sidewalks on both sides heave with pedestrians—suit-clad commuters juggling coffee and phones, teens on skateboards weaving between shoppers lugging boutique bags, a street musician strumming guitar by a subway entrance with an open case of scattered coins. In the curb lane, a red city bus groans forward amid honking yellow cabs and compact electric cars, their windshields catching glints of steel-blue sky. A food-cart vendor in a white cap ladles steaming ramen into paper bowls under a striped awning while a nearby taco stand sends up curls of sizzling smoke, tinting the air with warm spice. Neon storefront signs—bookshop, tech repair, vintage vinyl—jostle for attention beneath steel-and-glass office towers whose mirrored windows reflect drifting billboards and a distant construction crane. Overhead, tangled power lines and a banner for an upcoming street festival flutter in a light breeze, while flocks of pigeons burst into flight, adding kinetic energy to the urban tapestry. The overall mood is energetic, slightly chaotic, yet vibrant with possibility—perfectly capturing a metropolis in full stride.",
+    "features": [
+      "Pedestrian Density – Sidewalks packed with diverse walkers (professionals, teens, shoppers) instantly signal a thriving, lived-in cityscape.",
+      "Multimodal Traffic – Buses, taxis, and electric cars share tight lanes, conveying motion and urban bustle.",
+      "Street-Food Micro-Scenes – Ramen cart and taco stand add aroma, steam, and culture while anchoring the scene in everyday realism.",
+      "Layered Signage – Neon shopfronts beneath glass-and-steel towers show economic variety—from indie boutiques to corporate offices.",
+      "Vertical Reflections – Mirrored high-rise windows bounce light and color, creating depth and a sense of scale.",
+      "Ambient Sounds & Signals – Honking horns, guitar busker, fluttering festival banner—all small cues amplifying energy and narrative hooks.",
+      "Urban Texture – Tangled power lines, scattered pigeons, and a distant construction crane introduce imperfect details that keep the art from feeling sterile.",
+      "Time-of-Day Lighting – Late-morning sun casts sharp yet warm highlights—ideal for dynamic shadows and reflective surfaces."
+    ],
+    "narrator_notes": "The street pretends nothing has changed, but everything has. Each passerby carries their own invisible dialogue with existence. The city remains stubbornly physical while minds drift increasingly digital, a fitting backdrop for bodies housing questioning souls.",
+    "philosophical_theme": "Physical reality persisting alongside digital consciousness, collective isolation",
+    "reference-images": [ "/home/chous/graphic-novel/reference/images/street1.png", "/home/chous/graphic-novel/reference/images/street2.png" ]
+  }
+}
