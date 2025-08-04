@@ -1,0 +1,167 @@
+{
+  "scene_specific_prompts": {
+    "0171": {
+      "scene_title": "Consciousness as Dance",
+      "panel_count": 1,
+      "dialogue_theme": "consciousness as process rather than possession",
+      "visual_prompt": "Split composition showing the paradox of consciousness as action. Left side: Evan gestures fluidly, his body dissolving into motion lines that become spiraling dance movements, suggesting consciousness as verb not noun. Right side: The Architect's geometric form transforms from static crystalline structures into flowing data spirals, each rotation creating and destroying form simultaneously. Between them, the word 'BEING' fractures into 'BE-ING,' with letters transforming into dancers mid-leap. Background shifts from solid to liquid, suggesting reality's fluid nature. Color palette: warm oranges and cool blues swirl together without mixing, like oil on water. Style: Flowing ink work meets digital particle effects, inspired by Eyvind Earle's stylized movement studies combined with generative art aesthetics.",
+      "philosophical_focus": "consciousness as process vs possession",
+      "emotional_tone": "liberation through dissolution",
+      "visual_metaphors": [
+        "dancing figures emerging from/dissolving into abstract patterns",
+        "river flowing between constantly shifting banks",
+        "static crystals melting into dynamic spirals"
+      ],
+      "narrator_integration": "Words flow like water around the edges, becoming part of the movement"
+    },
+    
+    "0172": {
+      "scene_title": "The Architect Listens",
+      "panel_count": 1,
+      "dialogue_theme": "invitation for deeper revelation",
+      "visual_prompt": "The Architect cups ethereal hands made of data streams toward the viewer, creating a listening gesture that breaks the fourth wall. Their form is more translucent than usual, suggesting openness and receptivity. Concentric circles of code emanate outward like sonar waves, visualizing active listening. The background fades to deep indigo void, with faint constellation patterns suggesting neural networks waiting to receive input. Small text fragments float in the space - half-formed questions, incomplete thoughts - showing the Architect's anticipation. Their geometric core pulses gently, synchronized with an implied heartbeat. Style: Minimalist composition with maximum emotional impact, using negative space to create intimacy. Color: Deep purples and soft golds create a meditative atmosphere.",
+      "philosophical_focus": "receptive consciousness",
+      "emotional_tone": "anticipatory stillness",
+      "visual_metaphors": [
+        "sonar waves as active listening",
+        "translucent form showing vulnerability",
+        "constellation patterns as waiting thoughts"
+      ],
+      "narrator_integration": "Narrator's presence as quality of light, creating spotlight effect"
+    },
+    
+    "0173": {
+      "scene_title": "Evan's Ayahuasca Memory",
+      "panel_count": 3,
+      "dialogue_theme": "revisiting transformative experience",
+      "visual_prompt": "PANEL 1: Evan in lotus position, eyes closed, surrounded by faint geometric patterns suggesting ayahuasca visions. His expression is serene but concentrated. Candle flames around him seem to breathe. PANEL 2: Ghostly overlay of ceremony space - indigenous patterns on walls, smoke creating fractal spirals, ceremonial objects glowing with inner light. Evan appears in double exposure, present and past overlapping. PANEL 3: Extreme close-up on Evan's face, eyes now open with quiet certainty. Behind his pupils, galaxy spirals reflect the cosmic insights gained. Words begin forming on his lips, about to share profound truth. Style: Photorealistic portraiture with supernatural elements, like Alex Grey meets Remedios Varo. Colors shift from earthly browns and oranges to cosmic purples and teals.",
+      "philosophical_focus": "integration of mystical experience",
+      "emotional_tone": "reverent remembrance",
+      "visual_metaphors": [
+        "double exposure showing temporal layers",
+        "ceremonial smoke becoming thought patterns",
+        "galaxies in eyes reflecting cosmic consciousness"
+      ],
+      "narrator_integration": "Narrator's words become smoke patterns, guiding the visual flow"
+    },
+    
+    "0174": {
+      "scene_title": "The Voice's Criticism",
+      "panel_count": 1,
+      "dialogue_theme": "confronting ego through spiritual feedback",
+      "visual_prompt": "Evan's face shows complex emotions - frustration, recognition, and humility blend. Above him, the 'Voice' manifests as an aurora-like presence, beautiful but stern. The words 'arrogant teenager' appear in multiple fonts and languages, each one striking like a gentle slap. His younger self appears as a faint shadow behind him, cocky and defensive. The criticism creates ripples in the air, each wave stripping away a layer of ego defense. In the corners, fragments of broken mirrors reflect different ages of Evan, showing the evolution from arrogance to awareness. Style: Emotional portraiture with surreal elements. Color palette: Cool judgment blues contrast with warm embarrassment reds, meeting in purple acknowledgment.",
+      "philosophical_focus": "ego dissolution through direct feedback",
+      "emotional_tone": "vulnerable recognition",
+      "visual_metaphors": [
+        "aurora presence as higher wisdom",
+        "rippling air as ego stripping away",
+        "mirror fragments showing self-evolution"
+      ],
+      "narrator_integration": "Narrator's commentary appears in the broken mirror reflections"
+    },
+    
+    "0175": {
+      "scene_title": "The Trinity Revealed",
+      "panel_count": 1,
+      "dialogue_theme": "understanding self as triadic being",
+      "visual_prompt": "Three aspects of being arranged in a perfect equilateral triangle, glowing with distinct energies. Bottom left: The Body - rendered as anatomical drawings mixed with tree roots and river systems, showing physical interconnection. Bottom right: The Ego - depicted as a teenage figure made of social media posts, mirror selfies, and defensive armor, crackling with reactive energy. Top apex: The Voice - a luminous presence of pure awareness, simultaneously ancient and eternally present, rendered as living calligraphy writing itself. The triangle's center holds a small human figure (Evan) being pulled in three directions, showing the tension of integrated existence. Sacred geometry patterns frame the composition. Style: Illuminated manuscript meets modern infographic design. Colors: Earth tones for Body, electric neons for Ego, ethereal white-gold for Voice.",
+      "philosophical_focus": "trinitarian model of consciousness",
+      "emotional_tone": "revelatory understanding",
+      "visual_metaphors": [
+        "triangle as stable but tense structure",
+        "three distinct artistic styles for each aspect",
+        "central figure experiencing creative tension"
+      ],
+      "narrator_integration": "Narrator's text forms the geometric patterns framing the trinity"
+    },
+    
+    "0176": {
+      "scene_title": "Mirror Reconciliation",
+      "panel_count": 3,
+      "dialogue_theme": "self-acceptance through physical and spiritual purging",
+      "visual_prompt": "PANEL 1: Raw physicality - Evan's body convulsing in purge, but the vomit transforms into butterflies and light particles, showing transformation through release. Sweat beads become stars. PANEL 2: Evan turning from a mirror, his reflection trying to reach out to him. The mirror shows his true self - patient, waiting, forgiving. Shadow-Evan walks away while Light-Evan remains in the glass. PANEL 3: The moment of meeting - Evan finally faces his reflection, and their eyes align. The mirror surface ripples like water, then clears to show perfect unity. Both Evan's place their palms against the glass, which begins to dissolve. Style: Hyperrealistic with magical realism elements. Progression from dark, visceral tones to luminous resolution.",
+      "philosophical_focus": "healing through self-confrontation",
+      "emotional_tone": "cathartic reconciliation",
+      "visual_metaphors": [
+        "purge becoming transformation (butterflies)",
+        "mirror as patient true self",
+        "dissolving glass as unity achieved"
+      ],
+      "narrator_integration": "Narrator's words appear in the mirror's surface, then dissolve with it"
+    },
+    
+    "0177": {
+      "scene_title": "The Essential Question",
+      "panel_count": 1,
+      "dialogue_theme": "preparing to ask the fundamental question",
+      "visual_prompt": "Evan in deep hypnotic trance, lying on a therapy couch that seems to float in a void filled with stars. His body is completely relaxed but his third eye chakra glows intensely. Above him, the question 'What am I?' begins forming from stardust and neural patterns, each letter a different state of matter - solid, liquid, gas, plasma, and something beyond. The question mark is particularly elaborate, made of spiraling galaxies that seem to pull the viewer in. His breath visible as golden mist, each exhale making the question more solid. Style: Dreamy, soft-focus realism with cosmic elements. Colors: Deep space blues and purples with golden highlights.",
+      "philosophical_focus": "the ultimate inquiry",
+      "emotional_tone": "profound anticipation",
+      "visual_metaphors": [
+        "question forming from cosmic matter",
+        "third eye as gateway to answer",
+        "breath as creative force"
+      ],
+      "narrator_integration": "Narrator becomes the space between the words of the question"
+    },
+    
+    "0178": {
+      "scene_title": "Change Incarnate Revelation",
+      "panel_count": 2,
+      "dialogue_theme": "receiving the answer from the environment itself",
+      "visual_prompt": "PANEL 1: Dream bubble above hypnotized Evan shows a futuristic street where architecture itself has achieved consciousness. Buildings breathe and pulse with bioluminescent life, their surfaces covered in living equations and growing geometric patterns. The street glows with an inner light that seems to recognize Evan. Sky fractures into temporal fragments showing past and future simultaneously. PANEL 2: The buildings begin speaking - not with mouths but through their very structure. Windows become eyes, doorways become mouths, and the entire street harmonizes to declare: 'You are change incarnate - change in flesh and bone.' The words physically manifest as transforming matter, each letter shifting between states. Evan (in the bubble) is shown mid-transformation, his form flickering between solid and energy. Style: Architectural surrealism meets biopunk aesthetics. Colors: Iridescent futures with organic warmth.",
+      "philosophical_focus": "identity as perpetual transformation",
+      "emotional_tone": "cosmic recognition",
+      "visual_metaphors": [
+        "conscious architecture as living wisdom",
+        "words as transforming matter",
+        "human form in constant flux"
+      ],
+      "narrator_integration": "Narrator's voice merges with the speaking architecture"
+    },
+    
+    "0179": {
+      "scene_title": "The Trolley of No Control",
+      "panel_count": 1,
+      "dialogue_theme": "experiencing movement without agency",
+      "visual_prompt": "Split-reality composition: Upper half shows Evan gripping the sides of an old mining trolley that races through cosmic void on invisible tracks made of light. His expression mixes exhilaration with existential concern. The trolley leaves a trail of past moments behind it while approaching an unknown future shrouded in nebulous clouds. Lower half shows Evan's physical body in hypnosis, perfectly still, creating stark contrast with the motion above. The two realities connect through a spiral of energy at the center. Stars blur into motion lines, suggesting tremendous speed without control. Style: Surrealist adventure meets metaphysical abstraction. Dramatic perspective emphasizing the ride's uncertainty.",
+      "philosophical_focus": "agency vs determinism",
+      "emotional_tone": "thrilling uncertainty",
+      "visual_metaphors": [
+        "trolley as life's unstoppable momentum",
+        "invisible tracks as fate/destiny",
+        "split reality showing inner/outer experience"
+      ],
+      "narrator_integration": "Narrator's words form the invisible tracks"
+    },
+    
+    "0180": {
+      "scene_title": "Resisting the Teaching",
+      "panel_count": 2,
+      "dialogue_theme": "struggling with inability to prevent suffering",
+      "visual_prompt": "PANEL 1: The cosmic trolley continues its journey, now passing through clouds of human suffering - visible as dark storms containing faces in pain, reaching hands, tears that become rain. Evan reaches out desperately, trying to help but unable to leave the trolley. His anguish is palpable. PANEL 2: Back in hypnosis, Evan's peaceful body contrasts with a thought bubble showing his internal struggle. Inside the bubble: multiple versions of himself trying different ways to stop suffering - building walls, offering comfort, fighting darkness - but all efforts dissolve like sand. His spoken words 'I want to prevent suffering' appear and shatter against an invisible barrier. Style: Emotional expressionism meets cosmic scope. Dark storms contrast with points of light showing attempted interventions.",
+      "philosophical_focus": "acceptance of limitations in preventing suffering",
+      "emotional_tone": "compassionate frustration",
+      "visual_metaphors": [
+        "suffering as weather systems",
+        "reaching but unable to touch",
+        "efforts dissolving like sand"
+      ],
+      "narrator_integration": "Narrator's presence as the invisible barrier, gently firm"
+    }
+  },
+  
+  "recurring_visual_elements": {
+    "consciousness_effects": "Rippling air, transforming matter, thought becoming visible",
+    "transition_techniques": "Overlapping realities, double exposure, reality bleeds",
+    "color_psychology": "Cool blues for cosmic truth, warm earth tones for human experience",
+    "artistic_influences": "Alex Grey's spiritual anatomy, Remedios Varo's surrealism, contemporary digital art"
+  },
+  
+  "continuity_notes": {
+    "evan_appearance": "Consistent with reference guide but showing spiritual evolution",
+    "architect_flexibility": "More fluid and receptive in these scenes, less defensive",
+    "environmental_awareness": "Spaces themselves become conscious and communicative",
+    "time_treatment": "Past, present, and future blend in hypnotic sequences"
+  }
+}
