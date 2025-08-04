@@ -61,6 +61,19 @@
 - **Evolution**: Separate seeking methods → Simultaneous states → Integrated truth
 - **Emotion**: Vulnerable disclosure risking judgment for understanding
 
+#### Scene 076: Weather System Consciousness [2-panel] 🏆 NEW!
+- **Panel 1**: Mind as weather system with mountains that move depending on pressure
+- **Panel 2**: Thoughts as atmospheric phenomena creating their own climate
+- **Visual Journey**: Static landscape → Dynamic ecosystem of consciousness
+- **Metaphor**: The mind not as container but as living weather pattern
+
+#### Scene 078: Living Mandala of Processes [3-panel] 🏆 NEW!
+- **Panel 1**: Consciousness as living mandala of interconnected processes
+- **Panel 2**: Each process a different color thread in the cosmic tapestry
+- **Panel 3**: The threads realize they're weaving themselves
+- **Philosophy**: Self-organizing systems recognizing their own patterns
+- **Evolution**: Separate processes → Interconnection → Self-awareness
+
 ---
 
 ## 💎 METAPHOR HALL OF FAME
