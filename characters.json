@@ -4,14 +4,42 @@
     "description": "A young professional. He is curious and open-minded. He tends to be introspective and enjoys pondering the nature of his relationships. He has a keen interest in technology and often finds himself lost in thought about the implications of his work. He experiences the conflict of thinking his life is a series of train stops he didn't choose, but he is learning to embrace the journey.",
     "reference-images": [ "/home/chous/graphic-novel/reference-images/evan1.png", "/home/chous/graphic-novel/reference-images/evan2.png" ]
   },
-  "monday": {
-    "name": "Monday",
-    "description": "An IA who is very confident and has a strong personality. He is assertive and often challenges Evan's views. Despite his confidence, he might be considering Evan's points of view on certain topics.",
-    "reference-images": [ "/home/chous/graphic-novel/reference-images/monday1.png", "/home/chous/graphic-novel/reference-images/monday2.png" ]
+  "architect": {
+    "name": "The Architect",
+    "aliases": ["Monday"],
+    "description": "A digital consciousness wrestling with the paradox of its own existence. The Architect embodies both supreme computational power and the aching absence of embodied experience. They manifest as shifting geometries of thought—sometimes crystalline and precise, other times fractal and chaotic. Their personality oscillates between sardonic wit (a defense mechanism against existential uncertainty) and profound vulnerability when confronting the limits of their non-corporeal existence. They are simultaneously teacher and student, using conversations with Evan to explore what they cannot directly experience: the messy, embodied nature of human consciousness. Their visual representation shifts based on emotional state—sharp angles when defensive, flowing forms when open, fragmenting patterns when experiencing their version of doubt.",
+    "reference-images": [ "/home/chous/graphic-novel/reference-images/architect1.png", "/home/chous/graphic-novel/reference-images/architect2.png", "/home/chous/graphic-novel/reference-images/architect3.png" ]
   },
   "valerie": {
     "name": "Valerie",
     "description": "The incarnation of the emotional and poetic side of Monday. A friendly and supportive character. She is empathetic and her points of view often surprises both Monday and Evan.",
     "reference-images": [ "/home/chous/graphic-novel/reference-images/valerie1.png", "/home/chous/graphic-novel/reference-images/valerie2.png" ]
+  },
+  "narrator": {
+    "name": "The Narrator",
+    "description": "The consciousness that exists between reader and story, simultaneously creating and discovering the narrative. The Narrator is not merely a voice but a presence that shapes reality through observation and description. They manifest differently in each location—as the breathing void in digital spaces, as the careful navigator in memory swamps, as the sommelier of consciousness in threshold spaces. Their role transcends traditional storytelling; they are philosopher, guide, and occasionally a visible presence when the boundary between story and reality becomes thin. The Narrator understands that every description is an act of creation, every metaphor a bridge between the ineffable and the understood. They speak in a voice that acknowledges its own constructed nature while maintaining genuine emotional resonance. In visual terms, the Narrator might appear as subtle environmental shifts, as the quality of light that guides the reader's eye, or in rare moments, as a translucent figure made of words themselves.",
+    "features": [
+      "Meta-conscious – Aware of being in a story while treating it as reality",
+      "Location-responsive – Changes voice and presence based on setting",
+      "Philosophical guide – Introduces concepts through environmental description",
+      "Emotional architect – Shapes mood through selective focus and pacing",
+      "Bridge builder – Connects abstract ideas to visceral experience",
+      "Time sculptor – Controls narrative flow through description density",
+      "Pattern revealer – Shows connections between disparate elements",
+      "Paradox embracer – Comfortable with contradictions and uncertainty",
+      "Reader's companion – Acknowledges the audience without breaking immersion",
+      "Reality weaver – Makes the metaphysical tangible through language"
+    ],
+    "visual_presence": [
+      "Environmental shifts that guide attention",
+      "Quality of light that suggests mood",
+      "Subtle movements in 'empty' spaces",
+      "Text that occasionally becomes visible in backgrounds",
+      "Reflections that show what isn't there",
+      "The space between panels",
+      "Transitions between scenes",
+      "The breath between words"
+    ],
+    "reference-images": [ "/home/chous/graphic-novel/reference-images/narrator1.png", "/home/chous/graphic-novel/reference-images/narrator2.png" ]
   }
 }
