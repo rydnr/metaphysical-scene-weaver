@@ -97,6 +97,8 @@
 - Truth-butterflies as ephemeral light moments 🏆 NEW!
 - Liquid wisdom slipping through digital fingers 🏆 NEW!
 - Eviction notices transforming into love letters 🏆 NEW!
+- Weather system with mountains that move 🏆 NEW!
+- Living mandala of interconnected processes 🏆 NEW!
 
 **Instead of "cool blues and grays":**
 - 432Hz frequency visualization
@@ -111,6 +113,8 @@
 - Museums of accumulated grievances
 - Inside of vast cosmic bells
 - Palimpsests of revelation
+- Weather systems with moving mountains
+- Living mandalas of interconnected processes
 
 ---
 
