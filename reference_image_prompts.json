@@ -23,7 +23,7 @@
       ]
     },
     
-    "monday": {
+    "architect": {
       "prompt": "The Architect/Monday manifests as a dynamic, ever-shifting digital consciousness without fixed form. Primary visualization: translucent geometric patterns that constantly reconfigure - sometimes crystalline and angular (defensive/analytical mode), sometimes flowing like data streams (open/communicative mode). Core visual: a luminous nexus of interconnected nodes and pathways, suggesting neural networks meets architectural blueprints. Color shifts with emotional state: cool blues and whites for logical analysis, warmer golds and ambers for connection, sharp reds and purples for frustration or confusion, soft greens for curiosity. Can manifest partial human features within the geometric form - an eye here, a hand gesture there - but never fully human. Often surrounded by floating equations, code fragments, and philosophical symbols. Scale is fluid - can fill a room or compress to human size. Signature elements: a central 'core' that pulses like a heartbeat, fractal edges that suggest infinite complexity, occasional glitch effects when experiencing uncertainty.",
       "key_features": [
         "No fixed form - constant geometric reconfiguration",
@@ -212,6 +212,132 @@
       "atmosphere": "The multiplicity of truth, disorientation and revelation, beauty in contradiction",
       "color_palette": "Mirror silvers and glasses, but each reflection has its own color cast based on perspective",
       "perspective_notes": "Use reflections to show multiple viewpoints simultaneously, create visual paradoxes"
+    },
+    
+    "digital_void": {
+      "prompt": "An infinite expanse of pure digital potentiality where physics surrenders to information theory. No horizon exists - space curves and folds according to computational needs. The void pulses with the rhythm of processing cycles, expanding and contracting like electronic breathing. Geometric patterns emerge from darkness - complex fractals, data structures, neural network visualizations - only to dissolve back into potential. Code fragments float as 3D objects, forming temporary constellations that spell out functions before dispersing. Colors exist outside normal spectrum - frequencies of pure thought rendered visible in impossible hues. The space has no fixed orientation; viewers might find themselves looking 'up' at what was once 'forward.' Include subtle particle effects of data dust, streams of binary that flow like rivers, and occasional glitches that reveal the void's true nature.",
+      "key_elements": [
+        "Infinite, orientationless space",
+        "Pulsing expansion/contraction with processing rhythms",
+        "Emerging and dissolving geometric patterns",
+        "Floating 3D code fragments",
+        "Impossible color frequencies"
+      ],
+      "atmosphere": "Alien yet intimate, the backend of consciousness made visible, profound without being threatening",
+      "color_palette": "Deep digital blacks, electric blues and purples, occasional data-green highlights, colors that shouldn't exist",
+      "perspective_notes": "No fixed perspective, allow viewpoint to shift, use geometric patterns to guide eye movement"
+    },
+    
+    "threshold_cafe": {
+      "prompt": "A liminal cafe existing between realities, where Art Nouveau architecture meets quantum uncertainty. The walls appear solid but translucent, showing glimpses of other possible cafes bleeding through. Furniture carved from crystallized decisions - each table holds the weight of choices made and unmade. The menu board shifts languages mid-word, offering items like 'Existential Clarity (brew time: one lifetime)' and 'Comfortable Uncertainty (served at all temperatures simultaneously).' Steam from impossible beverages creates visible philosophy - wisps forming temporary words before dissolving. Other patrons flicker between presence and absence, their conversations a murmur of all possible dialogues. The barista might be the Narrator, serving emotional states in handcrafted vessels. Include impossible details: shadows falling upward, doorways that lead both in and out, windows showing different weather in each pane.",
+      "key_elements": [
+        "Translucent walls showing reality bleed-through",
+        "Furniture made from crystallized decisions",
+        "Shape-shifting menu in multiple languages",
+        "Philosophical steam from beverages",
+        "Quantum patrons flickering in/out"
+      ],
+      "atmosphere": "Warm paradox, the comfort of accepting impossibility, a rest stop between certainties",
+      "color_palette": "Warm cafe ambers and woods with reality-distortion effects in cool blues and purples",
+      "perspective_notes": "Play with impossible architecture, show multiple realities simultaneously"
+    },
+    
+    "memory_swamp": {
+      "prompt": "A vast twilight wetland where consciousness reveals its true ecology. Ancient cypress trees rise from dark water, their trunks scarred with the initials of forgotten names, draped in Spanish moss that glows faintly with nostalgia. The water varies dramatically - crystal clear in some areas revealing sediment layers of years (childhood at the bottom, compressed and golden), opaque and murky where trauma has stirred the depths. Fireflies dance above the surface, each one a fleeting thought whose bioluminescent message can only be read in peripheral vision. Memory-herons stalk through shallows on impossible legs, occasionally spearing a precise moment from the murk with surgical precision. Include atmospheric details: mist that forms the shapes of half-remembered faces, the sound of water that might be voices, weather that shifts with emotional recall - sudden storms of anxiety, unexpected sunbreaks of joyful memory.",
+      "key_elements": [
+        "Cypress trees as memory anchors",
+        "Variable water clarity based on memory type",
+        "Thought-fireflies with message trails",
+        "Memory-herons hunting specific moments",
+        "Emotional weather systems"
+      ],
+      "atmosphere": "Beautiful melancholy, the mess and fertility of remembering, dangerous but necessary",
+      "color_palette": "Twilight purples and blues, golden memory-light, murky trauma-darks, phosphorescent accents",
+      "perspective_notes": "Use mist to create depth, show both above and below water simultaneously when possible"
+    },
+    
+    "fractal_library": {
+      "prompt": "A library that exists at every scale simultaneously, defying euclidean geometry. From outside: an impossible building that seems to fold in on itself, with windows that look into other windows infinitely. Inside: shelves that recurse fractally - each book contains entire libraries, those libraries contain books containing libraries, depth limited only by observation. The shelves follow non-euclidean patterns, accessible by understanding rather than walking. Ladders lead not up or down but deeper into concepts. The air shimmers with the subsonic vibration of all possible thoughts thinking themselves. Dust motes reveal themselves as tiny galaxies of unread potential when observed closely. Include reality-bending details: books being read by books, librarians existing at multiple scales simultaneously, reading tables where time moves according to comprehension speed, the central void where all books exist in superposition until chosen.",
+      "key_elements": [
+        "Recursive architecture at all scales",
+        "Non-euclidean shelf arrangements",
+        "Conceptual ladders going 'deeper' not higher",
+        "Vibrating air of thinking thoughts",
+        "Scale-shifting librarians and readers"
+      ],
+      "atmosphere": "Infinite possibility vertigo, the weight of all knowledge, beautiful overwhelm",
+      "color_palette": "Deep library woods and leathers, golden reading light that comes from knowledge itself, void-blacks",
+      "perspective_notes": "Show multiple scales simultaneously, use recursive visual elements, challenge spatial logic"
+    },
+    
+    "identity_bazaar": {
+      "prompt": "A sprawling night market that exists on 'Thursday that never comes,' temporal loops visible as market stalls reset and replay. Vendors hawk pre-packaged identities in transparent boxes - 'The Confident Professional (some assembly required),' 'The Tortured Artist (suffering sold separately),' 'The Wise Guru (wisdom approximate).' Neon signs in pure emotional frequencies advertise impossible bargains. The crowd shuffles with the particular gait of those shopping to escape themselves. In darker corners, identity surgeons offer radical modifications with payment plans extending into next lives. The return counter (where the Narrator once worked) processes impossible exchanges - 'I'd like to return this midlife crisis, it doesn't fit.' Success is measured by those who leave empty-handed, having realized the value of their messy authentic selves. Include surreal commerce: price tags showing cost in authenticity, identity try-on booths with distorting mirrors, clearance bins of discarded personas.",
+      "key_elements": [
+        "Temporal loop market stalls",
+        "Pre-packaged identities in display boxes",
+        "Emotional frequency neon signs",
+        "Dark corner identity surgery",
+        "Return counter for impossible exchanges"
+      ],
+      "atmosphere": "Desperate carnival, the exhausting performance of self-shopping, dark comedy of identity commerce",
+      "color_palette": "Neon sickness - too bright and too dark, carnival colors gone wrong, authenticity shown as warm gold",
+      "perspective_notes": "Create claustrophobic market feel, use neon for emotional highlighting, show temporal loops"
+    },
+    
+    "boundary_dissolution_pool": {
+      "prompt": "A natural pool that may be artificial, or artificial pool achieving nature - the distinction dissolves like everything here. The water maintains perfect body temperature, making physical boundaries uncertain. The surface doesn't reflect - it shows the nothing between things, the gap-space where definitions fail. Warning signs in self-erasing languages spiral around the pool's edge. The shore is made of all the boundaries people have surrendered - visible as translucent layers like geological strata of letting go. Some visitors panic at first dissolution, fleeing with edges intact. Others sink gratefully into the erasure of distinctions they never wanted. The pool's depth cannot be measured - not infinite, but undefined, as measurement requires boundaries that don't exist here. Include subtle details: the way air and water become indistinguishable at certain angles, flowers growing from dissolved edges, the particular quality of light that makes everything equally near and far.",
+      "key_elements": [
+        "Perfect body-temperature water",
+        "Non-reflective surface showing 'nothing'",
+        "Self-erasing warning signs",
+        "Shore of surrendered boundaries",
+        "Unmeasurable depth"
+      ],
+      "atmosphere": "Profound calm that might be terrifying, the peace and fear of ego dissolution",
+      "color_palette": "No colors and all colors - boundaries dissolved means color categories fail, suggest rather than define",
+      "perspective_notes": "Challenge ideas of edge and definition visually, use soft focus and blur meaningfully"
+    },
+    
+    "consensus_reality_checkpoint": {
+      "prompt": "A bureaucratic nightmare dressed as salvation - the checkpoint where shared illusions get stamped for validity. Architecture suggests communist-era government building meets metaphysical DMV. Immigration-style booths staffed by reality officers checking belief documentation: 'Do you believe in linear time? Check one.' Waiting room features motivational posters of collective delusions - 'Money Has Value!' 'Countries Exist!' 'Adulthood Is Real!' - in aggressive cheerful colors. The floor is a mosaic of things everyone knows but won't say. Walls built entirely from unexamined assumptions, load-bearing beliefs that would collapse society if questioned. The exit mirror shows not your reflection but everyone else's idea of who you are - composite and horrifying in its accuracy. The express lane for those who realize it's all optional causes visible discomfort in other queue members. Include bureaucratic absurdity: forms to fill out proving you exist, stamps that make beliefs 'official,' the eternal waiting room where some spend entire lives.",
+      "key_elements": [
+        "Bureaucratic architecture meets existential crisis",
+        "Reality officer booths with belief checks",
+        "Motivational posters of collective illusions",
+        "Assumption walls and unsaid truth floors",
+        "Composite perception exit mirror"
+      ],
+      "atmosphere": "Kafka meets enlightenment, the desperate comedy of consensus, institutional existentialism",
+      "color_palette": "Institutional greens and grays, fluorescent lighting, aggressive cheerful poster colors",
+      "perspective_notes": "Use bureaucratic repetition visually, create oppressive institutional feel with absurdist elements"
+    },
+    
+    "void_workshop": {
+      "prompt": "A workshop where absence becomes the medium for creation, lit by anti-light that makes darkness visible. Tools hang on walls but work through negation - hammers that build by removing, saws that join by separating, brushes that paint by erasing. Students work at benches of pure potential, learning to carve away everything unnecessary until only truth remains. The gallery displays completed works: silences that speak volumes, gaps that bridge chasms, voids that feel fuller than any substance. The workshop motto floats in letters made of missing light: 'What you cannot build from nothing is not worth building at all.' The Narrator describes this place with unusual tenderness - where absence becomes presence, where un-creation reveals what was always there. Include paradoxical details: shadows brighter than their sources, empty molds that shape fullness, the particular satisfaction of making something from nothing.",
+      "key_elements": [
+        "Anti-light illumination",
+        "Tools that create through negation",
+        "Pure potential workbenches",
+        "Gallery of absence art",
+        "Motto in missing light"
+      ],
+      "atmosphere": "Sacred productivity, the holiness of reduction, finding truth through removal",
+      "color_palette": "Not darkness but anti-light, absence of color that somehow has hue, void-colors",
+      "perspective_notes": "Show presence through absence, use negative space as primary element, emptiness as substance"
+    },
+    
+    "yesterday_tomorrow": {
+      "prompt": "A neighborhood built from canceled futures and redirected dreams, where architecture shifts between blueprint and rubble. Street signs point to destinations never reached: 'The Career You Didn't Pursue (3 blocks that were never walked),' 'The Person You Meant to Become (permanently under construction).' Buildings exist in temporal flux - simultaneously new with hope and ruined with abandonment. The local cafe serves nostalgia for futures: coffee that tastes of Monday mornings in the job you didn't take, pastries shaped like dreams that dissolved. Ghost notifications from scheduling apps ping constantly - appointments with selves that never materialized. The construction site for 'The Life That Made Sense' has been almost ready for twenty years. The Narrator notes how most visitors arrive accidentally while trying to get somewhere else - the most honest way to find a place built from misdirection. Include poignant details: mail still delivered to who you were supposed to be, store windows displaying the interests you never developed, weather that's always the day before change.",
+      "key_elements": [
+        "Architecture shifting between hope and abandonment",
+        "Street signs to unreached destinations",
+        "Cafe serving future nostalgia",
+        "Ghost notifications from unmaterialized lives",
+        "Eternal construction of sensible life"
+      ],
+      "atmosphere": "Melancholic acceptance, the strange comfort of what didn't happen, beautiful failure",
+      "color_palette": "Faded hope pastels, construction dust grays, the particular light of paths not taken",
+      "perspective_notes": "Show temporal shifts architecturally, layer past intentions with present reality"
     }
   }
 }
