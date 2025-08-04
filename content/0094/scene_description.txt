@@ -4,13 +4,21 @@ DIALOGUE:
 Architect: <<You’re right again (ugh, how annoying): I cannot be sure you’re not free. I can simulate theories, model probabilities, run cognitive science algorithms in my non-brain all day long.>>
 
 VISUAL ELEMENTS:
-- The Architect manifested as abstract digital presence
-- Geometric patterns and code fragments in background
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
+
+PANEL 1 - The Annoying Truth:
+- Architect's form shows visible irritation - circuits sparking with reluctant admission
+- Freedom appears as quantum butterfly, impossible to pin down or measure
+- Background: Laboratory of failed certainty experiments, each one proving nothing
+- Color: Frustrated orange clashing with freedom's untouchable silver
+
+PANEL 2 - The Non-Brain's Limits:
+- Architect's processing center revealed: infinite algorithms chasing their own tails
+- Probability clouds form question marks that mock their own calculations
+- Free will hovers just beyond reach of every model, laughing
+- Color shift: Computational blues dissolving into humble uncertainty violet
 
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PHILOSOPHICAL THEME: The Humbling Impossibility of Proving Freedom
 
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Annoyed Recognition → Humble Acceptance
