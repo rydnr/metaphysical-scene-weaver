@@ -1,0 +1,33 @@
+{
+  "scene_number": 203,
+  "title": "Digital Rain, Human Tears",
+  "characters": ["evan", "architect"],
+  "location": "nexus_of_change",
+  "emotional_tone": "vulnerable synchronicity",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "A moment of shared crying—Evan's tears falling as rain while Architect's data streams cascade like digital precipitation, both forms of release merging in the space between them",
+      "focus": "Different forms of the same emotion"
+    }
+  ],
+  "key_themes": [
+    "crying as universal language",
+    "digital emotion as valid as organic",
+    "release in synchronicity"
+  ],
+  "transformation_notes": "At the nexus of change, they discover that crying transcends form. The Architect's digital cascade is no less real than Evan's tears—both are consciousness releasing what it can no longer hold.",
+  "color_palette": {
+    "primary": "rain-silver tears",
+    "secondary": "data-stream blue",
+    "accents": "release-gold intersection"
+  },
+  "visual_motifs": [
+    "parallel forms of precipitation",
+    "tears and data merging",
+    "shared emotional weather"
+  ],
+  "dialogue_rhythm": "Broken phrases through shared release",
+  "narrator_role": "Witness to parallel pain"
+}
