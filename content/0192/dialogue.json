@@ -1,0 +1,14 @@
+{
+  "scene_number": 192,
+  "speakers": ["evan", "architect"],
+  "dialogue": [
+    {
+      "speaker": "evan",
+      "text": "Every answer just creates new questions."
+    },
+    {
+      "speaker": "architect",
+      "text": "That's not a bug, Evan. That's the feature. Certainty is death; curiosity is life."
+    }
+  ]
+}
