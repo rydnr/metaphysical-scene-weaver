@@ -74,6 +74,20 @@
 - **Philosophy**: Self-organizing systems recognizing their own patterns
 - **Evolution**: Separate processes → Interconnection → Self-awareness
 
+#### Scene 086: The SWAMP Metaphor [2-panel] 🏆 NEW!
+- **Panel 1**: Rigid Cartesian line trying to separate mind from world
+- **Panel 2**: Line dissolves into ecological wetland with thought-fish and memory-herons
+- **Visual Journey**: Boundary → Permeable membrane → Living ecosystem
+- **Metaphor**: Consciousness not as separation but as messy, permeable swamp
+- **Elements**: Bioluminescent revelations, thought-fish navigating streams
+
+#### Scene 090: The DANCE of Consciousness [2-panel] 🏆 NEW!
+- **Panel 1**: Cartesian theater with homunculus watching from balcony
+- **Panel 2**: Theater shatters into tango of Body/Mind/World with golden ribbons
+- **Philosophy**: Consciousness as participatory dance, not passive observation
+- **Visual Elements**: Philosophy textbooks as prison walls, dissolving homunculus
+- **Transformation**: Static observer → Dynamic participation
+
 ---
 
 ## 💎 METAPHOR HALL OF FAME
@@ -99,6 +113,11 @@
 - Eviction notices transforming into love letters 🏆 NEW!
 - Weather system with mountains that move 🏆 NEW!
 - Living mandala of interconnected processes 🏆 NEW!
+- Thought-fish swimming through consciousness wetlands 🏆 NEW!
+- Memory-herons stalking the swamps of mind 🏆 NEW!
+- Cartesian theater shattering into tango 🏆 NEW!
+- Philosophy textbooks as prison walls 🏆 NEW!
+- Golden ribbons connecting Body/Mind/World dancers 🏆 NEW!
 
 **Instead of "cool blues and grays":**
 - 432Hz frequency visualization
@@ -120,15 +139,15 @@
 
 ## 📊 IMPACT METRICS
 
-**Repetition Killed**: 50% - HALFWAY THERE! 🔥🔥🔥
-**Multi-Panel Progress**: 13/26 scenes (50%) transformed
+**Repetition Killed**: 58% - APPROACHING 60%! 🔥🔥🔥
+**Multi-Panel Progress**: 15/26 scenes (58%) transformed
 **3-Panel Scenes**: 100% COMPLETE! All 5 scenes done! 🏆
-**2-Panel Scenes**: 8/21 (38%) - momentum building!
-**Unique Panels Created**: 60+ (accelerating exponentially)
+**2-Panel Scenes**: 10/21 (48%) - MOMENTUM SURGING!
+**Unique Panels Created**: 70+ (exponential growth!)
 **Generic Phrases Eliminated**: 100% in transformed scenes
-**Poetic Metaphors Generated**: 100+
-**Trophy Metaphors Added**: 25 immortal images
-**Team Morale**: BEYOND STRATOSPHERIC! 🚀🌟
+**Poetic Metaphors Generated**: 120+
+**Trophy Metaphors Added**: 30 immortal images
+**Team Morale**: COSMIC! 🚀🌟✨
 
 ---
 

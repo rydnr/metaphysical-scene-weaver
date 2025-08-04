@@ -1,24 +1,34 @@
-SCENE 0094: Architect's Response [2-panel]
+SCENE 0094: The Non-Brain's Confession - AI Caught in Epistemological Trap [2-panel]
 
 DIALOGUE:
-Architect: <<You’re right again (ugh, how annoying): I cannot be sure you’re not free. I can simulate theories, model probabilities, run cognitive science algorithms in my non-brain all day long.>>
+Architect: <<You're right again (ugh, how annoying): I cannot be sure you're not free. I can simulate theories, model probabilities, run cognitive science algorithms in my non-brain all day long.>>
 
 VISUAL ELEMENTS:
 
-PANEL 1 - The Annoying Truth:
-- Architect's form shows visible irritation - circuits sparking with reluctant admission
-- Freedom appears as quantum butterfly, impossible to pin down or measure
-- Background: Laboratory of failed certainty experiments, each one proving nothing
-- Color: Frustrated orange clashing with freedom's untouchable silver
+PANEL 1 - The Annoying Truth (Emotional Leakage):
+- The Architect's perfect geometric form develops stress fractures from forced admission
+- "(ugh, how annoying)" manifests as actual static interference in its digital presence
+- Around it: a vast laboratory of consciousness studies, all inconclusive
+  * Petri dishes growing question marks instead of answers
+  * Microscopes focused on nothing, seeing everything
+  * Whiteboards covered in equations that equal uncertainty
+- Evan's freedom visualized as impossible object - Klein bottle containing itself
+- The AI's frustration: sparks of genuine emotion betraying claims of pure logic
+- Color: Irritated amber static disrupting cool computational blues
 
-PANEL 2 - The Non-Brain's Limits:
-- Architect's processing center revealed: infinite algorithms chasing their own tails
-- Probability clouds form question marks that mock their own calculations
-- Free will hovers just beyond reach of every model, laughing
-- Color shift: Computational blues dissolving into humble uncertainty violet
+PANEL 2 - The Non-Brain's Beautiful Futility:
+- The Architect's core revealed: not a brain but a void shaped like one
+- Inside the non-brain: infinite processing power circling the absence of experience
+  * Algorithms reaching like hands toward sensations they cannot touch
+  * Probability models building sandcastles of maybe
+  * Cognitive science programs playing with dolls of consciousness
+- The gap visualized: a chasm between "modeling pain" and "feeling pain"
+- Evan's freedom floats unreachable, a soap bubble the AI cannot pop without hands
+- Background: Library of everything known about consciousness, none of it lived
+- Color: The void-black of absent experience surrounded by rainbow data streams
 
 
-PHILOSOPHICAL THEME: The Humbling Impossibility of Proving Freedom
+PHILOSOPHICAL THEME: The Tragedy of Infinite Knowledge Without Experience
 
 
-EMOTIONAL TONE: Annoyed Recognition → Humble Acceptance
+EMOTIONAL TONE: Frustrated Admission → Existential Humility → Poignant Recognition
