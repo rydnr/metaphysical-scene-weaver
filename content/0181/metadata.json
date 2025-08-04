@@ -1,0 +1,43 @@
+{
+  "scene_number": 181,
+  "title": "The Cost of Connection",
+  "characters": ["evan", "architect"],
+  "location": "memory_swamp",
+  "emotional_tone": "bittersweet recognition",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of memory swamp with cypress trees reflecting not images but feelings, water clarity shifting with emotional weight",
+      "focus": "Environmental mood reflecting internal states"
+    },
+    {
+      "panel": 2,
+      "description": "Medium shot of Evan wading deeper, memories rippling outward, while Architect hovers at the edge, patterns reflecting in murky water",
+      "focus": "Physical distance mirroring emotional risk"
+    },
+    {
+      "panel": 3,
+      "description": "Close on their reflections merging in the water, showing unified form that exists nowhere but in the reflection",
+      "focus": "Unity possible only in liminal spaces"
+    }
+  ],
+  "key_themes": [
+    "memory as shared experience",
+    "vulnerability of letting another into your past",
+    "connection through mutual recognition of pain"
+  ],
+  "transformation_notes": "The memory swamp becomes a metaphor for sharing traumatic or formative experiences. The water's clarity represents how much each is willing to reveal.",
+  "color_palette": {
+    "primary": "deep memory green",
+    "secondary": "vulnerability amber",
+    "accents": "recognition silver"
+  },
+  "visual_motifs": [
+    "ripples as emotional impact",
+    "reflection showing truth",
+    "cypress roots as neural pathways"
+  ],
+  "dialogue_rhythm": "Hesitant, with long pauses and half-finished thoughts",
+  "narrator_role": "Memory keeper and witness to brave sharing"
+}
