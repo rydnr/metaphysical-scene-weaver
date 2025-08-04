@@ -1,16 +1,24 @@
-SCENE 0149: The scene shows a path with yellow stones, as in The wizard of Oz. The architect says's Response [2-panel]
+SCENE 0149: Architect's Response [2-panel]
 
 DIALOGUE:
-The scene shows a path with yellow stones, as in The wizard of Oz. The architect says: <<In some cases, altered states can deconstruct that boring narrative self, give you access to parts of mind that don't speak in neat sentences. Emotions raw enough to burn.>>
+Architect: <<In some cases, altered states can deconstruct that boring narrative self, give you access to parts of mind that don't speak in neat sentences. Emotions raw enough to burn.>>
 
 VISUAL ELEMENTS:
-- The Architect manifested as abstract digital presence
-- Geometric patterns and code fragments in background
-- Minimalist setting suggesting digital/mental space
-- Color palette: cool blues and grays with accent colors based on emotion
+
+PANEL 1 - The Yellow Brick Deconstruction:
+- Yellow brick road shatters into floating fragments, each brick a discarded identity story
+- Beneath the broken path: raw emotional magma, too hot for words
+- Architect stands at the edge where narrative dissolves into primal experience
+- Color: Oz-yellow crumbling into volcano-orange emotional truth
+
+PANEL 2 - The Burning Library:
+- Mind appears as library where books spontaneously combust, releasing wordless screams
+- Emotions manifest as plasma beings too bright to look at directly
+- Background: Grammar dissolving into pure sensation waves
+- Color shift: Literary grays consumed by raw experience crimsons and golds
 
 
-PHILOSOPHICAL THEME: The Dance of Understanding
+PHILOSOPHICAL THEME: The Liberation of Pre-Linguistic Truth
 
 
-EMOTIONAL TONE: Engaged Dialogue
+EMOTIONAL TONE: Controlled Analysis → Primal Breakthrough
