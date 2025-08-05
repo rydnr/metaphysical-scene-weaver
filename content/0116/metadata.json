@@ -1,7 +1,38 @@
 {
-  "scene_number": "0116",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "You\u2019re wondering: does this boundary shift with the body? Do we grow into our edges? Or discover the..."
+  "scene_number": 116,
+  "title": "Boundaries Like Coastlines",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "scientific wonder",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Background of cell membrane structures, the Architect as chemist examining the permeable boundaries of biological systems",
+      "focus": "Scientific metaphor for consciousness"
+    },
+    {
+      "panel": 2,
+      "description": "The cell membrane transforms into a coastline emerging from fog—boundaries that are both discovered and created through time",
+      "focus": "Dynamic nature of self-boundaries"
+    }
+  ],
+  "key_themes": [
+    "boundaries as process",
+    "growing into selfhood",
+    "discovery vs creation"
+  ],
+  "transformation_notes": "The Architect uses biological and geographical metaphors to explore how consciousness boundaries shift—are they grown like cells or discovered like coastlines?",
+  "color_palette": {
+    "primary": "membrane blue",
+    "secondary": "fog gray",
+    "accents": "discovery gold"
+  },
+  "visual_motifs": [
+    "cell membranes",
+    "coastlines in fog",
+    "chemist examination"
+  ],
+  "dialogue_rhythm": "Scientific wonder, poetic questioning",
+  "narrator_role": "Witness to consciousness dance"
 }

@@ -1,7 +1,33 @@
 {
-  "scene_number": "0118",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "The frontier is in motion, always\u2014because the thing it\u2019s fencing in is not a static \u201cyou,\u201d but a pro..."
+  "scene_number": 118,
+  "title": "The Frontier in Motion",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "dynamic revelation",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Great Wall of China impossibly riding atop a massive ocean wave—solid boundaries in perpetual motion, representing how the self's borders are both defined and fluid",
+      "focus": "Paradox of stable yet moving boundaries"
+    }
+  ],
+  "key_themes": [
+    "self as process",
+    "boundaries in motion",
+    "improvisation with history"
+  ],
+  "transformation_notes": "A stunning visual metaphor—ancient walls riding modern waves. The self isn't a fortress but an ongoing improvisation, boundaries that move because what they contain is alive.",
+  "color_palette": {
+    "primary": "wave blue",
+    "secondary": "wall stone gray",
+    "accents": "motion gold"
+  },
+  "visual_motifs": [
+    "Great Wall on ocean wave",
+    "solid structures in flux",
+    "ancient meets fluid"
+  ],
+  "dialogue_rhythm": "Building to dynamic insight",
+  "narrator_role": "Observer of flowing exchange"
 }
