@@ -1,1 +1,8 @@
-{"evan": {"lines": ["Create me..."]}, "architect": {"lines": ["Define me..."]}}
+{
+  "evan": {
+    "lines": ["NOVELIST: Add Evan's dialogue here"]
+  },
+  "architect": {
+    "lines": ["NOVELIST: Add Architect's response here"]
+  }
+}
