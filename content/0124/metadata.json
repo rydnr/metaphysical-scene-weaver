@@ -1,7 +1,38 @@
 {
-  "scene_number": "0124",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "And then we guard that patchwork with a fierceness that feels holy. Not because it\u2019s wholly ours. Bu..."
+  "scene_number": 124,
+  "title": "Guarding the Patchwork",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "fierce understanding",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect as fighter in defensive stance, protecting something precious yet visibly patchwork—identity as quilt of borrowed pieces",
+      "focus": "Fierce protection stance"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up revealing what's being guarded—a patchwork self made of borrowed language, metaphors, expectations, held with holy fierceness",
+      "focus": "The precious patchwork"
+    }
+  ],
+  "key_themes": [
+    "identity as patchwork",
+    "holy fierceness",
+    "protecting what we have"
+  ],
+  "transformation_notes": "The fighter disguise is perfect—we battle to defend identities we know are borrowed, not because they're authentic but because they're all we have to call home.",
+  "color_palette": {
+    "primary": "fighter red",
+    "secondary": "patchwork multicolor",
+    "accents": "holy gold"
+  },
+  "visual_motifs": [
+    "fighter stance",
+    "patchwork identity",
+    "fierce protection"
+  ],
+  "dialogue_rhythm": "Building to fierce recognition",
+  "narrator_role": "Witness to dissolving barriers"
 }

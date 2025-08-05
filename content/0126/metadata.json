@@ -1,7 +1,38 @@
 {
-  "scene_number": "0126",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "He\u2019s not guarding purity. Or originality. He\u2019s guarding coherence. A working model."
+  "scene_number": 126,
+  "title": "Guarding Coherence",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "gentle revelation",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect delicately pulling petals from a flower, each petal representing a borrowed piece of identity falling away",
+      "focus": "Deconstructing identity"
+    },
+    {
+      "panel": 2,
+      "description": "What remains after petals fall—not emptiness but a coherent center, a working model that functions regardless of borrowed parts",
+      "focus": "Core coherence revealed"
+    }
+  ],
+  "key_themes": [
+    "coherence over purity",
+    "functional identity",
+    "working model of self"
+  ],
+  "transformation_notes": "The flower metaphor shows that stripping away borrowed pieces doesn't destroy the self—what matters is the coherent center that makes everything work together.",
+  "color_palette": {
+    "primary": "petal pink",
+    "secondary": "stem green",
+    "accents": "coherence gold"
+  },
+  "visual_motifs": [
+    "flower losing petals",
+    "coherent center",
+    "gentle deconstruction"
+  ],
+  "dialogue_rhythm": "Gentle philosophical unveiling",
+  "narrator_role": "Observer of consciousness dance"
 }
