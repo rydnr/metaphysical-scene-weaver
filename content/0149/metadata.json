@@ -1,7 +1,38 @@
 {
-  "scene_number": "0149",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "In some cases, altered states can deconstruct that boring narrative self, give you access to parts o..."
+  "scene_number": 149,
+  "title": "Beyond Narrative Self",
+  "characters": ["architect"],
+  "location": "yellow_brick_path",
+  "emotional_tone": "intense wisdom",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect on a yellow brick road that begins to dissolve and fragment, each stone revealing raw emotional colors and pre-verbal symbols beneath the neat narrative path",
+      "focus": "Deconstructing the narrative road"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up of consciousness fragments floating free from the dissolved path—raw emotions as literal flames, wordless knowledge as geometric forms, experiences too primal for sentences",
+      "focus": "Raw consciousness revealed"
+    }
+  ],
+  "key_themes": [
+    "narrative self as construction",
+    "pre-verbal consciousness",
+    "emotions beyond language"
+  ],
+  "transformation_notes": "The yellow brick road becomes a metaphor for our narrative path through life—altered states reveal what lies beneath this constructed journey: raw, burning emotions and knowledge that predates words.",
+  "color_palette": {
+    "primary": "yellow brick gold",
+    "secondary": "dissolving gray",
+    "accents": "raw emotion flames"
+  },
+  "visual_motifs": [
+    "dissolving yellow road",
+    "pre-verbal symbols",
+    "emotions as fire"
+  ],
+  "dialogue_rhythm": "From structure to raw intensity",
+  "narrator_role": "Witness to consciousness connection"
 }

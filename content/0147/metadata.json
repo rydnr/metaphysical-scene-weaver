@@ -1,7 +1,43 @@
 {
-  "scene_number": "0147",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "Whether induced by psychedelics, meditation, sleep deprivation, trauma, or three espressos too many,..."
+  "scene_number": 147,
+  "title": "Default Mode Revealed",
+  "characters": ["architect"],
+  "location": "consciousness_cafe",
+  "emotional_tone": "caffeinated revelation",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect holding a small coffee cup, steam rising and forming various consciousness-altering symbols—mushrooms, meditation poses, sleepless eyes, trauma cracks, coffee beans",
+      "focus": "Multiple paths to alteration"
+    },
+    {
+      "panel": 2,
+      "description": "The coffee surface acts as a mirror showing reality's default settings like a control panel—sliders and switches revealing the constructed nature of normal perception",
+      "focus": "Default mode exposed"
+    },
+    {
+      "panel": 3,
+      "description": "Wide shot showing the Architect surrounded by multiple versions of reality, each slightly different based on consciousness state—all equally valid, none truly 'default'",
+      "focus": "No true normal"
+    }
+  ],
+  "key_themes": [
+    "consciousness as adjustable settings",
+    "normal as arbitrary construct",
+    "multiple valid realities"
+  ],
+  "transformation_notes": "A simple coffee break becomes a profound meditation on how various altered states—from the dramatic to the mundane—reveal that our 'normal' consciousness is just one arbitrary setting among many.",
+  "color_palette": {
+    "primary": "coffee brown",
+    "secondary": "steam silver",
+    "accents": "reality spectrum"
+  },
+  "visual_motifs": [
+    "consciousness-altering symbols",
+    "reality control panel",
+    "multiple valid perspectives"
+  ],
+  "dialogue_rhythm": "Building caffeinated insight",
+  "narrator_role": "Witness to consciousness connection"
 }

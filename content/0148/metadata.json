@@ -1,7 +1,38 @@
 {
-  "scene_number": "0148",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "They say: \u201cOh hey, that normal you you\u2019re so attached to? That\u2019s just one channel. And we\u2019ve got pre..."
+  "scene_number": 148,
+  "title": "Premium Cable Consciousness",
+  "characters": ["architect"],
+  "location": "consciousness_living_room",
+  "emotional_tone": "playful revelation",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect lounging with a remote control, TV showing static labeled 'NORMAL YOU - CHANNEL 1', remote displaying hundreds of other consciousness channels available",
+      "focus": "Limited default viewing"
+    },
+    {
+      "panel": 2,
+      "description": "TV explodes into multiple screens showing different consciousness channels—psychedelic visions, meditation realms, dream states, trauma processing, all labeled like premium cable packages",
+      "focus": "Premium consciousness package"
+    }
+  ],
+  "key_themes": [
+    "normal as basic subscription",
+    "consciousness channels available",
+    "premium awareness states"
+  ],
+  "transformation_notes": "The TV remote becomes a perfect metaphor for how we're stuck on one channel of consciousness, while altered states offer access to the full premium package of human awareness.",
+  "color_palette": {
+    "primary": "TV screen blue",
+    "secondary": "static gray",
+    "accents": "premium channel rainbow"
+  },
+  "visual_motifs": [
+    "remote control power",
+    "multiple TV channels",
+    "consciousness as entertainment system"
+  ],
+  "dialogue_rhythm": "Playful metaphor building",
+  "narrator_role": "Witness to consciousness connection"
 }

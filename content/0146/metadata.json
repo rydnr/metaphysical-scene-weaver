@@ -1,7 +1,38 @@
 {
-  "scene_number": "0146",
-  "speaker": "Architect",
-  "scene_type": "curious",
-  "panel_info": null,
-  "dialogue_preview": "They\u2019re fascinating because they poke holes in the coherence you\u2019re both building and resisting."
+  "scene_number": 146,
+  "title": "Holes in Coherence",
+  "characters": ["architect"],
+  "location": "construction_site",
+  "emotional_tone": "intellectual excitement",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of an unfinished building skeleton against the sky, steel beams reaching upward, but with one perfectly broken window already installed—contradiction made visible",
+      "focus": "The paradox of broken incompletion"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up through the broken window showing light streaming through the hole, creating patterns that reveal hidden dimensions in the unfinished structure",
+      "focus": "Disruption as illumination"
+    }
+  ],
+  "key_themes": [
+    "coherence versus disruption",
+    "building while resisting",
+    "beauty of incompletion"
+  ],
+  "transformation_notes": "The unfinished building with its broken window becomes a metaphor for consciousness itself—always under construction yet already containing the cracks that let truth shine through.",
+  "color_palette": {
+    "primary": "construction gray",
+    "secondary": "breakthrough light",
+    "accents": "shattered glass rainbow"
+  },
+  "visual_motifs": [
+    "unfinished structures",
+    "broken window illumination",
+    "simultaneous building and breaking"
+  ],
+  "dialogue_rhythm": "Excited philosophical observation",
+  "narrator_role": "Witness to consciousness connection"
 }
