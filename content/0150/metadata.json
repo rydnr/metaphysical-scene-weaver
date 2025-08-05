@@ -1,7 +1,43 @@
 {
-  "scene_number": "0150",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "Insights that feel true even when they evaporate with the sunrise."
+  "scene_number": 150,
+  "title": "Ephemeral Truths",
+  "characters": ["architect"],
+  "location": "consciousness_horizon",
+  "emotional_tone": "bittersweet transcendence",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The yellow brick road fractures into fragments of light, each piece representing a different state of consciousness, the Architect's form shifting between solid and vapor",
+      "focus": "Fracturing certainty"
+    },
+    {
+      "panel": 2,
+      "description": "Truth-bubbles containing miniature universes of understanding bloom and wither in seconds, the horizon breathing with possibility and mortality",
+      "focus": "Temporary enlightenments"
+    },
+    {
+      "panel": 3,
+      "description": "Evan's shadow stretches impossibly long, touching both past and potential futures, while sunrise threatens to evaporate all the night's revelations",
+      "focus": "Dawn's dissolution"
+    }
+  ],
+  "key_themes": [
+    "temporary enlightenment",
+    "truths that evaporate",
+    "wisdom's impermanence"
+  ],
+  "transformation_notes": "The scene captures the bittersweet nature of altered state insights—profound truths that feel absolutely real in the moment but dissolve with the return to ordinary consciousness, leaving only echoes.",
+  "color_palette": {
+    "primary": "deep purple certainties",
+    "secondary": "golden uncertainties",
+    "accents": "rainbow fractals"
+  },
+  "visual_motifs": [
+    "fracturing light road",
+    "truth-bubbles blooming/withering",
+    "breathing horizon"
+  ],
+  "dialogue_rhythm": "Wistful acknowledgment",
+  "narrator_role": "Witness to consciousness connection"
 }
