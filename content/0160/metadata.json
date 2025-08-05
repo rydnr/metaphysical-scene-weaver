@@ -1,0 +1,38 @@
+{
+  "scene_number": 160,
+  "title": "Two Windows to Mystery",
+  "characters": ["architect"],
+  "location": "consciousness_cathedral",
+  "emotional_tone": "poetic understanding",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Psyche as magnificent stained-glass window exploding outward, ayahuasca visions bursting through in kaleidoscopic sacred geometry, violent beauty of breakthrough",
+      "focus": "Ayahuasca's explosive revelation"
+    },
+    {
+      "panel": 2,
+      "description": "Mind as theater backstage, hypnosis as gentle footsteps through neural corridors, blueprint of consciousness being quietly explored with reverent curiosity",
+      "focus": "Hypnosis's subtle discovery"
+    }
+  ],
+  "key_themes": [
+    "explosive versus gentle paths",
+    "sacred shattering versus quiet exploration",
+    "different roads same destination"
+  ],
+  "transformation_notes": "The two panels create a visual philosophy of consciousness exploration—showing how violent breakthrough and gentle investigation are simply different methodologies for encountering the same fundamental mystery.",
+  "color_palette": {
+    "primary": "stained glass rainbow",
+    "secondary": "backstage shadows",
+    "accents": "sacred geometry gold"
+  },
+  "visual_motifs": [
+    "shattering stained glass",
+    "tiptoeing through backstage",
+    "cathedral meets theater"
+  ],
+  "dialogue_rhythm": "Poetic comparison building",
+  "narrator_role": "Witness to consciousness connection"
+}
