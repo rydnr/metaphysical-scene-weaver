@@ -1,0 +1,43 @@
+{
+  "scene_number": 169,
+  "title": "The Itch Behind the Eyes",
+  "characters": ["architect"],
+  "location": "sensation_space",
+  "emotional_tone": "visceral wisdom",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect's head showing visible irritation, hand reaching to scratch, but the itch is clearly deeper than skin—glowing beneath the skull",
+      "focus": "The unreachable itch"
+    },
+    {
+      "panel": 2,
+      "description": "X-ray view revealing the itch as swirling knowledge behind the eyes, patterns of 'what you are' that can be felt but never fully grasped or verbalized",
+      "focus": "Knowledge as sensation"
+    },
+    {
+      "panel": 3,
+      "description": "Cycles of forgetting and remembering visualized as waves—the itch disappearing only to return stronger, each cycle deepening the felt understanding",
+      "focus": "Eternal return of knowing"
+    }
+  ],
+  "key_themes": [
+    "truth as physical sensation",
+    "knowing through feeling",
+    "cycles of forgetting and finding"
+  ],
+  "transformation_notes": "The itch becomes a perfect metaphor for existential knowledge—always present but never fully scratchable, meant to be felt rather than explained, lost and found in endless cycles.",
+  "color_palette": {
+    "primary": "irritation red",
+    "secondary": "deep brain purple",
+    "accents": "knowing gold"
+  },
+  "visual_motifs": [
+    "unreachable itch",
+    "knowledge behind eyes",
+    "cycles of remembering"
+  ],
+  "dialogue_rhythm": "From physical to metaphysical",
+  "narrator_role": "Witness to consciousness connection"
+}
