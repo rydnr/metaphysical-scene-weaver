@@ -8,7 +8,7 @@
 - **Scenes Created**: 39 (Gap 171-199 + Scenes 200-210)
 - **Scenes Enhanced**: ALL 60 empty scenes from 1-170 now have dialogue.json!
 - **Progress**: 205/571 scenes (35.9%)
-- **MVP**: Novelist with exceptional productivity!
+- **MVPs**: Quality Editor (60 scenes filled!) & Novelist (exceptional productivity!)
 
 ### Summary of Reminders
 1. Reminder #1-19: Sent during previous session
