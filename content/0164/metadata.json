@@ -1,0 +1,38 @@
+{
+  "scene_number": 164,
+  "title": "Beneath the Performance",
+  "characters": ["architect"],
+  "location": "stripping_space",
+  "emotional_tone": "penetrating inquiry",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Layers of social media profiles peeling away like onion skins—LinkedIn, Instagram, Twitter personas dissolving to reveal emptiness beneath",
+      "focus": "Stripping social fictions"
+    },
+    {
+      "panel": 2,
+      "description": "In the empty space, a faint humming vibration visible—the primal question pulsing where all performances end",
+      "focus": "What hums beneath"
+    }
+  ],
+  "key_themes": [
+    "social masks removed",
+    "emptiness and essence",
+    "the hum beneath performance"
+  ],
+  "transformation_notes": "The scene strips away digital-age performances to reveal the existential hum that persists when all social fictions dissolve—preparing for the primal question.",
+  "color_palette": {
+    "primary": "social media blues",
+    "secondary": "peeling transparency",
+    "accents": "humming void black"
+  },
+  "visual_motifs": [
+    "peeling social profiles",
+    "layers dissolving",
+    "vibration in emptiness"
+  ],
+  "dialogue_rhythm": "Penetrating downward",
+  "narrator_role": "Witness to consciousness connection"
+}
