@@ -1,0 +1,97 @@
+{
+  "scene_number": "0174",
+  "title": "The Voice's Criticism",
+  "panel_count": 3,
+  "layout_type": "vertical_emotional_cascade",
+  
+  "panels": [
+    {
+      "panel_number": 1,
+      "panel_type": "aurora_manifestation",
+      "composition": {
+        "layout": "top_third_wide",
+        "camera_angle": "looking_up_perspective",
+        "focus": "voice_as_aurora"
+      },
+      "visual_elements": {
+        "voice_presence": {
+          "form": "aurora_borealis_consciousness",
+          "colors": "judgment_blues_wisdom_greens",
+          "movement": "flowing_stern_beauty",
+          "texture": "celestial_authority"
+        },
+        "criticism_typography": {
+          "words": "arrogant teenager",
+          "languages": ["English", "Sanskrit", "Binary", "Musical notation"],
+          "animation": "cascading_like_gentle_slaps",
+          "impact": "visible_ripples_in_air"
+        }
+      }
+    },
+    {
+      "panel_number": 2,
+      "panel_type": "ego_stripping_moment",
+      "composition": {
+        "layout": "middle_third_portrait",
+        "camera_angle": "intimate_close_up",
+        "focus": "evan_complex_emotions"
+      },
+      "visual_elements": {
+        "evan_expression": {
+          "emotions": "frustration_recognition_humility_blend",
+          "micro_expressions": "defensive_to_accepting",
+          "color_mapping": "warm_reds_meeting_cool_blues"
+        },
+        "younger_shadow": {
+          "position": "translucent_behind_current_evan",
+          "posture": "cocky_defensive_teenager",
+          "opacity": "40%_past_echo"
+        },
+        "ego_defense_layers": {
+          "visualization": "translucent_armor_pieces",
+          "state": "dissolving_with_each_ripple",
+          "debris": "floating_away_as_particles"
+        }
+      }
+    },
+    {
+      "panel_number": 3,
+      "panel_type": "mirror_evolution",
+      "composition": {
+        "layout": "bottom_third_fragmented",
+        "camera_angle": "kaleidoscope_perspective",
+        "focus": "broken_mirror_reflections"
+      },
+      "visual_elements": {
+        "mirror_fragments": {
+          "arrangement": "corner_constellation",
+          "reflections": "different_ages_of_evan",
+          "progression": "arrogant_youth_to_aware_adult",
+          "cracks": "showing_growth_points"
+        },
+        "color_convergence": {
+          "left": "embarrassment_reds",
+          "right": "judgment_blues",
+          "center": "purple_acknowledgment",
+          "flow": "emotional_color_river"
+        }
+      }
+    }
+  ],
+  
+  "emotional_sync_notes": {
+    "psychological_arc": "defensive → recognition → humility → integration",
+    "visual_emotion_mapping": {
+      "frustration": "sharp_angular_elements",
+      "recognition": "softening_edges",
+      "humility": "open_curved_forms",
+      "growth": "upward_spiraling_movement"
+    },
+    "color_psychology": {
+      "cool_blues": "external_judgment_wisdom",
+      "warm_reds": "internal_embarrassment_heat",
+      "purple_blend": "integration_acknowledgment",
+      "golden_hints": "emerging_self_awareness"
+    }
+  }
+}

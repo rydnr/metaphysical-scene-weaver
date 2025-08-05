@@ -1,0 +1,54 @@
+{
+  "scene_id": 174,
+  "title": "The Voice's Criticism",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "protagonist"
+    },
+    {
+      "name": "The Voice",
+      "role": "aurora-like presence of truth"
+    },
+    {
+      "name": "Younger Evan",
+      "role": "shadow self"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "The Voice",
+      "text": "Arrogant teenager",
+      "tone": "gentle but devastating truth",
+      "visual_note": "words appear in multiple languages"
+    },
+    {
+      "speaker": "Evan",
+      "text": "[wordless recognition]",
+      "tone": "complex emotions crossing his face"
+    }
+  ],
+  "actions": [
+    {
+      "character": "The Voice",
+      "action": "manifests as aurora-like presence above Evan"
+    },
+    {
+      "character": "Evan",
+      "action": "shows frustration, recognition, and emerging humility"
+    },
+    {
+      "character": "Younger Evan",
+      "action": "appears as defensive shadow behind present Evan"
+    },
+    {
+      "character": "Environment",
+      "action": "criticism creates ripples stripping away ego defenses"
+    }
+  ],
+  "environment": {
+    "description": "Space filled with rippling criticism waves, broken mirror fragments in corners reflecting different ages of Evan",
+    "mood": "confrontational yet healing, harsh truth as medicine"
+  },
+  "themes": ["ego death", "necessary criticism", "growth through humility", "truth as liberation"]
+}
