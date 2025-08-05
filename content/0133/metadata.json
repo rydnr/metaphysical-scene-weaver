@@ -1,0 +1,33 @@
+{
+  "scene_number": 133,
+  "title": "The Frustration of Understanding",
+  "characters": ["evan"],
+  "location": "void",
+  "emotional_tone": "frustrated self-awareness",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan caught between blaming others and admitting his own uncertainty, frustration manifesting as visible tension in the void",
+      "focus": "Internal conflict externalized"
+    }
+  ],
+  "key_themes": [
+    "frustration with being understood",
+    "self-blame vs other-blame",
+    "uncertainty about change"
+  ],
+  "transformation_notes": "Evan admits a deeper truth—his frustration with others trying to understand him masks his uncertainty about whether he even wants to change.",
+  "color_palette": {
+    "primary": "frustration orange",
+    "secondary": "uncertainty gray",
+    "accents": "admission blue"
+  },
+  "visual_motifs": [
+    "tension lines",
+    "internal conflict",
+    "blame arrows pointing both ways"
+  ],
+  "dialogue_rhythm": "Frustrated admission, self-awareness",
+  "narrator_role": "Silent witness to internal struggle"
+}
