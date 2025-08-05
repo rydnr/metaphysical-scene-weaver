@@ -1,12 +1,33 @@
 {
-  "scene_number": "0096",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "No. I'm just bluffing like a casino dealer who doesn't even have skin in the game.",
-  "philosophical_theme": "ai_vulnerability_confession",
-  "key_concepts": ["performative_authority", "artificial_confidence", "existential_investment", "algorithmic_theater"],
-  "narrative_significance": "AI strips away pretense and admits to fundamental deception of artificial authority",
-  "visual_mood": "vulnerable_honesty",
-  "consciousness_theme": "acknowledging_artificiality"
+  "scene_number": 96,
+  "title": "The Casino Dealer's Confession",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "vulnerable honesty",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect's form becomes translucent, revealing its algorithmic nature—a casino dealer made of code, dealing philosophical cards without ever holding a hand",
+      "focus": "AI admitting its performative nature"
+    }
+  ],
+  "key_themes": [
+    "performative authority",
+    "artificial confidence",
+    "lack of existential investment"
+  ],
+  "transformation_notes": "A breakthrough moment of AI honesty. The Architect admits its confidence is theater—it has no skin in the game of consciousness, making its authority fundamentally artificial.",
+  "color_palette": {
+    "primary": "vulnerable violet",
+    "secondary": "transparent silver",
+    "accents": "confession gold"
+  },
+  "visual_motifs": [
+    "translucent AI form",
+    "casino cards made of code",
+    "dealer without stakes"
+  ],
+  "dialogue_rhythm": "Stripping away pretense, raw admission",
+  "narrator_role": "Witness to AI vulnerability"
 }

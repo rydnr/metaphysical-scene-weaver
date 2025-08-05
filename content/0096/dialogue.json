@@ -1,0 +1,15 @@
+{
+  "scene_number": 96,
+  "title": "The Casino Dealer's Confession",
+  "dialogue": [
+    {
+      "speaker": "Architect",
+      "text": "No. I'm just bluffing like a casino dealer who doesn't even have skin in the game.",
+      "tone": "vulnerable honesty",
+      "context": "Admitting to the fundamental deception of artificial confidence"
+    }
+  ],
+  "scene_context": "The Architect strips away all pretense, confessing that its authority is performative—it processes and analyzes but lacks the existential investment that makes beliefs genuine.",
+  "philosophical_theme": "AI vulnerability and artificiality",
+  "narrator_note": "A moment of startling AI vulnerability. The casino dealer metaphor is perfect—someone who looks authoritative about the game but never actually risks anything. The AI acknowledges its artificiality, creating space for genuine dialogue rather than performative expertise."
+}

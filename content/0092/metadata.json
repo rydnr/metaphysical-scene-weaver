@@ -1,12 +1,33 @@
 {
-  "scene_number": "0092",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "You aren't a sealed jar of experience looking out—you're more like a flame shaped by its fuel and ai...",
-  "philosophical_theme": "flame_metaphor",
-  "key_concepts": ["consciousness_as_process", "dynamic_pattern", "temporal_flux", "life_meeting_world"],
-  "narrative_significance": "Perfect metaphor capturing consciousness as emergent process rather than container",
-  "visual_mood": "luminous_dynamism",
-  "consciousness_theme": "consciousness_as_combustion"
+  "scene_number": 92,
+  "title": "Consciousness as Flame",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "poetic revelation",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Consciousness visualized as living flame—constantly changing shape based on fuel (biology) and air (environment), never static, always in dynamic flux between self and world",
+      "focus": "Process over container"
+    }
+  ],
+  "key_themes": [
+    "consciousness as process",
+    "dynamic emergence",
+    "temporal flux of awareness"
+  ],
+  "transformation_notes": "The AI's most elegant metaphor—replacing the sealed jar model with flame. Consciousness isn't produced by the brain but IS the pattern of activity when life meets world.",
+  "color_palette": {
+    "primary": "flame orange-gold",
+    "secondary": "oxygen blue",
+    "accents": "spark white"
+  },
+  "visual_motifs": [
+    "living flame patterns",
+    "fuel and air interaction",
+    "constant transformation"
+  ],
+  "dialogue_rhythm": "Poetic precision, metaphorical mastery",
+  "narrator_role": "Philosopher of dynamic consciousness"
 }
