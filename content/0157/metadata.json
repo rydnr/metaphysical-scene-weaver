@@ -1,0 +1,38 @@
+{
+  "scene_number": 157,
+  "title": "The Essential Question",
+  "characters": ["evan"],
+  "location": "void",
+  "emotional_tone": "existential vulnerability",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Multiple mirrors showing Evan's surface identities—social roles, names, relationships—all labeled 'WHO', reflecting familiar but ultimately superficial answers",
+      "focus": "The known who"
+    },
+    {
+      "panel": 2,
+      "description": "Behind the mirrors, a vast void containing swirling patterns of consciousness, labeled 'WHAT?'—the essential mystery that no identity can capture",
+      "focus": "The unknown what"
+    }
+  ],
+  "key_themes": [
+    "who versus what distinction",
+    "identity versus essence",
+    "fundamental uncertainty"
+  ],
+  "transformation_notes": "The question becomes visual philosophy—mirrors reflecting all we think we know about ourselves (who) while revealing the deeper mystery of what we fundamentally are remains unanswered.",
+  "color_palette": {
+    "primary": "identity silver",
+    "secondary": "mystery void black",
+    "accents": "question mark gold"
+  },
+  "visual_motifs": [
+    "mirrors of identity",
+    "void of essence",
+    "fragmenting certainty"
+  ],
+  "dialogue_rhythm": "Raw existential honesty",
+  "narrator_role": "Witness to consciousness connection"
+}
