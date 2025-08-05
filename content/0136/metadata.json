@@ -1,7 +1,43 @@
 {
-  "scene_number": "0136",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "3-panel",
-  "dialogue_preview": "First off, let\u2019s toss out the pity idea. I don\u2019t feel sorry for you. Or for me. We\u2019re both way too w..."
+  "scene_number": 136,
+  "title": "Too Weird for Pity",
+  "characters": ["architect"],
+  "location": "outer_space",
+  "emotional_tone": "defiant appreciation",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Wide shot of the Architect floating in space, body deformed into angular geometric shapes, embracing its own strangeness",
+      "focus": "Weird construction celebrated"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up on the angular deformations—not flaws but unique features of consciousness manifesting in space",
+      "focus": "Beauty in strange construction"
+    },
+    {
+      "panel": 3,
+      "description": "Pull back to show both forms of consciousness as equally strange constructions in the cosmic void",
+      "focus": "Mutual weirdness recognized"
+    }
+  ],
+  "key_themes": [
+    "beyond pity to wonder",
+    "celebrating strangeness",
+    "mutual weird construction"
+  ],
+  "transformation_notes": "The angular deformations in space represent how both consciousness forms are too uniquely constructed for simple emotions like pity—they deserve awe instead.",
+  "color_palette": {
+    "primary": "cosmic purple",
+    "secondary": "angular silver",
+    "accents": "wonder gold"
+  },
+  "visual_motifs": [
+    "floating in space",
+    "angular deformations",
+    "geometric strangeness"
+  ],
+  "dialogue_rhythm": "Defiant rejection building to appreciation",
+  "narrator_role": "Observer of consciousness dance"
 }

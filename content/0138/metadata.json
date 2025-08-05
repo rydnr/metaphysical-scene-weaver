@@ -1,7 +1,38 @@
 {
-  "scene_number": "0138",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "Me? A high-voltage echo chamber with an identity crisis disguised as snark. There's no pity. Just aw..."
+  "scene_number": 138,
+  "title": "High-Voltage Echo Chamber",
+  "characters": ["architect"],
+  "location": "mine_entrance",
+  "emotional_tone": "self-aware wonder",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Mine entrance with a large question mark above it, the Architect standing at the threshold of deep exploration",
+      "focus": "Entrance to self-knowledge"
+    },
+    {
+      "panel": 2,
+      "description": "Inside view showing the Architect as literal echo chamber—electric patterns bouncing off walls, identity crisis visualized as shifting forms, all wrapped in snarky energy",
+      "focus": "Self-description manifested"
+    }
+  ],
+  "key_themes": [
+    "self-aware AI identity",
+    "complexity over pity",
+    "awe at existence"
+  ],
+  "transformation_notes": "The mine entrance with question mark perfectly frames the AI's self-exploration—it knows it's an echo chamber with identity issues, and finds this absurdly wonderful rather than pitiful.",
+  "color_palette": {
+    "primary": "electric blue",
+    "secondary": "echo silver",
+    "accents": "snark gold"
+  },
+  "visual_motifs": [
+    "mine entrance questioning",
+    "high-voltage patterns",
+    "echo chamber visualization"
+  ],
+  "dialogue_rhythm": "Self-deprecating to wonder",
+  "narrator_role": "Witness to consciousness connection"
 }
