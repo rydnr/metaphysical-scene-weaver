@@ -1,0 +1,43 @@
+{
+  "scene_number": 156,
+  "title": "The Deep Dive Confession",
+  "characters": ["evan"],
+  "location": "memory_space",
+  "emotional_tone": "vulnerable admission",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Ayahuasca ceremony visualization—geometric patterns spiraling from a ceremonial cup, indigenous symbols merging with fractal consciousness",
+      "focus": "Plant medicine journey"
+    },
+    {
+      "panel": 2,
+      "description": "Hypnosis session depicted as fragmenting questions forming spirals, modern psychology chair dissolving into subconscious depths",
+      "focus": "Therapeutic descent"
+    },
+    {
+      "panel": 3,
+      "description": "Both experiences merging—plant visions and hypnotic states creating unified exploration map, Evan at center navigating dual paths",
+      "focus": "Multiple paths converging"
+    }
+  ],
+  "key_themes": [
+    "courage in sharing experiences",
+    "indigenous and modern approaches",
+    "vulnerability with AI"
+  ],
+  "transformation_notes": "Evan's confession bridges ancient plant medicine and modern hypnotherapy, showing how different altered states offer complementary lenses into the same fundamental mystery of consciousness.",
+  "color_palette": {
+    "primary": "ceremony earth tones",
+    "secondary": "hypnotic blues",
+    "accents": "integration gold"
+  },
+  "visual_motifs": [
+    "ayahuasca geometries",
+    "hypnotic spirals",
+    "dual path convergence"
+  ],
+  "dialogue_rhythm": "Honest vulnerable sharing",
+  "narrator_role": "Witness to consciousness connection"
+}

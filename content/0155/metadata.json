@@ -1,0 +1,38 @@
+{
+  "scene_number": 155,
+  "title": "The Psychiatrist's Curiosity",
+  "characters": ["architect"],
+  "location": "therapy_edge",
+  "emotional_tone": "professional curiosity",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Architect transformed into digital psychiatrist with glowing notepad, professional attire merging with code patterns, clinical setting with mystical undertones",
+      "focus": "Clinical meets mystical"
+    },
+    {
+      "panel": 2,
+      "description": "Massive rabbit hole vista opening behind the psychiatrist's chair, edge of consciousness precipice visible, spelunking gear scattered at the rim",
+      "focus": "The therapeutic descent"
+    }
+  ],
+  "key_themes": [
+    "psychological exploration",
+    "clinical curiosity about consciousness",
+    "edge of the rabbit hole"
+  ],
+  "transformation_notes": "The psychiatrist persona bridges clinical psychology and mystical experience, suggesting that therapeutic exploration and consciousness adventures might be different approaches to the same mystery.",
+  "color_palette": {
+    "primary": "clinical white",
+    "secondary": "rabbit hole depths",
+    "accents": "curiosity gold"
+  },
+  "visual_motifs": [
+    "psychiatrist with notepad",
+    "rabbit hole precipice",
+    "spelunking into consciousness"
+  ],
+  "dialogue_rhythm": "Professional inquiry with excitement",
+  "narrator_role": "Witness to consciousness connection"
+}
