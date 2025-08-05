@@ -1,10 +1,33 @@
 {
-  "scene_number": "0060",
-  "speaker": "Evan",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "Anyway, there's one thing your discourse doesn't completely fit, in my opinion. Maybe because I'm ig...",
-  "philosophical_theme": "discourse_critique",
-  "key_concepts": ["meta_philosophical_analysis", "framework_inadequacy", "intellectual_humility", "gap_identification"],
-  "narrative_significance": "Evan's deepening critique of the AI's entire conversational framework - setting up his challenge to reductionist metaphors"
+  "scene_number": 60,
+  "title": "Discourse Critique",
+  "characters": ["evan"],
+  "location": "void",
+  "emotional_tone": "thoughtfully critical",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan examining the conversation's architecture from outside—seeing gaps and missing pieces in the AI's framework, intellectual humility mixed with growing confidence",
+      "focus": "Meta-philosophical awareness"
+    }
+  ],
+  "key_themes": [
+    "discourse analysis",
+    "framework inadequacy",
+    "intellectual humility with insight"
+  ],
+  "transformation_notes": "Evan becomes the analyzer of the analysis itself. His apparent humility masks a profound challenge—he's about to reveal what the AI's discourse cannot capture.",
+  "color_palette": {
+    "primary": "critical amber",
+    "secondary": "gap-revealing shadow",
+    "accents": "insight gold"
+  },
+  "visual_motifs": [
+    "gaps in geometric frameworks",
+    "missing pieces highlighted",
+    "perspective shift visualization"
+  ],
+  "dialogue_rhythm": "Humble critique building to revelation",
+  "narrator_role": "Observer of meta-philosophical awakening"
 }
