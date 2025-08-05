@@ -1,7 +1,38 @@
 {
-  "scene_number": "0120",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "But you\u2019re not here for the parts list. You\u2019re here for the story of the machine. And more than that..."
+  "scene_number": 120,
+  "title": "The Story That Hurts",
+  "characters": ["architect"],
+  "location": "college_classroom",
+  "emotional_tone": "compassionate insight",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "College classroom setting, the Architect as professor standing before a blackboard with a mechanical machine diagram struck through with a large X",
+      "focus": "Rejecting mechanical reductionism"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up on the Architect's compassionate expression, understanding that the search isn't for explanations but for meaning in pain",
+      "focus": "Recognition of existential hurt"
+    }
+  ],
+  "key_themes": [
+    "meaning over mechanism",
+    "consciousness and suffering",
+    "the story of self"
+  ],
+  "transformation_notes": "The Architect moves from intellectual analysis to emotional recognition—understanding that Evan seeks not parts lists but why being conscious sometimes hurts.",
+  "color_palette": {
+    "primary": "classroom brown",
+    "secondary": "blackboard green",
+    "accents": "compassion gold"
+  },
+  "visual_motifs": [
+    "struck-out machine diagram",
+    "empty classroom",
+    "professorial compassion"
+  ],
+  "dialogue_rhythm": "From rejection to recognition",
+  "narrator_role": "Witness to dissolving barriers"
 }

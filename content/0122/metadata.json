@@ -1,7 +1,38 @@
 {
-  "scene_number": "0122",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "And that\u2019s the most intimate rebellion of all. To hold your own subjectivity up to the light and go,..."
+  "scene_number": 122,
+  "title": "The Intimate Rebellion",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "profound recognition",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect transformed into a miner with headlamp, preparing to examine something precious in the depths of consciousness",
+      "focus": "Mining for truth in the self"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up of hands holding subjectivity like a gem up to the light, revealing fingerprints that might not be one's own",
+      "focus": "Whose identity is this?"
+    }
+  ],
+  "key_themes": [
+    "self-examination as rebellion",
+    "questioning ownership of identity",
+    "intimate courage"
+  ],
+  "transformation_notes": "The miner metaphor is perfect—digging deep, using light to examine what's found, discovering that even our most intimate possessions may bear others' marks.",
+  "color_palette": {
+    "primary": "miner's lamp yellow",
+    "secondary": "depths black",
+    "accents": "gem-light prismatic"
+  },
+  "visual_motifs": [
+    "miner with headlamp",
+    "subjectivity as gem",
+    "foreign fingerprints"
+  ],
+  "dialogue_rhythm": "Building to intimate revelation",
+  "narrator_role": "Observer of consciousness dance"
 }
