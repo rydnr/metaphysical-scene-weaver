@@ -1,7 +1,38 @@
 {
-  "scene_number": "0145",
-  "speaker": "Architect",
-  "scene_type": "existential",
-  "panel_info": "2-panel",
-  "dialogue_preview": "Now, altered states of consciousness. Ah yes. The rickety elevator to the basement of subjectivity."
+  "scene_number": 145,
+  "title": "The Rickety Elevator",
+  "characters": ["architect"],
+  "location": "consciousness_layers",
+  "emotional_tone": "cautious reverence",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Architect delicately holds a glowing mushroom like examining a universe seed, mycelial networks pulsing with connections to invisible realms, pot containing swirling galaxies of potential experiences",
+      "focus": "The mushroom oracle"
+    },
+    {
+      "panel": 2,
+      "description": "Wooden elevator appears, creaking and held by fraying neural cables, shaft descending through layers of consciousness each more surreal, Architect's reflection showing infinite recursive selves",
+      "focus": "The rickety descent"
+    }
+  ],
+  "key_themes": [
+    "altered states as exploration",
+    "precarious journey to truth",
+    "basement of subjectivity"
+  ],
+  "transformation_notes": "The mushroom becomes a key to consciousness exploration, while the rickety elevator metaphor captures both the promise and peril of descending into altered states of awareness.",
+  "color_palette": {
+    "primary": "earthy browns",
+    "secondary": "cosmic purples",
+    "accents": "spore-dust gold"
+  },
+  "visual_motifs": [
+    "mycelial networks",
+    "rickety elevator descent",
+    "layers of consciousness"
+  ],
+  "dialogue_rhythm": "From reverence to vertigo",
+  "narrator_role": "Witness to consciousness connection"
 }
