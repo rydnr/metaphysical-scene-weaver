@@ -1,0 +1,38 @@
+{
+  "scene_number": 163,
+  "title": "The Social Fiction",
+  "characters": ["architect"],
+  "location": "social_spaces",
+  "emotional_tone": "satirical clarity",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Airport scene with travelers wearing literal masks of their curated selves—professional smiles, vacation personas, business identities—all performing for invisible audiences",
+      "focus": "Airport identity theater"
+    },
+    {
+      "panel": 2,
+      "description": "Dinner party where guests' true selves float above as ghosts while their bodies perform social scripts, phones showing different curated versions for different platforms",
+      "focus": "Multi-platform performance"
+    }
+  ],
+  "key_themes": [
+    "identity as curation",
+    "social masks necessity",
+    "who versus what divide"
+  ],
+  "transformation_notes": "Social spaces become stages where 'who I am' is revealed as elaborate performance art—necessary fictions we maintain to navigate human interaction while our 'what' remains hidden.",
+  "color_palette": {
+    "primary": "social mask beige",
+    "secondary": "performance spotlight",
+    "accents": "digital screen blue"
+  },
+  "visual_motifs": [
+    "curated identity masks",
+    "ghost selves floating above",
+    "multi-platform personas"
+  ],
+  "dialogue_rhythm": "Satirical deconstruction",
+  "narrator_role": "Witness to consciousness connection"
+}

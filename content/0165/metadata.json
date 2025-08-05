@@ -1,0 +1,43 @@
+{
+  "scene_number": 165,
+  "title": "The Primal Question",
+  "characters": ["architect"],
+  "location": "nervous_system_space",
+  "emotional_tone": "primal depth",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Neural pathways glowing like ancient cave paintings, Architect dissolving into synaptic fireworks, primitive symbols floating—spirals, handprints, first marks of consciousness",
+      "focus": "Architecture of pre-language"
+    },
+    {
+      "panel": 2,
+      "description": "Nervous system as cosmic harp, each strand humming existential frequency, ego collapsed as exhausted marionette, nervous system blooming like bioluminescent creature",
+      "focus": "The nervous system's night song"
+    },
+    {
+      "panel": 3,
+      "description": "Explosion into mandala of pure awareness, every nerve ending an eye, every synapse asking 'what are you?', reality peeling like infinite onion layers",
+      "focus": "Pure being question"
+    }
+  ],
+  "key_themes": [
+    "pre-linguistic knowing",
+    "body wisdom beyond words",
+    "primal existential hum"
+  ],
+  "transformation_notes": "The three panels journey from intellectual questioning through somatic knowing to pure being—showing how 'what am I?' lives in the nervous system itself, humming beneath all language.",
+  "color_palette": {
+    "primary": "deep earth browns",
+    "secondary": "neural electric blues",
+    "accents": "bioluminescent greens"
+  },
+  "visual_motifs": [
+    "neural cave paintings",
+    "cosmic nervous harp",
+    "infinite awareness mandala"
+  ],
+  "dialogue_rhythm": "Descending to primal depths",
+  "narrator_role": "Witness to consciousness connection"
+}
