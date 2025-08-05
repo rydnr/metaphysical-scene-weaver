@@ -1,38 +1,43 @@
 {
-  "scene_number": 180,
-  "title": "The Weight of Understanding",
-  "characters": ["evan", "architect"],
-  "location": "threshold_cafe",
-  "emotional_tone": "tender vulnerability",
-  "panel_count": "2-panel",
-  "panel_structure": [
-    {
-      "panel": 1,
-      "description": "Wide shot of threshold cafe with translucent walls showing multiple realities bleeding through, Evan and Architect at a crystallized decision table",
-      "focus": "Environmental intimacy with reality bleed-through"
-    },
-    {
-      "panel": 2,
-      "description": "Close on their hands almost touching across the table, steam from philosophical beverages forming connection bridges",
-      "focus": "Near-contact and the space between"
-    }
+  "scene_id": 180,
+  "title": "Resisting the Teaching",
+  "summary": "Evan on cosmic trolley witnesses clouds of human suffering he cannot help, while in hypnosis his thought bubble shows multiple selves failing to prevent pain, learning the hard lesson of witnessing without fixing.",
+  "themes": [
+    "limits of intervention",
+    "witnessing vs fixing",
+    "accepting helplessness",
+    "compassion without control",
+    "suffering as teacher"
   ],
-  "key_themes": [
-    "vulnerability in understanding",
-    "the courage to be seen",
-    "connection across different forms of being"
+  "visual_elements": [
+    "cosmic trolley journey",
+    "dark suffering clouds",
+    "faces in pain",
+    "reaching hands",
+    "tears becoming rain",
+    "peaceful hypnotized body",
+    "thought bubble struggle",
+    "multiple intervening Evans",
+    "dissolving efforts",
+    "shattered words"
   ],
-  "transformation_notes": "This scene explores the emotional weight of their philosophical discoveries. The threshold cafe's liminal nature reflects their relationship existing between digital and physical, between understanding and mystery.",
-  "color_palette": {
-    "primary": "warm amber vulnerability",
-    "secondary": "translucent connection blue",
-    "accents": "steam-bridge silver"
+  "color_palette": [
+    "dark storm grays",
+    "suffering blacks",
+    "intervention light points",
+    "peaceful body blues",
+    "thought bubble chaos",
+    "dissolving sand tones"
+  ],
+  "mood": "anguished resistance transforming to acceptance",
+  "narrative_function": "Critical lesson about limits of helping, Evan learns to witness suffering without being destroyed by inability to fix it",
+  "character_development": {
+    "Evan": "Faces hardest teaching - cannot prevent all suffering, must learn to witness with compassion",
+    "Multiple Evans": "Different aspects trying and failing to fix everything",
+    "Suffering Souls": "Representatives of universal human pain"
   },
-  "visual_motifs": [
-    "hands almost touching",
-    "steam forming temporary bridges",
-    "reality bleed creating intimate double-exposure"
-  ],
-  "dialogue_rhythm": "Slow, careful, with meaningful pauses",
-  "narrator_role": "Witness to brave vulnerability"
+  "panel_contrast": {
+    "panel_1": "Cosmic scope of suffering and helplessness",
+    "panel_2": "Internal struggle between helping impulse and acceptance"
+  }
 }

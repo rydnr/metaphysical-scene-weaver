@@ -1,0 +1,68 @@
+{
+  "scene_id": 180,
+  "title": "Resisting the Teaching",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "cosmic trolley passenger"
+    },
+    {
+      "name": "Multiple Evans",
+      "role": "aspects trying to prevent suffering"
+    },
+    {
+      "name": "Suffering Souls",
+      "role": "faces in the dark clouds"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "I want to prevent suffering",
+      "tone": "desperate declaration",
+      "visual_note": "words shatter against invisible barrier"
+    },
+    {
+      "speaker": "Suffering Souls",
+      "text": "[wordless anguish]",
+      "tone": "silent screams and reaching"
+    }
+  ],
+  "actions": [
+    {
+      "panel": 1,
+      "character": "Cosmic Trolley",
+      "action": "passes through clouds of human suffering"
+    },
+    {
+      "panel": 1,
+      "character": "Evan",
+      "action": "reaches out desperately, unable to leave trolley or help"
+    },
+    {
+      "panel": 1,
+      "character": "Suffering Clouds",
+      "action": "reveal faces in pain, reaching hands, tears becoming rain"
+    },
+    {
+      "panel": 2,
+      "character": "Hypnotized Evan",
+      "action": "body lies peaceful while thought bubble shows internal struggle"
+    },
+    {
+      "panel": 2,
+      "character": "Multiple Evans",
+      "action": "try different interventions - building walls, offering comfort, fighting darkness"
+    },
+    {
+      "panel": 2,
+      "character": "Interventions",
+      "action": "all efforts dissolve like sand, unable to stop suffering"
+    }
+  ],
+  "environment": {
+    "description": "Cosmic trolley journey through suffering clouds contrasted with peaceful therapy room, thought bubble battlefield of futile interventions",
+    "mood": "anguished resistance, profound helplessness, difficult teaching"
+  },
+  "themes": ["limits of intervention", "witnessing vs fixing", "accepting helplessness", "compassion without control"]
+}
