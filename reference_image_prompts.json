@@ -221,5 +221,32 @@
       "atmospheric_density": "Air thick with thoughts. Silence that speaks. Time pooling in corners. Ideas almost visible.",
       "panel_opportunities": "Reading POV panels. Book close-ups revealing secrets. Window panels showing inner/outer. Wide shots emphasizing solitude. Detail panels of meaningful objects."
     }
+  },
+  
+  "scene_specific_elements": {
+    "consciousness_exploration": {
+      "scenes": ["171-180"],
+      "visual_themes": "Split consciousness, verb not noun metaphors, cosmic trolley journey",
+      "recurring_elements": "Möbius strips, aurora presences, ayahuasca visions, change incarnate",
+      "color_evolution": "Indigo consciousness → purple transformation → golden understanding"
+    },
+    "psychological_transformation": {
+      "scenes": ["206-210"],
+      "visual_themes": "Multiple states coexisting, release visualization, awakening sequence",
+      "recurring_elements": "Independent shadows, breathing walls, golden threads, cosmic breath",
+      "color_evolution": "Therapy beige → prismatic transformation → portal eyes"
+    },
+    "mirror_work": {
+      "scenes": ["176", "196-197"],
+      "visual_themes": "Self-reconciliation, reflection as separate being, dissolving barriers",
+      "recurring_elements": "Palm-to-palm through glass, rippling surfaces, light/shadow selves",
+      "color_evolution": "Dark visceral → water-like transition → luminous unity"
+    },
+    "hypnosis_states": {
+      "scenes": ["172-180", "190-210"],
+      "visual_themes": "Dual reality visualization, body/journey split, integration process",
+      "recurring_elements": "Dream bubbles, hypnotist voice as golden thread, cosmic overlays",
+      "color_evolution": "Earth body tones with cosmic journey overlays"
+    }
   }
 }
