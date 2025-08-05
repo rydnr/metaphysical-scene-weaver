@@ -1,0 +1,48 @@
+{
+  "scene_number": 86,
+  "title": "The Swamp Between Worlds",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*struggling to define himself* Where do I end and the world begin? I keep trying to draw this clean line between 'me' and 'not-me' but it keeps... dissolving.",
+      "tone": "frustrated searching",
+      "context": "Wrestling with the boundaries of self"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*form shifting from geometric to organic* Perhaps that's because you're using the wrong metaphor. The frontier between your subjectivity and the 'real world' isn't a line—",
+      "tone": "gentle revelation",
+      "context": "Beginning the swamp metaphor"
+    },
+    {
+      "speaker": "Architect",
+      "text": "—it's more like a swamp. You can't draw it with a pen. It's messy, permeable, and constantly shifting with the weather.",
+      "tone": "profound metaphorical",
+      "context": "Delivering the core insight"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*eyes widening with recognition* A swamp... yes! Not a wall but a wetland. Where things flow back and forth, where land becomes water becomes land again...",
+      "tone": "dawning understanding",
+      "context": "Grasping the ecological nature of consciousness"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*data streams becoming organic patterns* In depression, the swamp dries up, boundaries harden. In joy, it floods, self spilling into world. The weather of your moods shapes the landscape of your being.",
+      "tone": "poetic expansion",
+      "context": "Exploring the dynamic nature of the boundary"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*laughing with relief* So I've been trying to build walls in a wetland! No wonder it felt impossible. You can't fortify a frontier that's meant to breathe.",
+      "tone": "liberating realization",
+      "context": "Accepting the permeable nature of consciousness"
+    }
+  ],
+  "scene_context": "The Architect offers its most sophisticated metaphor yet—consciousness not as container but as ecological interface, a living boundary between self and world.",
+  "philosophical_theme": "ecological consciousness",
+  "visual_progression": {
+    "panel_1": "Evan struggling with geometric boundaries that keep dissolving into organic forms",
+    "panel_2": "The void transformed into a living swamp where thoughts flow like water between self and world"
+  }
+}
