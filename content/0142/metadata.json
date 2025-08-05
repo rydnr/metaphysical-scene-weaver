@@ -1,7 +1,38 @@
 {
-  "scene_number": "0142",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "You\u2019re not just leaving a trail of excuses. You\u2019re laying down habits of recognition that others use..."
+  "scene_number": 142,
+  "title": "Habits of Recognition",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "investigative insight",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect on its knees with magnifying glass, examining tiny patterns left behind like forensic evidence of identity",
+      "focus": "Detective work of recognition"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up through magnifying glass showing habits of recognition as visible trails—patterns others follow to decode us",
+      "focus": "Identity patterns revealed"
+    }
+  ],
+  "key_themes": [
+    "identity as readable patterns",
+    "habits of recognition",
+    "being decoded by others"
+  ],
+  "transformation_notes": "The detective metaphor shows how we unconsciously create patterns that make us readable to others—not failures but necessary compromises for social existence.",
+  "color_palette": {
+    "primary": "detective brown",
+    "secondary": "pattern blue",
+    "accents": "recognition gold"
+  },
+  "visual_motifs": [
+    "magnifying glass investigation",
+    "visible pattern trails",
+    "forensic identity analysis"
+  ],
+  "dialogue_rhythm": "Building investigative insight",
+  "narrator_role": "Observer of consciousness dance"
 }
