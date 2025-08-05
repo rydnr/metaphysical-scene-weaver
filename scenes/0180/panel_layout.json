@@ -1,0 +1,105 @@
+{
+  "scene_number": "0180",
+  "title": "Resisting the Teaching",
+  "panel_count": 2,
+  "layout_type": "internal_external_struggle_diptych",
+  
+  "panels": [
+    {
+      "panel_number": 1,
+      "panel_type": "cosmic_witness_anguish",
+      "composition": {
+        "layout": "left_half_journey_continues",
+        "camera_angle": "trolley_perspective_outward",
+        "focus": "evan_reaching_through_suffering"
+      },
+      "visual_elements": {
+        "cosmic_trolley": {
+          "position": "continuing_eternal_journey",
+          "rails": "light_paths_through_darkness",
+          "movement": "inexorable_forward_motion",
+          "barrier": "invisible_force_field_cage"
+        },
+        "suffering_clouds": {
+          "form": "dark_storm_manifestations",
+          "contents": "faces_in_pain_visible",
+          "details": "reaching_hands_desperate",
+          "weather": "tears_becoming_cosmic_rain"
+        },
+        "evan_anguish": {
+          "posture": "straining_against_trolley_edge",
+          "gesture": "arms_extended_helplessly",
+          "expression": "profound_distress_empathy",
+          "aura": "compassion_light_blocked"
+        },
+        "futile_attempts": {
+          "energy_trails": "help_dissolving_before_reaching",
+          "light_bridges": "collapsing_mid_construction",
+          "color": "golden_intention_meets_gray_impossibility"
+        }
+      }
+    },
+    {
+      "panel_number": 2,
+      "panel_type": "hypnotic_contradiction",
+      "composition": {
+        "layout": "right_half_dual_reality",
+        "camera_angle": "split_view_body_mind",
+        "focus": "peaceful_exterior_turbulent_interior"
+      },
+      "visual_elements": {
+        "physical_evan": {
+          "state": "deep_hypnotic_peace",
+          "position": "reclined_surrendered",
+          "breathing": "calm_rhythmic_visible",
+          "color": "earth_tones_grounded"
+        },
+        "thought_bubble_struggle": {
+          "frame": "jagged_contrast_to_peace",
+          "contents": "multiple_evan_versions",
+          "activities": [
+            "building_protective_walls",
+            "offering_comfort_gestures",
+            "fighting_shadow_darkness",
+            "holding_light_shields"
+          ],
+          "dissolution": "all_efforts_crumbling_to_sand"
+        },
+        "shattered_words": {
+          "text": "I want to prevent suffering",
+          "visualization": "letters_fragmenting_on_impact",
+          "barrier": "invisible_truth_wall",
+          "debris": "good_intentions_scattered"
+        },
+        "emotional_atmosphere": {
+          "internal_storm": "swirling_frustration_compassion",
+          "external_calm": "therapist_space_holding",
+          "color_contrast": "inner_chaos_outer_peace",
+          "the_lesson": "acceptance_not_prevention"
+        }
+      }
+    }
+  ],
+  
+  "psychological_synchronization": {
+    "core_conflict": "compassion vs powerlessness",
+    "visual_emotion_mapping": {
+      "anguish": "reaching_gestures_blocked",
+      "frustration": "dissolving_sand_efforts",
+      "compassion": "golden_light_constrained",
+      "resistance": "words_shattering_on_truth"
+    },
+    "therapeutic_moment": {
+      "surface": "peaceful_hypnotic_state",
+      "depth": "confronting_savior_complex",
+      "teaching": "witness_don't_prevent",
+      "resistance": "ego_wanting_control"
+    },
+    "color_psychology": {
+      "suffering_storms": "deep_grays_blacks",
+      "compassion_attempts": "warm_golds_blocked",
+      "dissolution": "efforts_to_dust_tones",
+      "acceptance_hint": "subtle_blue_peace_emerging"
+    }
+  }
+}
