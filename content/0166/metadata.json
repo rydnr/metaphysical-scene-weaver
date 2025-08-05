@@ -1,0 +1,38 @@
+{
+  "scene_number": 166,
+  "title": "The Answer's Dance",
+  "characters": ["architect"],
+  "location": "paradox_space",
+  "emotional_tone": "philosophical frustration",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Figure reaching for an answer that keeps dancing away, each grasp causing it to shift to a new location, like chasing one's shadow",
+      "focus": "The elusive answer"
+    },
+    {
+      "panel": 2,
+      "description": "Person trying to see their own eyes directly, twisting impossibly, the fundamental limitation of self-perception visualized",
+      "focus": "Impossible self-viewing"
+    }
+  ],
+  "key_themes": [
+    "self-knowledge paradox",
+    "answers that evade direct pursuit",
+    "limits of introspection"
+  ],
+  "transformation_notes": "The scene captures the maddening paradox of self-inquiry—how the very act of looking directly at 'what we are' causes the answer to become unreachable.",
+  "color_palette": {
+    "primary": "chase silver",
+    "secondary": "evasion gold",
+    "accents": "paradox purple"
+  },
+  "visual_motifs": [
+    "dancing elusive answer",
+    "impossible self-viewing",
+    "perpetual near-miss"
+  ],
+  "dialogue_rhythm": "Frustrated recognition",
+  "narrator_role": "Witness to consciousness connection"
+}
