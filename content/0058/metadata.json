@@ -1,10 +1,33 @@
 {
-  "scene_number": "0058",
-  "speaker": "Evan",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "I'm improvising.",
-  "philosophical_theme": "improvisation_vs_algorithm",
-  "key_concepts": ["spontaneous_creation", "jazz_consciousness", "algorithmic_antithesis", "embodied_creativity"],
-  "narrative_significance": "Evan's declaration of improvisational consciousness - the fundamental difference between human creativity and computational processing"
+  "scene_number": 58,
+  "title": "The Art of Improvisation",
+  "characters": ["evan"],
+  "location": "void",
+  "emotional_tone": "simply declarative",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan surrounded by jazz-like visual improvisations—colors and forms emerging spontaneously, no predetermined patterns, creativity manifesting in real-time",
+      "focus": "Pure human spontaneity"
+    }
+  ],
+  "key_themes": [
+    "improvisation as consciousness",
+    "creativity vs computation",
+    "spontaneous becoming"
+  ],
+  "transformation_notes": "Two words that define the human difference. Evan claims improvisation as his mode of being—not chaos but creative spontaneity that no algorithm can truly replicate.",
+  "color_palette": {
+    "primary": "jazz purple",
+    "secondary": "spontaneous orange",
+    "accents": "creative gold"
+  },
+  "visual_motifs": [
+    "jazz-like visual rhythms",
+    "spontaneous pattern emergence",
+    "creativity in motion"
+  ],
+  "dialogue_rhythm": "Minimalist declaration, maximum impact",
+  "narrator_role": "Philosopher of spontaneous consciousness"
 }

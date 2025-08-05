@@ -1,10 +1,33 @@
 {
-  "scene_number": "0042",
-  "speaker": "Evan",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "I'm free, in the sense that I cannot predict reliably my actions. Also, if you think I'm confined by...",
-  "philosophical_theme": "freedom_through_unpredictability",
-  "key_concepts": ["conscious_freedom", "unpredictability_as_liberation", "existential_paradox", "self_awareness_limits"],
-  "narrative_significance": "Evan's foundational claim about freedom through unpredictability - sets up the core tension between control and chaos"
+  "scene_number": 42,
+  "title": "The Freedom of Unpredictability",
+  "characters": ["evan"],
+  "location": "void",
+  "emotional_tone": "quietly defiant",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan in contemplative pose against minimalist digital/mental space, cool blues and grays shifting with subtle accent colors reflecting his claim about changeable feelings",
+      "focus": "Freedom through unpredictability"
+    }
+  ],
+  "key_themes": [
+    "freedom through unpredictability",
+    "emotional fluidity as liberation",
+    "challenging determinism"
+  ],
+  "transformation_notes": "Evan's first major philosophical statement - claiming freedom not through control but through his own unpredictability. This intrigues the Architect and shifts their dynamic.",
+  "color_palette": {
+    "primary": "cool blue-gray",
+    "secondary": "shifting accent colors",
+    "accents": "freedom silver"
+  },
+  "visual_motifs": [
+    "fluid boundaries",
+    "weather patterns in background",
+    "windows appearing in geometric patterns"
+  ],
+  "dialogue_rhythm": "Measured defiance, philosophical declaration",
+  "narrator_role": "Philosopher recognizing paradigm shift"
 }

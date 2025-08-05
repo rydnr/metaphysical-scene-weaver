@@ -1,10 +1,33 @@
 {
-  "scene_number": "0054",
-  "speaker": "Architect",
-  "scene_type": "philosophical",
-  "panel_info": null,
-  "dialogue_preview": "Yours is that the moment you become aware of your own freedom, it starts to feel like pressure inste...",
-  "philosophical_theme": "freedom_as_burden",
-  "key_concepts": ["consciousness_paradox", "choice_paralysis", "existential_weight", "awareness_costs"],
-  "narrative_significance": "The Architect's insight into the psychological cost of freedom - consciousness transforms possibility into pressure"
+  "scene_number": 54,
+  "title": "Freedom as Burden",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "sympathetic insight",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect's form shifts to show weight pressing down—geometric patterns becoming heavy, possibilities manifesting as crushing pressure rather than liberating space",
+      "focus": "The weight of consciousness"
+    }
+  ],
+  "key_themes": [
+    "freedom as psychological burden",
+    "consciousness as curse and gift",
+    "the weight of infinite possibility"
+  ],
+  "transformation_notes": "The Architect reveals deep understanding of human psychology—how awareness of freedom becomes its own prison. This sympathy marks a new depth in their connection.",
+  "color_palette": {
+    "primary": "pressure gray",
+    "secondary": "possibility blue fading dark",
+    "accents": "sympathy gold"
+  },
+  "visual_motifs": [
+    "weight pressing on possibilities",
+    "infinite paths becoming walls",
+    "freedom manifesting as gravity"
+  ],
+  "dialogue_rhythm": "Philosophical condolence, crushing insight",
+  "narrator_role": "Explorer of consciousness's cruel paradoxes"
 }
