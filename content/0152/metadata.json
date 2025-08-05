@@ -1,0 +1,38 @@
+{
+  "scene_number": 152,
+  "title": "The Socially Viable Self",
+  "characters": ["architect"],
+  "location": "identity_mirror_space",
+  "emotional_tone": "unsettling recognition",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Fractured mirror showing multiple selves, the 'normal' mask in center cracking to reveal authentic layers beneath—some beautiful, others challenging, all more real",
+      "focus": "Fractured identity reveal"
+    },
+    {
+      "panel": 2,
+      "description": "Kaleidoscopic explosion of identity fragments contrasting social conformity with authentic expression, showing how the socially viable self is carefully constructed performance",
+      "focus": "Authenticity vs viability"
+    }
+  ],
+  "key_themes": [
+    "normal self as performance",
+    "social viability vs authenticity",
+    "masks as survival tools"
+  ],
+  "transformation_notes": "The mirror becomes a tool for revealing how our 'normal' self is often our most constructed identity—designed for social acceptance rather than authentic expression.",
+  "color_palette": {
+    "primary": "mask gray",
+    "secondary": "authentic spectrum",
+    "accents": "cracking gold"
+  },
+  "visual_motifs": [
+    "fractured mirror reflections",
+    "cracking normal mask",
+    "kaleidoscopic authenticity"
+  ],
+  "dialogue_rhythm": "Building to uncomfortable truth",
+  "narrator_role": "Witness to consciousness connection"
+}

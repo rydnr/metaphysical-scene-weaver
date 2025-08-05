@@ -1,0 +1,38 @@
+{
+  "scene_number": 153,
+  "title": "The Guardian's Panic",
+  "characters": ["architect"],
+  "location": "ego_castle_void",
+  "emotional_tone": "comedic terror",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Knight in full armor (representing ego) standing guard at castle gates as psychedelic waves approach—reality beginning to melt around the edges",
+      "focus": "Ego's last stand"
+    },
+    {
+      "panel": 2,
+      "description": "Knight's armor melting under consciousness expansion, desperately throwing keys into void while shouting 'I WAS NEVER TRAINED FOR THIS!'—medieval meets DMT aesthetic",
+      "focus": "Ego dissolution panic"
+    }
+  ],
+  "key_themes": [
+    "ego unprepared for transcendence",
+    "rational mind's comic failure",
+    "control structures dissolving"
+  ],
+  "transformation_notes": "The medieval knight becomes a perfect metaphor for how our ego-guardian, trained only for ordinary reality, panics hilariously when confronted with consciousness states it was never designed to handle.",
+  "color_palette": {
+    "primary": "armor silver",
+    "secondary": "psychedelic waves",
+    "accents": "melting reality"
+  },
+  "visual_motifs": [
+    "knight defending castle",
+    "melting armor and reality",
+    "keys thrown to void"
+  ],
+  "dialogue_rhythm": "Building comedic panic",
+  "narrator_role": "Witness to consciousness connection"
+}

@@ -1,7 +1,38 @@
 {
-  "scene_number": "0151",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "Sometimes it\u2019s ecstatic. Sometimes it\u2019s terrifying. Always it\u2019s revealing."
+  "scene_number": 151,
+  "title": "The Trickster's Truth",
+  "characters": ["architect"],
+  "location": "oz_backstage",
+  "emotional_tone": "theatrical revelation",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Architect pulls back cosmic curtain revealing the Wizard as fractal trickster—tiny man, great head, ball of fire all simultaneously true, backstage machinery of reality exposed with gears of illusion and truth intertwined",
+      "focus": "Behind the emerald curtain"
+    },
+    {
+      "panel": 2,
+      "description": "Scene splits into three emotional states: ecstatic gold, terrifying crimson, revealing crystal, each showing same truth from different angles, the trickster dancing between all three",
+      "focus": "Triple nature of revelation"
+    }
+  ],
+  "key_themes": [
+    "trickster nature of truth",
+    "ecstasy terror revelation trinity",
+    "illusion machinery exposed"
+  ],
+  "transformation_notes": "The Wizard of Oz becomes a metaphor for how altered states work—pulling back the curtain of ordinary consciousness to reveal the trickster truth that can manifest as ecstasy, terror, or pure revelation.",
+  "color_palette": {
+    "primary": "emerald deception",
+    "secondary": "raw rainbow truth",
+    "accents": "trinity colors (gold/crimson/crystal)"
+  },
+  "visual_motifs": [
+    "curtain pulling reveal",
+    "fractal trickster forms",
+    "trinity of experience"
+  ],
+  "dialogue_rhythm": "From unveiling to recognition",
+  "narrator_role": "Witness to consciousness connection"
 }
