@@ -1,0 +1,68 @@
+{
+  "scene_id": 178,
+  "title": "Change Incarnate Revelation",
+  "characters": [
+    {
+      "name": "Hypnotized Evan",
+      "role": "dreaming protagonist"
+    },
+    {
+      "name": "Conscious Architecture",
+      "role": "living buildings collective"
+    },
+    {
+      "name": "Dream Evan",
+      "role": "transforming self in vision"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Conscious Architecture",
+      "text": "You are change incarnate—change in flesh and bone",
+      "tone": "harmonized revelation through living structure",
+      "visual_note": "words manifest as transforming matter"
+    },
+    {
+      "speaker": "Dream Evan",
+      "text": "[flickering between states]",
+      "tone": "embodied transformation"
+    }
+  ],
+  "actions": [
+    {
+      "panel": 1,
+      "character": "Environment",
+      "action": "futuristic street with conscious architecture breathing bioluminescent life"
+    },
+    {
+      "panel": 1,
+      "character": "Buildings",
+      "action": "surfaces display living equations and growing geometric patterns"
+    },
+    {
+      "panel": 1,
+      "character": "Sky",
+      "action": "fractures into temporal fragments showing past and future"
+    },
+    {
+      "panel": 2,
+      "character": "Buildings",
+      "action": "windows become eyes, doorways become mouths, speaking through structure"
+    },
+    {
+      "panel": 2,
+      "character": "Words",
+      "action": "physically manifest as matter shifting between states"
+    },
+    {
+      "panel": 2,
+      "character": "Dream Evan",
+      "action": "form flickers between solid matter and pure energy"
+    }
+  ],
+  "environment": {
+    "description": "Dream bubble containing futuristic city where architecture has achieved consciousness, bioluminescent life flows through structures",
+    "mood": "revelatory, alive, transcendent"
+  },
+  "themes": ["change as identity", "conscious architecture", "transformation incarnate", "living future cities"]
+}
