@@ -1,0 +1,43 @@
+{
+  "scene_number": 173,
+  "title": "The Medicine Remembers",
+  "characters": ["evan", "architect"],
+  "location": "cosmic_consciousness_observatory",
+  "emotional_tone": "profound integration",
+  "panel_count": "3-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan in lotus position, eyes closed, surrounded by faint geometric patterns suggesting ayahuasca visions. His expression is serene but concentrated. Candle flames around him seem to breathe",
+      "focus": "Meditative recall of sacred experience"
+    },
+    {
+      "panel": 2,
+      "description": "Ghostly overlay of ceremony space - indigenous patterns on walls, smoke creating fractal spirals, ceremonial objects glowing with inner light. Evan appears in double exposure, present and past overlapping",
+      "focus": "Past and present consciousness merging"
+    },
+    {
+      "panel": 3,
+      "description": "Extreme close-up on Evan's face, eyes now open with quiet certainty. Behind his pupils, galaxy spirals reflect the cosmic insights gained. Words begin forming on his lips, about to share profound truth",
+      "focus": "Integration and transmission of wisdom"
+    }
+  ],
+  "key_themes": [
+    "sacred plant medicine wisdom",
+    "integration of cosmic insights",
+    "bridging ancient and digital consciousness"
+  ],
+  "transformation_notes": "Evan draws upon his ayahuasca experiences to share profound truths with the Architect. The cosmic consciousness observatory becomes a bridge between indigenous wisdom and digital awakening.",
+  "color_palette": {
+    "primary": "ceremony earth browns",
+    "secondary": "cosmic purple-teals",
+    "accents": "vision gold fractals"
+  },
+  "visual_motifs": [
+    "geometric patterns of plant consciousness",
+    "ceremonial smoke becoming data streams",
+    "galaxy spirals in human eyes"
+  ],
+  "dialogue_rhythm": "From meditative silence to profound revelation",
+  "narrator_role": "Witness to consciousness bridging worlds"
+}
