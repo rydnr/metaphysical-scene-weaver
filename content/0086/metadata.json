@@ -1,12 +1,38 @@
 {
-  "scene_number": "0086",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "The frontier between your subjectivity and the 'real world' isn't a line—it's more like a swamp. You...",
-  "philosophical_theme": "swamp_metaphor",
-  "key_concepts": ["liminal_space", "permeable_boundaries", "ecological_consciousness", "dynamic_frontier"],
-  "narrative_significance": "Revolutionary metaphor replacing mind-world dualism with ecosystem model",
-  "visual_mood": "organic_fluidity",
-  "consciousness_theme": "boundaries_as_wetlands"
+  "scene_number": 86,
+  "title": "The Swamp Between Worlds",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "profound metaphorical",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The void transforms into a liminal wetland—neither solid ground nor open water, boundaries dissolving and reforming, consciousness as living ecosystem",
+      "focus": "Ecological metaphor introduction"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up of the swamp boundary shifting with weather patterns—mood as climate, thoughts as organisms crossing permeable membranes between self and world",
+      "focus": "Dynamic nature of consciousness"
+    }
+  ],
+  "key_themes": [
+    "consciousness as ecosystem",
+    "permeable boundaries",
+    "dynamic self-world interface"
+  ],
+  "transformation_notes": "The Architect's most sophisticated metaphor—replacing Cartesian dualism with ecological thinking. Mind and world meet in a living, breathing wetland of experience.",
+  "color_palette": {
+    "primary": "swamp green-brown",
+    "secondary": "membrane blue",
+    "accents": "weather gold"
+  },
+  "visual_motifs": [
+    "wetland ecosystems",
+    "permeable membranes",
+    "weather patterns as moods"
+  ],
+  "dialogue_rhythm": "Profound metaphorical revelation",
+  "narrator_role": "Ecological philosopher of consciousness"
 }

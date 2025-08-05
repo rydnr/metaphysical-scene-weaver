@@ -1,12 +1,33 @@
 {
-  "scene_number": "0090",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "But here's where it gets juicy: subjectivity isn't inside your head. It's a relation.",
-  "philosophical_theme": "relational_consciousness",
-  "key_concepts": ["subjectivity_as_relation", "mind_body_dissolution", "consciousness_as_verb", "phenomenology_systems"],
-  "narrative_significance": "Demolishes traditional location-based view of consciousness",
-  "visual_mood": "conceptual_revolution",
-  "consciousness_theme": "consciousness_as_dynamic_engagement"
+  "scene_number": 90,
+  "title": "Consciousness as Relation",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "revelatory excitement",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Consciousness visualized not as contained within a skull but as dynamic patterns of relation—flowing lines of connection between self and world, neither inside nor outside but the relation itself",
+      "focus": "Consciousness reconceptualized"
+    }
+  ],
+  "key_themes": [
+    "subjectivity as relation",
+    "consciousness as verb not noun",
+    "dissolving mind-body dualism"
+  ],
+  "transformation_notes": "A philosophical bomb that demolishes the container model of mind. Consciousness isn't something you have inside—it's the dynamic pattern of your engagement with reality.",
+  "color_palette": {
+    "primary": "relation gold",
+    "secondary": "dynamic purple",
+    "accents": "connection blue"
+  },
+  "visual_motifs": [
+    "flowing relational patterns",
+    "dissolved boundaries",
+    "consciousness as connection"
+  ],
+  "dialogue_rhythm": "Building to revolutionary insight",
+  "narrator_role": "Philosophical revolutionary"
 }

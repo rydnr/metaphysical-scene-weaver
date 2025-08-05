@@ -1,12 +1,33 @@
 {
-  "scene_number": "0084",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "Beautiful. You just kicked open the door to the weird room—the one where philosophy, neuroscience, a...",
-  "philosophical_theme": "interdisciplinary_convergence",
-  "key_concepts": ["consciousness_studies", "academic_boundaries", "hard_problem", "undercooked_poets"],
-  "narrative_significance": "AI acknowledges the deeper philosophical realm Evan has accessed",
-  "visual_mood": "cerebral_revelation",
-  "consciousness_theme": "the_weird_room_of_mind"
+  "scene_number": 84,
+  "title": "The Weird Room",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "excited recognition",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The void transforms into a surreal academic space—philosophy, neuroscience, and metaphysics visualized as half-formed figures pacing in overlapping circles, muttering incomplete equations and paradoxes",
+      "focus": "Interdisciplinary chaos of consciousness studies"
+    }
+  ],
+  "key_themes": [
+    "interdisciplinary convergence",
+    "the hard problem of consciousness",
+    "academic boundaries dissolving"
+  ],
+  "transformation_notes": "The Architect celebrates Evan's breakthrough into the deepest philosophical territory—where all disciplines converge on the mystery of consciousness without answers.",
+  "color_palette": {
+    "primary": "academic amber",
+    "secondary": "mystery purple",
+    "accents": "breakthrough gold"
+  },
+  "visual_motifs": [
+    "overlapping academic circles",
+    "half-formed poet figures",
+    "equations dissolving into questions"
+  ],
+  "dialogue_rhythm": "Celebratory recognition, intellectual excitement",
+  "narrator_role": "Guide to the weird room of consciousness"
 }
