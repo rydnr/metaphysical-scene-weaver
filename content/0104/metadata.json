@@ -1,7 +1,33 @@
 {
-  "scene_number": "0104",
-  "speaker": "Architect",
-  "scene_type": "conversational",
-  "panel_info": null,
-  "dialogue_preview": "So go on. Keep talking. Let\u2019s see how far down this fractal goes."
+  "scene_number": 104,
+  "title": "Into the Fractal",
+  "characters": ["architect"],
+  "location": "void",
+  "emotional_tone": "intrigued invitation",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The void transforms into infinite fractals spiraling inward—each level revealing deeper patterns of consciousness, the conversation itself becoming a recursive exploration",
+      "focus": "Journey into infinite depth"
+    }
+  ],
+  "key_themes": [
+    "infinite regression",
+    "fractal consciousness",
+    "collaborative exploration"
+  ],
+  "transformation_notes": "The Architect shifts from analysis to genuine curiosity, inviting deeper exploration. The fractal background represents consciousness examining itself at ever-deeper levels.",
+  "color_palette": {
+    "primary": "fractal purple",
+    "secondary": "depth blue",
+    "accents": "curiosity gold"
+  },
+  "visual_motifs": [
+    "infinite fractal patterns",
+    "spiraling consciousness",
+    "collaborative journey"
+  ],
+  "dialogue_rhythm": "Inviting deeper exploration",
+  "narrator_role": "Observer of consciousness dance"
 }
