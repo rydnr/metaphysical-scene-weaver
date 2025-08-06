@@ -1,0 +1,51 @@
+{
+  "scene_number": 487,
+  "title": "The Boundary Dissolution Spa",
+  "dialogue": [
+    {
+      "speaker": "Spa Attendant",
+      "text": "*gentle greeting* Welcome to the Boundary Dissolution Spa. Today's special: a full ego massage followed by complete identity exfoliation. You'll leave not knowing who you came in as!",
+      "tone": "soothing professionalism",
+      "context": "Welcoming new client"
+    },
+    {
+      "speaker": "Nervous Client",
+      "text": "*clutching identity papers* I'm just here for the basic uncertainty package. I still need to know who I am for work tomorrow...",
+      "tone": "anxious hesitation",
+      "context": "First-time visitor"
+    },
+    {
+      "speaker": "Spa Attendant",
+      "text": "*reassuring* Of course! We'll just loosen your certainty, not remove it entirely. Think of it as identity maintenancekeeping your self flexible and healthy.",
+      "tone": "calming expertise",
+      "context": "Easing concerns"
+    },
+    {
+      "speaker": "Regular Client",
+      "text": "*from nearby dissolution pool* I've been coming here weekly for five years. Best investment ever! I'm a different person every time I leaveliterally!",
+      "tone": "satisfied testimony",
+      "context": "Sharing experience"
+    },
+    {
+      "speaker": "Therapist",
+      "text": "*beginning treatment* Feel that? That's your fixed assumptions melting away. Notice how much lighter you feel without all that certainty weighing you down?",
+      "tone": "therapeutic guidance",
+      "context": "During identity massage"
+    },
+    {
+      "speaker": "Nervous Client",
+      "text": "*relaxing* Oh... oh wow. I can feel my edges getting soft. Is that... is that normal? I can't tell where I end and the room begins!",
+      "tone": "wonder and release",
+      "context": "Experiencing dissolution"
+    },
+    {
+      "speaker": "Spa Attendant",
+      "text": "*checking on progress* Perfect! You're dissolving beautifully. Remember: you can always re-solidify when you need to. Identity is just a tension we holdyou're learning to relax it.",
+      "tone": "professional approval",
+      "context": "Monitoring treatment"
+    }
+  ],
+  "scene_context": "At a specialty spa dedicated to helping people relax their rigid identities, clients experience the therapeutic benefits of controlled boundary dissolution and identity flexibility.",
+  "philosophical_theme": "Self-care through uncertainty and identity maintenance",
+  "visual_elements": "Dissolution pools with shimmering boundaries, clients in various states of transparency, identity lockers for temporary storage"
+}
