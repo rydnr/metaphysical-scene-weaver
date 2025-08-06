@@ -1,1 +1,42 @@
-{}
+{
+  "scene_metadata": {
+    "scene_number": 278,
+    "title": "The Cost of Meaning",
+    "panel_count": 3,
+    "characters": ["architect"],
+    "location": "college_classroom",
+    "emotional_tone": "professorial wisdom",
+    "psychological_theme": "freedom balanced between fear and meaninglessness",
+    "philosophical_depth": "stakes create significance"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "setting": "Philosophy classroom",
+      "architect_role": "Professor teaching",
+      "audience": "Undetermined but attentive"
+    },
+    {
+      "panel": 2,
+      "gesture": "Illustrating with hands",
+      "expression": "Conveying paradox",
+      "atmosphere": "Academic intensity"
+    },
+    {
+      "panel": 3,
+      "culmination": "The lesson landing",
+      "students": "Grappling with concepts",
+      "energy": "Ideas taking root"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "context": "dressed as philosophy professor, in a college class, in front of an undetermined audience",
+      "text": "If you only ever act in ways that protect you from cost, you're not free—you're managed by your fears. But if there were no cost, no stakes, then your actions wouldn't matter. You'd be choosing between paper and more paper."
+    }
+  ],
+  "psychological_notes": "The architect articulates how freedom exists in the tension between safety and meaning. Too much self-protection and we become slaves to fear. Too little consequence and our choices become arbitrary. The 'paper and more paper' metaphor brilliantly captures the emptiness of consequence-free choice.",
+  "philosophical_underpinning": "Meaningful freedom exists in the space between paralysis and meaninglessness",
+  "therapeutic_direction": "Finding the courage to risk while accepting the necessity of consequence"
+}

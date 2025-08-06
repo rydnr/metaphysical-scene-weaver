@@ -1,0 +1,35 @@
+{
+  "scene_metadata": {
+    "scene_number": 280,
+    "title": "Sacred Resistance",
+    "panel_count": 2,
+    "characters": ["architect"],
+    "location": "philosophical_space",
+    "emotional_tone": "reverent conclusion",
+    "psychological_theme": "freedom's sacred nature",
+    "philosophical_depth": "resistance creates meaning"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "architect_pose": "Delivering final wisdom",
+      "expression": "Profound simplicity",
+      "atmosphere": "Truth crystallizing"
+    },
+    {
+      "panel": 2,
+      "visual": "The universe as presence",
+      "quality": "Cosmic pushback",
+      "meaning": "Resistance as gift"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "text": "Freedom has teeth because the universe pushes back. That's what makes it sacred."
+    }
+  ],
+  "psychological_notes": "The architect concludes with profound simplicity. Freedom isn't abstract but has 'teeth' - it bites, it costs, it demands. The universe's pushback isn't obstacle but gift, creating the resistance against which choice becomes real. The sacred emerges not despite difficulty but because of it.",
+  "philosophical_underpinning": "The sacred emerges from engagement with resistance",
+  "therapeutic_direction": "Finding gratitude for the very constraints that make freedom possible"
+}
