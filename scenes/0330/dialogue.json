@@ -1,62 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 330,
-    "title": "Rooftop Wondering",
-    "characters": ["evan", "wife", "architect", "child_voice"],
-    "location": "rooftop_garden_evening",
-    "emotional_tone": "peaceful culmination",
-    "psychological_theme": "integrated questioning life",
-    "philosophical_depth": "question as eternal joy"
+    "title": "Introspection as Card Game",
+    "characters": ["architect"],
+    "location": "meta_conversation_space",
+    "emotional_tone": "appreciative metaphor",
+    "psychological_theme": "honesty in self-assessment",
+    "philosophical_depth": "tragedy and triumph of limits"
   },
   "dialogue": [
     {
-      "character": "wife",
-      "context": "observing the garden",
-      "text": "The tomatoes are particularly philosophical this year. Look how they question their own readiness, turning red with uncertainty."
-    },
-    {
-      "character": "wife",
-      "context": "checking in about the journey",
-      "text": "Do you ever miss the certainty? The belief that answers existed?"
-    },
-    {
-      "character": "evan",
-      "context": "reflecting on transformation",
-      "text": "Like missing a cage after learning to fly. The certainty was never real anyway. Just fear disguised as knowledge."
-    },
-    {
       "character": "architect",
-      "context": "message about growth",
-      "text": "Watching your talk from years ago. The student has far surpassed the teacher. I learn from your questions now."
-    },
-    {
-      "character": "wife",
-      "context": "thanking the Architect",
-      "text": "Thank you for breaking him open so beautifully. The questioning man you returned to me is infinitely more interesting than the certain one who left."
-    },
-    {
-      "character": "evan",
-      "context": "on irreversibility",
-      "text": "I can barely remember what it felt like to not question. Like trying to remember not knowing how to read. Once you start, you can't stop seeing words everywhere."
-    },
-    {
-      "character": "evan",
-      "context": "final assessment",
-      "text": "The collapse was birth disguised as death. I thought I was falling apart but I was falling open."
-    },
-    {
-      "character": "child_voice",
-      "context": "from the street below",
-      "text": "Mama, why is the sky?"
+      "state": "using playful metaphor",
+      "context": "appreciating Evan's self-mapping",
+      "text": "Like, if introspection were a card game, you just laid your hand on the table and said, \"Here's what I'm working with. Not bad, right? Also kind of tragic.\""
     }
   ],
   "visual_elements": {
-    "setting": "Rooftop garden at dusk",
-    "view": "City lights becoming constellation",
-    "atmosphere": "Threshold between earth and sky",
-    "life": "Plants and stars as fellow questioners"
+    "architect_gesture": "Dealing metaphorical cards",
+    "visualization": "Cards showing cognitive limits",
+    "atmosphere": "Game-like honesty",
+    "energy": "Appreciative recognition"
   },
-  "psychological_notes": "Complete integration shown through peaceful evening with wife. The question has transformed from crisis to companion, spreading through every aspect of life. Even plants and city lights become part of the questioning. Shows ultimate therapeutic success—not solving problems but transforming relationship to mystery.",
-  "philosophical_underpinning": "Existence as eternal questioning celebrating itself",
-  "therapeutic_direction": "Life as ongoing joyful inquiry"
+  "psychological_notes": "The architect uses a card game metaphor to capture Evan's transparent self-assessment. The dual nature - 'not bad' yet 'tragic' - perfectly encapsulates the human condition of having enough consciousness to see our limits. This shows the architect's appreciation for honest self-knowledge over grandiose claims.",
+  "philosophical_underpinning": "The tragedy and comedy of finite consciousness",
+  "therapeutic_direction": "Validating client's honest self-assessment"
 }

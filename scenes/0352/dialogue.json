@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 352,
+    "title": "The Question Spreads",
+    "characters": ["evan"],
+    "location": "downtown_crowds",
+    "emotional_tone": "interconnected awareness",
+    "psychological_theme": "universal questioning",
+    "philosophical_depth": "existential uncertainty as human gift"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "observing crowd dynamics",
+      "context": "seeing the question everywhere",
+      "text": "The question spreads through the city like beneficial contagion, each person catching their own variant of wonder."
+    }
+  ],
+  "visual_elements": {
+    "crowd_scenes": "Various people in moments of self-reflection",
+    "urban_environment": "City as laboratory of consciousness",
+    "evan_movement": "Walking through, observing",
+    "symbolic_spread": "Question moving like wind through leaves"
+  },
+  "psychological_notes": "Evan perceives the universal nature of existential questioning. He sees how 'What am I?' moves through collective consciousness, touching each person uniquely. This represents movement from personal to transpersonal awareness of the human condition.",
+  "philosophical_underpinning": "Existential uncertainty as evolutionary driver of consciousness",
+  "therapeutic_direction": "Recognition of shared human experience reducing isolation"
+}
