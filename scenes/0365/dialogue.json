@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 365,
+    "title": "The Growing Vessel",
+    "characters": ["evan", "young_philosopher"],
+    "location": "library_philosophy_section",
+    "emotional_tone": "generous wisdom",
+    "psychological_theme": "capacity through engagement",
+    "philosophical_depth": "expansion through wrestling"
+  },
+  "dialogue": [
+    {
+      "character": "young_philosopher",
+      "state": "overwhelmed by texts",
+      "context": "drowning in questions",
+      "text": "*surrounded by open books* Every question leads to ten more. I feel like I'm shrinking while the mystery keeps growing. How do you... *gesturing at Evan's calm* how do you hold it all without breaking?",
+      "tone": "desperate curiosity"
+    },
+    {
+      "character": "evan",
+      "state": "remembering his growth",
+      "context": "sharing earned wisdom",
+      "text": "*sitting among the books* You don't hold it all—you grow large enough to hold what matters. *touching a book spine* Each question you wrestle with expands you. Not the answers—the wrestling itself. Like a vessel shaped by what it needs to contain.",
+      "tone": "patient teaching"
+    }
+  ],
+  "visual_elements": {
+    "books_as_landscape": "Philosophy texts creating terrain",
+    "contrast_states": "Young philosopher's tension vs Evan's ease",
+    "expanding_gesture": "Hands showing growth rather than grasping",
+    "light_patterns": "Afternoon sun illuminating dust motes like thoughts"
+  },
+  "psychological_notes": "Young philosopher experiences the overwhelm Evan once knew. Evan's teaching emphasizes growth through engagement rather than mastery through answers. The vessel metaphor suggests we become shaped by what we attempt to hold. Capacity develops through practice, not through solving.",
+  "philosophical_underpinning": "Consciousness expands through engagement with its limits",
+  "therapeutic_direction": "Teaching resilience through reframing struggle as growth"
+}
