@@ -1,0 +1,59 @@
+{
+  "scene_id": 179,
+  "title": "Awakening to Truth",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "awakening from revelation"
+    },
+    {
+      "name": "The Architect",
+      "role": "gentle witness"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "I saw... I AM change. Not experiencing it, but... being it?",
+      "tone": "awestruck, struggling to articulate"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Yes. And now you know. But knowing brings responsibility.",
+      "tone": "preparing him for the next truth"
+    },
+    {
+      "speaker": "Evan",
+      "text": "What do you mean? If I am change, I can help, I can transform things, I can—",
+      "tone": "excited, not yet understanding the limitation"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Can you? Let me show you one more thing.",
+      "tone": "gentle but leading to difficult wisdom"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "eyes flutter open, still glowing with cosmic understanding"
+    },
+    {
+      "character": "Environment",
+      "action": "cafe re-solidifies but remains subtly transformed"
+    },
+    {
+      "character": "Evan",
+      "action": "touches his chest, feeling the truth still pulsing there"
+    },
+    {
+      "character": "The Architect",
+      "action": "gestures toward window where storm clouds gather"
+    }
+  ],
+  "environment": {
+    "description": "Cafe returning to form but changed, storm gathering outside suggesting the difficult lesson ahead",
+    "mood": "post-revelation glow meeting approaching shadow"
+  },
+  "themes": ["integration of cosmic truth", "excitement before wisdom", "the burden of knowing", "preparation for final lesson"]
+}
