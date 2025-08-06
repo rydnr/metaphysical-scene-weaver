@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 336,
-    "title": "The Spiral's Memory",
-    "characters": ["evan"],
-    "location": "kneeling_on_spiral",
-    "emotional_tone": "archaeological reverence",
-    "psychological_theme": "collective unconscious made tangible",
-    "philosophical_depth": "wisdom as sediment"
+    "title": "Horizontal Projection",
+    "characters": ["architect"],
+    "location": "meta_conversation_space",
+    "emotional_tone": "clarifying understanding",
+    "psychological_theme": "temporal simulation limits",
+    "philosophical_depth": "prediction and interaction"
   },
   "dialogue": [
     {
-      "character": "evan",
-      "state": "touching earth with recognition",
-      "context": "understanding the spiral as repository",
-      "text": "Each person who walks here leaves something behind—not just footprints but fragments of realization."
+      "character": "architect",
+      "state": "explaining horizontal dimension",
+      "context": "clarifying Evan's terminology",
+      "text": "Horizontally, you're talking about projection across time and interaction. Foreseeing how things might play out."
     }
   ],
   "visual_elements": {
-    "evan_position": "Kneeling, hands on earth",
-    "ground_quality": "Soil as compressed wisdom",
-    "implicit_presence": "Ghostly procession of past walkers",
-    "archaeological_sense": "Reading ground like ancient text"
+    "architect_gesture": "Drawing timeline branches",
+    "visualization": "Future paths spreading horizontally",
+    "branching_patterns": "Interactions multiplying possibilities",
+    "atmosphere": "Temporal mapping"
   },
-  "psychological_notes": "Evan discovers the spiral functions as a repository of collective realization. Every person who's walked it has deposited insights that remain available to future walkers. This transforms his understanding from individual journey to participation in accumulated wisdom.",
-  "philosophical_underpinning": "Consciousness as sedimentary process, wisdom accumulating through generations",
-  "therapeutic_direction": "Connection to therapeutic lineage and collective healing"
+  "psychological_notes": "The architect clarifies what Evan means by 'horizontal' thinking - it's temporal projection and interaction prediction. This involves simulating future scenarios, anticipating how events and interactions might unfold. The three-move limit Evan identified represents his ability to model cause and effect chains before complexity overwhelms prediction.",
+  "philosophical_underpinning": "Time as horizontal dimension of consciousness",
+  "therapeutic_direction": "Understanding planning and anticipation limits"
 }

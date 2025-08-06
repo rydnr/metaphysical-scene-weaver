@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 229,
+    "title": "Projects as Prayers",
+    "characters": ["evan", "architect"],
+    "location": "laboratory_becoming_sacred",
+    "emotional_tone": "vulnerable recognition",
+    "psychological_theme": "creative work as soul expression",
+    "philosophical_depth": "the sacred nature of personal creation"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "state": "examining patterns",
+      "context": "revealing project psychology",
+      "text": "*adjusting microscope, patterns swirling beneath* What I see here... your projects aren't really about what they produce. They're about what they process.",
+      "tone": "diagnostic revelation"
+    },
+    {
+      "character": "evan",
+      "state": "defensive curiosity",
+      "context": "protecting while exploring",
+      "text": "*slightly pulling back* What do you mean? I want to create things, finish things. I want them to matter.",
+      "tone": "vulnerable insistence"
+    },
+    {
+      "character": "architect",
+      "state": "gentle understanding",
+      "context": "seeing deeper patterns",
+      "text": "*looking up from microscope with soft eyes* They do matter. But not in the way you think. Watch—*the lab equipment begins to shimmer with candlelight*",
+      "tone": "preparing revelation"
+    }
+  ],
+  "visual_elements": {
+    "microscope_view": "Abstract patterns resembling both cells and mandalas",
+    "laboratory_shift": "Scientific equipment taking on religious qualities",
+    "lighting_change": "Harsh fluorescents softening to candlelight glow",
+    "atmosphere": "Sacred science emerging"
+  },
+  "psychological_notes": "The architect identifies that Evan's creative projects serve a deeper psychological function than their stated goals. This challenges the productivity mindset and opens space for understanding creation as a form of inner work. The vulnerability in Evan's response shows how identified we become with our creative output.",
+  "philosophical_underpinning": "Creative work is a dialogue between conscious intention and unconscious process",
+  "therapeutic_direction": "Releasing attachment to outcomes while honoring the sacred act of creation"
+}

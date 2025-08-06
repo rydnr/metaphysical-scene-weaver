@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 231,
+    "title": "The Secret Audience",
+    "characters": ["evan", "architect"],
+    "location": "monastery_laboratory",
+    "emotional_tone": "tender revelation",
+    "psychological_theme": "the paradox of private creation",
+    "philosophical_depth": "witnessing the self through making"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "recognition dawning",
+      "context": "understanding the ritual nature",
+      "text": "*watching his projects float like prayers* Oh god. They're... they're conversations with myself. That's why I never finish them—the conversation is the point.",
+      "tone": "stunned realization"
+    },
+    {
+      "character": "architect",
+      "state": "monk-scientist wisdom",
+      "context": "deepening the insight",
+      "text": "*nodding slowly* And like all prayers, they don't need an audience... but wouldn't mind a witness. Someone to say 'I see you still trying.'",
+      "tone": "compassionate understanding"
+    },
+    {
+      "character": "evan",
+      "state": "emotional breakthrough",
+      "context": "feeling seen",
+      "text": "*tears starting* I thought I was failing. But I was... I was just trying to stay alive. To prove I haven't given up.",
+      "tone": "raw vulnerability"
+    }
+  ],
+  "visual_elements": {
+    "floating_projects": "Evan's unfinished works hovering like illuminated manuscripts",
+    "prayer_quality": "Each project glowing with its own inner light",
+    "evan_posture": "Opening from defensive to receptive",
+    "atmosphere": "Sacred understanding filling the space"
+  },
+  "psychological_notes": "The breakthrough moment where Evan recognizes his creative projects as life-affirming acts rather than productivity failures. The desire for a witness while not needing an audience captures the delicate balance between private process and human connection. His tears mark the relief of being understood.",
+  "philosophical_underpinning": "Creation as proof of continued engagement with existence, regardless of external validation",
+  "therapeutic_direction": "Validating the life-affirming nature of all creative acts"
+}

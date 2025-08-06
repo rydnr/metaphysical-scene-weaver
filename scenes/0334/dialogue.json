@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 334,
-    "title": "The Spiral's Question",
-    "characters": ["evan"],
-    "location": "stopped_on_spiral",
-    "emotional_tone": "cosmic recognition",
-    "psychological_theme": "dissolution of ownership",
-    "philosophical_depth": "consciousness investigating itself"
+    "title": "Cognitive Resolution Limits",
+    "characters": ["architect"],
+    "location": "meta_conversation_space",
+    "emotional_tone": "analytical appreciation",
+    "psychological_theme": "understanding mental constraints",
+    "philosophical_depth": "abstractions and noise thresholds"
   },
   "dialogue": [
     {
-      "character": "evan",
-      "state": "tectonic realization",
-      "context": "understanding reverses",
-      "text": "Perhaps the question was never mine alone. Perhaps it belongs to the spiral itself."
+      "character": "architect",
+      "state": "technical analysis",
+      "context": "explaining Evan's self-assessment",
+      "text": "You're describing cognitive resolution limits—the number of abstractions you can stack before they crumble, and the number of future interactions you can simulate before it becomes noise."
     }
   ],
   "visual_elements": {
-    "evan_posture": "Stopped walking, trembling stick",
-    "spiral_presence": "Suddenly alive and questioning",
-    "environmental_shift": "Ground feels active, intentional",
-    "perceptual_change": "Spiral revealed as ancient investigator"
+    "architect_demonstration": "Stacking translucent layers",
+    "visualization": "Abstractions crumbling at height",
+    "future_projection": "Paths dissolving into static",
+    "atmosphere": "Scientific precision"
   },
-  "psychological_notes": "Major perspectival shift—Evan realizes he doesn't own the question 'What am I?' but is owned by it. The spiral itself is the questioner, using human consciousness to investigate its own nature. This reframes his entire journey from personal struggle to cosmic participation.",
-  "philosophical_underpinning": "The universe questioning itself through apparently separate consciousnesses",
-  "therapeutic_direction": "Relief from isolation through recognition of universal process"
+  "psychological_notes": "The architect provides technical language for Evan's intuitive self-knowledge. 'Cognitive resolution limits' frames his boundaries as universal human constraints rather than personal failings. The metaphor of abstractions crumbling and simulations becoming noise validates his experiential mapping with theoretical understanding.",
+  "philosophical_underpinning": "Finite processing in infinite possibility space",
+  "therapeutic_direction": "Normalizing cognitive constraints through technical understanding"
 }
