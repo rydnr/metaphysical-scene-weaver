@@ -1,0 +1,54 @@
+{
+  "scene_number": 132,
+  "title": "The Guardian's Paradox",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*watching his guardian struggle* Look at you... holding back that avalanche day after day. Confused friends, lost connections, professional doubts—all the consequences of being real.",
+      "tone": "weary recognition",
+      "context": "Seeing the cost of protection"
+    },
+    {
+      "speaker": "Guardian",
+      "text": "*straining under weight* I... protect... you... from all this! Without me, you'd be crushed by their disappointment, their confusion, their inability to understand!",
+      "tone": "desperate justification",
+      "context": "The guardian defending its purpose"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Because I don't want to deal with the consequences. So, indirectly, the coherence my guardian is protecting is a limitation—at least with respect to others.",
+      "tone": "heavy admission",
+      "context": "Acknowledging the truth"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*approaching the mirror* But what if... what if I'm strong enough now? What if the consequences aren't as crushing as we imagined?",
+      "tone": "tentative courage",
+      "context": "Questioning the need for protection"
+    },
+    {
+      "speaker": "Guardian",
+      "text": "*removing helmet, revealing Evan's face* I am your fear of being truly seen. Your terror of being too much, too strange, too real for others to handle.",
+      "tone": "vulnerable revelation",
+      "context": "The guardian reveals its true nature"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*as armor dissolves* You were never protecting me FROM others... you were protecting others FROM me. From my full possibility. From my incoherent truth.",
+      "tone": "liberating realization",
+      "context": "Understanding the deepest paradox"
+    },
+    {
+      "speaker": "Both",
+      "text": "*speaking in unison as they merge* The prison was always unlocked. The guardian was always me. Freedom means accepting the consequences of being whole.",
+      "tone": "integrated wisdom",
+      "context": "Guardian and self becoming one"
+    }
+  ],
+  "scene_context": "The culmination of the guardian/coherence arc. Evan faces his guardian to discover it IS him—his fear crystallized. The ultimate paradox: self-protection as self-imprisonment.",
+  "philosophical_theme": "integration of protective fear",
+  "visual_progression": {
+    "panel_1": "Exhausted guardian holding back avalanche of consequences while true self withers behind",
+    "panel_2": "Guardian removes helmet revealing Evan's face; armor dissolves showing suppressed possibilities"
+  }
+}
