@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 374,
+    "title": "Witnessing New Seekers",
+    "characters": ["evan"],
+    "location": "bookstore_philosophy_section",
+    "emotional_tone": "compassionate restraint",
+    "psychological_theme": "wisdom of non-interference",
+    "philosophical_depth": "transformation cannot be given"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "observing young seeker",
+      "context": "recognizing early-stage questioning",
+      "text": "Sometimes I meet others who are just beginning to ask. I want to tell them it's okay, that the question won't kill them. But they have to discover that for themselves."
+    }
+  ],
+  "visual_elements": {
+    "bookstore_setting": "Philosophy section, seeking answers",
+    "young_person": "Desperate, clutching books",
+    "evan_presence": "Nearby but not interfering",
+    "atmosphere": "Quiet recognition"
+  },
+  "psychological_notes": "Evan shows mature restraint—recognizing that transformation cannot be transmitted through words. His compassion includes allowing others their necessary struggle. This reflects how the architect treated him—holding space without giving premature answers.",
+  "philosophical_underpinning": "Wisdom as knowing when not to help",
+  "therapeutic_direction": "Full circle—Evan now capable of providing what architect provided"
+}

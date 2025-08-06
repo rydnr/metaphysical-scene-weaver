@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 245,
+    "title": "The Paradox of Seeking",
+    "characters": ["evan", "architect"],
+    "location": "architect_studio",
+    "emotional_tone": "restless acceptance",
+    "psychological_theme": "balancing receptivity with agency",
+    "philosophical_depth": "the middle way between chasing and waiting"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "struggling with paradox",
+      "context": "trying to understand",
+      "text": "*fidgeting with nervous energy* Listen? But I can't just sit here. I touched something real. More real than this chair, this room...",
+      "tone": "frustrated confusion"
+    },
+    {
+      "character": "architect",
+      "state": "patient understanding",
+      "context": "recognizing the dilemma",
+      "text": "*slight smile* I know. The hardest teaching: don't chase what you most want to find. But...",
+      "tone": "compassionate acknowledgment"
+    },
+    {
+      "character": "evan",
+      "state": "desperate hope",
+      "context": "needing something concrete",
+      "text": "*leaning forward* But what? There has to be something I can do. Some way to... to court it, if not chase it.",
+      "tone": "pleading determination"
+    }
+  ],
+  "visual_elements": {
+    "evan_energy": "Coiled spring ready to launch",
+    "architect_shift": "Moving from mythic to practical mode",
+    "studio_atmosphere": "Preparing for concrete guidance",
+    "tension": "Between action and non-action"
+  },
+  "psychological_notes": "Evan embodies the classic spiritual paradox - the need to seek what can only be found through not seeking. His request to 'court' rather than 'chase' shows growing wisdom. The architect recognizes when philosophical wisdom must give way to practical method.",
+  "philosophical_underpinning": "The middle way acknowledges both the futility of grasping and the necessity of practice",
+  "therapeutic_direction": "Meeting the client's need for agency while maintaining wisdom about non-attachment"
+}
