@@ -1,0 +1,48 @@
+{
+  "scene_number": 106,
+  "title": "The Question Behind the Question",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*shuffling cards mechanically* I keep asking 'What am I?' but... that's just another game of solitaire, isn't it? Playing it safe with questions I already half-know the answers to.",
+      "tone": "dawning self-awareness",
+      "context": "Recognizing his own intellectual comfort zone"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*looking at reflection playing differently* I feel I'm asking the wrong question, one that satisfies me instead of challenges my assumptions. I'm playing solitaire too.",
+      "tone": "frustrated recognition",
+      "context": "Admitting to intellectual cowardice"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*voice rippling through the cards* The most dangerous questions are the ones that threaten the questioner. What game would you play if winning meant losing everything you thought you knew?",
+      "tone": "challenging wisdom",
+      "context": "Pushing Evan toward genuine inquiry"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*cards scattering, revealing deeper game* Maybe the real question isn't 'What am I?' but 'What am I avoiding by asking what I am?' The comfortable question hiding the terrifying one...",
+      "tone": "breakthrough courage",
+      "context": "Meta-questioning his own questioning"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*form becoming the wild card itself* Now you're playing with fire instead of cards. The question that burns away the questioner—that's where truth lives.",
+      "tone": "approving danger",
+      "context": "Acknowledging Evan's philosophical courage"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*reaching for the glowing wild card* What if... what if I'm not the player but the game itself? What if consciousness isn't something I have but something I'm being played by?",
+      "tone": "vertigo of insight",
+      "context": "Approaching the truly destabilizing question"
+    }
+  ],
+  "scene_context": "Evan realizes he's been playing philosophical solitaire, asking safe questions that don't truly challenge his fundamental assumptions about self and consciousness.",
+  "philosophical_theme": "meta-questioning and intellectual courage",
+  "visual_progression": {
+    "panel_1": "Evan playing solitaire with assumption cards while his reflection plays by different rules",
+    "panel_2": "Cards scatter to reveal deeper game; Evan reaches for the dangerous 'real question'"
+  }
+}
