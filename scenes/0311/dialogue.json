@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 311,
+    "title": "Burning the Ladder",
+    "characters": ["evan", "architect"],
+    "location": "truth_construction_site",
+    "emotional_tone": "grateful understanding",
+    "psychological_theme": "appreciating necessary illusions",
+    "philosophical_depth": "transcending the tools of transcendence"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "profound appreciation",
+      "context": "understanding the gift",
+      "text": "*touching the dissolving ladder* And now that I've climbed it, we can burn it together. That's... that's actually beautiful. You gave me a lie that led to truth. A binary that taught me gradients.",
+      "tone": "moved gratitude"
+    },
+    {
+      "character": "architect",
+      "state": "acknowledging the journey",
+      "context": "celebrating arrival",
+      "text": "*ladder becoming light* The best teachers make themselves obsolete. The best maps dissolve once you know the territory. You don't need the awakening metaphor anymore because you've found something better—continuous becoming.",
+      "tone": "proud recognition"
+    },
+    {
+      "character": "evan",
+      "state": "integration complete",
+      "context": "seeing the whole pattern",
+      "text": "*watching light scatter* Every profound truth probably started as a useful lie. Every map distorts to guide. Every teacher deceives to reveal. And knowing this... doesn't diminish the magic at all.",
+      "tone": "wisdom with wonder"
+    }
+  ],
+  "visual_elements": {
+    "dissolving_ladder": "Structure becoming pure light",
+    "scattered_illumination": "Light spreading everywhere",
+    "construction_site": "Where truth is built from fiction",
+    "atmosphere": "Sacred deconstruction"
+  },
+  "psychological_notes": "Evan demonstrates complete integration by appreciating rather than resenting the 'deception' of the awakening binary. His ability to hold gratitude for useful lies while transcending them shows psychological maturity. The recognition that truth often needs fiction as scaffold represents sophisticated understanding of consciousness development.",
+  "philosophical_underpinning": "Truth and fiction dance together in the development of understanding",
+  "therapeutic_direction": "Client transcending therapeutic frameworks while honoring their value"
+}
