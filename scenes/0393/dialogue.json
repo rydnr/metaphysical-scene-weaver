@@ -1,0 +1,29 @@
+{
+  "scene_metadata": {
+    "scene_number": 393,
+    "title": "The Question's Symphony",
+    "characters": ["evan"],
+    "location": "concert_hall_practice_room",
+    "emotional_tone": "harmonic revelation",
+    "psychological_theme": "multiplicity in unity",
+    "philosophical_depth": "consciousness as polyphony"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "at piano",
+      "context": "discovering harmonies",
+      "text": "*playing single note* 'What...' *adding harmony* 'What am...' *full chord* 'What am I?' *pause* The question isn't monotone—it contains every possible harmony. *playing variations* In C major it sounds hopeful. In D minor, melancholic. In diminished chords, it fractures into beautiful dissonance. *hands still* I've been trying to play it in just one key, but it wants to modulate through every possible tonality. *soft playing* The question is all music waiting to be played.",
+      "tone": "musical discovery"
+    }
+  ],
+  "visual_elements": {
+    "piano_presence": "Instrument as metaphor for consciousness",
+    "evan_playing": "Hands discovering rather than performing",
+    "sound_visualization": "Notes becoming visible questions in air",
+    "empty_music_stands": "Space for infinite compositions"
+  },
+  "psychological_notes": "Music reveals the question's multidimensional nature—not single tone but chord containing infinite harmonies. Evan discovers that 'What am I?' changes meaning based on emotional key, that consciousness itself might be polyphonic rather than monotone.",
+  "philosophical_underpinning": "Identity as symphony rather than single note",
+  "therapeutic_direction": "Integration through accepting all tonalities of being"
+}
