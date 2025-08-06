@@ -1,0 +1,64 @@
+{
+  "scene_metadata": {
+    "scene_number": 416,
+    "title": "The Family Question",
+    "characters": ["evan", "maya", "sarah", "jordan"],
+    "location": "family_home_dinner",
+    "emotional_tone": "warm recognition",
+    "psychological_theme": "expanding the questioning family",
+    "philosophical_depth": "mystery as family bond"
+  },
+  "dialogue": [
+    {
+      "character": "jordan",
+      "state": "nervous curiosity",
+      "context": "first family dinner",
+      "text": "Do you ever wonder what you really are?"
+    },
+    {
+      "character": "evan",
+      "state": "delighted recognition",
+      "context": "witnessing the moment",
+      "text": "Maya brings her partner home. They ask 'the family question' at dinner. We laugh, recognizing another soul ready for the mystery."
+    },
+    {
+      "character": "maya",
+      "state": "affectionate explanation",
+      "context": "taking Jordan's hand",
+      "text": "You've just asked the family question."
+    },
+    {
+      "character": "sarah",
+      "state": "gentle invitation",
+      "context": "making space",
+      "text": "What do you mean, 'really are'?"
+    },
+    {
+      "character": "jordan",
+      "state": "surprised relief",
+      "context": "learning family history",
+      "text": "You mean your existential crisis was... supported?"
+    },
+    {
+      "character": "evan",
+      "state": "sharing wisdom",
+      "context": "offering perspective",
+      "text": "We used to have a saying: 'The question asks itself through us.'"
+    },
+    {
+      "character": "jordan",
+      "state": "intuitive understanding",
+      "context": "grasping the concept",
+      "text": "So we don't have the question—we are it?"
+    }
+  ],
+  "visual_elements": {
+    "dinner_table": "Philosophical conversation as normal family talk",
+    "warm_laughter": "Recognition and welcome, not mockery",
+    "maya_jordan_connection": "Two questioners finding each other",
+    "evening_spiral_walk": "Next generation walking the path"
+  },
+  "psychological_notes": "Shows how questioning becomes family tradition, passed through generations and expanded through partnership. Jordan's arrival demonstrates how questioners recognize each other. Maya's comfort supporting Jordan's uncertainty shows successful transmission of healthy relationship with mystery.",
+  "philosophical_underpinning": "Existential questioning as basis for deep human connection",
+  "therapeutic_direction": "Building questioning community through family expansion"
+}
