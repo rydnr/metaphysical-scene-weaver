@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 227,
+    "title": "Returning to Earth",
+    "characters": ["evan", "architect"],
+    "location": "space_transitioning_to_therapy_room",
+    "emotional_tone": "grounding integration",
+    "psychological_theme": "cosmic truth meets daily life",
+    "philosophical_depth": "embodying universal principles personally"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "floating but grounding",
+      "context": "integrating cosmic perspective",
+      "text": "*still seeing stars but feeling the chair beneath him* So I'm the universe changing... but I still have to pay rent. I still have projects, goals, things I want to create.",
+      "tone": "bemused practicality"
+    },
+    {
+      "character": "architect",
+      "state": "transitioning forms",
+      "context": "bridging cosmic and personal",
+      "text": "*spacesuit beginning to shift back to lab coat* Yes. The cosmos expresses itself through your specific concerns. Your projects ARE the universe creating through you.",
+      "tone": "connecting scales"
+    },
+    {
+      "character": "evan",
+      "state": "curious realization",
+      "context": "seeing the connection",
+      "text": "*leaning forward* So when I struggle with a project, when I can't finish something or don't know what to create next...",
+      "tone": "dawning understanding"
+    }
+  ],
+  "visual_elements": {
+    "location_shift": "Stars fading, therapy room emerging through cosmic backdrop",
+    "evan_position": "Gradually settling back into chair",
+    "architect_transformation": "Astronaut suit becoming translucent, revealing scientist beneath",
+    "atmosphere": "Two realities overlapping and merging"
+  },
+  "psychological_notes": "The return from cosmic perspective to personal concerns isn't a diminishment but a focusing. Evan begins to understand that his individual struggles and projects are not separate from cosmic process but specific expressions of it. This integration is crucial for practical healing.",
+  "philosophical_underpinning": "The universal expresses itself through the particular; cosmic truths manifest in daily concerns",
+  "therapeutic_direction": "Grounding transcendent insights in practical life application"
+}
