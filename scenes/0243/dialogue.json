@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 243,
+    "title": "The Ache of Return",
+    "characters": ["evan", "architect"],
+    "location": "architect_studio",
+    "emotional_tone": "disoriented longing",
+    "psychological_theme": "integration challenges after transcendence",
+    "philosophical_depth": "the difficulty of ordinary after extraordinary"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "newly returned",
+      "context": "back in consensus reality",
+      "text": "*blinking in the studio light* I'm back. But everything feels... thin. Fake. Like I could push through these walls if I just knew how.",
+      "tone": "displaced yearning"
+    },
+    {
+      "character": "architect",
+      "state": "compassionate understanding",
+      "context": "recognizing the transition",
+      "text": "*settling into their chair* That's the curse and gift of touching the ineffable. Regular reality feels like a costume that doesn't quite fit anymore.",
+      "tone": "knowing empathy"
+    },
+    {
+      "character": "evan",
+      "state": "desperate grasping",
+      "context": "trying to hold on",
+      "text": "*hands clenching and unclenching* I need to go back. Find that door again. I can't just... continue like nothing happened.",
+      "tone": "urgent need"
+    }
+  ],
+  "visual_elements": {
+    "studio_quality": "Solid but somehow translucent to Evan's eyes",
+    "evan_behavior": "Restless, like reality doesn't quite contain him",
+    "architect_presence": "Grounded anchor in shifting perception",
+    "atmosphere": "Between worlds tension"
+  },
+  "psychological_notes": "The return from transcendent experience often involves a period of disorientation and longing. Evan's perception of reality as 'thin' is common after touching deeper dimensions. His desperate desire to return shows the challenging integration phase where ordinary life feels insufficient.",
+  "philosophical_underpinning": "The mystic's dilemma: how to live in the ordinary after experiencing the extraordinary",
+  "therapeutic_direction": "Supporting the client through post-peak experience integration"
+}

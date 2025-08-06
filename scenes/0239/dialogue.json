@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 239,
+    "title": "Crossing the Threshold",
+    "characters": ["evan", "architect"],
+    "location": "street_with_door",
+    "emotional_tone": "awe and terror",
+    "psychological_theme": "facing the invitation to transform",
+    "philosophical_depth": "the choice to step beyond known self"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "seeing the door",
+      "context": "reality offering invitation",
+      "text": "*stopping suddenly* I see it. The door. White, in the middle of everything, like it's always been there.",
+      "tone": "breathless recognition"
+    },
+    {
+      "character": "architect",
+      "state": "gentle guidance",
+      "context": "supporting the moment",
+      "text": "*standing beside him* It was. You just couldn't see it until now. The question is: are you ready to walk through?",
+      "tone": "profound patience"
+    },
+    {
+      "character": "evan",
+      "state": "at the edge",
+      "context": "feeling the pull",
+      "text": "*hand reaching toward the knob* What happens if I do? I feel like... like I might not come back the same. Or at all.",
+      "tone": "vulnerable courage"
+    }
+  ],
+  "visual_elements": {
+    "door_presence": "Luminous white door standing impossibly in busy street",
+    "crowd_behavior": "People passing through it unseeing",
+    "evan_approach": "Drawn forward despite fear",
+    "atmosphere": "Reality holding its breath"
+  },
+  "psychological_notes": "The appearance of the threshold to Evan marks his readiness for profound transformation. His fear of not returning 'the same or at all' shows intuitive understanding that genuine change involves a kind of death. The architect's presence provides grounding for this edge experience.",
+  "philosophical_underpinning": "True transformation requires willingness to release who we think we are",
+  "therapeutic_direction": "Supporting the client at the threshold of ego dissolution"
+}
