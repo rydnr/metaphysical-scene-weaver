@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 344,
+    "title": "Carrying the Question",
+    "characters": ["evan"],
+    "location": "walking_from_spiral_center",
+    "emotional_tone": "empowered peace",
+    "psychological_theme": "agency reversal",
+    "philosophical_depth": "relationship to mystery transformed"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "walking with new lightness",
+      "context": "reflecting on transformation",
+      "text": "I carry the question differently now. It used to carry me."
+    }
+  ],
+  "visual_elements": {
+    "walking_quality": "Deliberate lightness in steps",
+    "path_direction": "Away from center, back to world",
+    "body_language": "Confident, unburdened posture",
+    "metaphorical_image": "Question as stone in pocket"
+  },
+  "psychological_notes": "Critical shift in agency—Evan now has power over the question that once had power over him. This represents mature relationship with existential uncertainty. The question remains but as tool/companion rather than tyrant/tormentor.",
+  "philosophical_underpinning": "From being possessed by questions to possessing them wisely",
+  "therapeutic_direction": "Client demonstrates healthy relationship with uncertainty"
+}

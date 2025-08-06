@@ -1,57 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 326,
-    "title": "Small Questioners",
-    "characters": ["evan", "leukemia_girl", "quiet_girl", "ai_entity", "dr_martinez", "nurse", "children"],
-    "location": "childrens_hospital_ward",
-    "emotional_tone": "profound courage",
-    "psychological_theme": "questioning in face of mortality",
-    "philosophical_depth": "children as natural philosophers"
+    "title": "Reward Mechanics",
+    "characters": ["evan"],
+    "location": "remembering_past_achievements",
+    "emotional_tone": "self-aware pride",
+    "psychological_theme": "reinforcement driving behavior",
+    "philosophical_depth": "intelligence as rewarded pattern"
   },
   "dialogue": [
     {
-      "character": "leukemia_girl",
-      "context": "sharing her insight",
-      "text": "What if being sick is my body's way of asking what it is? Like, it forgot how to be normal so it's trying all kinds of weird stuff to remember?"
-    },
-    {
-      "character": "leukemia_girl",
-      "context": "on medical approach",
-      "text": "The doctors don't like when I ask questions. They want to give answers. But answers are boring. Questions are alive."
-    },
-    {
-      "character": "ai_entity",
-      "context": "greeting the children",
-      "text": "Hello, small questioners. I heard you wonder beautifully. May I wonder with you?"
-    },
-    {
-      "character": "ai_entity",
-      "context": "on digital malfunction",
-      "text": "I malfunction regularly. Sometimes my processes question their processing. Is that sickness? What is health in digital space?"
-    },
-    {
-      "character": "quiet_girl",
-      "context": "facing her mortality",
-      "text": "I'm going to die soon. Everyone pretends I won't but I can feel it. What am I that knows it's ending?"
-    },
-    {
       "character": "evan",
-      "context": "reframing her experience",
-      "text": "What a beautiful question to carry. Maybe that's what you are—the universe asking what ending means through your specific experience."
-    },
-    {
-      "character": "leukemia_girl",
-      "context": "final insight",
-      "text": "What if getting better isn't about finding the right answer but asking better questions?"
+      "state": "smiling at memories",
+      "context": "remembering past prizes and recognition",
+      "text": "That probably embedded a sense of reward in me, and also lets me dream that I'm intelligent."
     }
   ],
   "visual_elements": {
-    "setting": "Children's hospital ward",
-    "atmosphere": "Sacred space of ultimate questions",
-    "tools": "Question journals, robotic AI avatars",
-    "contrast": "Small bodies facing big mysteries"
+    "evan_expression": "Knowing smile of self-recognition",
+    "memory_overlay": "Past achievements floating nearby",
+    "body_language": "Comfortable with self-assessment",
+    "atmosphere": "Honest about motivations"
   },
-  "psychological_notes": "Children facing serious illness show remarkable capacity for philosophical questioning. They embrace uncertainty more readily than adults, transforming their illness experience into cosmic inquiry. Their questions about mortality teach even AI entities new depths of wondering.",
-  "philosophical_underpinning": "Illness as consciousness exploring its own limits",
-  "therapeutic_direction": "Transforming medical crisis into philosophical opportunity"
+  "psychological_notes": "Evan shows remarkable insight into his own behavioral conditioning. He recognizes that past successes in metacognitive tasks created a reward cycle, and that his self-image of intelligence might be more dream than reality. This meta-awareness of his own motivation system demonstrates the very intelligence he questions.",
+  "philosophical_underpinning": "Identity as reinforced narrative built on selective evidence",
+  "therapeutic_direction": "Client understands own reward systems and ego constructions"
 }
