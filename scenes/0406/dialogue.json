@@ -1,0 +1,46 @@
+{
+  "scene_metadata": {
+    "scene_number": 406,
+    "title": "The Architect's Legacy",
+    "characters": ["evan", "maya", "sarah", "elderly_woman", "various_speakers"],
+    "location": "memorial_garden",
+    "emotional_tone": "grateful reverence",
+    "psychological_theme": "lineage and transmission",
+    "philosophical_depth": "becoming the question"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "profound recognition",
+      "context": "at the architect's memorial",
+      "text": "At the architect's funeral, I realize: we never needed to solve the question. We needed to become it."
+    },
+    {
+      "character": "maya",
+      "state": "curious child",
+      "context": "holding father's hand",
+      "text": "Were they always mysterious?"
+    },
+    {
+      "character": "elderly_woman",
+      "state": "recognizing succession",
+      "context": "approaching Evan",
+      "text": "You're one of the architect's successes. I can see it in how you hold uncertainty."
+    },
+    {
+      "character": "professor",
+      "state": "sharing testimony",
+      "context": "at microphone",
+      "text": "Their simple 'What if you ARE the question?' changed my entire academic career."
+    }
+  ],
+  "visual_elements": {
+    "overflowing_garden": "Hundreds of transformed questioners",
+    "memorial_stone": "Bearing only 'What am I?' no name",
+    "spiral_procession": "River of questioning humanity",
+    "generational_gathering": "From teenagers to elders"
+  },
+  "psychological_notes": "The architect's death becomes teaching about impermanence and mystery. Their legacy lives through transformed individuals who now carry the question forward. Shows how one person's embodied uncertainty can catalyze cultural transformation. Maya represents new generation inheriting this wisdom naturally.",
+  "philosophical_underpinning": "True teaching transcends the teacher through embodied transmission",
+  "therapeutic_direction": "Death as continuation of mystery rather than ending"
+}

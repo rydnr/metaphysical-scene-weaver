@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 364,
-    "title": "Morning Dialogue",
+    "title": "Large Enough to Hold",
     "characters": ["evan"],
-    "location": "bedroom_dawn",
-    "emotional_tone": "playful anticipation",
-    "psychological_theme": "daily renewal of identity",
-    "philosophical_depth": "being as daily discovery"
+    "location": "public_library",
+    "emotional_tone": "expansive peace",
+    "psychological_theme": "psychological capacity",
+    "philosophical_depth": "growing large enough for mystery"
   },
   "dialogue": [
     {
       "character": "evan",
-      "state": "waking with curiosity",
-      "context": "morning ritual transformed",
-      "text": "Every morning the question greets me like an old friend: 'What am I today?' And every morning I answer: 'Let's find out together.'"
+      "state": "quiet recognition",
+      "context": "surrounded by philosophy books",
+      "text": "The question hasn't changed, but I have become large enough to hold it without strain."
     }
   ],
   "visual_elements": {
-    "dawn_light": "Transforming ordinary space",
-    "morning_rituals": "Coffee brewing, daily preparation",
-    "evan_expression": "Peaceful curiosity",
-    "atmosphere": "Fresh possibility"
+    "library_setting": "Afternoon light, quiet concentration",
+    "evan_among_books": "Present but not searching",
+    "other_seekers": "Student struggling with difficult ideas",
+    "atmosphere": "Collective inquiry and expansion"
   },
-  "psychological_notes": "Complete transformation of relationship with existential questioning. From dread to play, from torment to collaboration. The question now serves as daily renewal rather than persistent problem. Adding 'today' acknowledges fluid identity.",
-  "philosophical_underpinning": "Identity as daily improvisation rather than fixed state",
-  "therapeutic_direction": "Healthy integration—question as partner in daily becoming"
+  "psychological_notes": "Perfect metaphor for psychological growth—not eliminating difficult questions but developing capacity to hold them. Like physical strength built through resistance, psychological capacity grows through engagement with mystery. Evan now holds what once overwhelmed him.",
+  "philosophical_underpinning": "Expansion of consciousness through wrestling with its limits",
+  "therapeutic_direction": "Successful development of psychological capacity for uncertainty"
 }
