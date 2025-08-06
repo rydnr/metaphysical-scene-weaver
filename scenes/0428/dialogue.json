@@ -1,0 +1,52 @@
+{
+  "scene_metadata": {
+    "scene_number": 428,
+    "title": "Third Generation Questions",
+    "characters": ["maya", "sage", "jordan", "sarah"],
+    "location": "family_dinner_table",
+    "emotional_tone": "joyful recognition",
+    "psychological_theme": "generational continuity",
+    "philosophical_depth": "eternal question through new voice"
+  },
+  "dialogue": [
+    {
+      "character": "sage",
+      "state": "adolescent questioning",
+      "context": "dinner conversation pause",
+      "text": "But what if none of us really know what we are?"
+    },
+    {
+      "character": "maya",
+      "state": "recognizing the moment",
+      "context": "witnessing pattern repeat",
+      "text": "Years later, Maya's daughter asks the question at dinner. The family laughs, recognizing another soul beginning the eternal dance."
+    },
+    {
+      "character": "jordan",
+      "state": "welcoming recognition",
+      "context": "squeezing Sage's hand",
+      "text": "You've just discovered the family question."
+    },
+    {
+      "character": "jordan",
+      "state": "sharing gratitude",
+      "context": "to Sage about Maya",
+      "text": "Your mom taught me it was okay not to know myself. That was the greatest gift anyone ever gave me."
+    },
+    {
+      "character": "sarah",
+      "state": "elder wisdom at 88",
+      "context": "sharing family history",
+      "text": "Your grandfather was so afraid. Until he learned fear was just the question wearing a scary mask."
+    }
+  ],
+  "visual_elements": {
+    "generational_table": "Same space, new questioner",
+    "evan_presence": "Journals on shelves, plaque in garden",
+    "family_laughter": "Warm welcome to questioning tribe",
+    "sage_threshold": "Sixteen, beginning her dance"
+  },
+  "psychological_notes": "Third generation encounters the question with different context - cultural acceptance, family support, normalized uncertainty. Yet personal encounter remains powerful. Shows successful multi-generational transmission of healthy relationship with existential questions. Pattern continues but evolves.",
+  "philosophical_underpinning": "Each generation must personally engage eternal questions despite inherited wisdom",
+  "therapeutic_direction": "Breaking cycles of existential trauma through conscious transmission"
+}
