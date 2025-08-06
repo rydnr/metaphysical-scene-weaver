@@ -1,0 +1,59 @@
+{
+  "scene_id": 216,
+  "title": "Six Weeks Later",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "integrated human living transformation"
+    },
+    {
+      "name": "The Narrator",
+      "role": "observer of sustained change"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "Hello, old friend",
+      "tone": "gentle greeting to anxiety",
+      "visual_note": "speaking to internal experience with tenderness"
+    },
+    {
+      "speaker": "Developer",
+      "text": "It's like you trust us to be adults",
+      "tone": "surprised appreciation"
+    },
+    {
+      "speaker": "Evan",
+      "text": "What if they're right?",
+      "tone": "genuine curiosity replacing defensiveness"
+    }
+  ],
+  "actions": [
+    {
+      "panel": 1,
+      "character": "Evan",
+      "action": "morning coffee ritual with present-moment awareness"
+    },
+    {
+      "panel": 1,
+      "character": "Steam",
+      "action": "rises carrying symbolic release of yesterday's urgency"
+    },
+    {
+      "panel": 2,
+      "character": "Evan at work",
+      "action": "leading through space rather than anxiety"
+    },
+    {
+      "panel": 3,
+      "character": "Evening Evan",
+      "action": "sitting with book, embodying solitude without loneliness"
+    }
+  ],
+  "environment": {
+    "description": "Ordinary life transformed through extraordinary presence - apartment, office, daily routines all infused with integrated awareness",
+    "mood": "quiet revolution, sustained transformation, ordinary monastery"
+  },
+  "themes": ["integration as ongoing process", "ordinary as spiritual practice", "presence as default state", "transformation as way of being"]
+}
