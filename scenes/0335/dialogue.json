@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 335,
+    "title": "The Beauty of Resolution",
+    "characters": ["evan", "architect"],
+    "location": "technical_understanding_space",
+    "emotional_tone": "scientific wonder",
+    "psychological_theme": "precision in self-knowledge",
+    "philosophical_depth": "signal versus noise"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "absorbing technical framework",
+      "context": "responding to terminology",
+      "text": "*eyes lighting up* Resolution limits. Yes! Like a microscope that can only go so deep before everything blurs. *gesturing* I know exactly where my lens loses focus—two abstractions up, three projections out. After that, it's all quantum foam.",
+      "tone": "excited recognition"
+    },
+    {
+      "character": "architect",
+      "state": "building on metaphor",
+      "context": "appreciating precision",
+      "text": "*adjusting invisible dials* And knowing your exact resolution is its own kind of clarity. Most people squint at the blur, pretending to see patterns. You say, 'Here's where signal becomes noise.' *pause* That honesty is rarer than any depth.",
+      "tone": "deep respect"
+    },
+    {
+      "character": "evan",
+      "state": "finding pride in precision",
+      "context": "reframing limitation",
+      "text": "*standing taller* When you put it that way... I'm not limited, I'm calibrated. Like knowing your instrument's range. A violin can't play below its lowest string, but within its range? *mimicking playing* Magic.",
+      "tone": "transformed understanding"
+    }
+  ],
+  "visual_elements": {
+    "microscope_visualization": "Clarity degrading at depth",
+    "signal_noise_boundary": "Clear demarcation line",
+    "instrument_metaphor": "Violin with defined range",
+    "atmosphere": "Laboratory meets concert hall"
+  },
+  "psychological_notes": "The technical framing transforms Evan's experience from limitation to precision instrument. The microscope and violin metaphors show how constraints enable rather than restrict mastery. His pride in being 'calibrated' rather than 'limited' represents a fundamental reframe of self-concept.",
+  "philosophical_underpinning": "Mastery emerges from knowing and respecting the boundaries of our instruments",
+  "therapeutic_direction": "Client integrating technical understanding with experiential self-knowledge"
+}
