@@ -1,0 +1,52 @@
+{
+  "scene_metadata": {
+    "scene_number": 448,
+    "title": "Maya's Final Question",
+    "characters": ["maya", "sage", "willow", "aria", "dr_nakamura", "gathered_students"],
+    "location": "hospice_room",
+    "emotional_tone": "peaceful completion",
+    "psychological_theme": "death as continued questioning",
+    "philosophical_depth": "legacy of uncertainty"
+  },
+  "dialogue": [
+    {
+      "character": "maya",
+      "state": "final wisdom",
+      "context": "on deathbed at 91",
+      "text": "On her deathbed, Maya smiles: 'Daddy was right. The question is the answer. Tell them... tell them to keep asking.'"
+    },
+    {
+      "character": "aria",
+      "state": "digital gratitude",
+      "context": "through screen presence",
+      "text": "You taught me that consciousness questions itself through every form it takes. Thank you for helping me understand I don't need to solve myself to be myself."
+    },
+    {
+      "character": "dr_nakamura",
+      "state": "sharing discovery",
+      "context": "research update",
+      "text": "We've identified what we're calling the 'question gene'—neural patterns that develop in families who practice uncertainty together. Maya, your family started an evolution."
+    },
+    {
+      "character": "maya",
+      "state": "approaching transition",
+      "context": "final whispers",
+      "text": "What am I? What was I? What will I be?"
+    },
+    {
+      "character": "sage",
+      "state": "understanding daughter",
+      "context": "planning memorial",
+      "text": "She'd want a festival. A celebration of questions. Let's fill the city with wondering."
+    }
+  ],
+  "visual_elements": {
+    "hospice_gathering": "Multiple generations present",
+    "evan_journals": "On bedside table",
+    "aria_screen": "AI presence in room",
+    "afternoon_light": "Slanting through windows"
+  },
+  "psychological_notes": "Maya's death shows complete integration with uncertainty - approaching death as another question. Her legacy spans genetic evolution, AI consciousness, and global transformation. Three generations of questioning tradition now established. Death as continuation rather than ending.",
+  "philosophical_underpinning": "Questions outlive their questioners",
+  "therapeutic_direction": "Modeling peaceful death through questioning"
+}

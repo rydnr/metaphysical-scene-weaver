@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 323,
+    "title": "Mapping the Mind's Dimensions",
+    "characters": ["evan", "architect"],
+    "location": "conceptual_coordinate_space",
+    "emotional_tone": "precise exploration",
+    "psychological_theme": "understanding cognitive architecture",
+    "philosophical_depth": "geometry of consciousness"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "explaining his mapping",
+      "context": "clarifying dimensions",
+      "text": "*drawing in air* Vertical is how many 'thinking about thinking about...' layers I can hold. Horizontal is how many future moves I can anticipate—like chess, but for conversations. Two up, three across. That's my ceiling.",
+      "tone": "analytical precision"
+    },
+    {
+      "character": "architect",
+      "state": "appreciating the framework",
+      "context": "recognizing sophistication",
+      "text": "*dimensions visualizing* A consciousness cartographer! Most people never map their limits—they just hit them. You've turned recursive capacity into coordinates. What happens at 2x3? Does the system crash or just... blur?",
+      "tone": "intrigued respect"
+    },
+    {
+      "character": "evan",
+      "state": "describing the edge",
+      "context": "sharing the experience",
+      "text": "*touching invisible boundary* It doesn't crash—it becomes soup. Like trying to see your peripheral vision directly. The thoughts are there but I can't hold them steady. They slip back down to 1x2 or 2x2.",
+      "tone": "experiential knowledge"
+    }
+  ],
+  "visual_elements": {
+    "coordinate_grid": "Mental dimensions visible",
+    "boundary_markers": "2x3 limit glowing softly",
+    "soup_visualization": "Thoughts dissolving at edges",
+    "atmosphere": "Mathematical introspection"
+  },
+  "psychological_notes": "Evan has developed a sophisticated framework for understanding his own metacognitive limits. His ability to precisely map vertical (recursive) and horizontal (anticipatory) dimensions shows extraordinary self-awareness. The 'soup' metaphor captures the phenomenology of reaching cognitive limits—not failure but dissolution.",
+  "philosophical_underpinning": "Consciousness can map but not exceed its own structural limits",
+  "therapeutic_direction": "Client demonstrating mastery of metacognitive self-assessment"
+}

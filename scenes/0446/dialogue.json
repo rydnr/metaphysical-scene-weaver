@@ -1,0 +1,52 @@
+{
+  "scene_metadata": {
+    "scene_number": 446,
+    "title": "University of Uncertainty",
+    "characters": ["dr_amara_singh", "kai_chen", "dr_rosa_martinez", "marcus_sterling", "parents"],
+    "location": "questions_quarter_university",
+    "emotional_tone": "innovative excitement",
+    "psychological_theme": "education through questioning",
+    "philosophical_depth": "uncertainty as practical skill"
+  },
+  "dialogue": [
+    {
+      "character": "narrative_voice",
+      "state": "setting scene",
+      "context": "introducing the university",
+      "text": "The university offers a degree in Applied Uncertainty. Students learn not subjects but how to navigate not knowing."
+    },
+    {
+      "character": "dr_amara_singh",
+      "state": "dean explaining",
+      "context": "to new students",
+      "text": "Your curriculum will emerge from your uncertainties. We teach from what you don't know."
+    },
+    {
+      "character": "worried_parent",
+      "state": "anxious questioning",
+      "context": "parents' weekend",
+      "text": "What job will this prepare them for?"
+    },
+    {
+      "character": "dr_amara_singh",
+      "state": "confident response",
+      "context": "addressing concerns",
+      "text": "All of them. In a rapidly changing world, the ability to navigate uncertainty is the only permanent skill."
+    },
+    {
+      "character": "kai_chen",
+      "state": "delighted recognition",
+      "context": "journal entry",
+      "text": "Day one: I know less than when I arrived. Success!"
+    }
+  ],
+  "visual_elements": {
+    "shifting_architecture": "Buildings that reconfigure daily",
+    "spiral_symbols": "Everywhere on campus",
+    "question_library": "Organized by uncertainties not subjects",
+    "graduation_spiral": "Final walk adding questions"
+  },
+  "psychological_notes": "Shows evolution of education to embrace uncertainty as core curriculum. Students learn meta-skills of navigation rather than fixed knowledge. Former Certainty Movement leader now teaches uncertainty. Practical preparation for rapidly changing world through comfort with not-knowing.",
+  "philosophical_underpinning": "Education as preparation for mystery rather than mastery",
+  "therapeutic_direction": "Normalizing uncertainty as academic discipline"
+}
