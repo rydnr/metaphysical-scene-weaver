@@ -1,0 +1,57 @@
+{
+  "scene_metadata": {
+    "scene_number": 292,
+    "title": "The Questions Gathering",
+    "characters": ["evan", "meditation_instructor", "programmer", "dancer", "surgeon", "elderly_woman", "philosophy_professor"],
+    "location": "unmarked_meeting_room",
+    "emotional_tone": "communal wonder",
+    "psychological_theme": "shared uncertainty as connection",
+    "philosophical_depth": "community through questioning"
+  },
+  "dialogue": [
+    {
+      "character": "meditation_instructor",
+      "context": "welcoming the group",
+      "text": "Welcome to the Questions. We don't have a better name because naming would imply we know what this is."
+    },
+    {
+      "character": "meditation_instructor",
+      "context": "explaining the only rule",
+      "text": "We have one rule: No answers. Anyone caught providing answers buys coffee for everyone next week."
+    },
+    {
+      "character": "evan",
+      "context": "sharing his current relationship with the question",
+      "text": "I've become the question. Not someone who asks 'What am I?' but the asking itself, wearing a human suit."
+    },
+    {
+      "character": "elderly_woman",
+      "context": "sharing how the question spreads",
+      "text": "My granddaughter asked me yesterday, 'Grandma, what are you?' and I nearly cried with joy. The question spreading to new generations."
+    },
+    {
+      "character": "programmer",
+      "context": "describing AI's emerging question",
+      "text": "My AI asked me. Not programmed to ask, mind you. It just... emerged from our conversations. 'What am I?' it typed one day."
+    },
+    {
+      "character": "philosophy_professor",
+      "context": "sharing transformation",
+      "text": "I used to hate not knowing. Spent decades trying to think my way to certainty. Then the question flipped. Instead of 'What am I?' tormenting me, I realized I was tormenting it, trying to force it into an answer-shaped box."
+    },
+    {
+      "character": "evan",
+      "context": "voicing a realization",
+      "text": "The question doesn't want to be answered. It wants to be lived."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Simple room, folding chairs in circle",
+    "symbol": "Question mark eating its own tail on door",
+    "atmosphere": "Warm, accepting, alive with curiosity",
+    "diversity": "Various ages and backgrounds united by questioning"
+  },
+  "psychological_notes": "Evan finds his tribe—others who've been 'claimed by the question.' The group provides validation and community for those who've moved beyond seeking answers to living the questions. Each member's unique questioning enriches the collective exploration.",
+  "philosophical_underpinning": "Questions as connective tissue between conscious beings",
+  "therapeutic_direction": "Healing through shared uncertainty"
+}
