@@ -1,0 +1,42 @@
+{
+  "scene_metadata": {
+    "scene_number": 242,
+    "title": "Return to the Studio",
+    "panel_count": 3,
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "grounding after transcendence",
+    "psychological_theme": "integration after peak experience",
+    "philosophical_depth": "how to continue after touching the ineffable"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "transition": "Jungle fading to studio",
+      "effect": "Reality reasserting itself",
+      "atmosphere": "Dreamlike to solid"
+    },
+    {
+      "panel": 2,
+      "setting": "Architect's familiar studio",
+      "details": "Books, screens, creative chaos",
+      "quality": "Safe container for integration"
+    },
+    {
+      "panel": 3,
+      "architect_position": "Centered, grounded",
+      "expression": "Knowing concern",
+      "focus": "Present moment awareness"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "context": "the jungle vanishes into the architect's studio",
+      "text": "And then, they changed the track. Back to \"reality.\" Door gone. What now? How to continue?"
+    }
+  ],
+  "psychological_notes": "The return to ordinary reality after touching the transcendent poses unique challenges. The architect acknowledges the jarring transition from ineffable experience back to consensus reality. The question 'How to continue?' captures the universal challenge of integration - how do we live ordinary life after extraordinary experience?",
+  "philosophical_underpinning": "The spiritual journey includes both ascent and return; integration is as important as transcendence",
+  "therapeutic_direction": "Supporting the challenging transition from peak experience back to daily life"
+}
