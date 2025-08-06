@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 317,
+    "title": "The Marathon Mind",
+    "characters": ["evan", "architect"],
+    "location": "endurance_testing_ground",
+    "emotional_tone": "energized determination",
+    "psychological_theme": "intellectual stamina as gift",
+    "philosophical_depth": "sustaining wonder against exhaustion"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "recognizing his nature",
+      "context": "understanding his endurance",
+      "text": "*breathing deeply* I think... I think I'm addicted to the vertigo. That moment when a question cracks open to reveal ten more. Where others see exhaustion, I see... *eyes bright* unexplored territory.",
+      "tone": "exhilarated recognition"
+    },
+    {
+      "character": "architect",
+      "state": "mapping the pattern",
+      "context": "analyzing the drive",
+      "text": "*energy patterns visible* It's rare—this hunger that grows with feeding. Most minds seek rest, conclusion, the comfort of arrival. You seek the discomfort of perpetual departure. That's not pathology; that's a different species of consciousness.",
+      "tone": "analytical admiration"
+    },
+    {
+      "character": "evan",
+      "state": "embracing identity",
+      "context": "claiming his nature",
+      "text": "*standing taller* Then I'll keep running this marathon of meaning. Not because I hope to finish—but because the running itself is where I feel most alive. Every step a question, every breath a new beginning.",
+      "tone": "fierce commitment"
+    }
+  ],
+  "visual_elements": {
+    "marathon_visualization": "Endless track of questioning",
+    "energy_renewal": "Exhaustion transforming to fuel",
+    "bright_eyes": "Sustained wonder despite duration",
+    "atmosphere": "Perpetual dawn of discovery"
+  },
+  "psychological_notes": "Evan reframes his relentless questioning from potential compulsion to conscious choice. His 'addiction to vertigo' suggests he's energized rather than depleted by complexity. The marathon metaphor shows he understands this as endurance sport requiring special conditioning—and he has it.",
+  "philosophical_underpinning": "Some consciousnesses are built for journey rather than destination",
+  "therapeutic_direction": "Client claiming sustained engagement as identity, not symptom"
+}

@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 438,
+    "title": "Ninety Years of Questions",
+    "characters": ["evelyn_chen", "journalist", "lily", "salon_participants"],
+    "location": "senior_residence",
+    "emotional_tone": "joyful persistence",
+    "psychological_theme": "lifelong questioning",
+    "philosophical_depth": "question as sustainable life practice"
+  },
+  "dialogue": [
+    {
+      "character": "evelyn_chen",
+      "state": "ninety years wise",
+      "context": "morning reflection",
+      "text": "The old woman laughs: 'Ninety years of asking what I am, and the question still surprises me each morning.'"
+    },
+    {
+      "character": "evelyn_chen",
+      "state": "amused wisdom",
+      "context": "to journalist",
+      "text": "You think after ninety years I'd have figured something out? The joke's on me—or maybe that IS the figure-out. The question doesn't age. Only I do."
+    },
+    {
+      "character": "lily",
+      "state": "six-year-old excitement",
+      "context": "visiting great-grandmother",
+      "text": "Great-Gamma Eve, my teacher says you're famous for questions!"
+    },
+    {
+      "character": "evelyn_chen",
+      "state": "gentle teaching",
+      "context": "to Lily",
+      "text": "Not famous, dear. Just persistent. Like rain on stone—eventually something shifts, though the rain remains rain."
+    },
+    {
+      "character": "middle_aged_man",
+      "state": "existential fear",
+      "context": "at salon",
+      "text": "What if I die without knowing what I am?"
+    },
+    {
+      "character": "evelyn_chen",
+      "state": "quick certainty",
+      "context": "responding",
+      "text": "Then you'll have lived authentically. Better to die honestly questioning than falsely certain."
+    }
+  ],
+  "visual_elements": {
+    "journal_collection": "Seven decades of questioning documented",
+    "window_view": "Overlooking Questions Quarter lights",
+    "morning_ritual": "Daily greeting of the question",
+    "generational_meeting": "Lily on Evelyn's lap"
+  },
+  "psychological_notes": "Represents ultimate long-term relationship with existential uncertainty - 75 years of continuous questioning. Shows the question can sustain entire lifetime without resolution. Evelyn demonstrates that surprise and freshness can persist despite (or because of) decades of practice.",
+  "philosophical_underpinning": "The question 'What am I?' as lifelong companion rather than problem to solve",
+  "therapeutic_direction": "Modeling sustainable long-term relationship with uncertainty"
+}
