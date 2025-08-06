@@ -1,0 +1,40 @@
+{
+  "scene_metadata": {
+    "scene_number": 392,
+    "title": "Heartbeat of Mystery",
+    "characters": ["evan", "neighbor"],
+    "location": "evan's_apartment",
+    "emotional_tone": "quiet integration",
+    "psychological_theme": "question as biological function",
+    "philosophical_depth": "questioning as essential human condition"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "morning meditation",
+      "context": "feeling the question's constant rhythm",
+      "text": "The question has become my heartbeat—constant, necessary, unnoticed until I pay attention."
+    },
+    {
+      "character": "neighbor",
+      "state": "feeling lost",
+      "context": "seeking direction",
+      "text": "I've been feeling lost lately, unsure of my direction."
+    },
+    {
+      "character": "evan",
+      "state": "holding space",
+      "context": "listening without fixing",
+      "text": "*listens with full presence*"
+    }
+  ],
+  "visual_elements": {
+    "apartment_quality": "Simplified space reflecting inner clarity",
+    "morning_ritual": "Meditation flowing into daily life",
+    "city_awakening": "World rushing toward answers outside window",
+    "mirror_moment": "Aged face with eyes holding peace with mystery"
+  },
+  "psychological_notes": "The question has become autonomic function, as natural and necessary as heartbeat. Evan no longer struggles with it but lives it unconsciously until attention turns toward it. His mastery shown through ability to hold space for others' questioning without interfering.",
+  "philosophical_underpinning": "Essential questions must remain alive; answered questions die",
+  "therapeutic_direction": "Integration so complete it becomes unconscious competence"
+}

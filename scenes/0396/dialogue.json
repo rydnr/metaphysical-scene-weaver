@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 396,
+    "title": "Meeting Myself in Dreams",
+    "characters": ["evan_present", "evan_past"],
+    "location": "dream_spiral_garden",
+    "emotional_tone": "tender reconciliation",
+    "psychological_theme": "healing through time",
+    "philosophical_depth": "already home paradox"
+  },
+  "dialogue": [
+    {
+      "character": "evan_present",
+      "state": "compassionate witness",
+      "context": "observing his past self",
+      "text": "Sometimes I meet my former self in dreams, still searching. I hold him gently and whisper: 'You're already home.'"
+    },
+    {
+      "character": "evan_past",
+      "state": "desperate panic",
+      "context": "caught in existential crisis",
+      "text": "What am I? What am I? What am I?"
+    },
+    {
+      "character": "evan_past",
+      "state": "grabbing with intensity",
+      "context": "pleading for answers",
+      "text": "Please, I need to know! I can't stand not knowing anymore!"
+    },
+    {
+      "character": "evan_present",
+      "state": "holding with understanding",
+      "context": "offering presence not answers",
+      "text": "You're already home."
+    },
+    {
+      "character": "evan_past",
+      "state": "protesting but softening",
+      "context": "beginning to feel the shift",
+      "text": "But I don't know what I am!"
+    },
+    {
+      "character": "evan_present",
+      "state": "infinite tenderness",
+      "context": "sharing lived wisdom",
+      "text": "That not-knowing is what you are. The question is your nature. Stop trying to escape yourself."
+    }
+  ],
+  "visual_elements": {
+    "dream_logic": "Time flowing non-linearly",
+    "spiral_garden": "Past version with present awareness",
+    "physical_embrace": "Present holding past with compassion",
+    "transformation": "Younger self's eyes shifting from terror to wonder"
+  },
+  "psychological_notes": "Deep healing through dream encounter with former self. Present-Evan offers what he needed then - not answers but presence and assurance of survival. The embrace represents self-compassion and integration of all life stages. Dream allows non-linear healing.",
+  "philosophical_underpinning": "The seeker is already what is sought; distance is illusion",
+  "therapeutic_direction": "Integration through compassionate dialogue with past selves"
+}

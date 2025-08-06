@@ -1,0 +1,52 @@
+{
+  "scene_metadata": {
+    "scene_number": 394,
+    "title": "Teaching the Unteachable",
+    "characters": ["evan", "ceo", "artist", "widow", "young_mother", "teenager"],
+    "location": "community_center",
+    "emotional_tone": "open exploration",
+    "psychological_theme": "paradox as medicine",
+    "philosophical_depth": "question as self-answering koan"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "facilitating with presence",
+      "context": "opening the session",
+      "text": "What if the question is the answer? What if the seeking is the finding? What if the journey is the destination?"
+    },
+    {
+      "character": "participant",
+      "state": "frustrated resistance",
+      "context": "objecting to paradox",
+      "text": "But that's just wordplay. We need real answers!"
+    },
+    {
+      "character": "young_mother",
+      "state": "exhausted but hopeful",
+      "context": "recognizing possibility",
+      "text": "I've been searching for who I am beyond 'mom' and 'wife' and 'employee.' Are you saying the search itself is what I'm looking for?"
+    },
+    {
+      "character": "teenager",
+      "state": "defensive curiosity",
+      "context": "challenging the premise",
+      "text": "So you're saying stop trying?"
+    },
+    {
+      "character": "evan",
+      "state": "meeting resistance with understanding",
+      "context": "offering perspective",
+      "text": "I'm saying trying and not-trying might both be movements of the same dance. What if the question isn't about finding the right answer but about discovering what happens when we genuinely ask?"
+    }
+  ],
+  "visual_elements": {
+    "circle_formation": "Twenty people in various stages of questioning",
+    "diverse_seekers": "CEO, artist, widow, mother, teenager - all equal",
+    "evan_presence": "Sitting as participant, not elevated teacher",
+    "group_dynamics": "Ripples of recognition and resistance"
+  },
+  "psychological_notes": "Evan demonstrates mature facilitation - holding space without imposing answers. He honors resistance as part of the process. His teaching method involves inviting investigation rather than proclaiming truth. Each participant engages the paradox from their unique position.",
+  "philosophical_underpinning": "Some questions are answers through being genuinely asked",
+  "therapeutic_direction": "Creating safe space for existential exploration"
+}
