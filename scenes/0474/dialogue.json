@@ -1,0 +1,64 @@
+{
+  "scene_metadata": {
+    "scene_number": 474,
+    "title": "Ancestral Memory Integration",
+    "characters": ["elder_yindi_nakamura_tjandrawesi", "marcus_okafor", "dr_kenji_riverstone", "various_participants"],
+    "location": "australian_outback_integration_center",
+    "emotional_tone": "reverent transformation",
+    "psychological_theme": "integrating heritage with uncertainty",
+    "philosophical_depth": "ancestors as complex beings"
+  },
+  "dialogue": [
+    {
+      "character": "yindi",
+      "state": "ceremonial teaching",
+      "context": "opening wisdom",
+      "text": "My grandmothers knew exactly who they were. Desert people. Sunrise dancers. Story keepers. Their certainty was beautiful, carved from tens of thousands of years of knowing. And now we ask: how do we honor that knowing while embracing not-knowing?"
+    },
+    {
+      "character": "marcus",
+      "state": "ancestral conflict",
+      "context": "sharing struggle",
+      "text": "My African ancestors had unshakeable identity. My uncertainty ancestors dissolved all identity. I feel torn between worlds."
+    },
+    {
+      "character": "yindi",
+      "state": "integration dance",
+      "context": "demonstrating harmony",
+      "text": "I am Yindi of the Arrernte people. I am also Yindi-becoming, Yindi-questioning, Yindi-who-doesn't-yet-know-who-she'll-be-tomorrow. Both truths dance together."
+    },
+    {
+      "character": "yindi",
+      "state": "revealing truth",
+      "context": "ancestral complexity",
+      "text": "Your ancestors were also uncertain. They questioned, they changed, they became. We only remember their final forms, not their becoming."
+    },
+    {
+      "character": "marcus",
+      "state": "breakthrough moment",
+      "context": "new understanding",
+      "text": "They weren't certain—they were committed. That's different."
+    },
+    {
+      "character": "yindi",
+      "state": "deep teaching",
+      "context": "honoring complexity",
+      "text": "We insult our ancestors by making them simple. They were as vast as we are. When we embrace our own uncertainty, we give them permission to have been uncertain too."
+    },
+    {
+      "character": "marcus",
+      "state": "transformed perspective",
+      "context": "after ceremony",
+      "text": "I feel them differently now. Not as weight but as wings. My ancestors aren't telling me who to be—they're showing me how to become."
+    }
+  ],
+  "visual_elements": {
+    "merged_spaces": "Red earth with probability fields",
+    "integration_dance": "Traditional movements allowing variation",
+    "memory_field": "Ancestors shown questioning and transforming",
+    "quantum_echoes": "Past and future in present moment"
+  },
+  "psychological_notes": "Integration rather than abandonment of ancestral identity. Recognition that ancestors were complex, questioning beings. Certainty as commitment rather than fixity. Heritage as invitation to become rather than prescription to be. Honoring through continuation, not repetition.",
+  "philosophical_underpinning": "Ancestors were as uncertain as we are—certainty is retrospective story",
+  "therapeutic_direction": "Healing the split between traditional identity and modern uncertainty"
+}
