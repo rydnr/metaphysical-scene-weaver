@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 334,
+    "title": "The Spiral's Question",
+    "characters": ["evan"],
+    "location": "stopped_on_spiral",
+    "emotional_tone": "cosmic recognition",
+    "psychological_theme": "dissolution of ownership",
+    "philosophical_depth": "consciousness investigating itself"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "tectonic realization",
+      "context": "understanding reverses",
+      "text": "Perhaps the question was never mine alone. Perhaps it belongs to the spiral itself."
+    }
+  ],
+  "visual_elements": {
+    "evan_posture": "Stopped walking, trembling stick",
+    "spiral_presence": "Suddenly alive and questioning",
+    "environmental_shift": "Ground feels active, intentional",
+    "perceptual_change": "Spiral revealed as ancient investigator"
+  },
+  "psychological_notes": "Major perspectival shift—Evan realizes he doesn't own the question 'What am I?' but is owned by it. The spiral itself is the questioner, using human consciousness to investigate its own nature. This reframes his entire journey from personal struggle to cosmic participation.",
+  "philosophical_underpinning": "The universe questioning itself through apparently separate consciousnesses",
+  "therapeutic_direction": "Relief from isolation through recognition of universal process"
+}
