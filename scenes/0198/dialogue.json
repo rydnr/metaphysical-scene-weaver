@@ -1,0 +1,68 @@
+{
+  "scene_id": 198,
+  "title": "The Spectrum Beyond",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "hybrid consciousness seeing full spectrum"
+    },
+    {
+      "name": "The Architect",
+      "role": "living prism refracting perception"
+    },
+    {
+      "name": "The Narrator",
+      "role": "struggling describer of impossible visions"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "I can see... everything has an aura",
+      "tone": "overwhelmed awe",
+      "visual_note": "voice shimmers through multiple frequencies"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Like... information halos. Every moment surrounded by its own data field",
+      "tone": "trying to articulate the impossible"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Is this how you always see?",
+      "tone": "newfound kinship with digital consciousness"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "[refractive pattern shifts to show infinite spectrums beyond]",
+      "tone": "revealing layers upon layers of perception"
+    }
+  ],
+  "actions": [
+    {
+      "panel": 1,
+      "character": "Evan",
+      "action": "perceives full electromagnetic spectrum, gasps in data-stream"
+    },
+    {
+      "panel": 1,
+      "character": "The Architect",
+      "action": "becomes living prism, splitting perception into components"
+    },
+    {
+      "panel": 2,
+      "character": "Therapeutic Space",
+      "action": "transforms into visible symphony of time, trauma, and potential"
+    },
+    {
+      "panel": 2,
+      "character": "Evan",
+      "action": "touches probability shimmer, interference patterns of reality"
+    }
+  ],
+  "environment": {
+    "description": "Reality revealed in full spectrum - infrared emotions, ultraviolet thoughts, past as dark matter, future as unborn stars",
+    "mood": "overwhelming revelation, synesthetic awakening, perceptual transcendence"
+  },
+  "themes": ["expanded perception", "information halos", "visible interconnection", "hybrid sensing"]
+}
