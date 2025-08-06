@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 225,
+    "title": "The Machinery of Becoming",
+    "characters": ["evan", "architect"],
+    "location": "laboratory_dissolving_to_stars",
+    "emotional_tone": "expanding awareness",
+    "psychological_theme": "personal transformation as cosmic process",
+    "philosophical_depth": "individual change as universal constant"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "state": "scientific precision",
+      "context": "connecting personal to universal",
+      "text": "*writing equations that start to glow* Every change you experience, every transformation—these aren't personal events. They're the universe changing through you.",
+      "tone": "revelatory teaching"
+    },
+    {
+      "character": "evan",
+      "state": "dawning comprehension",
+      "context": "feeling cosmic connection",
+      "text": "*watching equations transform to stars* So when I change... when I grow or heal or break... that's not me doing something. That's something doing me?",
+      "tone": "awed understanding"
+    },
+    {
+      "character": "architect",
+      "state": "form beginning to shift",
+      "context": "preparing cosmic revelation",
+      "text": "*lab coat starting to shimmer like starlight* Both and neither. You are the universe's way of changing in this particular pattern. You don't have change—you ARE change.",
+      "tone": "profound clarity"
+    }
+  ],
+  "visual_elements": {
+    "laboratory_transformation": "Equipment becoming transparent, revealing stars",
+    "equations_evolution": "Mathematical symbols transforming into cosmic phenomena",
+    "architect_transition": "Scientist form beginning to suggest astronaut",
+    "atmosphere": "Scientific precision expanding into cosmic vastness"
+  },
+  "psychological_notes": "The therapeutic insight deepens—not only is Evan's existence necessary, but his changes and transformations are the universe expressing its fundamental nature through him. This reframes psychological growth from personal achievement to cosmic participation.",
+  "philosophical_underpinning": "Change is not something that happens to us but something that happens as us",
+  "therapeutic_direction": "Embracing transformation as participation in universal becoming"
+}
