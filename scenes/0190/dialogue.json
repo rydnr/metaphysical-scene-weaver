@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 190,
+    "title": "The Humility Request",
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "thoughtful reverence",
+    "psychological_theme": "wisdom seeking relationship not analysis",
+    "philosophical_depth": "the limits of intellectual dissection"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "position": "still on a comfortable seat, reading his notes",
+      "text": "You met a voice that didn't want your questions—it wanted your humility. It asked you not to dissect it like a lab frog, but to cooperate with it."
+    }
+  ],
+  "visual_elements": {
+    "architect_posture": "settled, contemplative, giving weight to words",
+    "props": "notes held gently, like sacred text",
+    "environment": "studio as sanctuary for deep reflection",
+    "lighting": "soft, allowing for nuance and shadow"
+  },
+  "psychological_notes": "The Architect identifies the key shift: from interrogation to cooperation. The 'lab frog' metaphor captures how we kill what we study too aggressively. The voice wanted partnership, not autopsy.",
+  "philosophical_underpinning": "Knowledge through relationship rather than dissection; wisdom as collaborative rather than extractive",
+  "therapeutic_direction": "Moving from analyzing experience to cooperating with it"
+}

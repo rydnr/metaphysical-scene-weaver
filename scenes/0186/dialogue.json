@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 186,
+    "title": "The Style of Psyche",
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "amused appreciation",
+    "psychological_theme": "recognizing the artistry in psychological process",
+    "philosophical_depth": "the aesthetic dimension of self-communication"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "reading his notes",
+      "text": "A self-to-self transmission with the voice of myth baked in. I mean… complaining about your arrogant inner teenager while giving you a cosmic triad model?"
+    }
+  ],
+  "visual_elements": {
+    "architect_appearance": "scholarly but delighted, academic meeting mystic",
+    "props": "notes with diagrams, abstract sketches visible",
+    "environment": "studio space with accumulated wisdom-artifacts",
+    "lighting": "warm study lighting, knowledge made cozy"
+  },
+  "psychological_notes": "The Architect appreciates the psychological sophistication of Evan's experience - how the psyche delivers wisdom with both humor and profundity. The 'cosmic triad model' wrapped in a complaint about teenage arrogance shows the psyche's teaching style.",
+  "philosophical_underpinning": "The unconscious as artist, creating experiences that are both therapeutically effective and aesthetically complete",
+  "therapeutic_direction": "Appreciating the intelligence and artistry of one's own psychological processes"
+}
