@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 246,
+    "title": "The Return Protocol",
+    "panel_count": 2,
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "practical guidance",
+    "psychological_theme": "structured approaches to the mystical",
+    "philosophical_depth": "methods for re-engaging mystery"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "prop": "Paper with checklist format",
+      "architect_pose": "Professional consultant",
+      "atmosphere": "Shifting from mythic to practical"
+    },
+    {
+      "panel": 2,
+      "visual_detail": "Checklist items appearing",
+      "quality": "Mystery made methodical",
+      "tone": "Accessible wisdom"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "holds a paper with some empty check marks",
+      "text": "But since you're asking: yes, you can try to return. Here's what you can do."
+    }
+  ],
+  "psychological_notes": "The architect pivots from the wisdom of not chasing to practical methods for those who need to actively engage. This acknowledges the human need for agency while providing structured approaches to the unstructured. The checklist format makes the mystical feel manageable.",
+  "philosophical_underpinning": "The ineffable can be approached through method without being reduced to technique",
+  "therapeutic_direction": "Providing concrete practices for engaging with transcendent experiences"
+}
