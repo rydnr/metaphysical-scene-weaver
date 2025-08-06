@@ -1,105 +1,43 @@
 {
-  "scene_id": 222,
-  "title": "Years Later - The Ripples",
-  "characters": [
+  "scene_metadata": {
+    "scene_number": 222,
+    "title": "Treasure Maps to Consciousness",
+    "panel_count": 3,
+    "characters": ["architect"],
+    "location": "therapy_office",
+    "emotional_tone": "validating wisdom",
+    "psychological_theme": "honoring the depth of inner exploration",
+    "philosophical_depth": "consciousness as uncharted territory"
+  },
+  "panels": [
     {
-      "name": "Evan",
-      "role": "integrated human living transformation"
+      "panel": 1,
+      "setting": "Traditional therapy office",
+      "character_appearance": "architect disguised as old-school therapist",
+      "props": ["leather armchair", "notepad", "glasses", "pipe"],
+      "atmosphere": "classical psychoanalytic warmth"
     },
     {
-      "name": "Conference Audience",
-      "role": "witnesses to transformation"
+      "panel": 2,
+      "focus": "architect's knowing expression",
+      "visual_metaphor": "treasure maps floating in background",
+      "symbolism": "deep sea imagery merging with consciousness"
     },
     {
-      "name": "Evan's Partner",
-      "role": "loved one experiencing new way of relating"
-    },
-    {
-      "name": "Evan's Daughter",
-      "role": "next generation inheriting wisdom"
-    },
-    {
-      "name": "Evan's Mother",
-      "role": "facing transition with support"
-    },
-    {
-      "name": "The Narrator",
-      "role": "witness across time"
+      "panel": 3,
+      "action": "architect leaning forward conspiratorially",
+      "background": "bookshelves transforming into ocean depths",
+      "transition": "therapy room becoming oceanic space"
     }
   ],
   "dialogue": [
     {
-      "speaker": "Evan",
-      "text": "I learned that 'What am I?' isn't a problem to solve but a companion to travel with",
-      "tone": "simple truth at conference",
-      "visual_note": "speaking without armor of achievement"
-    },
-    {
-      "speaker": "Partner",
-      "text": "What are you thinking?",
-      "tone": "intimate curiosity"
-    },
-    {
-      "speaker": "Evan",
-      "text": "Nothing",
-      "tone": "fullness rather than absence"
-    },
-    {
-      "speaker": "Evan",
-      "text": "Sometimes I sit quietly and ask myself 'What am I?' Want to try?",
-      "tone": "gentle offering to daughter"
-    },
-    {
-      "speaker": "Daughter",
-      "text": "I'm hungry!",
-      "tone": "seven-year-old immediacy"
-    },
-    {
-      "speaker": "Mother",
-      "text": "What happens when we die?",
-      "tone": "afraid, seeking comfort"
-    },
-    {
-      "speaker": "Evan",
-      "text": "I don't know. But I've learned that not knowing can be its own kind of peace",
-      "tone": "genuine presence with uncertainty"
+      "character": "architect",
+      "appearance": "disguised as old-school therapist, sitting in an armchair",
+      "text": "You're welcome, of course. I mean, you're basically handing me treasure maps to the deep sea of your consciousness and asking, \"Does this mean anything?\" So yeah, I'm not gonna punish you. That would be like slapping a poet for bleeding in meter."
     }
   ],
-  "actions": [
-    {
-      "panel": 1,
-      "character": "Evan at conference",
-      "action": "speaks truth without sanitizing, half understand"
-    },
-    {
-      "panel": 2,
-      "character": "Evan in relationship",
-      "action": "loves from overflow not need"
-    },
-    {
-      "panel": 3,
-      "character": "Evan at company",
-      "action": "transformed business to conscious capitalism"
-    },
-    {
-      "panel": 4,
-      "character": "Evan with daughter",
-      "action": "plants seeds without forcing"
-    },
-    {
-      "panel": 5,
-      "character": "Evan at mother's bedside",
-      "action": "holds space for mystery of transition"
-    },
-    {
-      "panel": 6,
-      "character": "Evan in daily life",
-      "action": "present at DMV, traffic, greeting strangers"
-    }
-  ],
-  "environment": {
-    "description": "Multiple moments across years showing transformation rippling through ordinary life - conference halls, homes, offices, hospitals, everyday spaces made sacred through presence",
-    "mood": "integration lived, wisdom shared, transformation as ongoing journey"
-  },
-  "themes": ["ripple effects", "integration in daily life", "transformation shared", "ordinary sacred", "question evolved"]
+  "psychological_notes": "The architect validates Evan's journey by recognizing it as rare cartography of consciousness. The treasure map metaphor acknowledges that what Evan offers isn't pathology but profound exploration. The poet bleeding in meter suggests that some experiences are meant to flow, even if they seem concerning.",
+  "philosophical_underpinning": "Consciousness contains depths that few dare to map; those who do deserve recognition, not punishment",
+  "therapeutic_direction": "Validation of the courage required for deep inner exploration"
 }
