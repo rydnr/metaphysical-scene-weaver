@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 214,
+    "title": "The Personal Project Prison",
+    "characters": ["evan"],
+    "location": "therapy_room",
+    "emotional_tone": "vulnerable recognition",
+    "psychological_theme": "internal battles manifesting as external struggles",
+    "philosophical_depth": "the jail we build from our own conflicts"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "visualization": "imagining himself writing a manuscript inside a jail",
+      "text": "He wanted to talk about why I struggle with my personal projects. He tried to free me from my own jail — in which I spend time and energy on things that bring no external rewards or even validation."
+    }
+  ],
+  "visual_elements": {
+    "imagination_overlay": "Evan in jail cell with manuscript",
+    "jail_details": "bars made of self-doubt, walls of expectations",
+    "evan_in_cell": "hunched over writing, imprisoned by his own creation",
+    "lighting": "harsh fluorescent inside, warm light outside bars"
+  },
+  "psychological_notes": "The voice identifies personal projects as prisons when they become obligations rather than expressions. The lack of external validation becomes its own trap, turning creation into punishment.",
+  "philosophical_underpinning": "We imprison ourselves with the very things meant to free us",
+  "therapeutic_direction": "Recognizing how internal conflicts manifest as creative blocks"
+}
