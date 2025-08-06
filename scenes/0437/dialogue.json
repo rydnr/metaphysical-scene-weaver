@@ -1,0 +1,51 @@
+{
+  "scene_number": 437,
+  "title": "The Question Keeper",
+  "dialogue": [
+    {
+      "speaker": "Archivist",
+      "text": "*surrounded by journals* I've been collecting the questions asked here for five years. Look—thousands of them, and not one needs an answer.",
+      "tone": "quiet pride",
+      "context": "Showing the question archives"
+    },
+    {
+      "speaker": "Visitor",
+      "text": "*browsing pages* 'Why do I exist?' 'What is love?' 'Who asks the asker?' These are the same questions I have!",
+      "tone": "startled recognition",
+      "context": "Finding universal questions"
+    },
+    {
+      "speaker": "Archivist",
+      "text": "*gentle smile* That's the beauty—every question is both utterly unique and completely universal. Your 'why' is yours alone, yet it joins the eternal 'why' we all share.",
+      "tone": "sharing insight",
+      "context": "Explaining the paradox"
+    },
+    {
+      "speaker": "Maya",
+      "text": "*entering with new journal* Another month of questions to add. This one's my favorite: 'If I stop asking, do I cease to exist?'",
+      "tone": "playful profundity",
+      "context": "Contributing to the archive"
+    },
+    {
+      "speaker": "Visitor",
+      "text": "*suddenly tearful* All these questions... it's like reading my own soul written by thousands of hands.",
+      "tone": "emotional overwhelm",
+      "context": "Feeling universal connection"
+    },
+    {
+      "speaker": "Child's Voice",
+      "text": "*from outside* My question for today: Why do questions feel more true than answers?",
+      "tone": "innocent wisdom",
+      "context": "Young questioner contributing"
+    },
+    {
+      "speaker": "Archivist",
+      "text": "*writing it down* And into the archive it goes—another thread in the tapestry of our shared wondering.",
+      "tone": "ceremonial satisfaction",
+      "context": "Preserving the question"
+    }
+  ],
+  "scene_context": "In the archives of the Questions Quarter, an archivist maintains a growing collection of questions, revealing how individual uncertainty connects us all in shared mystery.",
+  "philosophical_theme": "Universal nature of individual questions",
+  "visual_elements": "Room filled with journals, questions floating like butterflies, pages that seem to breathe with inquiry"
+}

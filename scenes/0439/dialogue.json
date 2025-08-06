@@ -1,0 +1,51 @@
+{
+  "scene_number": 439,
+  "title": "The Question Festival",
+  "dialogue": [
+    {
+      "speaker": "Festival Organizer",
+      "text": "*addressing the crowd* Welcome to our annual celebration of not-knowing! Today we honor questions without seeking answers!",
+      "tone": "joyful announcement",
+      "context": "Opening the Question Festival"
+    },
+    {
+      "speaker": "Poet",
+      "text": "*on stage* My offering: 'What is the color of why? How deep does wonder grow? Who dreams the dreamer's dream?'",
+      "tone": "lyrical questioning",
+      "context": "Performing question poetry"
+    },
+    {
+      "speaker": "Crowd",
+      "text": "*cheering* More questions! More questions! Let uncertainty reign!",
+      "tone": "celebratory enthusiasm",
+      "context": "Embracing the festival spirit"
+    },
+    {
+      "speaker": "Philosopher",
+      "text": "*laughing* Ten years ago, I would have tried to answer every question here. Now I just want to roll in them like autumn leaves!",
+      "tone": "liberated joy",
+      "context": "Transformed relationship with questions"
+    },
+    {
+      "speaker": "Child with Balloons",
+      "text": "*releasing balloons with questions written on them* Fly, questions! Maybe the sky knows what to do with you!",
+      "tone": "playful wonder",
+      "context": "Symbolic release of questions"
+    },
+    {
+      "speaker": "Maya",
+      "text": "*to Sage* Look how far we've come—from fearing questions to celebrating them. Evan would have loved this.",
+      "tone": "warm reflection",
+      "context": "Remembering the journey"
+    },
+    {
+      "speaker": "The Memorial Tree",
+      "text": "*decorated with question marks that sparkle in sunlight* Every leaf a question, every branch reaching toward mystery, every root deep in not-knowing.",
+      "tone": "natural celebration",
+      "context": "The tree participating in festival"
+    }
+  ],
+  "scene_context": "The Questions Quarter hosts its annual festival celebrating uncertainty, where the community gathers to honor questions without demanding answers, transforming doubt into celebration.",
+  "philosophical_theme": "Joy in uncertainty and communal celebration of mystery",
+  "visual_elements": "Festive decorations made of question marks, balloons carrying questions skyward, people dancing with uncertainty"
+}
