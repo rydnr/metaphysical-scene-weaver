@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 382,
+    "title": "Embodied Question",
+    "characters": ["evan"],
+    "location": "evening_stillness",
+    "emotional_tone": "somatic awareness",
+    "psychological_theme": "full body integration",
+    "philosophical_depth": "question as lived sensation"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "feeling physical presence",
+      "context": "hand on chest",
+      "text": "The question lives in my body now, not just my mind. Sometimes I feel it stir in my chest like a second heartbeat."
+    }
+  ],
+  "visual_elements": {
+    "evan_posture": "Sitting, hand on chest",
+    "evening_atmosphere": "Quiet, internal focus",
+    "somatic_awareness": "Feeling internal movement",
+    "quality": "Embodied presence"
+  },
+  "psychological_notes": "Ultimate integration—the question has moved from mental to full somatic embodiment. Like a second heartbeat, it has become autonomous bodily presence. This represents the deepest level of integration where the question is no longer thought but lived physical reality.",
+  "philosophical_underpinning": "Consciousness as embodied phenomenon",
+  "therapeutic_direction": "Beyond mental health to whole-being integration"
+}

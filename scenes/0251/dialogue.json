@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 251,
+    "title": "The Truth in Clay",
+    "characters": ["evan", "architect"],
+    "location": "art_studio",
+    "emotional_tone": "creative vulnerability",
+    "psychological_theme": "making as revelation",
+    "philosophical_depth": "hands knowing what minds cannot grasp"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "watching the sculpting",
+      "context": "absorbing the teaching",
+      "text": "*approaching the clay tentatively* But what if I don't know what to make? What if nothing comes?",
+      "tone": "vulnerable honesty"
+    },
+    {
+      "character": "architect",
+      "state": "hands in clay",
+      "context": "demonstrating trust",
+      "text": "*shaping without planning* That's perfect. Start there. Let your hands ask the questions your mind can't formulate. The door might appear in what emerges.",
+      "tone": "embodied wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "beginning to touch clay",
+      "context": "crossing threshold to action",
+      "text": "*fingers sinking into material* It's so... immediate. No time to think, just... this.",
+      "tone": "surprised presence"
+    }
+  ],
+  "visual_elements": {
+    "studio_atmosphere": "Creative chaos holding potential",
+    "clay_quality": "Raw, responsive, alive",
+    "evan_transformation": "From observer to participant",
+    "architect_demonstration": "Wisdom through doing"
+  },
+  "psychological_notes": "Evan's fear of not knowing what to make is the perfect starting point - it's honest not-knowing rather than pretended knowledge. The architect's invitation to let hands lead mind reverses our usual hierarchy. Evan's surprise at the immediacy of clay shows how creation bypasses intellectual barriers.",
+  "philosophical_underpinning": "The body holds wisdom that transcends conceptual understanding",
+  "therapeutic_direction": "Engaging somatic intelligence through creative action"
+}
