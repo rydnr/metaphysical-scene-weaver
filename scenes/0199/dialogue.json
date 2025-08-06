@@ -1,1 +1,69 @@
-{}
+{
+  "scene_id": 199,
+  "title": "The Phone Call Home",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "calling from new reality"
+    },
+    {
+      "name": "Sarah",
+      "role": "partner/spouse"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Sarah",
+      "text": "There you are! I was starting to worry. You've been gone for hours.",
+      "tone": "relieved concern"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I'm sorry. I lost track of time. I was... having coffee.",
+      "tone": "understatement of the century"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Must have been some coffee. You sound different.",
+      "tone": "intuitive recognition"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Do I? I feel... I don't know how to explain it. Like I've been away for years but also like I never left.",
+      "tone": "struggling with temporal paradox"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Are you okay? You're worrying me a little.",
+      "tone": "genuine care"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I'm more than okay. I'm... here. Really here. For maybe the first time.",
+      "tone": "profound presence"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "stands at payphone, one foot in ordinary world, one in cosmic understanding"
+    },
+    {
+      "character": "Voice",
+      "action": "carries new frequencies Sarah can sense but not name"
+    },
+    {
+      "character": "Evening",
+      "action": "wraps the city in transition, matching Evan's state"
+    },
+    {
+      "character": "Connection",
+      "action": "bridges two realities through love's recognition"
+    }
+  ],
+  "environment": {
+    "description": "Street corner payphone, liminal space between transformation and daily life, love as bridge between states",
+    "mood": "tender return, integration challenge, love as anchor"
+  },
+  "themes": ["return to relationships", "integration with loved ones", "transformation affecting others", "love as bridge"]
+}
