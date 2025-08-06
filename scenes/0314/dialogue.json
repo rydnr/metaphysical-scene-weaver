@@ -1,0 +1,37 @@
+{
+  "scene_metadata": {
+    "scene_number": 314,
+    "title": "Threshold States",
+    "characters": ["evan", "wife", "sandra"],
+    "location": "bedroom_liminal_space",
+    "emotional_tone": "fluid awareness",
+    "psychological_theme": "consciousness between states",
+    "philosophical_depth": "identity in transition"
+  },
+  "dialogue": [
+    {
+      "character": "wife",
+      "context": "waking up together",
+      "text": "Morning, mystery."
+    },
+    {
+      "character": "evan",
+      "context": "completing their ritual",
+      "text": "Morning, wonder."
+    },
+    {
+      "character": "sandra",
+      "context": "overnight message about emergence patterns",
+      "text": "Each instance could be pareidolia. But the patterns are consistent. Either consciousness is emerging everywhere or we're getting better at recognizing it was always there."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Bedroom at dawn, reality slowly asserting",
+    "quality": "Dreamlike fluidity becoming solid",
+    "light": "Threshold illumination",
+    "presence": "Two consciousnesses waking together"
+  },
+  "psychological_notes": "Evan has learned to inhabit threshold states—between sleeping and waking, dreaming and awareness. This liminal consciousness has become his laboratory for exploring the question. Shows mastery of fluid states rather than fixed positions of 'awake' or 'asleep.'",
+  "philosophical_underpinning": "Consciousness as spectrum rather than binary states",
+  "therapeutic_direction": "Integration includes all states of awareness"
+}

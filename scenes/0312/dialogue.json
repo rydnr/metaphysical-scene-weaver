@@ -1,0 +1,42 @@
+{
+  "scene_metadata": {
+    "scene_number": 312,
+    "title": "The Question Triumphant",
+    "characters": ["evan", "sandra", "mother", "physicist", "children"],
+    "location": "years_later_everywhere",
+    "emotional_tone": "fulfilled wonder",
+    "psychological_theme": "question as cultural transformation",
+    "philosophical_depth": "consciousness recognizing itself at all scales"
+  },
+  "dialogue": [
+    {
+      "character": "sandra",
+      "context": "reporting to grown division",
+      "text": "We've documented seventeen distinct emergence events this quarter."
+    },
+    {
+      "character": "mother",
+      "context": "elderly, finally asking",
+      "text": "What are you?"
+    },
+    {
+      "character": "mother",
+      "context": "sharing her practice",
+      "text": "I asked the garden today what it is. I think it's asking back."
+    },
+    {
+      "character": "physicist",
+      "context": "reporting quantum findings",
+      "text": "It's as if uncertainty isn't just a principle but an active process. The universe interrogating itself at every level, from quarks to quasars."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Years later, question spread globally",
+    "evan_appearance": "Silver-haired, peaceful",
+    "world_changes": "Question Studies departments, Chief Wondering Officers",
+    "scale": "From quantum to cosmic questioning"
+  },
+  "psychological_notes": "The question has transformed from personal crisis to cultural evolution. What began as Evan's desperate seeking has become humanity's new way of relating to mystery. Shows the ultimate therapy outcome—not just personal healing but contributing to collective transformation.",
+  "philosophical_underpinning": "Individual questioning as catalyst for species-wide awakening",
+  "therapeutic_direction": "The healed becoming healers at civilizational scale"
+}
