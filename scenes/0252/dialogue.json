@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 252,
+    "title": "The Yearning to Understand",
+    "characters": ["evan"],
+    "location": "contemplative_space",
+    "emotional_tone": "searching uncertainty",
+    "psychological_theme": "desire for deeper understanding",
+    "philosophical_depth": "the limits of knowing how to proceed"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "thinking about the white door",
+      "text": "I would like to dig deeper into the door thing, but I don't really know how."
+    }
+  ],
+  "visual_elements": {
+    "evan_expression": "thoughtful, slightly frustrated",
+    "background": "abstract door imagery, faded",
+    "atmosphere": "mental searching",
+    "body_language": "open but uncertain"
+  },
+  "psychological_notes": "Evan expresses the universal dilemma of spiritual seeking - wanting to go deeper but not knowing the method. This honest admission of not knowing how is itself a doorway. The desire to understand coupled with the humility of uncertainty creates the perfect conditions for genuine discovery.",
+  "philosophical_underpinning": "The admission of not knowing how is often the beginning of knowing",
+  "therapeutic_direction": "Sitting with the uncertainty rather than rushing to fill it with methods"
+}
