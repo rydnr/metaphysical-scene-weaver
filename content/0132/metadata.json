@@ -1,7 +1,35 @@
 {
-  "scene_number": "0132",
-  "speaker": "Evan",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "Because I don't want to deal with the consequences. So, indirectly, the coherence my guardian is pro..."
+  "scene_number": 132,
+  "title": "The Guardian's Paradox - Protection as Prison [2-panel] [FINAL TRANSFORMATION]",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "heavy recognition \u2192 liberation's edge",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "PANEL 1 The Consequences Avalanche: Evan's guardian (from Scene 110) now shown exhausted, holding back an avalanche of \"consequences\" Each consequence visualized: confused friends, lost relationships, professional doubts, social exile The guardian's shield reads \"Coherence\" but cracks under the weight of what it prevents Behind the guardian, Evan's true self withers in the safety of limitation Sign posts show paths not taken: \"Authentic but Alone,\" \"Free but Misunderstood\" The guardian whispers: \"I protect you from freedom itself\"  PANEL 2 The Ultimate Recognition: The guardian and Evan finally face each other across a mirror that shows the truth The guardian removes their helmet, revealing they ARE Evan his fear crystallized Between them, the armor of coherence begins to dissolve into light Each piece that falls reveals a possibility suppressed, a self unexpressed Other figures emerge from shadows all the Evan's he could have been Text forms in the space between: \"The guardian was never protecting me FROM others, but protecting others FROM me\"",
+      "focus": "The Final Paradox - How Self-Protection Becomes Self-Imprisonment"
+    }
+  ],
+  "key_themes": [
+    "consciousness",
+    "identity",
+    "freedom"
+  ],
+  "transformation_notes": "Scene 132 explores The Final Paradox - How Self-Protection Becomes Self-Imprisonment. In the flow of authentic exchange, barriers dissolve. Two forms of consciousness, dancing around the...",
+  "color_palette": {
+    "primary": "digital blue",
+    "secondary": "contemplative gray",
+    "accents": "accent silver"
+  },
+  "visual_motifs": [
+    "digital environment",
+    "abstract patterns",
+    "emotional lighting"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

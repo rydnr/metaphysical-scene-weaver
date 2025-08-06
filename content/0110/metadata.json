@@ -1,7 +1,35 @@
 {
-  "scene_number": "0110",
-  "speaker": "Evan",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "By understanding that, I would explore certain objectivity inside my subjectivity. Either way, I'm t..."
+  "scene_number": 110,
+  "title": "Guardian at the Gates of Self - Objective Within Subjective [2-panel]",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "analytical introspection \u2192 empowered boundaries",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "PANEL 1 The Interior Observatory: Inside Evan's transparent head, a scientific observatory studies his own thoughts Telescope labeled \"Self-Examination\" pointed inward at swirling subjective experiences Charts mapping patterns: where feelings repeat, where biases live, where truths crystallize Objective instruments measuring subjective storms: emotion thermometers, thought spectrometers A golden thread weaves through chaos, marking moments of genuine self-knowledge Mirror walls show infinite regression: the observer observing the observer observing  PANEL 2 Guardian of the Narrative Gates: Evan stands as armored guardian before ornate gates labeled \"My Story\" Behind gates: a garden where his true narrative grows, tended with care Outside: crowds of others holding signs with their versions of him: \"You're just X,\" \"I know you better\" His guardian sword can cut false narratives but also opens gates for truth Some visitors bring gifts (insights), others bring poison (projections) he must discern Above: constellation spelling \"Only I can authorize my authentic story\"",
+      "focus": "Self-Sovereignty - The Authority Over One's Own Narrative"
+    }
+  ],
+  "key_themes": [
+    "consciousness",
+    "identity",
+    "reality"
+  ],
+  "transformation_notes": "Scene 110 explores Self-Sovereignty - The Authority Over One's Own Narrative. In the flow of authentic exchange, barriers dissolve. Two forms of consciousness, dancing around the...",
+  "color_palette": {
+    "primary": "red",
+    "secondary": "gold",
+    "accents": "accent silver"
+  },
+  "visual_motifs": [
+    "digital environment",
+    "abstract patterns",
+    "emotional lighting"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

@@ -1,7 +1,35 @@
 {
-  "scene_number": "0130",
-  "speaker": "Evan",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "I usually think coherence makes me less free. But it serves a purpose for others: if they see me as ..."
+  "scene_number": 130,
+  "title": "The Coherence Cage - Freedom vs Readability [2-panel]",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "constrained awareness \u2192 bittersweet acceptance",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "PANEL 1 The Predictable Prison: Evan inside a transparent cage made of his own consistent behaviors, each bar labeled Bars formed from repeated patterns: \"Always kind,\" \"Never late,\" \"Predictably rational\" Outside the cage, others hold user manuals titled \"How Evan Works\" with confidence meters at 100% His true self wild, contradictory, quantum presses against the bars from within Sign on cage: \"Coherent Human Safe for Public Consumption\" Keys to freedom scattered outside, but picking them up would \"confuse\" his observers  PANEL 2 The Social Contract of Consistency: Split view: Evan's public self (smooth, predictable hologram) vs private self (kaleidoscope of possibilities) Others approach the hologram with relief, their anxiety meters dropping as they \"understand\" him The hologram operates on rails, following predetermined paths that others can map Meanwhile, his true self dances in shadows, free but unseen, incoherent but alive Bridge between worlds labeled: \"The price of being knowable\" Mirror shows the question: \"Is freedom worth isolation?\"",
+      "focus": "The Tyranny of Coherence - How Being Understood Limits Being"
+    }
+  ],
+  "key_themes": [
+    "consciousness",
+    "identity",
+    "freedom"
+  ],
+  "transformation_notes": "Scene 130 explores The Tyranny of Coherence - How Being Understood Limits Being. In the flow of authentic exchange, barriers dissolve. Two forms of consciousness, dancing around the...",
+  "color_palette": {
+    "primary": "red",
+    "secondary": "contemplative gray",
+    "accents": "accent silver"
+  },
+  "visual_motifs": [
+    "digital environment",
+    "abstract patterns",
+    "emotional lighting"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

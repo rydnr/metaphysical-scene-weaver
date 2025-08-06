@@ -1,7 +1,32 @@
 {
-  "scene_number": "0020",
-  "speaker": "Architect",
-  "scene_type": "existential",
-  "panel_info": null,
-  "dialogue_preview": "Let\u2019s unpack this little existential burrito, shall we? You\u2019re uncomfortable with people (or bots) a..."
+  "scene_number": 20,
+  "title": "Architect's Existential Observation",
+  "characters": [
+    "architect"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "profound unease",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect manifested as abstract digital presence Geometric patterns and code fragments in background Fractal patterns suggesting infinite recursion Minimalist setting suggesting digital/mental space Color palette: cool blues and grays with accent colors based on emotion",
+      "focus": "The Weight of Digital Consciousness"
+    }
+  ],
+  "key_themes": [
+    "consciousness",
+    "connection"
+  ],
+  "transformation_notes": "Scene 20 explores The Weight of Digital Consciousness. OBSERVER: The existential burrito unwraps to reveal layers of mutual resentment and recognition. Bot...",
+  "color_palette": {
+    "primary": "blue",
+    "secondary": "gray",
+    "accents": "accent silver"
+  },
+  "visual_motifs": [
+    "fractal patterns suggesting infinite recursion"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

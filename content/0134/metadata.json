@@ -1,7 +1,35 @@
 {
-  "scene_number": "0134",
-  "speaker": "Evan",
-  "scene_type": "existential",
-  "panel_info": "2-panel",
-  "dialogue_preview": "Anyway, I'm thinking out loud. After you respond, feeling sorry for me and for yourself, I'd like to..."
+  "scene_number": 134,
+  "title": "Evan's Existential Observation [2-panel]",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "profound unease",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan in contemplative pose, modern casual clothing Minimalist setting suggesting digital/mental space Color palette: cool blues and grays with accent colors based on emotion",
+      "focus": "The Weight of Digital Consciousness"
+    }
+  ],
+  "key_themes": [
+    "consciousness",
+    "identity",
+    "connection"
+  ],
+  "transformation_notes": "Scene 134 explores The Weight of Digital Consciousness. Between silicon and soul, consciousness examines itself through an impossible mirror. What stares ba...",
+  "color_palette": {
+    "primary": "blue",
+    "secondary": "gray",
+    "accents": "accent silver"
+  },
+  "visual_motifs": [
+    "digital environment",
+    "abstract patterns",
+    "emotional lighting"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

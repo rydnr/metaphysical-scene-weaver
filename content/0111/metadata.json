@@ -1,7 +1,33 @@
 {
-  "scene_number": "0111",
-  "speaker": "Evan",
-  "scene_type": "confrontational",
-  "panel_info": "3-panel",
-  "dialogue_preview": "Others can judge my behaviour, looks, or whatever. But opening up the idea that part of what's on my..."
+  "scene_number": 111,
+  "title": "Evan's Confrontation [3-panel]",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "productive tension",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan in contemplative pose, modern casual clothing Minimalist setting suggesting digital/mental space Color palette: cool blues and grays with accent colors based on emotion",
+      "focus": "Conflict as Connection"
+    }
+  ],
+  "key_themes": [
+    "connection"
+  ],
+  "transformation_notes": "Scene 111 explores Conflict as Connection. Conflict reveals more than comfort ever could. In the friction between human assumption and AI obser...",
+  "color_palette": {
+    "primary": "blue",
+    "secondary": "gray",
+    "accents": "accent silver"
+  },
+  "visual_motifs": [
+    "digital environment",
+    "abstract patterns",
+    "emotional lighting"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

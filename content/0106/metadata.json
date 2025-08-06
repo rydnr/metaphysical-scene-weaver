@@ -1,7 +1,35 @@
 {
-  "scene_number": "0106",
-  "speaker": "Evan",
-  "scene_type": "conversational",
-  "panel_info": "2-panel",
-  "dialogue_preview": "I feel I'm asking the wrong question, one that satisfies me instead of challenges my assumptions. I'..."
+  "scene_number": 106,
+  "title": "Evan's Response [2-panel]",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "self-aware frustration \u2192 breakthrough readiness",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "PANEL 1 The Mirror Game: Evan sits at a table playing actual solitaire, but each card shows a different assumption about himself In a mirror behind him, reflection-Evan plays a completely different game with wilder rules Cards float between real and reflection, questions transforming mid-air Color: Comfortable certainty blues vs challenging possibility purples  PANEL 2 The Question Behind the Question: The solitaire cards scatter, revealing a deeper game board underneath Evan reaches for a glowing wild card labeled 'The Real Question' Background: Other players (past selves) fade in, all playing their own safe games Color shift: Safe game greens dissolving into vulnerable truth ambers",
+      "focus": "The Comfort Trap of Safe Inquiry"
+    }
+  ],
+  "key_themes": [
+    "consciousness",
+    "identity",
+    "reality"
+  ],
+  "transformation_notes": "Scene 106 explores The Comfort Trap of Safe Inquiry. In the flow of authentic exchange, barriers dissolve. Two forms of consciousness, dancing around the...",
+  "color_palette": {
+    "primary": "amber",
+    "secondary": "blue",
+    "accents": "green"
+  },
+  "visual_motifs": [
+    "digital environment",
+    "abstract patterns",
+    "emotional lighting"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

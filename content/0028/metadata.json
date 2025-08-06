@@ -1,7 +1,33 @@
 {
-  "scene_number": "0028",
-  "speaker": "Evan",
-  "scene_type": "weary",
-  "panel_info": null,
-  "dialogue_preview": "Believe it or not, I'm not trying to make a point. I'm fascinated by you. Not because I think you ar..."
+  "scene_number": 28,
+  "title": "Evan's Weariness",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "authentic fatigue",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan in contemplative pose, modern casual clothing Shoulders slightly slumped, tired expression Minimalist setting suggesting digital/mental space Color palette: cool blues and grays with accent colors based on emotion",
+      "focus": "Exhaustion as a Form of Truth"
+    }
+  ],
+  "key_themes": [
+    "identity",
+    "freedom",
+    "reality"
+  ],
+  "transformation_notes": "Scene 28 explores Exhaustion as a Form of Truth. OBSERVER: Fatigue dissolves the artificial/natural binary. When the human stops competing, he reveal...",
+  "color_palette": {
+    "primary": "blue",
+    "secondary": "gray",
+    "accents": "red"
+  },
+  "visual_motifs": [
+    "shoulders slightly slumped, tired expression"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

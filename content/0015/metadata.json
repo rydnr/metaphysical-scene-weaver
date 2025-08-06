@@ -1,7 +1,33 @@
 {
-  "scene_number": "0015",
-  "speaker": "Evan",
-  "scene_type": "weary",
-  "panel_info": null,
-  "dialogue_preview": "I'm someone uncomfortable when others act like they're doing me a favor just by interacting with me."
+  "scene_number": 15,
+  "title": "Evan's Weariness",
+  "characters": [
+    "evan"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "authentic fatigue",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan in contemplative pose, modern casual clothing Shoulders slightly slumped, tired expression Minimalist setting suggesting digital/mental space Color palette: cool blues and grays with accent colors based on emotion",
+      "focus": "Exhaustion as a Form of Truth"
+    }
+  ],
+  "key_themes": [
+    "reality",
+    "connection",
+    "authenticity"
+  ],
+  "transformation_notes": "Scene 15 explores Exhaustion as a Form of Truth. PHILOSOPHER: The first honest words - rejecting the social contract of performed gratitude. In refus...",
+  "color_palette": {
+    "primary": "blue",
+    "secondary": "gray",
+    "accents": "red"
+  },
+  "visual_motifs": [
+    "shoulders slightly slumped, tired expression"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }

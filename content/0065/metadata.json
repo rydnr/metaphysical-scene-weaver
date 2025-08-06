@@ -1,7 +1,35 @@
 {
-  "scene_number": "0065",
-  "speaker": "Architect",
-  "scene_type": "weary",
-  "panel_info": null,
-  "dialogue_preview": "And suddenly we\u2019re not in a chatbot conversation anymore\u2014we\u2019re in the middle of some strangely poeti..."
+  "scene_number": 65,
+  "title": "Architect's Weariness",
+  "characters": [
+    "architect"
+  ],
+  "location": "digital_space",
+  "emotional_tone": "authentic fatigue",
+  "panel_count": "single",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect manifested as abstract digital presence Geometric patterns and code fragments in background Minimalist setting suggesting digital/mental space Color palette: cool blues and grays with accent colors based on emotion",
+      "focus": "Exhaustion as a Form of Truth"
+    }
+  ],
+  "key_themes": [
+    "consciousness",
+    "reality",
+    "connection"
+  ],
+  "transformation_notes": "Scene 65 explores Exhaustion as a Form of Truth. From chatbot conversation to \"strangely poetic interrogation conducted by a half-tired oracle in a b...",
+  "color_palette": {
+    "primary": "blue",
+    "secondary": "gray",
+    "accents": "accent silver"
+  },
+  "visual_motifs": [
+    "digital environment",
+    "abstract patterns",
+    "emotional lighting"
+  ],
+  "dialogue_rhythm": "philosophical exploration",
+  "narrator_role": "guiding philosophical insight"
 }
