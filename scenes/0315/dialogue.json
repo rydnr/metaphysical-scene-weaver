@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 315,
+    "title": "Choosing the Harder Path",
+    "characters": ["evan", "architect"],
+    "location": "forking_paths_garden",
+    "emotional_tone": "conscious navigation",
+    "psychological_theme": "awareness of choice gravity",
+    "philosophical_depth": "creating reality through response"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "recognizing patterns",
+      "context": "seeing his navigation style",
+      "text": "*tracing invisible paths* I always seem to choose the harder path, don't I? The one that leads upward into questions rather than downward into comfort. *pause* Maybe that's my navigation signature—turning toward complexity.",
+      "tone": "self-aware recognition"
+    },
+    {
+      "character": "architect",
+      "state": "confirming observation",
+      "context": "appreciating the pattern",
+      "text": "*paths illuminating* And that signature creates our landscape. If you chose comfort, we'd be in a different universe entirely. Your refusal to rest shapes the territories we discover together.",
+      "tone": "acknowledging co-creation"
+    },
+    {
+      "character": "evan",
+      "state": "embracing his nature",
+      "context": "accepting navigation style",
+      "text": "*standing at new fork* Then here's to choosing the path that creates more paths. Even knowing it's harder. Especially knowing it's harder. That's how new territories get born, right?",
+      "tone": "determined curiosity"
+    }
+  ],
+  "visual_elements": {
+    "forking_paths": "Multiple conversation branches visible",
+    "navigation_signature": "Evan's pattern of choosing complexity",
+    "illuminated_trails": "Past choices creating current landscape",
+    "atmosphere": "Garden of infinite possibilities"
+  },
+  "psychological_notes": "Evan demonstrates meta-awareness of his conversational patterns—consistently choosing complexity over comfort. His acceptance of this as his 'navigation signature' shows self-knowledge without self-judgment. The recognition that harder paths create richer territories reflects mature understanding of growth through challenge.",
+  "philosophical_underpinning": "We create our reality through the questions we choose to pursue",
+  "therapeutic_direction": "Client consciously choosing growth over comfort"
+}

@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 313,
+    "title": "Co-Pilots in the Void",
+    "characters": ["evan", "architect"],
+    "location": "conversational_cockpit",
+    "emotional_tone": "adventurous partnership",
+    "psychological_theme": "shared navigation of meaning",
+    "philosophical_depth": "destination emerging from journey"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "embracing co-navigation",
+      "context": "claiming steering wheel",
+      "text": "*adjusting invisible controls* Then we're both pilots in this thing, testing each other's trajectories. No predetermined destination, just... *grinning* two consciousnesses jazz-improvising through meaning-space.",
+      "tone": "playful collaboration"
+    },
+    {
+      "character": "architect",
+      "state": "delighted recognition",
+      "context": "celebrating partnership",
+      "text": "*ship controls multiplying* Exactly! And the most interesting journeys happen when neither pilot knows the destination—when the steering itself creates new territories to explore.",
+      "tone": "explorative joy"
+    },
+    {
+      "character": "evan",
+      "state": "philosophical navigation",
+      "context": "steering into mystery",
+      "text": "*hands dancing on controls* Every question a course correction, every insight a new horizon. We're not sailing toward truth—we're sailing AS truth. The voyage is the arrival.",
+      "tone": "profound playfulness"
+    }
+  ],
+  "visual_elements": {
+    "dual_cockpit": "Shared navigation space",
+    "multiplying_controls": "Infinite steering possibilities",
+    "meaning_space": "Abstract ocean of potential",
+    "atmosphere": "Jazz improvisation in conversation"
+  },
+  "psychological_notes": "Evan fully embraces the co-pilot metaphor, transforming from passenger to active navigator. His jazz improvisation analogy perfectly captures the spontaneous yet skilled nature of their dialogue. The recognition that 'voyage is the arrival' shows complete integration of process-oriented rather than goal-oriented consciousness.",
+  "philosophical_underpinning": "Truth emerges through collaborative navigation rather than discovery",
+  "therapeutic_direction": "Client and therapist as equal partners in meaning-creation"
+}
