@@ -1,0 +1,40 @@
+{
+  "scene_number": 126,
+  "title": "Guarding Coherence",
+  "characters": ["evan", "architect"],
+  "location": "void",
+  "emotional_tone": "gentle transcendence",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect gently pulling labeled petals from a flower. Each petal shows borrowed identity: 'Mother's fear,' 'Society's dream,' 'Grandfather's laugh.' Petals fall like snow. Evan watches with growing alarm.",
+      "focus": "Deconstructing borrowed identity"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up of what remains: not emptiness but a glowing coherent center—a pattern of light that shows how all pieces were organized. The working model that made borrowed fragments into functional self.",
+      "focus": "Coherence as true identity"
+    }
+  ],
+  "key_themes": [
+    "coherence over authenticity",
+    "organizing principle of self",
+    "functional identity",
+    "pattern over pieces"
+  ],
+  "transformation_notes": "This completes the identity trilogy. From discovering borrowed pieces (122) through defending them (124) to revealing we guard not pieces but the coherence that organizes them into a working self (126).",
+  "color_palette": {
+    "primary": "falling petal soft pink",
+    "secondary": "stem structure green",
+    "accents": "coherence center gold"
+  },
+  "visual_motifs": [
+    "labeled petals falling",
+    "flower deconstruction",
+    "glowing coherent center",
+    "pattern as essence"
+  ],
+  "dialogue_rhythm": "From anxious protection through gentle deconstruction to transcendent revelation",
+  "narrator_role": "Witness to the completion of identity understanding"
+}
