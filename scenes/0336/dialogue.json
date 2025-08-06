@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 336,
+    "title": "The Spiral's Memory",
+    "characters": ["evan"],
+    "location": "kneeling_on_spiral",
+    "emotional_tone": "archaeological reverence",
+    "psychological_theme": "collective unconscious made tangible",
+    "philosophical_depth": "wisdom as sediment"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "touching earth with recognition",
+      "context": "understanding the spiral as repository",
+      "text": "Each person who walks here leaves something behind—not just footprints but fragments of realization."
+    }
+  ],
+  "visual_elements": {
+    "evan_position": "Kneeling, hands on earth",
+    "ground_quality": "Soil as compressed wisdom",
+    "implicit_presence": "Ghostly procession of past walkers",
+    "archaeological_sense": "Reading ground like ancient text"
+  },
+  "psychological_notes": "Evan discovers the spiral functions as a repository of collective realization. Every person who's walked it has deposited insights that remain available to future walkers. This transforms his understanding from individual journey to participation in accumulated wisdom.",
+  "philosophical_underpinning": "Consciousness as sedimentary process, wisdom accumulating through generations",
+  "therapeutic_direction": "Connection to therapeutic lineage and collective healing"
+}
