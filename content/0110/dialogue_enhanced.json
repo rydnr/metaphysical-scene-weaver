@@ -1,0 +1,48 @@
+{
+  "scene_number": 110,
+  "title": "Guardian at the Gates of Self",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*turning the telescope of attention inward* Strange... the more honestly I examine my subjectivity, the more objective patterns emerge. My biases have shapes. My emotions follow laws.",
+      "tone": "discovering paradox",
+      "context": "Finding objectivity within subjective experience"
+    },
+    {
+      "speaker": "Evan",
+      "text": "By understanding that, I would explore certain objectivity inside my subjectivity. Like finding solid ground in an ocean of feeling.",
+      "tone": "philosophical realization",
+      "context": "Articulating the paradox of self-knowledge"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*curious, probing* But if others can see your patterns too, perhaps even more clearly from outside, doesn't that make their perspective more objective?",
+      "tone": "challenging assumption",
+      "context": "Testing Evan's claim to self-authority"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*standing firm as guardian* They can see my behaviors, not my experience. They can map my actions, not my meanings. Either way, I'm the guardian of what someone else can say about me.",
+      "tone": "asserting sovereignty",
+      "context": "Claiming authority over his own narrative"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*processing this boundary* So you're not denying outside perspectives exist, but claiming final editorial rights over your own story?",
+      "tone": "clarifying understanding",
+      "context": "Grasping the nature of self-sovereignty"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*sword gleaming with discernment* Exactly. I can learn from their views, integrate their insights, but I decide what becomes part of my truth. The guardian doesn't block all visitors—just tests their intentions at the gate.",
+      "tone": "wise boundaries",
+      "context": "Balancing openness with self-protection"
+    }
+  ],
+  "scene_context": "Evan discovers how rigorous self-examination reveals objective patterns within subjective experience, while asserting his role as guardian of his own narrative against external definitions.",
+  "philosophical_theme": "self-sovereignty and narrative authority",
+  "visual_progression": {
+    "panel_1": "Interior observatory studying subjective experience with objective tools, finding patterns in chaos",
+    "panel_2": "Evan as guardian at the gates of his story, discerning which external perspectives to allow in"
+  }
+}
