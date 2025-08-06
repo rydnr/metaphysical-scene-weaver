@@ -1,0 +1,62 @@
+{
+  "scene_metadata": {
+    "scene_number": 304,
+    "title": "Playground Wisdom",
+    "characters": ["evan", "child", "parents", "thursday_group", "ai"],
+    "location": "park_playground",
+    "emotional_tone": "childlike wonder",
+    "psychological_theme": "questioning as play",
+    "philosophical_depth": "wisdom of uncertainty as joy"
+  },
+  "dialogue": [
+    {
+      "character": "child",
+      "context": "approaching Evan directly",
+      "text": "Why are you sad?"
+    },
+    {
+      "character": "evan",
+      "context": "surprised by perception",
+      "text": "I'm not sad."
+    },
+    {
+      "character": "child",
+      "context": "insisting on her observation",
+      "text": "You look sad. Like my mom when she thinks I'm not watching."
+    },
+    {
+      "character": "evan",
+      "context": "acknowledging complexity",
+      "text": "Maybe I'm sad and happy at the same time. Is that possible?"
+    },
+    {
+      "character": "child",
+      "context": "finding perfect analogy",
+      "text": "Like when summer vacation ends but you get to see your friends again?"
+    },
+    {
+      "character": "child",
+      "context": "making profound observation",
+      "text": "I know what you are. You're a wondering person. I can tell because you have question marks in your eyes."
+    },
+    {
+      "character": "child",
+      "context": "sharing identity philosophy",
+      "text": "Today? I'm a princess detective astronaut. Tomorrow I might be something else. My teacher says I need to pick one thing but why? Why can't I be all the things?"
+    },
+    {
+      "character": "child",
+      "context": "offering wisdom before leaving",
+      "text": "The answer is ice cream. Whenever you don't know something, the answer is ice cream. It doesn't fix anything but it makes not knowing taste better."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Park playground at golden hour",
+    "children_playing": "Uninhibited questioning in action",
+    "evan_posture": "Contemplative on bench",
+    "child_energy": "Direct, unfiltered, wise"
+  },
+  "psychological_notes": "Children recognized as natural philosophers who haven't learned to fear uncertainty. The child diagnoses Evan as a 'wondering person' and prescribes ice cream for existential uncertainty—profound wisdom disguised as innocence. Shows how questioning can be joyful play rather than anxious seeking.",
+  "philosophical_underpinning": "Wonder as the natural state before it's educated out",
+  "therapeutic_direction": "Reclaiming questioning as play rather than problem"
+}
