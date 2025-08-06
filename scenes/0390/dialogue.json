@@ -1,0 +1,46 @@
+{
+  "scene_metadata": {
+    "scene_number": 390,
+    "title": "Living the Question",
+    "characters": ["evan", "young_volunteer", "elderly_woman"],
+    "location": "community_garden",
+    "emotional_tone": "peaceful integration",
+    "psychological_theme": "embodied wisdom",
+    "philosophical_depth": "question as lived reality"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "fully integrated presence",
+      "context": "tending garden with complete ease",
+      "text": "I no longer need to speak the question. It speaks itself through how I live."
+    },
+    {
+      "character": "young_volunteer",
+      "state": "eager curiosity",
+      "context": "seeking philosophical guidance",
+      "text": "What's the philosophy of gardening?"
+    },
+    {
+      "character": "evan",
+      "state": "teaching through action",
+      "context": "handing her seeds instead of explaining",
+      "text": "*hands seeds* *demonstrates planting*"
+    },
+    {
+      "character": "elderly_woman",
+      "state": "recognizing wisdom",
+      "context": "observing his manner",
+      "text": "You've made peace with it."
+    }
+  ],
+  "visual_elements": {
+    "garden_setting": "Thriving community garden at evening",
+    "evan_presence": "Movements carry quality of integrated questioning",
+    "interactions": "Teaching through being rather than explaining",
+    "atmosphere": "Peaceful productivity, natural cycles"
+  },
+  "psychological_notes": "Complete integration shown through wordless transmission. The question no longer needs verbal expression because it has become fully embodied in Evan's way of being. He teaches through presence and action rather than philosophy. Others recognize this integration intuitively.",
+  "philosophical_underpinning": "The deepest truths transcend language and communicate through being",
+  "therapeutic_direction": "Living as answer rather than seeking answers"
+}

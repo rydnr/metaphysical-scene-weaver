@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 358,
-    "title": "Fluid Creation",
+    "title": "Dance Partner",
     "characters": ["evan"],
-    "location": "morning_apartment",
-    "emotional_tone": "peaceful understanding",
-    "psychological_theme": "identity as creation not discovery",
-    "philosophical_depth": "self as verb not noun"
+    "location": "evening_park",
+    "emotional_tone": "graceful acceptance",
+    "psychological_theme": "partnership with uncertainty",
+    "philosophical_depth": "existence as dance"
   },
   "dialogue": [
     {
       "character": "evan",
-      "state": "morning reflection",
-      "context": "making breakfast, watching dust motes",
-      "text": "I used to think finding myself meant discovering something fixed. Now I know it means creating something fluid."
+      "state": "walking by pond",
+      "context": "reflection on transformed relationship",
+      "text": "The question has become my teacher, my companion, my dance partner in the ballroom of consciousness."
     }
   ],
   "visual_elements": {
-    "morning_light": "Streaming through window",
-    "dust_motes": "Dancing in air, metaphor for identity",
-    "breakfast_preparation": "Eggs transforming from liquid to solid",
-    "atmosphere": "Peaceful domesticity with philosophical depth"
+    "setting": "Evening park, pond with reflections",
+    "evan_movement": "Walking with dance-like quality",
+    "water_imagery": "Multiple selves in ripples",
+    "metaphorical_overlay": "Park as ballroom, walking as dancing"
   },
-  "psychological_notes": "Fundamental shift in self-concept—from seeking fixed identity to embracing fluid creation. This represents mature understanding that identity is ongoing creative act rather than archaeological discovery. Full acceptance of self as process.",
-  "philosophical_underpinning": "Being as becoming, identity as continuous creation",
-  "therapeutic_direction": "Complete reframe of identity quest from discovery to creation"
+  "psychological_notes": "Complete transformation of relationship with existential questioning. From adversarial to collaborative, from problem to partnership. The dance metaphor captures the dynamic, reciprocal nature of conscious engagement with mystery. Evan has learned to move with rather than against uncertainty.",
+  "philosophical_underpinning": "Consciousness as collaborative dance with its own questioning",
+  "therapeutic_direction": "Full integration—question as life-long companion rather than problem to solve"
 }
