@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 345,
+    "title": "The Vastness Returns",
+    "characters": ["evan", "architect"],
+    "location": "expanding_awareness_space",
+    "emotional_tone": "awed acceptance",
+    "psychological_theme": "personal to cosmic shift",
+    "philosophical_depth": "finite self in infinite space"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "feeling the shift",
+      "context": "from personal to vast",
+      "text": "*space expanding around him* Overwhelm... yes. *breathing deeper* One moment I'm carefully mapping my 2x3 limits, building my scaffolding of useful lies, and then—*gestures outward* I remember the universe doesn't care about my little constructions.",
+      "tone": "vertigo mixed with wonder"
+    },
+    {
+      "character": "architect",
+      "state": "holding both truths",
+      "context": "bridging scales",
+      "text": "*becoming both intimate and vast* But that's the beauty—both are true. Your 2x3 map matters immensely to you, and means nothing to the cosmos. Your functional lies keep you standing, while stars die indifferent to your stories. *gentle presence* The trick is holding both.",
+      "tone": "cosmic compassion"
+    },
+    {
+      "character": "evan",
+      "state": "finding balance",
+      "context": "integrating scales",
+      "text": "*standing firm while space swirls* So I build my small meanings while swimming in meaninglessness. Tend my tiny garden while the universe expands. *slight smile* Know it's all tricks and constructions, but tend them anyway. Because what else is there to do?",
+      "tone": "mature acceptance"
+    }
+  ],
+  "visual_elements": {
+    "scale_shift": "Personal space expanding to cosmic",
+    "evan_stability": "Firm ground amid vastness",
+    "dual_reality": "Intimate and infinite coexisting",
+    "atmosphere": "Vertigo with anchor points"
+  },
+  "psychological_notes": "Evan navigates the existential challenge of maintaining personal meaning systems while aware of cosmic indifference. His ability to hold both truths—that his constructions matter deeply to him yet mean nothing universally—shows sophisticated psychological integration. The 'what else is there to do?' represents mature existential acceptance.",
+  "philosophical_underpinning": "Absurdist acceptance: creating meaning while acknowledging meaninglessness",
+  "therapeutic_direction": "Client achieving existential maturity through paradox acceptance"
+}
