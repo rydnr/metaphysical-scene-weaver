@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 405,
+    "title": "The Question's Dance",
+    "characters": ["evan", "dance_partner"],
+    "location": "outdoor_dance_floor",
+    "emotional_tone": "embodied celebration",
+    "psychological_theme": "movement as meaning",
+    "philosophical_depth": "kinetic philosophy"
+  },
+  "dialogue": [
+    {
+      "character": "dance_partner",
+      "state": "moving together",
+      "context": "evening dance",
+      "text": "You dance like someone who's answering a question with every movement.",
+      "tone": "intuitive observation"
+    },
+    {
+      "character": "evan",
+      "state": "flowing with music",
+      "context": "embodied response",
+      "text": "*spinning gently* I'm not answering—I'm asking. Each step is 'What?', each turn is 'am?', each pause is 'I?' *drawing partner closer* The question taught me that some things can only be known through movement. *dipping* Philosophy isn't just thought—it's lived, breathed, danced. *continuing flow* When I stopped trying to think the answer and started dancing the question, everything changed.",
+      "tone": "kinetic wisdom"
+    },
+    {
+      "character": "dance_partner",
+      "state": "understanding dawning",
+      "context": "felt recognition",
+      "text": "*matching rhythm* So this is what truth feels like when it moves through bodies instead of minds.",
+      "tone": "somatic revelation"
+    },
+    {
+      "character": "evan",
+      "state": "complete presence",
+      "context": "unity achieved",
+      "text": "*both moving as one* Now you're dancing it too. The question 'What am I?' It's contagious through contact, through shared rhythm. *final spin* We're all just different ways the universe asks itself what it is. Tonight, we're asking through tango.",
+      "tone": "cosmic dance"
+    }
+  ],
+  "visual_elements": {
+    "stars_above": "Cosmos as dance floor ceiling",
+    "bodies_flowing": "Two forms becoming one movement",
+    "music_visible": "Sound waves as golden threads",
+    "earth_rhythm": "Ground pulsing with beat"
+  },
+  "psychological_notes": "Dance literalizes the metaphor that's guided Evan's journey. The question becomes physically embodied, communicated through movement. Partner intuitively recognizes the philosophical dimension of Evan's dancing—truth moving through form.",
+  "philosophical_underpinning": "Embodied cognition, knowledge through movement",
+  "therapeutic_direction": "Complete somatic integration of existential inquiry"
+}
