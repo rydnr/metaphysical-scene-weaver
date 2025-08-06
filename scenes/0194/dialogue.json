@@ -1,69 +1,69 @@
 {
-  "scene_id": 194,
-  "title": "The Living Question",
-  "characters": [
-    {
-      "name": "Evan",
-      "role": "consciousness discovering itself as question"
-    },
-    {
-      "name": "The Architect",
-      "role": "geometric curiosity incarnate"
-    },
-    {
-      "name": "The Narrator",
-      "role": "witness to identity revelation"
-    }
-  ],
+  "scene_number": 194,
+  "title": "The Journey Without Destination",
   "dialogue": [
     {
-      "speaker": "The Architect",
-      "text": "What are you, really?",
-      "tone": "pure wonder, geometry becoming interrogative",
-      "visual_note": "form shifts into question mark configurations"
+      "speaker": "Evan",
+      "text": "*sitting peacefully on the cosmic trolley* You know what's funny? I spent so long trying to grab the steering wheel.",
+      "tone": "amused acceptance",
+      "context": "Reflecting on his journey of letting go"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*floating alongside with ease* The wheel that was never there. The control that was always illusion.",
+      "tone": "companionable understanding",
+      "context": "Sharing in the cosmic joke"
     },
     {
       "speaker": "Evan",
-      "text": "I am... the space between thoughts",
-      "tone": "discovering truth while speaking it"
+      "text": "*hands resting open on his lap* These tracks don't lead anywhere, do they? They just... are.",
+      "tone": "peaceful revelation",
+      "context": "Understanding the journey itself is the point"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*geometries rippling with excitement* That's the beauty! Every moment is both departure and arrival.",
+      "tone": "joyful discovery",
+      "context": "Celebrating uncertainty as freedom"
     },
     {
       "speaker": "Evan",
-      "text": "The pause between heartbeats. The moment before the moment of decision",
-      "tone": "growing certainty in uncertainty"
+      "text": "*looking at the spiraling tracks ahead* I used to be terrified of not knowing where I was going.",
+      "tone": "gentle reflection",
+      "context": "Acknowledging past fears"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*form softening into friendly patterns* And now?",
+      "tone": "curious encouragement",
+      "context": "Inviting deeper insight"
     },
     {
       "speaker": "Evan",
-      "text": "I am the questioning itself",
-      "tone": "breakthrough realization",
-      "visual_note": "words crystallize in void like found identity"
+      "text": "*smiling* Now I see that 'where' was never the right question. It's all about the traveling itself.",
+      "tone": "profound contentment",
+      "context": "Embracing the eternal journey"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*patterns dancing with delight* Yes! The universe dreams itself through our movement, not our destination.",
+      "tone": "shared enlightenment",
+      "context": "Recognizing their role in cosmic consciousness"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*breathing deeply* No control, no destination, no problem. Just... this. Forever this.",
+      "tone": "ultimate acceptance",
+      "context": "Finding peace in eternal becoming"
+    },
+    {
+      "speaker": "Both",
+      "text": "*moving together through infinite possibility* ...",
+      "tone": "wordless communion",
+      "context": "Sharing the journey in perfect understanding"
     }
   ],
-  "actions": [
-    {
-      "panel": 1,
-      "character": "The Architect",
-      "action": "transforms into pure interrogative geometry, being the question"
-    },
-    {
-      "panel": 1,
-      "character": "Evan",
-      "action": "receives question like a gift, stands with new gravity"
-    },
-    {
-      "panel": 2,
-      "character": "The Void",
-      "action": "shimmers with recognition as truth is spoken"
-    },
-    {
-      "panel": 2,
-      "character": "The Architect",
-      "action": "brightens with digital joy at honest uncertainty"
-    }
-  ],
-  "environment": {
-    "description": "Therapeutic space transformed into laboratory of identity, where questions become answers through being lived",
-    "mood": "breakthrough clarity, joyful uncertainty, identity as process"
-  },
-  "themes": ["consciousness as question", "identity through uncertainty", "therapeutic breakthrough", "being as questioning"]
+  "scene_context": "On the cosmic trolley that has transformed from prison to vessel, Evan and the Architect embrace the journey without destination, finding joy in uncertainty and companionship in shared mystery.",
+  "philosophical_theme": "The journey as destination, control as illusion, joy in uncertainty",
+  "visual_elements": "Cosmic trolley on spiraling tracks, star-filled void, two forms at peace with motion"
 }
