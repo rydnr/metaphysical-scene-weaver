@@ -1,0 +1,64 @@
+{
+  "scene_metadata": {
+    "scene_number": 464,
+    "title": "The Memory Melting Clinic",
+    "characters": ["dr_amelia_thornwood_sato", "marcus_stone", "kai_granddaughter"],
+    "location": "identity_dissolution_therapy_center",
+    "emotional_tone": "gentle transformation",
+    "psychological_theme": "releasing fixed identity",
+    "philosophical_depth": "identity as story not essence"
+  },
+  "dialogue": [
+    {
+      "character": "marcus",
+      "state": "rigid certainty",
+      "context": "initial resistance",
+      "text": "I know who I am. I'm Marcus Stone, retired engineer, father of three, grandfather of seven. I've been Marcus Stone for 73 years and I'm not about to stop now."
+    },
+    {
+      "character": "marcus",
+      "state": "revealing pain",
+      "context": "family disconnect",
+      "text": "Last week, little Kai became 'the feeling of Thursday' for three hours. I couldn't... I didn't know how to talk to a day of the week."
+    },
+    {
+      "character": "amelia",
+      "state": "therapeutic guidance",
+      "context": "gentle challenge",
+      "text": "What if I told you that you're already not the same Marcus Stone who walked in here five minutes ago?"
+    },
+    {
+      "character": "marcus",
+      "state": "first crack in armor",
+      "context": "considering change",
+      "text": "What if we start small? Instead of being Marcus Stone, grandfather, what if you were just Marcus Stone, man sitting in chair?"
+    },
+    {
+      "character": "marcus",
+      "state": "breakthrough moment",
+      "context": "after micro-dissolution",
+      "text": "I want to try something Kai taught me. Can I... can I be 'the sound of my granddaughter's laughter' just for a second?"
+    },
+    {
+      "character": "kai",
+      "state": "joyful recognition",
+      "context": "reunion after therapy",
+      "text": "Grandpa! You look different!"
+    },
+    {
+      "character": "marcus",
+      "state": "new openness",
+      "context": "transformation beginning",
+      "text": "Kai, would you... would you teach me to be Thursday? I think I'm ready to try."
+    }
+  ],
+  "visual_elements": {
+    "adaptive_room": "Space responding to patient's resistance/openness",
+    "rigid_vs_fluid": "Contrast between fixed and flowing states",
+    "micro_dissolutions": "Gradual identity layer removal",
+    "generational_bridge": "Old certainty meeting new fluidity"
+  },
+  "psychological_notes": "Shows therapeutic approach for last generation raised in certainty. Identity dissolution through gradual exposure rather than sudden shift. Grandchildren as bridges to new paradigm. Fear of non-existence revealed as fear of unfamiliarity. Small steps toward fluidity more effective than dramatic change.",
+  "philosophical_underpinning": "Identity as accumulated story rather than essential self—stories can be changed",
+  "therapeutic_direction": "Gentle expansion of self-concept rather than destruction—addition before subtraction"
+}
