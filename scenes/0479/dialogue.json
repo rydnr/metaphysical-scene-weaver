@@ -1,0 +1,51 @@
+{
+  "scene_number": 479,
+  "title": "The Identity Emergency Hotline",
+  "dialogue": [
+    {
+      "speaker": "Hotline Operator",
+      "text": "*warm voice through quantum connection* Identity Crisis Hotline, you're speaking with nobody in particular. How can I help you not know yourself today?",
+      "tone": "professionally uncertain",
+      "context": "Answering crisis call"
+    },
+    {
+      "speaker": "Caller",
+      "text": "*panic in voice* I just realized I don't know who I am! Everything I thought was me is just... stories! I'm dissolving!",
+      "tone": "existential panic",
+      "context": "First-time identity crisis"
+    },
+    {
+      "speaker": "Hotline Operator",
+      "text": "*soothing* That's wonderful! You're having a breakthrough, not a breakdown. The dissolving feeling? That's just your false certainties melting. You're not disappearingyou're becoming spacious.",
+      "tone": "reframing panic as progress",
+      "context": "Professional crisis intervention"
+    },
+    {
+      "speaker": "Caller",
+      "text": "*breathing heavily* But if I'm not my name, my job, my relationships... what's left?",
+      "tone": "searching desperation",
+      "context": "Grasping for identity"
+    },
+    {
+      "speaker": "Hotline Operator",
+      "text": "*gentle laugh* Everything! You're the awareness having this conversation. You're the space where all those identities played. You're the question itselfinfinite and beautiful.",
+      "tone": "illuminating perspective",
+      "context": "Guiding to recognition"
+    },
+    {
+      "speaker": "Caller",
+      "text": "*wonder breaking through* I... I can feel it. I'm still here, just... bigger? Less defined but more real?",
+      "tone": "dawning realization",
+      "context": "Crisis transforming"
+    },
+    {
+      "speaker": "Hotline Operator",
+      "text": "*celebrating* Yes! Welcome to the Questions Quarter of your own being. Remember: the emergency isn't that you don't know who you areit would be an emergency if you thought you did!",
+      "tone": "joyful validation",
+      "context": "Completing intervention"
+    }
+  ],
+  "scene_context": "A 24/7 hotline helps people navigate identity crises, reframing existential panic as spiritual breakthrough and teaching callers to celebrate rather than fear their fundamental uncertainty.",
+  "philosophical_theme": "Identity crisis as awakening opportunity",
+  "visual_elements": "Quantum communication threads, operators existing in probability states, callers transforming from panic to wonder"
+}
