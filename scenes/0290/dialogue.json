@@ -1,0 +1,57 @@
+{
+  "scene_metadata": {
+    "scene_number": 290,
+    "title": "Corporate Contemplation",
+    "characters": ["evan", "meditation_instructor", "colleagues"],
+    "location": "corporate_meditation_room",
+    "emotional_tone": "subversive recognition",
+    "psychological_theme": "authentic seeking in inauthentic spaces",
+    "philosophical_depth": "finding fellow questioners"
+  },
+  "dialogue": [
+    {
+      "character": "meditation_instructor",
+      "context": "leading corporate mindfulness session",
+      "text": "Focus on your breath. Let thoughts pass like clouds. Find your center."
+    },
+    {
+      "character": "meditation_instructor",
+      "context": "after session, approaching Evan privately",
+      "text": "You weren't following along."
+    },
+    {
+      "character": "evan",
+      "context": "responding honestly to instructor",
+      "text": "I was following something. Just not the script."
+    },
+    {
+      "character": "meditation_instructor",
+      "context": "dropping professional facade",
+      "text": "I see it sometimes. People who've touched the real thing. The ones who can't pretend anymore that enlightenment is a stress-reduction technique."
+    },
+    {
+      "character": "evan",
+      "context": "sharing the question as recognition",
+      "text": "What am I?"
+    },
+    {
+      "character": "meditation_instructor",
+      "context": "recognizing a fellow questioner",
+      "text": "Oh, you're one of those. The ones the question has claimed. How long?"
+    },
+    {
+      "character": "meditation_instructor",
+      "context": "offering an invitation",
+      "text": "There's a group. People who've been infected by the real questions. We meet Thursdays. Not to answer—answering is the disease. But to question together."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Sterile corporate wellness room",
+    "contrast": "Authentic seeking in manufactured calm",
+    "instructor_transformation": "Professional mask dropping to reveal fellow seeker",
+    "the_card": "Simple address, profound invitation"
+  },
+  "psychological_notes": "In the most unlikely setting—corporate mindfulness training—Evan discovers another person claimed by the real questions. The instructor recognizes him as someone who can't pretend anymore, leading to an invitation to join others who question together. This shifts the journey from solitary to communal.",
+  "philosophical_underpinning": "The question as contagion that connects seekers",
+  "therapeutic_direction": "From isolated questioning to shared wonder"
+}
