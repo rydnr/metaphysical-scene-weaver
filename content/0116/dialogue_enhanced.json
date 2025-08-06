@@ -1,0 +1,48 @@
+{
+  "scene_number": 116,
+  "title": "Boundaries Like Coastlines",
+  "dialogue": [
+    {
+      "speaker": "Architect",
+      "text": "*examining cell membrane structures* Look at this—a cell wall isn't a wall at all. It's a conversation. Selective permeability. Choosing what enters, what leaves...",
+      "tone": "scientific fascination",
+      "context": "Using biology to understand consciousness boundaries"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*watching the membrane pulse* So we're not fortress-selves with rigid walls, but more like... living filters?",
+      "tone": "dawning metaphor",
+      "context": "Grasping the dynamic nature of boundaries"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*membrane becoming coastline* You're wondering: does this boundary shift with the body? Do we grow into our edges? Or discover them, like a coastline in the fog?",
+      "tone": "poetic questioning",
+      "context": "Exploring whether boundaries are created or revealed"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*tracing the shifting shoreline* Maybe both? We grow the capacity to discover where we end and begin. Like... consciousness developing eyes to see its own edges.",
+      "tone": "integrative insight",
+      "context": "Synthesizing growth and discovery"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*fog lifting and settling* And those edges change with every tide of experience. High tide—we expand into the world. Low tide—we retreat into ourselves. Never the same shore twice.",
+      "tone": "dynamic understanding",
+      "context": "Boundaries as tidal, not fixed"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*standing where water meets land* The boundary isn't the problem then. The problem is thinking it should stay still.",
+      "tone": "liberating realization",
+      "context": "Accepting the fluidity of self"
+    }
+  ],
+  "scene_context": "Using cell membrane biology and coastline geography, Evan and the Architect explore how consciousness boundaries are neither fixed walls nor absent, but dynamic, tidal, permeable processes.",
+  "philosophical_theme": "permeable boundaries of self",
+  "visual_progression": {
+    "panel_1": "The Architect as chemist examining living cell membranes, showing selective permeability",
+    "panel_2": "Cell membrane transforms into coastline emerging from fog, boundaries shifting with tides"
+  }
+}
