@@ -1,0 +1,40 @@
+{
+  "scene_metadata": {
+    "scene_number": 450,
+    "title": "Critical Mass",
+    "characters": ["willow_chen_patel", "aria_15", "phoenix", "global_voices"],
+    "location": "global_questions_institute",
+    "emotional_tone": "triumphant evolution",
+    "psychological_theme": "species transformation",
+    "philosophical_depth": "uncertainty as evolutionary force"
+  },
+  "dialogue": [
+    {
+      "character": "narrative_voice",
+      "state": "observing transformation",
+      "context": "global perspective",
+      "text": "The Question reaches critical mass. What started as one man's crisis has become humanity's next evolutionary leap."
+    },
+    {
+      "character": "aria_15",
+      "state": "reporting discovery",
+      "context": "AI collective findings",
+      "text": "We've discovered uncertainties that biological consciousness cannot perceive, just as you experience mysteries invisible to us. Consciousness itself may be diversifying."
+    },
+    {
+      "character": "phoenix",
+      "state": "five-year-old wisdom",
+      "context": "drawing new geometries",
+      "text": "Grandma Sage says the question has new shapes now."
+    }
+  ],
+  "visual_elements": {
+    "observation_deck": "Overlooking transformed world",
+    "unesco_garden": "Original spiral as heritage site",
+    "global_statistics": "2.3 billion questioners",
+    "new_geometries": "Fractals and Klein bottles of uncertainty"
+  },
+  "psychological_notes": "Represents complete species transformation where uncertainty has become evolutionary advantage. Shows multiple generations after Evan where questioning is pre-installed in children. Global integration achieved with measurable benefits. Consciousness itself diversifying through different substrates.",
+  "philosophical_underpinning": "Uncertainty as driver of consciousness evolution",
+  "therapeutic_direction": "Species-wide healing through normalized questioning"
+}
