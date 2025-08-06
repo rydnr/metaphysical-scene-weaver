@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 341,
+    "title": "Weaving the Broken Threads",
+    "characters": ["evan", "architect"],
+    "location": "narrative_repair_space",
+    "emotional_tone": "tentative hope",
+    "psychological_theme": "integrating contradictions",
+    "philosophical_depth": "self as continuous story"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "processing the reframe",
+      "context": "considering identity repair",
+      "text": "*touching chest* Identity repair... *pause* So when I obsess over that time I was cruel, or cowardly, or stupid—I'm not just torturing myself? I'm trying to... weave those threads back into who I think I am?",
+      "tone": "dawning recognition"
+    },
+    {
+      "character": "architect",
+      "state": "nurturing understanding",
+      "context": "confirming the insight",
+      "text": "*threads becoming visible* Exactly. Every mistake creates a tear in your self-story. 'I'm kind,' you say, then remember being cruel. The dissonance hurts. So you revisit, recontextualize, find ways to integrate: 'I was kind, except when I was scared.' The story coheres again.",
+      "tone": "gentle validation"
+    },
+    {
+      "character": "evan",
+      "state": "seeing the pattern",
+      "context": "understanding his process",
+      "text": "*watching threads weave* That's why I can't just 'let it go.' It's not about punishment—it's about making sense. Making the story of me include all the parts of me. Even the ones I wish weren't there.",
+      "tone": "profound relief"
+    }
+  ],
+  "visual_elements": {
+    "narrative_threads": "Visible life story being rewoven",
+    "torn_sections": "Mistakes as rips in fabric",
+    "repair_process": "Active mending happening",
+    "atmosphere": "Healing workshop"
+  },
+  "psychological_notes": "Evan grasps that his rumination serves a constructive purpose—maintaining identity coherence by integrating contradictory actions into his self-narrative. The physical gesture of touching his chest shows somatic recognition. His relief at understanding this process transforms self-criticism into self-integration work.",
+  "philosophical_underpinning": "Identity requires continuous narrative maintenance to integrate contradictions",
+  "therapeutic_direction": "Client recognizing rumination as identity integration rather than self-punishment"
+}
