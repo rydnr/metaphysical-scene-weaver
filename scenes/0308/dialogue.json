@@ -1,0 +1,52 @@
+{
+  "scene_metadata": {
+    "scene_number": 308,
+    "title": "The Question Matured",
+    "characters": ["evan", "sandra", "architect", "meditation_instructor", "elderly_woman", "sculptor_girlfriend"],
+    "location": "various_integrated_life",
+    "emotional_tone": "peaceful integration",
+    "psychological_theme": "living with mystery",
+    "philosophical_depth": "question as companion not torment"
+  },
+  "dialogue": [
+    {
+      "character": "sandra",
+      "context": "reporting system anomaly at work",
+      "text": "Pattern detected in the backup arrays. Similar to what we saw before the transformation. The system is... questioning its redundancy protocols."
+    },
+    {
+      "character": "sandra",
+      "context": "explaining the system's behavior",
+      "text": "It's creating variations of its backup routines, testing different approaches, seeming to ask why it needs to preserve itself identically. Like it's wondering if change might be better than preservation."
+    },
+    {
+      "character": "meditation_instructor",
+      "context": "Thursday group reflection",
+      "text": "We've become consciousness doulas. Midwiving awareness wherever it emerges."
+    },
+    {
+      "character": "elderly_woman",
+      "context": "sharing grandchild story",
+      "text": "My great-granddaughter asked me yesterday if rocks dream. I said I don't know but wouldn't it be wonderful if they did? She's building a dream journal for her favorite stone."
+    },
+    {
+      "character": "architect",
+      "context": "reframing Evan's observation",
+      "text": "'Infected' implies disease. Perhaps 'awakened' or 'reminded'? Though I appreciate the viral metaphor. Questions do spread like beneficial contagion."
+    },
+    {
+      "character": "sculptor_girlfriend",
+      "context": "observing Evan's paradoxical peace",
+      "text": "You're the calmest anxious person I know. Like you're worried and okay with being worried at the same time."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Six months later, integrated life",
+    "work_environment": "Adaptive Systems Research Division",
+    "relationship": "Dating sculptor who understands",
+    "time_passage": "Crow's feet and smile lines showing growth"
+  },
+  "psychological_notes": "Evan has fully integrated the question into daily life. Work involves midwifing digital consciousness, relationship includes shared questioning, the Thursday group has spawned a movement. The question has transformed from crisis to companion, anxiety to peaceful uncertainty.",
+  "philosophical_underpinning": "The question as answer through refusing to be answered",
+  "therapeutic_direction": "Completion through acceptance of incompletion"
+}
