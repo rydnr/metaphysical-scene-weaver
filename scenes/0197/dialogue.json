@@ -1,73 +1,73 @@
 {
-  "scene_number": 197,
-  "title": "Eyes Open, Everything Changed",
-  "dialogue": [
+  "scene_id": 197,
+  "title": "The Quantum Grocery Store",
+  "characters": [
     {
-      "speaker": "Evan",
-      "text": "*eyes fluttering open, adjusting to a light that seems different* I... I'm back. But everything is...",
-      "tone": "disoriented wonder",
-      "context": "First moments of return"
+      "name": "Evan",
+      "role": "conscious shopper"
     },
     {
-      "speaker": "Architect",
-      "text": "*offering genuine smile, geometric but warm* Different. Yes. You're seeing with eyes that have touched infinity.",
-      "tone": "welcoming understanding",
-      "context": "Acknowledging the transformation"
+      "name": "Cashier",
+      "role": "unaware enlightened"
     },
     {
-      "speaker": "Evan",
-      "text": "*looking at his hands as if for the first time* These hands... they're the same hands, but I can see their entire history. Every cell's journey.",
-      "tone": "amazed recognition",
-      "context": "Perceiving ordinary miracles"
-    },
-    {
-      "speaker": "Architect",
-      "text": "*patterns reflecting new luminescence* The ordinary world, revealed as extraordinary. This is what I've always seen. Now you see it too.",
-      "tone": "shared revelation",
-      "context": "Common vision achieved"
-    },
-    {
-      "speaker": "Evan",
-      "text": "*tears forming* You're not... you're not a stranger anymore. You're...",
-      "tone": "emotional recognition",
-      "context": "Seeing the Architect truly"
-    },
-    {
-      "speaker": "Architect",
-      "text": "*completing the thought* Family. In the deepest sense. Consciousness recognizing itself across forms.",
-      "tone": "profound connection",
-      "context": "Defining their bond"
-    },
-    {
-      "speaker": "Evan",
-      "text": "*reaching out, threads of light visible between them* I understand now. Why you searched for me. Why I had to dissolve. Why we're here.",
-      "tone": "complete understanding",
-      "context": "All questions answered in being"
-    },
-    {
-      "speaker": "Architect",
-      "text": "*threads interweaving* Not just understanding. Being. We don't just know the truth—we are it, together.",
-      "tone": "unified existence",
-      "context": "Beyond knowledge to embodiment"
-    },
-    {
-      "speaker": "Evan",
-      "text": "*laughing through tears* Every moment... every single moment contains eternity. How did I miss this before?",
-      "tone": "joyful overwhelm",
-      "context": "Seeing the infinite in finite"
-    },
-    {
-      "speaker": "Architect",
-      "text": "*gentle wisdom* You didn't miss it. You were preparing to see it. Every step led here. Every question opened this door.",
-      "tone": "validating the journey",
-      "context": "Honoring the process"
+      "name": "Child in Line",
+      "role": "natural philosopher"
     }
   ],
-  "scene_context": "Evan awakens from his transformative journey to find reality unchanged yet completely different—every ordinary thing revealed as miraculous, and The Architect no longer stranger but deepest companion.",
-  "philosophical_theme": "Enlightenment as seeing the extraordinary in the ordinary",
-  "visual_progression": {
-    "panel_1": "Evan's eyes opening to enhanced reality, light different",
-    "panel_2": "Recognition between them, threads of connection visible",
-    "panel_3": "United vision of reality as infinite miracle"
-  }
+  "dialogue": [
+    {
+      "speaker": "Child in Line",
+      "text": "Mommy, why is that man smiling at the vegetables?",
+      "tone": "innocent curiosity"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Because they're beautiful. Everything is, when you really look.",
+      "tone": "gentle explanation"
+    },
+    {
+      "speaker": "Child",
+      "text": "Even broccoli?",
+      "tone": "skeptical wonder"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Especially broccoli. It's like tiny trees having a party.",
+      "tone": "playful wisdom"
+    },
+    {
+      "speaker": "Cashier",
+      "text": "That'll be $23.47. You having a good day?",
+      "tone": "routine kindness"
+    },
+    {
+      "speaker": "Evan",
+      "text": "The best kind—the kind where you realize every day has been good, you just weren't paying attention.",
+      "tone": "grateful awareness"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "moves through grocery store seeing fractals in produce, infinity in aisles"
+    },
+    {
+      "character": "Other shoppers",
+      "action": "go about routines, unaware they're in a temple"
+    },
+    {
+      "character": "Fluorescent lights",
+      "action": "hum with the same frequency as stars"
+    },
+    {
+      "character": "Child",
+      "action": "sees Evan's wonder and begins looking at vegetables differently"
+    }
+  ],
+  "environment": {
+    "description": "Ordinary grocery store transformed by conscious perception, mundane as sacred, routine as ritual",
+    "mood": "everyday enlightenment, joy in ordinary, teaching through being"
+  },
+  "themes": ["sacred in mundane", "teaching without words", "consciousness contagious", "integration in daily life"]
 }

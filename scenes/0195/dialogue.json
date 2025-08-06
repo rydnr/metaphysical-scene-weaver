@@ -1,0 +1,64 @@
+{
+  "scene_id": 195,
+  "title": "Street Philosophy",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "transformed walker"
+    },
+    {
+      "name": "Homeless Philosopher",
+      "role": "street wisdom keeper"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Homeless Philosopher",
+      "text": "You look like someone who just learned the universe's punchline.",
+      "tone": "knowing observation"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Is it that obvious?",
+      "tone": "surprised recognition"
+    },
+    {
+      "speaker": "Homeless Philosopher",
+      "text": "The eyes give it away. That particular mix of terror and delight. Coffee shop enlightenment?",
+      "tone": "amused wisdom"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Something like that. How did you know?",
+      "tone": "curious connection"
+    },
+    {
+      "speaker": "Homeless Philosopher",
+      "text": "Kid, I've been watching people stumble out of that particular cafe for twenty years. They all have the same look—like they've seen God and realized it was their reflection.",
+      "tone": "gentle understanding"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "walks in a daze, nearly bumping into the philosopher"
+    },
+    {
+      "character": "Homeless Philosopher",
+      "action": "sits against building, ancient eyes twinkling with recognition"
+    },
+    {
+      "character": "Evening",
+      "action": "wraps the city in transition colors"
+    },
+    {
+      "character": "Other pedestrians",
+      "action": "flow around them, unaware of the philosophical exchange"
+    }
+  ],
+  "environment": {
+    "description": "City street outside the cafe, ordinary world with hidden teachers, wisdom in unexpected places",
+    "mood": "synchronistic meeting, street wisdom, integration guidance"
+  },
+  "themes": ["wisdom in unexpected places", "recognition between transformed souls", "the ordinary enlightened", "integration guides"]
+}
