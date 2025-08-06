@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 343,
+    "title": "The Stories That Keep Us Standing",
+    "characters": ["evan", "architect"],
+    "location": "truth_utility_balance",
+    "emotional_tone": "complex acceptance",
+    "psychological_theme": "necessary illusions",
+    "philosophical_depth": "pragmatic self-construction"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "wrestling with honesty",
+      "context": "responding to functional lies",
+      "text": "*conflicted expression* Functional lies... *looking at hands* Like telling myself I'm fundamentally good, even after doing something terrible? That feels like... cheating. But without it, I might just collapse.",
+      "tone": "vulnerable honesty"
+    },
+    {
+      "character": "architect",
+      "state": "offering nuanced wisdom",
+      "context": "expanding the concept",
+      "text": "*scaffolding appearing* Not cheating—engineering. You're building a structure that can bear weight. 'I'm good' isn't a lie if it means 'I'm committed to goodness despite my failures.' *gentle smile* The story doesn't have to be true to be truthful.",
+      "tone": "sophisticated understanding"
+    },
+    {
+      "character": "evan",
+      "state": "finding middle ground",
+      "context": "integrating the paradox",
+      "text": "*touching scaffolding* So it's not about perfect honesty or total delusion. It's about... useful honesty? Stories that acknowledge the failures but don't let them become the whole story. *slight nod* Lies that tell a deeper truth.",
+      "tone": "mature integration"
+    }
+  ],
+  "visual_elements": {
+    "scaffolding_structure": "Identity support system visible",
+    "truth_lie_balance": "Both interwoven in structure",
+    "evan_posture": "Standing straighter with support",
+    "atmosphere": "Construction site of self"
+  },
+  "psychological_notes": "Evan grapples with the concept of 'functional lies'—the stories we tell ourselves that aren't strictly accurate but enable psychological functioning. His initial resistance ('cheating') gives way to understanding that some self-narratives serve structural purposes, supporting identity even when contradicted by evidence.",
+  "philosophical_underpinning": "Truth and utility in creative tension within identity construction",
+  "therapeutic_direction": "Client learning to balance honesty with functional self-narrative"
+}

@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 456,
+    "title": "Groundless on Mars",
+    "characters": ["dr_amara_singh_johansson", "frightened_woman", "young_colonist", "child_questioner", "worried_mother"],
+    "location": "martian_questions_quarter",
+    "emotional_tone": "floating transformation",
+    "psychological_theme": "uncertainty in altered gravity",
+    "philosophical_depth": "groundlessness as freedom"
+  },
+  "dialogue": [
+    {
+      "character": "amara",
+      "state": "teaching in zero-g",
+      "context": "orientation session",
+      "text": "On Earth, we question with our feet on the ground. Here, we question while suspended, literally groundless. It changes everything."
+    },
+    {
+      "character": "frightened_woman",
+      "state": "grasping for stability",
+      "context": "confession of fear",
+      "text": "I feel like I'm nothing. Like I don't exist if I can't define myself."
+    },
+    {
+      "character": "amara",
+      "state": "demonstrating freedom",
+      "context": "floating free",
+      "text": "I am undefined, ungrounded, uncertain. And yet... I have never existed more fully than in this moment of complete not-knowing."
+    },
+    {
+      "character": "young_colonist",
+      "state": "sharing perspective",
+      "context": "generational wisdom",
+      "text": "My grandmother says they were like actors who forgot they were playing roles, trapped in costumes they couldn't remove."
+    },
+    {
+      "character": "child_questioner",
+      "state": "spinning joyfully",
+      "context": "natural uncertainty",
+      "text": "I like being groundless! It means I can be upside down and right-side up at the same time. Just like the question!"
+    },
+    {
+      "character": "child_questioner",
+      "state": "offering comfort",
+      "context": "end of session",
+      "text": "Don't worry about not knowing who you are. Nobody knows, and that's what makes us all friends."
+    }
+  ],
+  "visual_elements": {
+    "floating_bodies": "Questioners suspended in Martian gravity",
+    "geodesic_chambers": "Three-dimensional questioning structures",
+    "mars_landscape": "Rusty horizons through transparent walls",
+    "earth_in_sky": "Home planet visible as reminder of journey"
+  },
+  "psychological_notes": "Mars provides unique environment for exploring uncertainty—literal groundlessness mirrors psychological state. Different gravity creates different neural patterns in children. Physical floating enables emotional/psychological floating. Frightened woman represents last generation to struggle with uncertainty.",
+  "philosophical_underpinning": "Groundlessness not as loss but as liberation—the freedom of no fixed reference point",
+  "therapeutic_direction": "Environmental therapy—using Mars's conditions to facilitate letting go of identity attachment"
+}
