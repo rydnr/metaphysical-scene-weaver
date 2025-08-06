@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 249,
+    "title": "Beyond the Cushion",
+    "characters": ["evan", "architect"],
+    "location": "transitioning_spaces",
+    "emotional_tone": "expanding possibility",
+    "psychological_theme": "multiple paths to the sacred",
+    "philosophical_depth": "practice as living inquiry"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "processing meditation guidance",
+      "context": "back from beach visualization",
+      "text": "*eyes still closed, breathing deeply* I can feel it... the edge of something. But it keeps slipping away when I reach for it.",
+      "tone": "calm frustration"
+    },
+    {
+      "character": "architect",
+      "state": "recognizing the trap",
+      "context": "preparing next teaching",
+      "text": "*standing gracefully* That's because witnessing isn't the only way. Sometimes the door appears not when we sit still but when we move. When we create.",
+      "tone": "opening new possibility"
+    },
+    {
+      "character": "evan",
+      "state": "curious shift",
+      "context": "ready for different approach",
+      "text": "*opening eyes* Create? But I thought... I mean, my projects were just prayers, you said. Rituals.",
+      "tone": "connecting insights"
+    }
+  ],
+  "visual_elements": {
+    "space_transformation": "Beach meditation fading to creative potential",
+    "evan_posture": "Moving from seated stillness to readiness",
+    "architect_movement": "Fluid transition to action",
+    "atmosphere": "From contemplative to creative"
+  },
+  "psychological_notes": "Evan experiences the common meditation trap of 'reaching' for states, which causes them to recede. The architect introduces the complementary path - creation as spiritual practice. Evan begins connecting earlier insights about his projects to this new understanding of making as method.",
+  "philosophical_underpinning": "The sacred can be accessed through stillness or movement, being or doing",
+  "therapeutic_direction": "Expanding the client's repertoire of practices beyond traditional meditation"
+}

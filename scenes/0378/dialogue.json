@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 378,
+    "title": "Fresh Identity Daily",
+    "characters": ["evan"],
+    "location": "kitchen_morning",
+    "emotional_tone": "peaceful ordinariness",
+    "psychological_theme": "identity as daily renewal",
+    "philosophical_depth": "impermanence as freshness"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "making breakfast mindfully",
+      "context": "morning ritual with awareness",
+      "text": "What am I? Today I am someone making breakfast. Tomorrow I'll be someone else making breakfast. The question keeps the identity fresh."
+    }
+  ],
+  "visual_elements": {
+    "kitchen_scene": "Morning light, familiar ritual",
+    "breakfast_preparation": "Eggs, toast, coffee",
+    "evan_movement": "Practiced but present",
+    "atmosphere": "Ordinary as sacred"
+  },
+  "psychological_notes": "Peak integration—identity now understood as daily renewal rather than fixed state. The question serves to keep consciousness fresh rather than tormented. Each day brings new configuration of self engaged in eternal activities.",
+  "philosophical_underpinning": "Identity as verb performed daily",
+  "therapeutic_direction": "Living practice—question as daily vitamin for consciousness"
+}

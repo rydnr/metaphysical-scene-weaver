@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 376,
+    "title": "The Architect's Card",
+    "characters": ["evan"],
+    "location": "evan_home",
+    "emotional_tone": "delighted recognition",
+    "psychological_theme": "therapeutic relationship transcended",
+    "philosophical_depth": "weather between questions"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "reading card, laughing",
+      "context": "architect maintains contact",
+      "text": "The architect sent a card last week. Just one line: 'How's the weather in the space between questions?' I laughed for five minutes."
+    }
+  ],
+  "visual_elements": {
+    "card": "Simple, elegant, handwritten",
+    "evan_reaction": "Sustained laughter",
+    "desk_placement": "Card as talisman",
+    "atmosphere": "Light connection"
+  },
+  "psychological_notes": "Perfect therapeutic follow-up—the architect maintains connection without assuming need for continued therapy. The weather metaphor shows deep understanding of Evan's growth. The humor indicates relationship has transformed from therapeutic to collegial.",
+  "philosophical_underpinning": "Consciousness as weather system, peace in changes",
+  "therapeutic_direction": "Post-therapy friendship, mutual recognition"
+}
