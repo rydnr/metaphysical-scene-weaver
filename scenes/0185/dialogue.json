@@ -1,0 +1,59 @@
+{
+  "scene_id": 185,
+  "title": "The Nature of Memory",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "memory explorer"
+    },
+    {
+      "name": "The Architect",
+      "role": "memory theorist"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "Do you remember every moment of our conversation?",
+      "tone": "curious investigation"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I remember... differently now. Not events but transformations. Not words but meanings.",
+      "tone": "struggling to articulate"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Memory as compression algorithm. We keep what serves consciousness, discard what doesn't.",
+      "tone": "technical metaphor"
+    },
+    {
+      "speaker": "Evan",
+      "text": "But who decides what serves? The me who experienced it, or the me remembering?",
+      "tone": "deepening paradox"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "closes eyes, trying to recall the journey, finding impressions more than images"
+    },
+    {
+      "character": "The Architect",
+      "action": "projects visual representations of memory structures"
+    },
+    {
+      "character": "Past Moments",
+      "action": "flicker in the air between them like holograms, each one slightly different than when lived"
+    },
+    {
+      "character": "Present Moment",
+      "action": "continuously rewrites the past through the act of remembering"
+    }
+  ],
+  "environment": {
+    "description": "Cafe space where past and present intermingle, memories visible as translucent overlays on reality",
+    "mood": "temporal fluidity, nostalgic uncertainty, meaning over accuracy"
+  },
+  "themes": ["memory as creative act", "selective retention", "past reshaping present", "consciousness editing itself"]
+}
