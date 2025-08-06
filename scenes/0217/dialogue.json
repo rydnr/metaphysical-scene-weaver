@@ -1,0 +1,69 @@
+{
+  "scene_id": 217,
+  "title": "The Mirror's New Reflection",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "conscious observer"
+    },
+    {
+      "name": "Mirror Evan",
+      "role": "reflection with awareness"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "You look different. Or maybe I'm seeing differently.",
+      "tone": "contemplative recognition"
+    },
+    {
+      "speaker": "Mirror Evan",
+      "text": "Both. We've always been having this conversation, haven't we?",
+      "tone": "knowing smile"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Every morning. But I only just started listening.",
+      "tone": "amused realization"
+    },
+    {
+      "speaker": "Mirror Evan",
+      "text": "The eyes that see, the seen, and the seeing—all one movement.",
+      "tone": "gentle teaching"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Sometimes I forget which side of the glass I'm on.",
+      "tone": "playful wisdom"
+    },
+    {
+      "speaker": "Mirror Evan",
+      "text": "Perfect. Keep forgetting. That's when you remember what you really are.",
+      "tone": "encouraging paradox"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "stands before bathroom mirror in morning ritual made conscious"
+    },
+    {
+      "character": "Mirror Evan",
+      "action": "reflects not just image but awareness itself, eyes holding infinite depth"
+    },
+    {
+      "character": "Morning light",
+      "action": "plays across the glass, creating halos and shadows that suggest other dimensions"
+    },
+    {
+      "character": "Reflection",
+      "action": "sometimes leads the movement, sometimes follows, boundaries dissolving"
+    }
+  ],
+  "environment": {
+    "description": "Bathroom mirror becoming portal, daily grooming transformed into dialogue with self",
+    "mood": "intimate philosophy, playful non-duality, ordinary mysticism"
+  },
+  "themes": ["self-recognition", "mirror as teacher", "dialogue with consciousness", "identity play"]
+}

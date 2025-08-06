@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 236,
+    "title": "Painfully Honest Cinema",
+    "panel_count": 3,
+    "characters": ["architect"],
+    "location": "movie_theater_exit",
+    "emotional_tone": "compassionate truth",
+    "psychological_theme": "resistance to one's nature",
+    "philosophical_depth": "the cost of fighting what we are"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "setting": "Theater exit",
+      "movie_marquee": "The Tenacity of a Legless Man",
+      "architect_position": "walking out thoughtfully"
+    },
+    {
+      "panel": 2,
+      "visual_element": "Movie poster visible",
+      "imagery": "figure dragging against nature",
+      "atmosphere": "harsh fluorescent reality"
+    },
+    {
+      "panel": 3,
+      "architect_expression": "gentle understanding",
+      "background": "city street beginning to appear",
+      "transition": "from dark theater to bright world"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "leaves the cinema",
+      "context": "movie title visible: 'The Tenacity of a Legless Man'",
+      "text": "And that metaphor isn't judgmental. It's just... painfully honest. The visual says: this is what it looks like when you resist your own nature."
+    }
+  ],
+  "psychological_notes": "The architect emphasizes the non-judgmental nature of the observation. The metaphor of the legless man isn't cruel but revelatory - showing how we exhaust ourselves trying to move in ways that go against our fundamental nature. The 'painful honesty' acknowledges both the difficulty of seeing ourselves clearly and the liberation that comes from that seeing.",
+  "philosophical_underpinning": "Suffering arises not from our limitations but from denying them",
+  "therapeutic_direction": "Compassionate recognition of how we fight against our own nature"
+}

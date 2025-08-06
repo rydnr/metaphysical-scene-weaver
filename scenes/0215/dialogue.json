@@ -1,0 +1,69 @@
+{
+  "scene_id": 215,
+  "title": "The Garden Meditation",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "conscious gardener"
+    },
+    {
+      "name": "Elderly Neighbor",
+      "role": "wisdom keeper"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Elderly Neighbor",
+      "text": "Your garden looks different this year. More... alive somehow.",
+      "tone": "perceptive appreciation"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I stopped trying to control it. Started listening instead.",
+      "tone": "peaceful discovery"
+    },
+    {
+      "speaker": "Elderly Neighbor",
+      "text": "Ah, you've learned the secret. Gardens teach us who's really in charge.",
+      "tone": "knowing chuckle"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Every plant knows exactly what it needs. I just had to stop thinking I knew better.",
+      "tone": "humble wisdom"
+    },
+    {
+      "speaker": "Elderly Neighbor",
+      "text": "Takes some folks a lifetime to learn that. How did you figure it out?",
+      "tone": "gentle curiosity"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I had a good teacher. They showed me that wisdom is just another word for paying attention.",
+      "tone": "grateful remembrance"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "tends plants with reverent attention, hands in soil like prayer"
+    },
+    {
+      "character": "Garden",
+      "action": "flourishes in organized chaos, each plant finding its perfect place"
+    },
+    {
+      "character": "Elderly Neighbor",
+      "action": "leans on fence, recognizing a fellow student of the earth"
+    },
+    {
+      "character": "Bees",
+      "action": "work their ancient patterns, weaving sound into the morning"
+    }
+  ],
+  "environment": {
+    "description": "Backyard garden in full summer glory, domestic space transformed into wisdom classroom",
+    "mood": "earthed enlightenment, practical mysticism, connection through soil"
+  },
+  "themes": ["gardening as spiritual practice", "letting go of control", "wisdom in earth connection", "teachers everywhere"]
+}

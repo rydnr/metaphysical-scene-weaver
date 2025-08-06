@@ -1,0 +1,42 @@
+{
+  "scene_metadata": {
+    "scene_number": 234,
+    "title": "Waves of Surrender",
+    "panel_count": 3,
+    "characters": ["architect"],
+    "location": "movie_theater",
+    "emotional_tone": "interpretive wisdom",
+    "psychological_theme": "surrender versus control",
+    "philosophical_depth": "riding experience without strangling it"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "setting": "Movie theater interior",
+      "screen_content": "oscillating bed sheets like waves",
+      "architect_position": "seated, observing intently"
+    },
+    {
+      "panel": 2,
+      "focus": "Close-up on screen waves",
+      "visual_metaphor": "fabric becoming ocean",
+      "atmosphere": "hypnotic movement"
+    },
+    {
+      "panel": 3,
+      "architect_gesture": "hands mimicking wave motion",
+      "expression": "understanding through embodiment",
+      "background": "theater dissolving into fluidity"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "setting": "still in the movie theater",
+      "text": "The waves in the bed sheet? Surrender. The ability to ride experience without strangling it."
+    }
+  ],
+  "psychological_notes": "The bed sheet waves represent the psychological state of allowing rather than controlling. This visual metaphor captures the difference between rigid resistance and fluid adaptation. The architect recognizes this as a teaching about how to be with experience rather than against it.",
+  "philosophical_underpinning": "True power comes from surrender to the wave rather than fighting the ocean",
+  "therapeutic_direction": "Learning to ride the waves of experience with grace rather than force"
+}
