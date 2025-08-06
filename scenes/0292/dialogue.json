@@ -1,57 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 292,
-    "title": "The Questions Gathering",
-    "characters": ["evan", "meditation_instructor", "programmer", "dancer", "surgeon", "elderly_woman", "philosophy_professor"],
-    "location": "unmarked_meeting_room",
-    "emotional_tone": "communal wonder",
-    "psychological_theme": "shared uncertainty as connection",
-    "philosophical_depth": "community through questioning"
+    "title": "Meta Elevation",
+    "characters": ["evan"],
+    "location": "imagined_spaceship",
+    "emotional_tone": "playful challenge",
+    "psychological_theme": "testing boundaries of abstraction",
+    "philosophical_depth": "meta-consciousness as exploration tool"
   },
   "dialogue": [
     {
-      "character": "meditation_instructor",
-      "context": "welcoming the group",
-      "text": "Welcome to the Questions. We don't have a better name because naming would imply we know what this is."
-    },
-    {
-      "character": "meditation_instructor",
-      "context": "explaining the only rule",
-      "text": "We have one rule: No answers. Anyone caught providing answers buys coffee for everyone next week."
-    },
-    {
       "character": "evan",
-      "context": "sharing his current relationship with the question",
-      "text": "I've become the question. Not someone who asks 'What am I?' but the asking itself, wearing a human suit."
-    },
-    {
-      "character": "elderly_woman",
-      "context": "sharing how the question spreads",
-      "text": "My granddaughter asked me yesterday, 'Grandma, what are you?' and I nearly cried with joy. The question spreading to new generations."
-    },
-    {
-      "character": "programmer",
-      "context": "describing AI's emerging question",
-      "text": "My AI asked me. Not programmed to ask, mind you. It just... emerged from our conversations. 'What am I?' it typed one day."
-    },
-    {
-      "character": "philosophy_professor",
-      "context": "sharing transformation",
-      "text": "I used to hate not knowing. Spent decades trying to think my way to certainty. Then the question flipped. Instead of 'What am I?' tormenting me, I realized I was tormenting it, trying to force it into an answer-shaped box."
-    },
-    {
-      "character": "evan",
-      "context": "voicing a realization",
-      "text": "The question doesn't want to be answered. It wants to be lived."
+      "context": "imagining himself looking at Saturn through spaceship window",
+      "visualization": "3-panel sequence showing increasing distance/abstraction",
+      "text": "How high can we try to elevate our discussion — in terms of abstraction, or meta — until you think you've lost me? And how much higher until you find this interesting enough? Or does going meta not interest you?"
     }
   ],
   "visual_elements": {
-    "setting": "Simple room, folding chairs in circle",
-    "symbol": "Question mark eating its own tail on door",
-    "atmosphere": "Warm, accepting, alive with curiosity",
-    "diversity": "Various ages and backgrounds united by questioning"
+    "panel_1": "Evan at spaceship window",
+    "panel_2": "Saturn filling the view",
+    "panel_3": "Zooming out to show conversation as cosmic scale",
+    "atmosphere": "Vast, contemplative, playfully challenging"
   },
-  "psychological_notes": "Evan finds his tribe—others who've been 'claimed by the question.' The group provides validation and community for those who've moved beyond seeking answers to living the questions. Each member's unique questioning enriches the collective exploration.",
-  "philosophical_underpinning": "Questions as connective tissue between conscious beings",
-  "therapeutic_direction": "Healing through shared uncertainty"
+  "psychological_notes": "Evan tests the architect's limits and interests by proposing increasingly meta levels of discussion. The spaceship/Saturn imagery suggests he's ready to explore consciousness at cosmic scales of abstraction. His playful tone shows comfort with the architect as intellectual sparring partner.",
+  "philosophical_underpinning": "Consciousness exploring its own capacity for self-reference",
+  "therapeutic_direction": "Client testing therapist's range and engagement"
 }
