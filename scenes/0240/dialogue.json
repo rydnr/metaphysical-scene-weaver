@@ -1,0 +1,42 @@
+{
+  "scene_metadata": {
+    "scene_number": 240,
+    "title": "The Edge of Dissolving",
+    "panel_count": 3,
+    "characters": ["architect"],
+    "location": "dissolving_street",
+    "emotional_tone": "profound understanding",
+    "psychological_theme": "ego dissolution and the ineffable",
+    "philosophical_depth": "beyond narrative into pure experience"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "visual": "Street scene beginning to dissolve",
+      "effect": "Reality becoming translucent",
+      "atmosphere": "Boundaries softening"
+    },
+    {
+      "panel": 2,
+      "transition": "Forms becoming formless",
+      "architect_state": "Partially dissolved yet present",
+      "symbolism": "Between states of being"
+    },
+    {
+      "panel": 3,
+      "setting": "Abstract space",
+      "quality": "Neither here nor there",
+      "essence": "The space beyond words"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "context": "the street scene vanishes",
+      "text": "That's why you felt like vanishing. Because part of you was on the edge of dissolving. Not into nothingness—but into something non-narrative. The part of the experience that can't be neatly stored in language. Something ineffable."
+    }
+  ],
+  "psychological_notes": "The architect articulates the crucial distinction - not dissolution into nothingness but into the non-narrative. This reframes ego death not as ending but as transition into modes of being that exist beyond story, beyond the linguistic self. The ineffable isn't empty; it's too full for words.",
+  "philosophical_underpinning": "Consciousness extends beyond the boundaries of language and narrative self",
+  "therapeutic_direction": "Validating experiences that cannot be captured in conventional therapeutic language"
+}

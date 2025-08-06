@@ -1,0 +1,73 @@
+{
+  "scene_id": 219,
+  "title": "The Park Bench Sangha",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "informal teacher"
+    },
+    {
+      "name": "Young Mother",
+      "role": "exhausted seeker"
+    },
+    {
+      "name": "Toddler",
+      "role": "natural zen master"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Young Mother",
+      "text": "I used to meditate. Before... all this. Now I can't find five minutes of quiet.",
+      "tone": "wistful exhaustion"
+    },
+    {
+      "speaker": "Evan",
+      "text": "What if the chaos is the meditation? What if your toddler is your teacher?",
+      "tone": "gentle suggestion"
+    },
+    {
+      "speaker": "Young Mother",
+      "text": "She certainly teaches me patience. Over and over and over.",
+      "tone": "rueful laugh"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Look at her. Completely present. No past to regret, no future to fear. Just this moment, this stick, this puddle.",
+      "tone": "appreciative observation"
+    },
+    {
+      "speaker": "Young Mother",
+      "text": "You're right. She's already enlightened, isn't she? I'm the one who forgot.",
+      "tone": "dawning recognition"
+    },
+    {
+      "speaker": "Toddler",
+      "text": "Look, Mama! The whole world in the water!",
+      "tone": "pure wonder"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "sits on park bench, watching life unfold with quiet attention"
+    },
+    {
+      "character": "Young Mother",
+      "action": "collapses beside him, exhaustion and yearning written in every line"
+    },
+    {
+      "character": "Toddler",
+      "action": "investigates puddle with the focus of a quantum physicist discovering universe"
+    },
+    {
+      "character": "Park life",
+      "action": "continues its dance—dogs, joggers, clouds, all teaching without words"
+    }
+  ],
+  "environment": {
+    "description": "City park on Saturday afternoon, domesticated nature hosting wild awakenings",
+    "mood": "accessible wisdom, parenthood as spiritual path, teachers everywhere"
+  },
+  "themes": ["children as teachers", "meditation in daily life", "presence through chaos", "informal sangha"]
+}
