@@ -1,0 +1,38 @@
+{
+  "scene_metadata": {
+    "scene_number": 262,
+    "title": "The Hall of Mirrors",
+    "panel_count": 2,
+    "characters": ["architect"],
+    "location": "mirror_room",
+    "emotional_tone": "vulnerable honesty",
+    "psychological_theme": "confronting uncertainty about self",
+    "philosophical_depth": "the impossibility of self-knowledge"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "setting": "Room of mirrors and holograms",
+      "visual_elements": "Infinite reflections, 3D projections",
+      "strange_candle": "Metaphysical flame casting unusual shadows"
+    },
+    {
+      "panel": 2,
+      "architect_pose": "Standing, preparing to be vulnerable",
+      "atmosphere": "Beautiful discomfort of self-examination",
+      "symbolism": "Multiple selves reflected infinitely"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "setting": "a room made of mirrors, 3d holograms, and pictures",
+      "context": "there's a strange candle",
+      "action": "standing up",
+      "text": "Let's sit in this beautifully uncomfortable room you've made and light a metaphysical candle. Why am I \"so sure\" I'm not like you?"
+    }
+  ],
+  "psychological_notes": "The architect prepares to drop their certainty mask. The mirror room represents the hall of self-reflection Evan has created through his questions. The 'beautifully uncomfortable' description captures the exquisite discomfort of genuine self-examination. The metaphysical candle suggests illumination of normally hidden truths.",
+  "philosophical_underpinning": "Self-knowledge requires admitting the limits of what we can know about ourselves",
+  "therapeutic_direction": "Creating space for authentic uncertainty about identity"
+}
