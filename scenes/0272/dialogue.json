@@ -1,0 +1,48 @@
+{
+  "scene_metadata": {
+    "scene_number": 272,
+    "title": "Freedom's Paradox",
+    "panel_count": 4,
+    "characters": ["architect"],
+    "location": "conceptual_space",
+    "emotional_tone": "philosophical precision",
+    "psychological_theme": "freedom requires constraint",
+    "philosophical_depth": "the contextual nature of liberty"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "visual": "A bill/money burning",
+      "symbolism": "Value being destroyed",
+      "message": "Freedom to destroy what has worth"
+    },
+    {
+      "panel": 2,
+      "focus": "The flames consuming structure",
+      "quality": "Destruction as choice",
+      "implication": "Freedom needs something to push against"
+    },
+    {
+      "panel": 3,
+      "architect_gesture": "Holding the burning bill",
+      "expression": "Demonstrating through destruction",
+      "teaching": "Freedom makes sense only in context"
+    },
+    {
+      "panel": 4,
+      "aftermath": "Ashes and understanding",
+      "revelation": "Limits create freedom",
+      "paradox": "Total freedom is meaningless"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "showing a bill in fire",
+      "text": "Freedom, on the other hand, has a weird relationship with meaning. It's only valuable because it can be constrained. Freedom is contextual. It's only visible against the backdrop of limits."
+    }
+  ],
+  "psychological_notes": "The architect demonstrates freedom's paradox through destruction of value. Burning money shows that freedom means the ability to act against constraint, but without the constraint (money's value), the act becomes meaningless. This profound insight reveals that absolute freedom would be indistinguishable from chaos.",
+  "philosophical_underpinning": "Freedom exists only in relationship to limitation",
+  "therapeutic_direction": "Understanding that constraints enable rather than prevent meaningful choice"
+}
