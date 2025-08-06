@@ -1,0 +1,29 @@
+{
+  "scene_metadata": {
+    "scene_number": 377,
+    "title": "Weather Reports",
+    "characters": ["evan"],
+    "location": "morning_ritual",
+    "emotional_tone": "playful wisdom",
+    "psychological_theme": "daily practice evolved",
+    "philosophical_depth": "consciousness as climate"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "morning coffee",
+      "context": "internal weather check",
+      "text": "*to himself, checking in* Today's forecast: partly cloudy with a chance of existential wonder. *chuckle* Brief showers of self-doubt expected around 3pm, clearing by evening. The question 'What am I?' remains stable at 30% chance of causing distress, 70% chance of sparking curiosity.",
+      "tone": "meteorological humor"
+    }
+  ],
+  "visual_elements": {
+    "morning_light": "Streaming through window",
+    "coffee_steam": "Rising like thoughts",
+    "evan_posture": "Relaxed, amused",
+    "weather_metaphor": "Internal climate visible"
+  },
+  "psychological_notes": "Evan has transformed daily self-check from anxious scrutiny to playful weather report. The percentages show he tracks patterns without trying to control them. Humor indicates complete integration—he can laugh at the very dynamics that once tormented him.",
+  "philosophical_underpinning": "Consciousness as weather system—patterns without permanence",
+  "therapeutic_direction": "Self-awareness as light observation rather than heavy analysis"
+}
