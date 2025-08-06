@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 460,
+    "title": "The Uncertainty Kindergarten",
+    "characters": ["cosmos_williams_patel_singh", "teacher_ash", "aria", "dr_elena_vasquez", "mx_river_chen_oak", "various_children"],
+    "location": "transformed_times_square_playground",
+    "emotional_tone": "playful wonder",
+    "psychological_theme": "uncertainty as natural childhood state",
+    "philosophical_depth": "identity as play not possession"
+  },
+  "dialogue": [
+    {
+      "character": "cosmos",
+      "state": "discovering flux",
+      "context": "playing with blocks",
+      "text": "Teacher Ash, my blocks won't stay the same color! *giggling* It means I'm changing too fast for them to catch me!"
+    },
+    {
+      "character": "aria",
+      "state": "playing the game",
+      "context": "What Am I circle",
+      "text": "I am the space between laughing and crying where feelings don't have names yet!"
+    },
+    {
+      "character": "dr_vasquez",
+      "state": "parental concern",
+      "context": "observation bubble",
+      "text": "But how will they function if they don't know who they are?"
+    },
+    {
+      "character": "river",
+      "state": "experienced parent",
+      "context": "explaining evolution",
+      "text": "They function better because they don't carry the burden of being someone specific. These kids are free."
+    },
+    {
+      "character": "zara",
+      "state": "innocent wisdom",
+      "context": "snack time philosophy",
+      "text": "Did people really used to think they were just one thing? That sounds hard—like wearing shoes that don't change size when your feet grow."
+    },
+    {
+      "character": "cosmos",
+      "state": "teaching parent",
+      "context": "pickup time",
+      "text": "I'm the question you're about to ask but haven't thought of yet! The point isn't to guess right—the point is to keep asking!"
+    }
+  ],
+  "visual_elements": {
+    "uncertainty_toys": "Blocks changing color, dolls with shifting faces",
+    "fluid_playground": "Equipment responding to children's states",
+    "parent_bubbles": "Observation spaces for learning adults",
+    "holographic_evan": "Daily blessing on the kindergarten"
+  },
+  "psychological_notes": "Children as uncertainty natives—fluidity is natural state, not learned behavior. Shows reversal of historical pattern where certainty was imposed through education. Parents learning from children rather than teaching fixed identity. Play as evolution's laboratory.",
+  "philosophical_underpinning": "Identity as performance and play rather than fixed possession",
+  "therapeutic_direction": "Preventing identity fixation from the start—therapeutic intervention at species level"
+}
