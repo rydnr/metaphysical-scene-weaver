@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 380,
+    "title": "Too Busy Being",
+    "characters": ["evan"],
+    "location": "kitchen_evening",
+    "emotional_tone": "quiet amusement",
+    "psychological_theme": "search ended through forgetting",
+    "philosophical_depth": "being excludes seeking"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "casual realization",
+      "context": "washing dishes",
+      "text": "I realized something yesterday: I haven't thought about 'finding myself' in months. I'm too busy being myself to look for myself."
+    }
+  ],
+  "visual_elements": {
+    "domestic_scene": "Evening dishes, warm water",
+    "evan_demeanor": "Relaxed, present",
+    "ordinary_activity": "Simple transformation of dirty to clean",
+    "atmosphere": "Peaceful ordinariness"
+  },
+  "psychological_notes": "Ultimate integration—the search for self has been forgotten entirely. Not transcended through effort but dissolved through living. Being has become so natural that seeking seems absurd. This represents the deepest level of healing.",
+  "philosophical_underpinning": "Seeking ends when being becomes sufficient",
+  "therapeutic_direction": "Beyond therapy—natural state restored"
+}
