@@ -1,0 +1,70 @@
+{
+  "scene_metadata": {
+    "scene_number": 486,
+    "title": "Intergenerational Wisdom Exchange",
+    "characters": ["marcus_stone", "infinity_bloom_tomorrow", "dr_elena_vasquez"],
+    "location": "floating_gardens_lake_victoria",
+    "emotional_tone": "tender bridging",
+    "psychological_theme": "memory meets possibility",
+    "philosophical_depth": "certainty's weight teaching uncertainty's flight"
+  },
+  "dialogue": [
+    {
+      "character": "infinity",
+      "state": "innocent curiosity",
+      "context": "requesting stories",
+      "text": "Tell me about the before-times, Ancient Marcus. When people were stuck being just one thing."
+    },
+    {
+      "character": "marcus",
+      "state": "patient explanation",
+      "context": "sharing history",
+      "text": "Imagine wearing the same clothes forever, but the clothes are inside you. That's what fixed identity felt like. I was 'Marcus Stone, engineer' for seventy-three years. Just that. Nothing else."
+    },
+    {
+      "character": "infinity",
+      "state": "genuine confusion",
+      "context": "trying to understand",
+      "text": "But how did you breathe?"
+    },
+    {
+      "character": "marcus",
+      "state": "profound recognition",
+      "context": "explaining blindness",
+      "text": "We didn't know we weren't breathing. Like fish don't know they're in water until they're pulled out. Evan Chen was the first fish to realize we were drowning in air."
+    },
+    {
+      "character": "marcus",
+      "state": "demonstrating rigidity",
+      "context": "showing the old way",
+      "text": "We did hurt all the time. We just called it life. We took medicines for the symptoms—antidepressants for the weight of unchanging self, anxiety medications for the fear of change, countless therapies for the pain of being trapped."
+    },
+    {
+      "character": "infinity",
+      "state": "joyful declaration",
+      "context": "sharing dreams",
+      "text": "Everything! I want to be every question that hasn't been asked yet. I want to be the wondering of wonders. I want to be like you but different—someone who remembers how to remember but forgets how to forget!"
+    },
+    {
+      "character": "infinity",
+      "state": "grateful recognition",
+      "context": "thanking elders",
+      "text": "Thank you for escaping. Thank you for breaking the rules so we could be born free."
+    },
+    {
+      "character": "marcus",
+      "state": "reciprocal gratitude",
+      "context": "completing circle",
+      "text": "Thank you for being free. You're the answer we didn't know we were looking for—not an answer that ends questions but one that makes questioning into art."
+    }
+  ],
+  "visual_elements": {
+    "hover_chairs": "Adjusting to fluctuating density",
+    "child_transformations": "Infinity becoming concepts rapidly",
+    "crystallization_demo": "Marcus showing fixed identity",
+    "collective_memory": "Shared consciousness capture"
+  },
+  "psychological_notes": "Intergenerational trauma of certainty being healed through exchange. Children unable to comprehend fixed identity as anything but pain. Elders as medicine carriers—memory of why change necessary. Recognition that suffering was normalized as life itself.",
+  "philosophical_underpinning": "Each generation heals the previous through being what they couldn't be",
+  "therapeutic_direction": "Healing happens in the space between memory and possibility"
+}
