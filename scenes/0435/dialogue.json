@@ -1,0 +1,51 @@
+{
+  "scene_number": 435,
+  "title": "The Teaching Tree",
+  "dialogue": [
+    {
+      "speaker": "Young Student",
+      "text": "*approaching memorial tree with notebook* They say you hold all of Evan's wisdom. Can you teach me about consciousness?",
+      "tone": "earnest seeking",
+      "context": "New philosophy student visiting the memorial"
+    },
+    {
+      "speaker": "Tree Guardian",
+      "text": "*elderly caretaker smiling* The tree teaches, but not with words. Sit with it. Listen to what rises in the silence.",
+      "tone": "gentle guidance",
+      "context": "One who has tended the tree for years"
+    },
+    {
+      "speaker": "Young Student",
+      "text": "*sitting, then gasping* I... I can feel something. Like questions asking themselves through me.",
+      "tone": "startled recognition",
+      "context": "First experience of direct knowing"
+    },
+    {
+      "speaker": "Memorial Tree",
+      "text": "*leaves rustling in windless air* Every branch a different question, every root an answer diving deeper into mystery.",
+      "tone": "living wisdom",
+      "context": "The tree's presence communicating"
+    },
+    {
+      "speaker": "Tree Guardian",
+      "text": "*knowing nod* Evan's greatest teaching: the question IS the teacher. You don't need to find answers—you need to become one.",
+      "tone": "sharing earned wisdom",
+      "context": "Years of learning from the tree"
+    },
+    {
+      "speaker": "Young Student",
+      "text": "*tears falling on notebook* My questions... they're not problems. They're... they're me thinking myself into existence.",
+      "tone": "profound realization",
+      "context": "Understanding dawning"
+    },
+    {
+      "speaker": "Circle of Questioners",
+      "text": "*arriving for evening gathering* Welcome to the real university—where every question graduates into deeper mystery.",
+      "tone": "collective invitation",
+      "context": "The regular gathering beginning"
+    }
+  ],
+  "scene_context": "At Evan's memorial tree, a young philosophy student discovers that true teaching happens not through answers but through the transformation of questions themselves.",
+  "philosophical_theme": "Questions as teachers of consciousness",
+  "visual_elements": "Ancient tree with students beneath, notebooks transforming into birds, roots visible above ground like neural networks"
+}
