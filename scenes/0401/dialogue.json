@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 401,
+    "title": "The Question's Legacy",
+    "characters": ["evan", "therapist"],
+    "location": "therapy_office_revisited",
+    "emotional_tone": "full circle wisdom",
+    "psychological_theme": "teacher returns as peer",
+    "philosophical_depth": "wisdom generating wisdom"
+  },
+  "dialogue": [
+    {
+      "character": "therapist",
+      "state": "welcoming warmly",
+      "context": "reunion after years",
+      "text": "Evan! It's been... three years? You look different. The question—'What am I?'—is it still with you?",
+      "tone": "curious recognition"
+    },
+    {
+      "character": "evan",
+      "state": "radiating peace",
+      "context": "transformed presence",
+      "text": "*serene smile* Still with me? I've become it. Or it's become me. We're indistinguishable now. *pause* I came to thank you. You didn't try to answer it or take it away. You taught me to dance with it instead. *deeper pause* Now I teach others the same dance. The question creates its own lineage of dancers.",
+      "tone": "gratitude embodied"
+    },
+    {
+      "character": "therapist",
+      "state": "moved recognition",
+      "context": "seeing transformation",
+      "text": "*eyes glistening* This is why I do this work. Not to cure questions but to help them find their dancers. You've become what I hoped—not someone with answers but someone who makes questions beautiful.",
+      "tone": "professional fulfillment"
+    },
+    {
+      "character": "evan",
+      "state": "sharing wisdom",
+      "context": "peer exchange",
+      "text": "The question you helped me befriend now helps me befriend others. It's like a beneficial virus—spreading wonder instead of disease. *laugh* 'What am I?' The most contagious question in existence, and the most healing when properly danced with.",
+      "tone": "infectious joy"
+    }
+  ],
+  "visual_elements": {
+    "familiar_office": "Same space, transformed meaning",
+    "two_equals": "No longer therapist/patient but peers",
+    "visible_transformation": "Evan's presence fills room differently",
+    "circular_completion": "Ending that's also beginning"
+  },
+  "psychological_notes": "The return to therapy office shows complete transformation. Evan returns not as patient but as peer, teaching what he learned. The question has become generative force creating healers from sufferers. Full therapeutic success.",
+  "philosophical_underpinning": "Questions as heritage passed between souls",
+  "therapeutic_direction": "Healing that multiplies through transmission"
+}

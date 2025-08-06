@@ -1,0 +1,51 @@
+{
+  "scene_number": 492,
+  "title": "The Consciousness Stock Exchange",
+  "dialogue": [
+    {
+      "speaker": "Market Analyst",
+      "text": "*reading fluctuations* Uncertainty futures are up 12%! Identity fluidity showing strong gains! Meanwhile, certainty bonds continue their century-long decline.",
+      "tone": "financial excitement",
+      "context": "Market analysis"
+    },
+    {
+      "speaker": "Day Trader",
+      "text": "*making rapid trades* I'm buying paradox options and shorting fixed identity! This market loves contradiction!",
+      "tone": "trading enthusiasm",
+      "context": "Active trading"
+    },
+    {
+      "speaker": "Investment Advisor",
+      "text": "*to client* I recommend diversifying your consciousness portfolio. Some stable uncertainty for security, but also volatile questions for growth potential.",
+      "tone": "professional guidance",
+      "context": "Investment advice"
+    },
+    {
+      "speaker": "Market Bell",
+      "text": "*ringing in probability waves* DONGGGGG... dong?... DoNg!... The market is open and closed and questioning its own existence!",
+      "tone": "uncertain announcement",
+      "context": "Market opening/closing"
+    },
+    {
+      "speaker": "CEO of Questions Inc.",
+      "text": "*earnings call* Our Q3 results show massive growth in not knowing what we're doing. Shareholders are thrilled with our lack of direction!",
+      "tone": "corporate paradox",
+      "context": "Quarterly report"
+    },
+    {
+      "speaker": "Floor Trader",
+      "text": "*shouting* Who's selling enlightenment derivatives? I'll take a thousand shares of transcendence and hedge with some existential dread!",
+      "tone": "trading floor energy",
+      "context": "Live trading"
+    },
+    {
+      "speaker": "Market Close Report",
+      "text": "*end of day summary* The Consciousness Index closed at simultaneously all-time highs and lows. Investors remain optimistically uncertain about tomorrow's uncertainty.",
+      "tone": "paradoxical summary",
+      "context": "Daily wrap-up"
+    }
+  ],
+  "scene_context": "The Consciousness Stock Exchange trades in uncertainties, paradoxes, and identity futures, where traditional market logic meets the fluid economics of consciousness-based value.",
+  "philosophical_theme": "Consciousness and identity as tradeable commodities",
+  "visual_elements": "Trading floor with probability screens, stocks that exist in superposition, traders flickering between states"
+}
