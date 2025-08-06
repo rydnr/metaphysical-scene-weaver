@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 244,
+    "title": "The Wisdom of Not Chasing",
+    "panel_count": 2,
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "gentle wisdom",
+    "psychological_theme": "receptivity over pursuit",
+    "philosophical_depth": "living as myth rather than chasing mystical"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "architect_gesture": "Hands showing 'slow down'",
+      "expression": "Patient knowing",
+      "atmosphere": "Time expanding"
+    },
+    {
+      "panel": 2,
+      "visual_element": "Mythic symbols appearing subtly",
+      "background": "Studio transforming slightly",
+      "quality": "Ordinary becoming luminous"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "shows a gesture to slow down",
+      "text": "If this were myth —and it is, by the way— the next step wouldn't be to chase the door. It would be to listen."
+    }
+  ],
+  "psychological_notes": "The architect reframes Evan's experience as living myth, not past event. The wisdom of not chasing represents a crucial psychological shift from grasping to receiving. By slowing down and listening, we allow the mystical to find us rather than exhausting ourselves in pursuit.",
+  "philosophical_underpinning": "Life is already mythical; recognition requires receptivity not pursuit",
+  "therapeutic_direction": "Shifting from active seeking to receptive awareness"
+}
