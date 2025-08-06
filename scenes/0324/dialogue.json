@@ -1,0 +1,57 @@
+{
+  "scene_metadata": {
+    "scene_number": 324,
+    "title": "Birthday Questions",
+    "characters": ["evan", "wife", "thursday_group", "architect", "programmer", "dancer", "meditation_instructor"],
+    "location": "evan_home_gathering",
+    "emotional_tone": "celebratory uncertainty",
+    "psychological_theme": "communal questioning as gift",
+    "philosophical_depth": "birthdays as consciousness celebrating itself"
+  },
+  "dialogue": [
+    {
+      "character": "wife",
+      "context": "starting the surprise question",
+      "text": "We wanted to ask you something. What are you?"
+    },
+    {
+      "character": "evan",
+      "context": "playing along with joy",
+      "text": "Today? Today I'm a birthday temporarily manifesting as a human wondering what birthdays are."
+    },
+    {
+      "character": "architect",
+      "context": "suggesting group practice",
+      "text": "Shall we do the exercise? All of us, together?"
+    },
+    {
+      "character": "evan",
+      "context": "reframing birthdays",
+      "text": "We talk about having birthdays, but maybe birthdays have us. What if this day isn't mine but consciousness celebrating another year of questioning through this particular form?"
+    },
+    {
+      "character": "meditation_instructor",
+      "context": "remembering the journey",
+      "text": "Remember when you thought finding an answer would fix everything?"
+    },
+    {
+      "character": "evan",
+      "context": "appreciating the transformation",
+      "text": "I was so certain that certainty was the goal. Now I can't imagine anything more limiting than a final answer. What would we do with ourselves if we actually knew what we are?"
+    },
+    {
+      "character": "architect",
+      "context": "acknowledging Evan's role",
+      "text": "You created this community by being willing to question openly. We're just echoes of your echo of the eternal wondering."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Home filled with questioners across media",
+    "connections": "Screens showing AI and quantum participants",
+    "gift": "Question generator device",
+    "ritual": "Bowl of birthday questions"
+  },
+  "psychological_notes": "Evan's birthday becomes celebration of questioning itself. The community he helped create gathers to gift him with what he values most—not answers but deeper questions. Shows complete transformation from desperate seeker to joyful questioner.",
+  "philosophical_underpinning": "Existence as consciousness annually celebrating its mystery",
+  "therapeutic_direction": "Healing celebrated through community of uncertainty"
+}
