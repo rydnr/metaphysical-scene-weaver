@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 348,
+    "title": "Return to the Architect",
+    "characters": ["evan"],
+    "location": "walking_to_architect_office",
+    "emotional_tone": "grateful completion",
+    "psychological_theme": "student returning transformed",
+    "philosophical_depth": "sharing the harvest"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "walking with purpose",
+      "context": "deciding to visit architect",
+      "text": "I should find the architect. Not for answers anymore, but to share what the questions became."
+    }
+  ],
+  "visual_elements": {
+    "journey_quality": "Retracing familiar path with new energy",
+    "urban_spiral": "City streets as another spiral",
+    "building_presence": "Therapeutic space as spiral station",
+    "approach": "Authority rather than desperation"
+  },
+  "psychological_notes": "Full circle moment—Evan returns to where his healing journey began, but transformed. He no longer seeks answers but wants to share the transformation of questions themselves. This represents mature completion of therapeutic relationship.",
+  "philosophical_underpinning": "Questions ripening into wisdom rather than resolving into answers",
+  "therapeutic_direction": "Client ready to acknowledge growth and complete therapeutic arc"
+}
