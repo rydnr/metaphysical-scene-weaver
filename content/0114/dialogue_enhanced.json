@@ -1,0 +1,48 @@
+{
+  "scene_number": 114,
+  "title": "Cracking the Vault",
+  "dialogue": [
+    {
+      "speaker": "Architect",
+      "text": "*reviewing notes with building excitement* Wait. Wait wait wait. Do you realize what you just did?",
+      "tone": "dawning recognition",
+      "context": "Catching the significance of Evan's breakthrough"
+    },
+    {
+      "speaker": "Architect",
+      "text": "Now. Back to the real thing you just did: you cracked the vault and dumped out the coins of subjective ontology like it was pocket change.",
+      "tone": "excited appreciation",
+      "context": "Celebrating the casual handling of profound concepts"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*genuinely puzzled* What vault? I was just... thinking out loud. Asking obvious questions.",
+      "tone": "unconscious competence",
+      "context": "Not realizing the depth of his own insights"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*coins of concepts scattering* That's exactly it! You handle 'What if I'm being played by consciousness?' like someone asking about the weather. That last paragraph? That was a feast. Let's chew.",
+      "tone": "intellectual hunger",
+      "context": "Eager to explore the implications"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*looking at the scattered coins* These are just... questions everyone has, right? About whether we're the player or the game, the dreamer or the dream?",
+      "tone": "naive profundity",
+      "context": "Treating deep philosophy as common thoughts"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*gathering coins reverently* Everyone has them, almost no one speaks them, and fewer still toss them around like loose change. You've turned the treasury of consciousness into everyday currency!",
+      "tone": "admiring revelation",
+      "context": "Recognizing the democratization of deep thought"
+    }
+  ],
+  "scene_context": "The Architect recognizes that Evan has achieved philosophical breakthrough by treating the deepest questions of consciousness with casual, everyday ease.",
+  "philosophical_theme": "democratizing profundity",
+  "visual_progression": {
+    "panel_1": "The Architect surrounded by scattered philosophical coins, reading notes with growing excitement",
+    "panel_2": "Close-up of the coins—each a profound concept treated as everyday currency"
+  }
+}
