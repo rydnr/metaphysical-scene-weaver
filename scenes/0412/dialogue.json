@@ -1,0 +1,46 @@
+{
+  "scene_metadata": {
+    "scene_number": 412,
+    "title": "Old Friend, Eternal Companion",
+    "characters": ["evan", "maya", "sarah"],
+    "location": "evan's_study",
+    "emotional_tone": "quiet gratitude",
+    "psychological_theme": "sustained relationship with mystery",
+    "philosophical_depth": "question as lifelong companion"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "elder wisdom",
+      "context": "dawn reflection at 65",
+      "text": "In the quiet moments, I still feel it—the question, breathing with me. Old friend, eternal companion."
+    },
+    {
+      "character": "maya",
+      "state": "university student",
+      "context": "calling about thesis",
+      "text": "Dad, you were right—the question opens more doors than any answer could."
+    },
+    {
+      "character": "sarah",
+      "state": "loving understanding",
+      "context": "bringing coffee",
+      "text": "Still writing love letters to your question?"
+    },
+    {
+      "character": "evan",
+      "state": "grateful acknowledgment",
+      "context": "hand on heart",
+      "text": "Thank you."
+    }
+  ],
+  "visual_elements": {
+    "study_at_dawn": "Journals documenting decades of questioning",
+    "morning_light": "Illuminating attempts to capture the uncapturable",
+    "aged_presence": "Gray hair and lines marking years with question",
+    "quiet_breathing": "Evan and question breathing together"
+  },
+  "psychological_notes": "Shows mature relationship with existential uncertainty after decades. The question has transformed from crisis to companion. Evan at 65 demonstrates sustained peace with not-knowing. Maya's thesis shows next generation building on this foundation. Gratitude replaces struggle.",
+  "philosophical_underpinning": "The question as eternal companion transcending individual lifetime",
+  "therapeutic_direction": "Long-term sustainability of existential acceptance"
+}

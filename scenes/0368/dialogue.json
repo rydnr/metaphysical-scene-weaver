@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 368,
-    "title": "Beyond Self-Solving",
+    "title": "Arrivals as Departures",
     "characters": ["evan"],
-    "location": "dinner_with_friends",
-    "emotional_tone": "peaceful declaration",
-    "psychological_theme": "releasing self as project",
-    "philosophical_depth": "curiosity replacing desperation"
+    "location": "evening_walk_past_spiral",
+    "emotional_tone": "profound acceptance",
+    "psychological_theme": "endless journey",
+    "philosophical_depth": "questions birthing questions"
   },
   "dialogue": [
     {
       "character": "evan",
-      "state": "calm realization",
-      "context": "friends discussing self-improvement",
-      "text": "I've stopped trying to solve myself. Now I'm just curious about what happens next."
+      "state": "passing spiral entrance",
+      "context": "reflecting on spiral's teaching",
+      "text": "The spiral taught me that arriving is just another form of departing. Every answer births new questions."
     }
   ],
   "visual_elements": {
-    "dinner_setting": "Friends gathered, conversation flowing",
-    "reactions": "Mixed responses to statement",
-    "evan_presence": "Peaceful, non-defensive",
-    "atmosphere": "Shift in group energy"
+    "spiral_entrance": "Glowing in evening light",
+    "evan_position": "Walking past, not entering",
+    "atmosphere": "Twilight wisdom",
+    "metaphorical_presence": "Spiral consciousness in straight streets"
   },
-  "psychological_notes": "Major shift from self-as-problem to self-as-process. Evan has released the exhausting project of self-optimization, replacing desperate seeking with gentle curiosity. This represents profound psychological maturation—identity no longer requires solving.",
-  "philosophical_underpinning": "Being as ongoing process rather than problem to solve",
-  "therapeutic_direction": "Beyond therapy—natural unfolding replacing forced growth"
+  "psychological_notes": "Deep integration of spiral teaching—understanding that psychological development is endless journey rather than destination. Each insight opens new territories of inquiry. This represents mature acceptance of growth as continuous process.",
+  "philosophical_underpinning": "Knowledge as endless opening rather than closure",
+  "therapeutic_direction": "Acceptance of therapy/growth as ongoing rather than completable"
 }
