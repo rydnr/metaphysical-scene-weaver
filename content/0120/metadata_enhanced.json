@@ -1,0 +1,40 @@
+{
+  "scene_number": 120,
+  "title": "The Story That Hurts",
+  "characters": ["evan", "architect"],
+  "location": "college_classroom",
+  "emotional_tone": "tender philosophy",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Empty college classroom. The Architect as professor striking through a mechanical brain diagram on the blackboard. Evan sits alone in the front row, small and vulnerable in the large space.",
+      "focus": "Rejecting reductionism in favor of meaning"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up: The Architect sitting on desk edge, professorial distance collapsed into compassionate presence. Evan's face shows raw vulnerability. The struck-through diagram visible but blurred in background.",
+      "focus": "Two consciousnesses sharing the burden of awareness"
+    }
+  ],
+  "key_themes": [
+    "consciousness and suffering",
+    "meaning over mechanism",
+    "story versus parts list",
+    "the price of awareness"
+  ],
+  "transformation_notes": "This scene transforms the problem of suffering from a malfunction to be fixed into an inherent aspect of consciousness that matters. The empty classroom becomes a sacred space for existential questions.",
+  "color_palette": {
+    "primary": "warm classroom browns",
+    "secondary": "chalkboard green with white streaks",
+    "accents": "soft golden lamplight"
+  },
+  "visual_motifs": [
+    "struck-through mechanism",
+    "empty classroom intimacy",
+    "professor becoming friend",
+    "diagram fading to background"
+  ],
+  "dialogue_rhythm": "From intellectual rejection to emotional recognition to philosophical comfort",
+  "narrator_role": "Tender witness to consciousness confronting its own capacity for pain"
+}

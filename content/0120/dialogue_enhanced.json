@@ -1,0 +1,48 @@
+{
+  "scene_number": 120,
+  "title": "The Story That Hurts",
+  "dialogue": [
+    {
+      "speaker": "Architect",
+      "text": "*striking through the machine diagram with chalk* We could map every neuron, trace every synapse, catalog every chemical... and still miss the point entirely.",
+      "tone": "rejecting reductionism",
+      "context": "Dismissing mechanical explanations"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*sitting alone in the empty classroom* I thought if I understood the mechanism, the pain would make sense. Like fixing a broken engine.",
+      "tone": "vulnerable searching",
+      "context": "Seeking rational explanation for suffering"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*turning from board with compassion* But you're not here for the parts list. You're here for the story of the machine.",
+      "tone": "gentle recognition",
+      "context": "Understanding the deeper quest"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*voice softening* And more than that—you're here to ask why the story hurts sometimes.",
+      "tone": "compassionate insight",
+      "context": "Naming the real question"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*tears threatening* Why does consciousness come with suffering? Why does awareness include the ability to hurt?",
+      "tone": "raw questioning",
+      "context": "Asking the ancient question"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*sitting on desk edge, professor becoming friend* Maybe because a story without the possibility of pain would be no story at all. The hurt isn't a bug in consciousness—it's proof that the story matters.",
+      "tone": "philosophical comfort",
+      "context": "Reframing suffering as meaning"
+    }
+  ],
+  "scene_context": "In an empty college classroom, the Architect as professor helps Evan understand that consciousness isn't a machine to be fixed but a story to be lived, complete with its inherent capacity for suffering.",
+  "philosophical_theme": "consciousness, suffering, and meaning",
+  "visual_progression": {
+    "panel_1": "The Architect striking through mechanical diagrams, rejecting reductionist explanations",
+    "panel_2": "Close-up of compassionate recognition as professor becomes confidant"
+  }
+}
