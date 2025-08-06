@@ -1,0 +1,46 @@
+{
+  "scene_metadata": {
+    "scene_number": 426,
+    "title": "The Question Continues",
+    "characters": ["maya", "jordan", "children", "sarah", "community"],
+    "location": "spiral_garden_memorial",
+    "emotional_tone": "bittersweet continuation",
+    "psychological_theme": "intergenerational transmission",
+    "philosophical_depth": "eternal question through mortal carriers"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "posthumous message",
+      "context": "final note to Maya",
+      "text": "The question continues in you. Water it daily with wonder."
+    },
+    {
+      "character": "maya",
+      "state": "receiving transmission",
+      "context": "finding and reading note",
+      "text": "After the funeral, Maya finds his final note: 'The question continues in you. Water it daily with wonder.'"
+    },
+    {
+      "character": "youngest_child",
+      "state": "innocent inquiry",
+      "context": "hearing the note",
+      "text": "What question?"
+    },
+    {
+      "character": "maya",
+      "state": "explaining simply",
+      "context": "to her children",
+      "text": "The question of what we are. Grandpa spent his life learning to be friends with not knowing."
+    }
+  ],
+  "visual_elements": {
+    "memorial_gathering": "Hundreds in spiral garden where journey began",
+    "ashes_to_soil": "Physical form enriching garden earth",
+    "pinned_note": "Above Maya's writing desk",
+    "evening_spiral": "Maya walking father's path"
+  },
+  "psychological_notes": "Shows successful transmission of questioning practice across generations. Maya receives both burden and gift of continuing the work. The note's simplicity reflects lifetime of wisdom distilled. Community continues beyond individual. Children already being prepared for their own questioning.",
+  "philosophical_underpinning": "Individual mortality cannot stop eternal questions",
+  "therapeutic_direction": "Death as transformation not ending of therapeutic work"
+}

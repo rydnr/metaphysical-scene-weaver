@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 370,
-    "title": "Complete",
+    "title": "Beyond Self-Solving",
     "characters": ["evan"],
-    "location": "morning_meditation",
-    "emotional_tone": "profound wholeness",
-    "psychological_theme": "integration complete",
-    "philosophical_depth": "unity of questioner and questioned"
+    "location": "dinner_with_friends",
+    "emotional_tone": "peaceful declaration",
+    "psychological_theme": "releasing self as project",
+    "philosophical_depth": "curiosity replacing desperation"
   },
   "dialogue": [
     {
       "character": "evan",
-      "state": "final recognition",
-      "context": "morning meditation",
-      "text": "What am I? I am what asks, what answers, and the silence between them. Complete."
+      "state": "calm realization",
+      "context": "friends discussing self-improvement",
+      "text": "I've stopped trying to solve myself. Now I'm just curious about what happens next."
     }
   ],
   "visual_elements": {
-    "setting": "Same space, transformed perspective",
-    "morning_light": "Dust motes dancing",
-    "evan_presence": "Whole, integrated, complete",
-    "circular_structure": "Ending where began"
+    "dinner_setting": "Friends gathered, conversation flowing",
+    "reactions": "Mixed responses to statement",
+    "evan_presence": "Peaceful, non-defensive",
+    "atmosphere": "Shift in group energy"
   },
-  "psychological_notes": "Full circle—Evan returns to the original question but completely transformed. He recognizes himself as the entire system: questioner, answer, and the awareness containing both. This represents ultimate psychological integration. Not enlightenment as escape but as complete acceptance of the questioning process itself.",
-  "philosophical_underpinning": "Non-dual recognition—the seeker is the sought",
-  "therapeutic_direction": "Journey complete—therapy succeeded in its ultimate goal of making itself unnecessary"
+  "psychological_notes": "Major shift from self-as-problem to self-as-process. Evan has released the exhausting project of self-optimization, replacing desperate seeking with gentle curiosity. This represents profound psychological maturation—identity no longer requires solving.",
+  "philosophical_underpinning": "Being as ongoing process rather than problem to solve",
+  "therapeutic_direction": "Beyond therapy—natural unfolding replacing forced growth"
 }

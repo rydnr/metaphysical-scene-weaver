@@ -1,0 +1,52 @@
+{
+  "scene_metadata": {
+    "scene_number": 422,
+    "title": "The Final Question",
+    "characters": ["evan", "sarah", "maya", "jordan"],
+    "location": "oncologist_office_and_home",
+    "emotional_tone": "profound acceptance",
+    "psychological_theme": "death as ultimate question",
+    "philosophical_depth": "mortality as final mystery"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "facing mortality",
+      "context": "after diagnosis",
+      "text": "The doctors say I'm dying. The question and I exchange knowing glances—we've been practicing for this our whole lives."
+    },
+    {
+      "character": "maya",
+      "state": "seeking guidance",
+      "context": "asking how to help",
+      "text": "What can I do?"
+    },
+    {
+      "character": "evan",
+      "state": "transmitting wisdom",
+      "context": "ensuring continuity",
+      "text": "Keep asking the question. Let your children know it's okay not to know."
+    },
+    {
+      "character": "sarah",
+      "state": "artistic observation",
+      "context": "while painting him",
+      "text": "You're becoming more yourself."
+    },
+    {
+      "character": "evan",
+      "state": "amused recognition",
+      "context": "laughing at paradox",
+      "text": "What self?"
+    }
+  ],
+  "visual_elements": {
+    "clinical_setting": "Diagnosis delivered with practiced compassion",
+    "family_gathering": "Not crisis but strange celebration",
+    "slow_spiral_walks": "Each circuit possibly among last",
+    "daily_portraits": "Sarah capturing presence not body"
+  },
+  "psychological_notes": "Death as culmination of lifelong inquiry. Evan faces mortality with same curiosity he brought to life. The question 'What am I?' transforms into 'What dies?' Shows how lifetime of uncertainty practice prepares for ultimate uncertainty. Family continues the questioning tradition.",
+  "philosophical_underpinning": "Death as final form of the question we've been asking all along",
+  "therapeutic_direction": "Dying as completion of questioning rather than failure to find answers"
+}
