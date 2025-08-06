@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 221,
+    "title": "Words for the Wordless",
+    "characters": ["evan", "architect"],
+    "location": "therapy_room",
+    "emotional_tone": "vulnerable articulation",
+    "psychological_theme": "struggling to translate the ineffable",
+    "philosophical_depth": "language at the edge of experience"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "grounded but changed",
+      "context": "attempting to share the journey",
+      "text": "*searching for words, hands gesturing at invisible shapes* I... I need to tell you what happened. But it's like trying to describe color to someone who's never seen.",
+      "tone": "frustrated wonder"
+    },
+    {
+      "character": "architect", 
+      "state": "fully present",
+      "context": "creating space for the impossible",
+      "text": "*leaning forward slightly* Try anyway. Sometimes the failures of language are more revealing than its successes.",
+      "tone": "encouraging patience"
+    },
+    {
+      "character": "evan",
+      "state": "surrendering to inadequacy",
+      "context": "accepting linguistic limits",
+      "text": "*exhaling deeply* There was a door. No—there was the idea of a door. Or maybe I was the door? God, see? The words just... break.",
+      "tone": "exasperated revelation"
+    }
+  ],
+  "visual_elements": {
+    "evan_body": "Hands sculpting air, trying to give form to formlessness",
+    "architect_presence": "Solid anchor in ordinary reality",
+    "room_quality": "Slightly shimmering at edges, reality still settling",
+    "atmosphere": "Charged with unspoken understanding"
+  },
+  "psychological_notes": "The return to ordinary consciousness brings the challenge of translation. Evan experiences the fundamental inadequacy of language when facing transcendent experience. The architect's invitation to 'try anyway' validates both the experience and the struggle to communicate it.",
+  "philosophical_underpinning": "Some truths exist beyond language; their incommunicability is part of their nature",
+  "therapeutic_direction": "Supporting the client through integration, honoring what cannot be said"
+}

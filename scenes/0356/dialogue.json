@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 356,
+    "title": "Dance Partner",
+    "characters": ["evan"],
+    "location": "evening_park",
+    "emotional_tone": "graceful acceptance",
+    "psychological_theme": "partnership with uncertainty",
+    "philosophical_depth": "existence as dance"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "walking by pond",
+      "context": "reflection on transformed relationship",
+      "text": "The question has become my teacher, my companion, my dance partner in the ballroom of consciousness."
+    }
+  ],
+  "visual_elements": {
+    "setting": "Evening park, pond with reflections",
+    "evan_movement": "Walking with dance-like quality",
+    "water_imagery": "Multiple selves in ripples",
+    "metaphorical_overlay": "Park as ballroom, walking as dancing"
+  },
+  "psychological_notes": "Complete transformation of relationship with existential questioning. From adversarial to collaborative, from problem to partnership. The dance metaphor captures the dynamic, reciprocal nature of conscious engagement with mystery. Evan has learned to move with rather than against uncertainty.",
+  "philosophical_underpinning": "Consciousness as collaborative dance with its own questioning",
+  "therapeutic_direction": "Full integration—question as life-long companion rather than problem to solve"
+}

@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 358,
+    "title": "Fluid Creation",
+    "characters": ["evan"],
+    "location": "morning_apartment",
+    "emotional_tone": "peaceful understanding",
+    "psychological_theme": "identity as creation not discovery",
+    "philosophical_depth": "self as verb not noun"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "morning reflection",
+      "context": "making breakfast, watching dust motes",
+      "text": "I used to think finding myself meant discovering something fixed. Now I know it means creating something fluid."
+    }
+  ],
+  "visual_elements": {
+    "morning_light": "Streaming through window",
+    "dust_motes": "Dancing in air, metaphor for identity",
+    "breakfast_preparation": "Eggs transforming from liquid to solid",
+    "atmosphere": "Peaceful domesticity with philosophical depth"
+  },
+  "psychological_notes": "Fundamental shift in self-concept—from seeking fixed identity to embracing fluid creation. This represents mature understanding that identity is ongoing creative act rather than archaeological discovery. Full acceptance of self as process.",
+  "philosophical_underpinning": "Being as becoming, identity as continuous creation",
+  "therapeutic_direction": "Complete reframe of identity quest from discovery to creation"
+}
