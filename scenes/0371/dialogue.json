@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 371,
+    "title": "The Curious Observer",
+    "characters": ["evan", "friend_sarah"],
+    "location": "dinner_conversation_depth",
+    "emotional_tone": "gentle exploration",
+    "psychological_theme": "identity as unfolding story",
+    "philosophical_depth": "observation without intervention"
+  },
+  "dialogue": [
+    {
+      "character": "friend_sarah",
+      "state": "intrigued confusion",
+      "context": "processing Evan's statement",
+      "text": "*leaning forward* But don't you want to... improve? Grow? Become better? How can you just... stop trying?",
+      "tone": "concerned curiosity"
+    },
+    {
+      "character": "evan",
+      "state": "thoughtful response",
+      "context": "clarifying the shift",
+      "text": "*gentle smile* I haven't stopped growing. I've stopped forcing it. *pause* Like watching a plant—you can't make it grow faster by pulling on it. I'm learning to be the gardener who waters and watches, curious about what emerges.",
+      "tone": "patient explanation"
+    }
+  ],
+  "visual_elements": {
+    "table_dynamics": "Friends leaning in, engaged",
+    "sarah_gestures": "Hands expressing confusion and interest",
+    "evan_stillness": "Calm presence amid questions",
+    "candlelight": "Soft illumination of faces"
+  },
+  "psychological_notes": "Sarah represents common cultural assumption that growth requires effortful self-improvement. Evan's gardener metaphor reframes growth from active forcing to supportive witnessing. He hasn't abandoned development but released desperate manipulation of it.",
+  "philosophical_underpinning": "Wu wei—action through non-action, growth through allowance",
+  "therapeutic_direction": "Post-therapeutic wisdom being tested in social context"
+}
