@@ -1,0 +1,34 @@
+{
+  "scene_metadata": {
+    "scene_number": 180,
+    "title": "The Control Paradox",
+    "characters": ["evan", "voice"],
+    "location": "hypnotic_split_reality",
+    "emotional_tone": "vulnerable defensiveness",
+    "psychological_theme": "control as trauma response",
+    "philosophical_depth": "the futility of preventing suffering",
+    "panel_count": 2
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "still lying, responding to the voice",
+      "text": "But I want to prevent my own suffering — and my loved ones."
+    }
+  ],
+  "visual_elements": {
+    "panel_1": {
+      "description": "The trolley in cosmic space, Evan as passenger on rails through stars",
+      "symbolism": "life's trajectory beyond control"
+    },
+    "panel_2": {
+      "description": "Evan lying in hypnosis, speaking upward to unseen presence",
+      "symbolism": "the vulnerable admission"
+    },
+    "environment": "split between cosmic journey and earthly vulnerability",
+    "lighting": "starlight in space, soft therapeutic light on Evan"
+  },
+  "psychological_notes": "Evan's response reveals the core wound: the belief that sufficient control can prevent suffering. This is the hypervigilance of trauma - the exhausting attempt to manage all variables to avoid pain. His inclusion of 'loved ones' shows how this extends beyond self-protection.",
+  "philosophical_underpinning": "The Buddhist first noble truth inverted - not 'life contains suffering' but 'I must prevent all suffering'",
+  "therapeutic_direction": "Identifying control as defensive strategy rather than effective protection"
+}

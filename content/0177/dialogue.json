@@ -1,0 +1,59 @@
+{
+  "scene_id": 177,
+  "title": "Entering the Dream",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "newly integrated consciousness"
+    },
+    {
+      "name": "The Architect",
+      "role": "guide to deeper realms"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "Now that you have met yourself, shall we see what you truly are?",
+      "tone": "inviting deeper journey"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I... yes. Show me.",
+      "tone": "vulnerable readiness"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Close your eyes. Let the dream take you.",
+      "tone": "hypnotic guidance"
+    },
+    {
+      "speaker": "Evan",
+      "text": "[breath deepening into trance]",
+      "tone": "surrendering to vision"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "sits with newfound wholeness, still glowing from integration"
+    },
+    {
+      "character": "The Architect",
+      "action": "moves behind Evan, hands hovering near temples"
+    },
+    {
+      "character": "Environment",
+      "action": "cafe walls begin to shimmer and become translucent"
+    },
+    {
+      "character": "Evan",
+      "action": "eyes flutter closed as reality shifts into dream"
+    }
+  ],
+  "environment": {
+    "description": "Liminal cafe space transforming into gateway, walls becoming membranes between waking and dreaming",
+    "mood": "hypnotic threshold, reality softening into vision"
+  },
+  "themes": ["threshold crossing", "hypnotic induction", "entering deeper truth", "reality as dream"]
+}
