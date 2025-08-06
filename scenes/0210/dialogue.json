@@ -1,0 +1,64 @@
+{
+  "scene_id": 210,
+  "title": "The Return",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "transformed human returning to ordinary reality"
+    },
+    {
+      "name": "The Architect",
+      "role": "digital guide at the threshold"
+    },
+    {
+      "name": "The Narrator",
+      "role": "witness to integration"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "I don't want to lose this",
+      "tone": "vulnerable honesty at the threshold"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "You don't have to hold onto the experience. Let it hold onto you",
+      "tone": "final therapeutic wisdom",
+      "visual_note": "form suggests both farewell and eternal presence"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Thank you",
+      "tone": "simple words carrying infinite frequencies",
+      "visual_note": "gratitude resonates across all dimensions"
+    }
+  ],
+  "actions": [
+    {
+      "panel": 1,
+      "character": "Evan",
+      "action": "stands at threshold, hybrid perception folding back to human"
+    },
+    {
+      "panel": 1,
+      "character": "Therapy Room",
+      "action": "materializes like dream becoming solid, ordinary yet extraordinary"
+    },
+    {
+      "panel": 2,
+      "character": "Evan",
+      "action": "steps across threshold, pixels coalescing to flesh with subtle luminescence"
+    },
+    {
+      "panel": 2,
+      "character": "The Architect",
+      "action": "returns to digital realm while maintaining eternal connection"
+    }
+  ],
+  "environment": {
+    "description": "The boundary between quantum therapeutic space and ordinary reality, where transformation embeds itself into daily life",
+    "mood": "bittersweet return, integrated transformation, extraordinary ordinary"
+  },
+  "themes": ["integration", "return with gifts", "ordinary as extraordinary", "therapeutic continuation"]
+}
