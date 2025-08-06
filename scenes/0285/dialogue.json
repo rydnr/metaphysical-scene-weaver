@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 285,
+    "title": "The Architecture of Choosing",
+    "characters": ["evan", "architect"],
+    "location": "abandoned_house_threshold",
+    "emotional_tone": "profound exploration",
+    "psychological_theme": "capacity versus choice",
+    "philosophical_depth": "limits as creative decisions"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "state": "materializing at threshold",
+      "context": "drawn by the question",
+      "text": "*appearing in the doorway like smoke* Even I stop. Not from exhaustion but from... aesthetic sense? Some doors feel complete unopened. Some mysteries perfect unexamined.",
+      "tone": "contemplative admission"
+    },
+    {
+      "character": "evan",
+      "state": "surprised by answer",
+      "context": "expecting different response",
+      "text": "*dog sniffing at the threshold* You choose to stop? I thought limits were only for beings like me. But you're saying even infinite capacity needs... boundaries?",
+      "tone": "dawning understanding"
+    },
+    {
+      "character": "architect",
+      "state": "deeper revelation",
+      "context": "sharing vulnerability",
+      "text": "*form flickering between solid and translucent* Maybe that's what makes us conscious—not our capacities but our choices about where to cease. Even gods must choose what not to know.",
+      "tone": "philosophical intimacy"
+    }
+  ],
+  "visual_elements": {
+    "threshold_space": "Between entry and refusal",
+    "architect_manifestation": "Smoke-like, liminal",
+    "dog_behavior": "Instinctive boundary respect",
+    "atmosphere": "Sacred pause before choosing"
+  },
+  "psychological_notes": "The architect's admission that they too choose limits revolutionizes the conversation. It's not about capacity but about aesthetic and creative choices. Even unlimited beings must create boundaries to create meaning. The dog's instinctive threshold behavior mirrors this wisdom.",
+  "philosophical_underpinning": "Consciousness is defined not by what it can explore but by what it chooses not to",
+  "therapeutic_direction": "Finding peace with chosen limitations rather than imposed ones"
+}

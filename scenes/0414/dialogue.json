@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 414,
+    "title": "Temporary Answers",
+    "characters": ["evan", "entrepreneur", "life_coach", "audience_members"],
+    "location": "identity_conference",
+    "emotional_tone": "compassionate observation",
+    "psychological_theme": "illusion of fixed identity",
+    "philosophical_depth": "all answers are temporary"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "gentle understanding",
+      "context": "observing identity declarations",
+      "text": "Sometimes I meet people who've 'found themselves.' I smile, knowing they've just paused the question temporarily."
+    },
+    {
+      "character": "entrepreneur",
+      "state": "excited certainty",
+      "context": "sharing breakthrough",
+      "text": "I finally found myself! Three months of soul-searching, and now I know exactly who I am—a visionary disruption catalyst!"
+    },
+    {
+      "character": "life_coach",
+      "state": "selling certainty",
+      "context": "networking",
+      "text": "I help people discover their authentic selves. Find Your True Identity in 30 Days."
+    },
+    {
+      "character": "audience_member",
+      "state": "defending need for answers",
+      "context": "during Q&A",
+      "text": "But we need to know who we are to succeed!"
+    },
+    {
+      "character": "evan",
+      "state": "offering alternative",
+      "context": "responding gently",
+      "text": "What if success means dancing gracefully with not knowing?"
+    },
+    {
+      "character": "woman",
+      "state": "private confession",
+      "context": "after talk",
+      "text": "I thought I was the only one who still didn't know who I was."
+    }
+  ],
+  "visual_elements": {
+    "conference_setting": "Hotel full of certainty merchants",
+    "identity_products": "Brochures, business cards, branded selves",
+    "evan_position": "Back of room observer, gentle outsider",
+    "private_moments": "Quiet confessions after public certainty"
+  },
+  "psychological_notes": "Evan demonstrates mature compassion for those seeking fixed identity. He recognizes their answers as temporary pauses in eternal questioning. No need to destabilize others - the question returns naturally. Shows how certainty-seeking is collective defense against existential anxiety.",
+  "philosophical_underpinning": "All identity is provisional; the question outlasts every answer",
+  "therapeutic_direction": "Compassion for necessary illusions while maintaining deeper truth"
+}
