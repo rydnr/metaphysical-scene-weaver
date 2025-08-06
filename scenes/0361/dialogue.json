@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 361,
+    "title": "The First Teaching",
+    "characters": ["evan", "stranger"],
+    "location": "park_bench_communion",
+    "emotional_tone": "tentative hope",
+    "psychological_theme": "wisdom transmission beginning",
+    "philosophical_depth": "suffering transformed to teaching"
+  },
+  "dialogue": [
+    {
+      "character": "stranger",
+      "state": "looking up",
+      "context": "desperate for any help",
+      "text": "*eyes red* Better than the answer? *bitter laugh* I'd take anything better than this hell. What... what did you learn?",
+      "tone": "fragile openness"
+    },
+    {
+      "character": "evan",
+      "state": "choosing words carefully",
+      "context": "first attempt at teaching",
+      "text": "*looking at the pond* See how the water holds the moon's reflection without trying to become the moon? *turning to stranger* I learned to hold the question like that. Not answering it, not fighting it. Just... holding it. Dancing with it.",
+      "tone": "metaphorical offering"
+    }
+  ],
+  "visual_elements": {
+    "moon_reflection": "Perfect circle in rippling water",
+    "dual_attention": "Evan watching both pond and stranger",
+    "body_language_shift": "Stranger's posture slightly opening",
+    "evening_deepening": "Light fading but moon brightening"
+  },
+  "psychological_notes": "Evan uses metaphor rather than direct instruction, allowing the stranger to find their own understanding. The pond/moon image provides concrete visualization for abstract concept. Stranger's bitter laugh shows pain but willingness to listen indicates hope.",
+  "philosophical_underpinning": "Teaching through image rather than explanation",
+  "therapeutic_direction": "Natural pedagogy emerging from lived experience"
+}

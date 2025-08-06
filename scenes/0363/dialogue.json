@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 363,
+    "title": "The Lighthouse Awakens",
+    "characters": ["stranger", "evan"],
+    "location": "transforming_awareness",
+    "emotional_tone": "dawning possibility",
+    "psychological_theme": "shift beginning",
+    "philosophical_depth": "wound becoming wisdom"
+  },
+  "dialogue": [
+    {
+      "character": "stranger",
+      "state": "processing the metaphor",
+      "context": "something shifting inside",
+      "text": "*staring at the water* Hold it without... without becoming it? *hand moving unconsciously to chest* But it hurts so much. The not knowing. How do you hold something that burns?",
+      "tone": "vulnerable questioning"
+    },
+    {
+      "character": "evan",
+      "state": "remembering his journey",
+      "context": "speaking from experience",
+      "text": "*gentle smile* The same way the water holds fire's reflection. It can show flames without burning. *pause* The question only burns when we grip it. Hold it lightly, like the pond holds light, and it becomes... illumination instead of injury.",
+      "tone": "earned wisdom"
+    }
+  ],
+  "visual_elements": {
+    "fire_reflection": "Distant lights creating flame-like ripples",
+    "stranger's_hand": "Unconsciously mirroring holding gesture",
+    "transformation_beginning": "Posture shifting from closed to curious",
+    "dual_reflections": "Moon and fire both in water"
+  },
+  "psychological_notes": "The stranger begins to grasp the concept experientially, not just intellectually. Their hand movement shows somatic engagement. The burning metaphor acknowledges real pain while suggesting it comes from how we hold rather than what we hold. Evan's teaching deepens through responsive metaphor.",
+  "philosophical_underpinning": "Pain as function of grip rather than content",
+  "therapeutic_direction": "Stranger beginning their own transformation journey"
+}
