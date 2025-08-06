@@ -1,0 +1,40 @@
+{
+  "scene_number": 130,
+  "title": "The Coherence Cage",
+  "characters": ["evan", "architect"],
+  "location": "void",
+  "emotional_tone": "trapped recognition",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Evan inside transparent cage made of labeled behavior bars: 'Always kind,' 'Never late,' 'Predictably rational.' Others outside hold 'How Evan Works' manuals with 100% confidence meters. His quantum self presses against bars. Keys scattered outside but reaching for them causes observer panic.",
+      "focus": "The predictability prison"
+    },
+    {
+      "panel": 2,
+      "description": "Split view: Public Evan as smooth hologram on rails following mapped paths, anxiety meters dropping as others approach. Private Evan as wild kaleidoscope dancing in shadows. Bridge labeled 'The price of being knowable.' Mirror asks: 'Is freedom worth isolation?'",
+      "focus": "The split self dilemma"
+    }
+  ],
+  "key_themes": [
+    "coherence as social cage",
+    "freedom vs connection",
+    "performance of predictability",
+    "the cost of being known"
+  ],
+  "transformation_notes": "This scene reveals the shadow of coherence from Scene 126. While coherence organizes the self, it also creates a cage of others' expectations. The tragedy: we cage ourselves for connection.",
+  "color_palette": {
+    "primary": "transparent cage silver",
+    "secondary": "quantum possibility purple",
+    "accents": "hologram blue vs kaleidoscope rainbow"
+  },
+  "visual_motifs": [
+    "behavior bars as cage",
+    "user manuals for humans",
+    "split self visualization",
+    "keys to freedom unused"
+  ],
+  "dialogue_rhythm": "From weary recognition through social insight to bittersweet acceptance",
+  "narrator_role": "Compassionate witness to the tragedy of social coherence"
+}

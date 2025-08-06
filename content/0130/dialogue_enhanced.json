@@ -1,0 +1,48 @@
+{
+  "scene_number": 130,
+  "title": "The Coherence Cage",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*looking at the bars of his own making* Every time I'm predictable, another bar appears. 'Always kind'—click. 'Never late'—click. 'Rationally consistent'—click.",
+      "tone": "weary recognition",
+      "context": "Seeing how coherence becomes confinement"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I usually think coherence makes me less free. But it serves a purpose for others: if they see me as coherent, they can feel confident about their ability to understand my behavior.",
+      "tone": "bittersweet insight",
+      "context": "Understanding the social contract"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*observing from outside* They're holding user manuals—'How Evan Works, Version 2.0.' Their anxiety drops when you follow the script.",
+      "tone": "clinical observation",
+      "context": "Noting the comfort others find in predictability"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*pressing against bars* But inside, I'm quantum—contradictory, wild, containing multitudes. The moment I show that, their confidence shatters. I become 'difficult,' 'unpredictable,' 'changed.'",
+      "tone": "frustrated longing",
+      "context": "Feeling the cost of authenticity"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*pointing to the keys outside* You could unlock it anytime. But look at their faces when you reach for a key—the panic, the betrayal. 'That's not the Evan I know!'",
+      "tone": "revealing the trap",
+      "context": "Showing the social cost of freedom"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*hand dropping from the bars* So I perform coherence. Not for me, but for them. The price of being knowable is being caged by what's known.",
+      "tone": "accepting paradox",
+      "context": "Choosing connection over freedom"
+    }
+  ],
+  "scene_context": "After discovering coherence as organizing principle (Scene 126), Evan now confronts its shadow: how being understandably coherent to others creates a prison of predictability that constrains authentic expression.",
+  "philosophical_theme": "the social cost of coherence",
+  "visual_progression": {
+    "panel_1": "Evan in transparent cage of consistent behaviors while others hold user manuals, his quantum self pressing against predictable bars",
+    "panel_2": "Split view of public hologram (predictable) vs private kaleidoscope (free), showing the price of being knowable"
+  }
+}
