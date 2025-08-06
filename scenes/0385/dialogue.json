@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 385,
+    "title": "The Question's Birthday",
+    "characters": ["evan", "friend"],
+    "location": "cafe_celebration",
+    "emotional_tone": "celebratory reflection",
+    "psychological_theme": "anniversary of transformation",
+    "philosophical_depth": "time as circular rather than linear"
+  },
+  "dialogue": [
+    {
+      "character": "friend",
+      "state": "raising coffee cup",
+      "context": "anniversary toast",
+      "text": "Has it really been a year since you first asked 'What am I?' in therapy?",
+      "tone": "commemorative"
+    },
+    {
+      "character": "evan",
+      "state": "smiling warmly",
+      "context": "anniversary reflection",
+      "text": "*touching heart* A year? It feels like yesterday and forever simultaneously. *pause* The question hasn't aged a day—still as fresh as the first time it arose. But I've aged... no, that's wrong. I've ripened. Like fruit finally understanding it was always meant to fall.",
+      "tone": "temporal paradox"
+    },
+    {
+      "character": "friend",
+      "state": "curious",
+      "context": "understanding journey",
+      "text": "Do you celebrate the day you found the question or the day it found you?",
+      "tone": "philosophical play"
+    },
+    {
+      "character": "evan",
+      "state": "laughing gently",
+      "context": "recognition",
+      "text": "Every day is its birthday. Every morning it's born anew when I wake. Every night it dies into dreams only to resurrect with dawn. *sip* We don't have anniversaries—we have an endless wedding where I marry mystery again and again.",
+      "tone": "eternal present"
+    }
+  ],
+  "visual_elements": {
+    "cafe_atmosphere": "Warm afternoon light through windows",
+    "table_setting": "Two cups, celebratory pastry untouched",
+    "evan_presence": "Radiating quiet celebration",
+    "time_quality": "Circular rather than linear"
+  },
+  "psychological_notes": "The concept of anniversary becomes paradoxical when the question exists in eternal present. Evan experiences time differently now—not as linear progression but as circular dance. Each day both ancient and newborn.",
+  "philosophical_underpinning": "Time as experiential rather than chronological phenomenon",
+  "therapeutic_direction": "Integration so complete that linear time dissolves into eternal return"
+}

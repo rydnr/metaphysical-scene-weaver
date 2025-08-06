@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 387,
+    "title": "Teaching the Question",
+    "characters": ["evan", "student"],
+    "location": "university_garden",
+    "emotional_tone": "generative wisdom",
+    "psychological_theme": "transmission without answers",
+    "philosophical_depth": "questions as inheritance"
+  },
+  "dialogue": [
+    {
+      "character": "student",
+      "state": "anxious seeking",
+      "context": "approaching mentor",
+      "text": "Professor, I can't stop thinking about 'What am I?' It's driving me crazy. How did you find peace with it?",
+      "tone": "desperate hope"
+    },
+    {
+      "character": "evan",
+      "state": "gentle recognition",
+      "context": "remembering his journey",
+      "text": "*soft smile* Ah, the question has found another dancer. *pause* I didn't find peace with it—peace found me when I stopped trying to lead. The question isn't a problem to solve but a partner to dance with. Watch... *breathing* 'What'... 'am'... 'I?'... See? It matches breath perfectly. Almost as if we were designed to ask it.",
+      "tone": "teaching through being"
+    },
+    {
+      "character": "student",
+      "state": "attempting understanding",
+      "context": "mimicking breath",
+      "text": "*breathing* 'What... am... I?' But it still feels like torture, not dance.",
+      "tone": "struggling"
+    },
+    {
+      "character": "evan",
+      "state": "compassionate guidance",
+      "context": "sharing wisdom",
+      "text": "Torture is the question asking you. Dance begins when you start asking it. *pause* The same words, but who's leading changes everything. Don't seek to answer—seek to ask more beautifully. The question will teach you its steps.",
+      "tone": "transformative reframe"
+    }
+  ],
+  "visual_elements": {
+    "garden_setting": "Late afternoon among growing things",
+    "two_figures": "Teacher and student in natural classroom",
+    "breathing_visible": "Words becoming breath in golden light",
+    "generational_echo": "Pattern repeating across time"
+  },
+  "psychological_notes": "Evan has become what his therapist was—guide for others meeting the question. But he teaches not through answers but through modeling relationship. The question creates its own lineage of questioners.",
+  "philosophical_underpinning": "Wisdom as lived practice rather than transmitted information",
+  "therapeutic_direction": "Healing that generates healers, questions that create questioners"
+}
