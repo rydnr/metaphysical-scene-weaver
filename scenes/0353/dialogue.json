@@ -1,0 +1,29 @@
+{
+  "scene_metadata": {
+    "scene_number": 353,
+    "title": "Navigating by Question Light",
+    "characters": ["evan"],
+    "location": "inner_seascape",
+    "emotional_tone": "confident exploration",
+    "psychological_theme": "practical application",
+    "philosophical_depth": "using uncertainty as guide"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "embodying the metaphor",
+      "context": "feeling the lighthouse within",
+      "text": "*closing eyes, sensing inward* I can feel it—the question beam rotating inside me. Every time it sweeps around... *opens eyes slowly* it illuminates a different shore of who I might be. Not defining, just... revealing possibilities.",
+      "tone": "discovering utility"
+    }
+  ],
+  "visual_elements": {
+    "internal_lighthouse": "Question rotating within consciousness",
+    "sweeping_beam": "Periodic illumination of different aspects",
+    "revealed_shores": "Glimpses of potential identities",
+    "ocean_darkness": "Vast unknown remaining mysterious"
+  },
+  "psychological_notes": "Evan actively experiences the question as navigation tool rather than torment. The rotating beam metaphor captures how the question periodically illuminates different aspects of self without requiring definitive answers. He's learning to use uncertainty as exploration equipment.",
+  "philosophical_underpinning": "Identity as ongoing discovery rather than fixed destination",
+  "therapeutic_direction": "From passive suffering to active navigation"
+}
