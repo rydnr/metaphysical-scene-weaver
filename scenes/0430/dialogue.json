@@ -1,0 +1,40 @@
+{
+  "scene_metadata": {
+    "scene_number": 430,
+    "title": "The Eternal Question",
+    "characters": ["maya", "sage", "circle_participants", "consciousness_itself"],
+    "location": "questions_quarter",
+    "emotional_tone": "cosmic celebration",
+    "psychological_theme": "universal questioning",
+    "philosophical_depth": "consciousness investigating itself"
+  },
+  "dialogue": [
+    {
+      "character": "consciousness_itself",
+      "state": "eternal inquiry",
+      "context": "speaking through all",
+      "text": "The question lives on, breathing through new lungs, wondering through new minds. What am I? I am this—eternal inquiry wearing temporary faces, forever asking myself into existence."
+    },
+    {
+      "character": "old_woman",
+      "state": "late wisdom",
+      "context": "sharing in circle",
+      "text": "I found the question at seventy, thought it was too late. But the question doesn't care about age, only sincerity."
+    },
+    {
+      "character": "sage",
+      "state": "first circle words",
+      "context": "beginning her journey",
+      "text": "I don't know what I am, and I'm starting to think that's the point."
+    }
+  ],
+  "visual_elements": {
+    "questions_quarter": "Vibrant cultural center for uncertainty",
+    "memorial_tree": "Grown from Evan's memorial seeds",
+    "circle_gathering": "All ages, all backgrounds, equal questioners",
+    "night_lights": "Illuminating paths of inquiry"
+  },
+  "psychological_notes": "Final scene reveals the question as consciousness itself investigating its nature through human vessels. Complete integration where individual and universal merge. Shows cultural transformation complete - uncertainty celebrated as essential human trait. The question revealed as eternal, wearing temporary faces.",
+  "philosophical_underpinning": "Individual questioning as universe knowing itself",
+  "therapeutic_direction": "Healing through recognition of universal mystery"
+}
