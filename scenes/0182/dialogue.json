@@ -1,0 +1,38 @@
+{
+  "scene_metadata": {
+    "scene_number": 182,
+    "title": "Healing Over Protection",
+    "characters": ["voice"],
+    "location": "hypnotic_space",
+    "emotional_tone": "compassionate revelation",
+    "psychological_theme": "protection vs healing paradigm shift",
+    "philosophical_depth": "the insufficiency of armor against existential wounds",
+    "panel_count": 3
+  },
+  "dialogue": [
+    {
+      "character": "voice",
+      "delivery": "gentle but firm wisdom",
+      "text": "Since then, you've tried hard to protect yourself no matter what. But you need healing, not protection. And emotional healing comes from the love and support of others."
+    }
+  ],
+  "visual_elements": {
+    "panel_1": {
+      "description": "Abstract representation of childhood walls/armor",
+      "focus": "protection as prison"
+    },
+    "panel_2": {
+      "description": "The armor cracking, light seeping through",
+      "focus": "vulnerability as doorway"
+    },
+    "panel_3": {
+      "description": "Warm light of connection replacing cold armor",
+      "focus": "healing through relationship"
+    },
+    "voice_visualization": "Warm presence surrounding but not overwhelming",
+    "lighting": "Transition from cold defensive blue to warm healing gold"
+  },
+  "psychological_notes": "The voice identifies the core trauma response: hyperprotection. The profound shift from 'protection' to 'healing' reframes Evan's entire defensive strategy. Protection is solo; healing is relational.",
+  "philosophical_underpinning": "We cannot protect ourselves into wholeness; healing requires the risk of connection",
+  "therapeutic_direction": "Moving from defensive isolation toward vulnerable interdependence"
+}

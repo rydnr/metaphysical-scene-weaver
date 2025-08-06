@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 184,
+    "title": "The Unexpected Turn",
+    "characters": ["evan"],
+    "location": "therapy_room",
+    "emotional_tone": "surprised curiosity",
+    "psychological_theme": "expectations subverted",
+    "philosophical_depth": "wisdom arrives through unexpected doors"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "now sitting up, no longer lying down",
+      "gesture": "surprised expression",
+      "text": "Afterwards, he wanted to talk about something I was not expecting."
+    }
+  ],
+  "visual_elements": {
+    "evan_appearance": "alert, sitting upright, emergence from trance",
+    "posture": "transition from horizontal vulnerability to vertical attention",
+    "environment": "therapy room coming back into focus",
+    "lighting": "normal room lighting replacing hypnotic ambiance"
+  },
+  "psychological_notes": "The surprise indicates Evan's preconceptions about what spiritual/therapeutic experiences 'should' address. The voice defies expectations, suggesting authentic wisdom doesn't follow our scripts.",
+  "philosophical_underpinning": "Truth arrives through the unexpected; our preparations often prepare us for the wrong revelations",
+  "therapeutic_direction": "Opening to unanticipated insights beyond our defensive preparations"
+}
