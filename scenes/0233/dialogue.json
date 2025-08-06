@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 233,
+    "title": "The Memory of Movement",
+    "characters": ["evan", "architect"],
+    "location": "laboratory_transforming_to_theater",
+    "emotional_tone": "transitional understanding",
+    "psychological_theme": "from creation to observation",
+    "philosophical_depth": "witnessing patterns in experience"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "integrating insights",
+      "context": "feeling the weight of realization",
+      "text": "*wiping eyes, steadier now* I understand about the projects. But what about... everything else? The patterns that keep repeating?",
+      "tone": "seeking deeper"
+    },
+    {
+      "character": "architect",
+      "state": "transitioning spaces",
+      "context": "preparing new teaching",
+      "text": "*laboratory beginning to dim like theater lights* Ah. Now we move from what you create to what you observe. Come—there's something I need to show you.",
+      "tone": "invitational mystery"
+    },
+    {
+      "character": "evan",
+      "state": "following trust",
+      "context": "allowing the journey",
+      "text": "*standing, feeling the space shift* Another transformation? I'm getting used to these...",
+      "tone": "surrendering resistance"
+    }
+  ],
+  "visual_elements": {
+    "space_transition": "Laboratory equipment fading to theater shadows",
+    "lighting_shift": "Bright analysis dimming to projection ambiance",
+    "movement_quality": "From stillness to anticipatory motion",
+    "atmosphere": "Preparing for revelation through observation"
+  },
+  "psychological_notes": "The transition from understanding creative projects to examining life patterns marks a deepening of therapeutic work. Evan's growing comfort with transformation shows integration happening. The shift to theater space suggests moving from active creation to receptive observation.",
+  "philosophical_underpinning": "Understanding requires both doing and witnessing, creating and observing",
+  "therapeutic_direction": "From insight about creation to wisdom about reception"
+}

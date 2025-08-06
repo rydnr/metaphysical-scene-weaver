@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 364,
+    "title": "Morning Dialogue",
+    "characters": ["evan"],
+    "location": "bedroom_dawn",
+    "emotional_tone": "playful anticipation",
+    "psychological_theme": "daily renewal of identity",
+    "philosophical_depth": "being as daily discovery"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "waking with curiosity",
+      "context": "morning ritual transformed",
+      "text": "Every morning the question greets me like an old friend: 'What am I today?' And every morning I answer: 'Let's find out together.'"
+    }
+  ],
+  "visual_elements": {
+    "dawn_light": "Transforming ordinary space",
+    "morning_rituals": "Coffee brewing, daily preparation",
+    "evan_expression": "Peaceful curiosity",
+    "atmosphere": "Fresh possibility"
+  },
+  "psychological_notes": "Complete transformation of relationship with existential questioning. From dread to play, from torment to collaboration. The question now serves as daily renewal rather than persistent problem. Adding 'today' acknowledges fluid identity.",
+  "philosophical_underpinning": "Identity as daily improvisation rather than fixed state",
+  "therapeutic_direction": "Healthy integration—question as partner in daily becoming"
+}

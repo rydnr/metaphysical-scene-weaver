@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 366,
+    "title": "Arrivals as Departures",
+    "characters": ["evan"],
+    "location": "evening_walk_past_spiral",
+    "emotional_tone": "profound acceptance",
+    "psychological_theme": "endless journey",
+    "philosophical_depth": "questions birthing questions"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "passing spiral entrance",
+      "context": "reflecting on spiral's teaching",
+      "text": "The spiral taught me that arriving is just another form of departing. Every answer births new questions."
+    }
+  ],
+  "visual_elements": {
+    "spiral_entrance": "Glowing in evening light",
+    "evan_position": "Walking past, not entering",
+    "atmosphere": "Twilight wisdom",
+    "metaphorical_presence": "Spiral consciousness in straight streets"
+  },
+  "psychological_notes": "Deep integration of spiral teaching—understanding that psychological development is endless journey rather than destination. Each insight opens new territories of inquiry. This represents mature acceptance of growth as continuous process.",
+  "philosophical_underpinning": "Knowledge as endless opening rather than closure",
+  "therapeutic_direction": "Acceptance of therapy/growth as ongoing rather than completable"
+}

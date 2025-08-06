@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 235,
+    "title": "Learning to Float",
+    "characters": ["evan", "architect"],
+    "location": "movie_theater",
+    "emotional_tone": "recognition and resistance",
+    "psychological_theme": "seeing patterns versus changing them",
+    "philosophical_depth": "the gap between insight and embodiment"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "watching intently",
+      "context": "absorbing the wave metaphor",
+      "text": "*mesmerized by the screen* I see it. The surrender. But seeing it and doing it... God, why is that gap so wide?",
+      "tone": "frustrated recognition"
+    },
+    {
+      "character": "architect",
+      "state": "compassionate knowing",
+      "context": "preparing deeper truth",
+      "text": "*glancing at the exit* Because you're still trying to swim when you're meant to float. The next film will show you what I mean.",
+      "tone": "gentle guidance"
+    },
+    {
+      "character": "evan",
+      "state": "anticipatory dread",
+      "context": "sensing difficult truth ahead",
+      "text": "*shifting uncomfortably* Another film? I have a feeling I'm not going to like this one...",
+      "tone": "vulnerable honesty"
+    }
+  ],
+  "visual_elements": {
+    "screen_imagery": "Waves continuing their hypnotic dance",
+    "evan_posture": "Leaning forward yet pulling back",
+    "architect_awareness": "Already seeing the next teaching",
+    "atmosphere": "Building tension toward revelation"
+  },
+  "psychological_notes": "Evan recognizes the truth about surrender but confronts the universal human challenge - the gap between understanding and implementation. His discomfort with the coming film suggests an intuitive awareness that deeper, more difficult truths await. The swimming versus floating metaphor captures the difference between effortful resistance and natural acceptance.",
+  "philosophical_underpinning": "Insight alone doesn't create change; embodiment requires facing what we resist seeing",
+  "therapeutic_direction": "Moving from intellectual understanding to visceral recognition"
+}
