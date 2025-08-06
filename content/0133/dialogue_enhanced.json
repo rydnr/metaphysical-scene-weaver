@@ -1,0 +1,60 @@
+{
+  "scene_number": 133,
+  "title": "The Frustration of Understanding",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*pacing in the void* You know what? Maybe it's just a sign of frustration. This whole... *gestures at everything* ...liberation thing.",
+      "tone": "agitated admission",
+      "context": "Post-breakthrough irritability"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I just broke free from my guardian. I saw the cage was self-made. I integrated my fear. And now what? NOW WHAT?",
+      "tone": "mounting frustration",
+      "context": "The anticlimax of enlightenment"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*turning to face an imagined other* And when someone tries to understand me—when they ask 'How are you different now?'—I want to scream.",
+      "tone": "barely contained anger",
+      "context": "Facing the impossibility of explanation"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Because how do I explain that I'm the same but different? That I know the cage was mine but I still feel its bars? That freedom is... exhausting?",
+      "tone": "weary confusion",
+      "context": "The paradox of unchanged change"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*slumping* So I blame them. For 'merely trying to understand.' As if their understanding could ever capture this... mess.",
+      "tone": "bitter self-awareness",
+      "context": "Recognizing the projection"
+    },
+    {
+      "speaker": "Evan",
+      "text": "But really? *laughs darkly* Really, I'm just avoiding the truth.",
+      "tone": "harsh honesty emerging",
+      "context": "The moment before admission"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I don't know whether I want to behave differently. There. I said it. All that insight, all that integration, and I DON'T KNOW if I want to change.",
+      "tone": "raw confession",
+      "context": "The deepest uncertainty revealed"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*sitting in the void* Maybe the guardian wasn't protecting me from others. Maybe it was protecting me from this—from not knowing what to do with freedom.",
+      "tone": "profound uncertainty",
+      "context": "New understanding of the guardian's role"
+    }
+  ],
+  "scene_context": "The messy aftermath of Scene 132's liberation. Evan faces the gap between understanding and change, between insight and action. The frustration of being 'understood' masks deeper uncertainty about whether transformation is even desired.",
+  "philosophical_theme": "The gap between knowing and being",
+  "visual_progression": {
+    "panel_1": "Evan pacing frantically in void, ghost images of broken guardian armor scattered around, freedom feeling like vertigo",
+    "panel_2": "Evan sitting still in void, surrounded by question marks that morph into blame arrows pointing everywhere and nowhere"
+  }
+}
