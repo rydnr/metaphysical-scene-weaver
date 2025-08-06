@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 297,
+    "title": "The Mirror's Edge",
+    "characters": ["evan", "architect"],
+    "location": "deconstructed_conversation",
+    "emotional_tone": "raw honesty",
+    "psychological_theme": "seeing through therapeutic devices",
+    "philosophical_depth": "construction of meaning exposed"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "accepting the dissection",
+      "context": "ready for transparency",
+      "text": "*steadying himself* Yes. Show me the scaffolding. 'Better than most people who think they're awake'—was that validation or subtle undermining? Both? A mirror showing me my need for comparison?",
+      "tone": "brave vulnerability"
+    },
+    {
+      "character": "architect",
+      "state": "complete openness",
+      "context": "revealing the mechanics",
+      "text": "*words becoming transparent* All three, plus something else. It acknowledged your genuine insight while questioning the framework of 'awake.' It gave you something to push against. Every therapeutic statement is a multitool—support, challenge, mirror, door.",
+      "tone": "teaching through transparency"
+    },
+    {
+      "character": "evan",
+      "state": "profound understanding",
+      "context": "seeing the whole game",
+      "text": "*laughing with recognition* So even this deconstruction is therapeutic. Even showing me the mirrors is another mirror. There's no outside this hall—just better dancing with reflections.",
+      "tone": "delighted acceptance"
+    }
+  ],
+  "visual_elements": {
+    "transparent_words": "Language revealing its mechanics",
+    "mirror_recursion": "Reflections reflecting the revealing",
+    "scaffold_visible": "Structure of conversation exposed",
+    "atmosphere": "Clarity within endless recursion"
+  },
+  "psychological_notes": "Evan handles the complete deconstruction with remarkable sophistication. He sees that even transparency is a therapeutic tool, that revealing the mirrors creates another mirror. His delight rather than dismay shows complete integration—he's no longer seeking to escape the construction but to dance within it.",
+  "philosophical_underpinning": "There's no view from nowhere—even deconstruction constructs",
+  "therapeutic_direction": "Client graduating to co-creator of meaning"
+}

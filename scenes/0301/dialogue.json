@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 301,
+    "title": "The Willing Subject",
+    "characters": ["evan", "architect"],
+    "location": "consciousness_laboratory",
+    "emotional_tone": "fascinated participation",
+    "psychological_theme": "subject becoming co-researcher",
+    "philosophical_depth": "observation changing the observed"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "embracing the experiment",
+      "context": "becoming conscious participant",
+      "text": "*eyes bright with understanding* So I'm your lab rat in the maze of meaning. Except... *grinning* I can see the maze from above while running it. That changes everything, doesn't it?",
+      "tone": "delighted complicity"
+    },
+    {
+      "character": "architect",
+      "state": "acknowledging the shift",
+      "context": "recognizing elevated dynamics",
+      "text": "*laboratory transforming* It changes the experiment entirely. A conscious subject isn't just observed—they become co-observer. You're simultaneously the particle and the physicist watching the particle. The maze and the maze-designer.",
+      "tone": "excited recognition"
+    },
+    {
+      "character": "evan",
+      "state": "full participation",
+      "context": "claiming researcher role",
+      "text": "*examining his own responses* Then let's run better experiments together. What happens when the subject helps design the stimuli? When consciousness studies itself consciously studying itself?",
+      "tone": "collaborative curiosity"
+    }
+  ],
+  "visual_elements": {
+    "laboratory_maze": "Transparent walls showing multiple perspectives",
+    "dual_position": "Evan simultaneously in and above the maze",
+    "observation_tools": "Shared between both figures",
+    "atmosphere": "Playful scientific collaboration"
+  },
+  "psychological_notes": "Evan transforms potential objectification into empowered collaboration. By embracing his role as 'lab rat' while simultaneously claiming observer status, he transcends the subject-object divide. His proposal to help design the experiments represents the highest form of therapeutic alliance—conscious co-creation of transformative experiences.",
+  "philosophical_underpinning": "The observer effect in consciousness—awareness transforms what it observes",
+  "therapeutic_direction": "Client and therapist as co-researchers in consciousness"
+}
