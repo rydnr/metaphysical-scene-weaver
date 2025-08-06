@@ -1,0 +1,29 @@
+{
+  "scene_metadata": {
+    "scene_number": 395,
+    "title": "The Question's Mirror",
+    "characters": ["evan"],
+    "location": "bathroom_mirror",
+    "emotional_tone": "intimate recognition",
+    "psychological_theme": "self meeting self",
+    "philosophical_depth": "reflection reflecting on reflection"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "facing reflection",
+      "context": "morning routine",
+      "text": "*to mirror* What am I? *pause, watching lips form words* No, that's not right. *closer to glass* What are we? The one asking and the one in the mirror—neither more real than the other. *touching glass* Sometimes I think the reflection asks me first, and I'm just echoing back. *slight smile* We take turns being the question and the questioner. This morning, you ask. Tomorrow, I will.",
+      "tone": "mirror dialogue"
+    }
+  ],
+  "visual_elements": {
+    "mirror_surface": "Portal between asker and asked",
+    "evan_doubled": "Two faces questioning each other",
+    "bathroom_ordinary": "Sacred in the mundane",
+    "morning_light": "Revealing dual nature"
+  },
+  "psychological_notes": "The mirror encounter reveals the recursive nature of self-inquiry. Who asks whom? The reflection might be more real than the 'original.' This scene shows complete integration where even daily routines become philosophical exchanges.",
+  "philosophical_underpinning": "Identity as dialogue between observer and observed",
+  "therapeutic_direction": "Integration so complete that every reflection becomes conversation"
+}

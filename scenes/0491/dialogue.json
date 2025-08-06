@@ -1,0 +1,51 @@
+{
+  "scene_number": 491,
+  "title": "The Uncertainty Emergency Room",
+  "dialogue": [
+    {
+      "speaker": "ER Nurse",
+      "text": "*checking vital uncertainties* Patient presenting with acute certainty attack. They've been knowing who they are for three straight hours. We need to act fast.",
+      "tone": "medical urgency",
+      "context": "Emergency admission"
+    },
+    {
+      "speaker": "Dr. Flux",
+      "text": "*examining patient* When did the symptoms start? Were you exposed to any fixed identities? Old photo albums? High school reunions?",
+      "tone": "diagnostic concern",
+      "context": "Medical assessment"
+    },
+    {
+      "speaker": "Patient",
+      "text": "*rigid with certainty* I'm definitely Patricia Henderson, accountant, mother of two, born May 15th... I can't stop knowing who I am!",
+      "tone": "distressed certainty",
+      "context": "Describing symptoms"
+    },
+    {
+      "speaker": "Dr. Flux",
+      "text": "*to nurse* Start an uncertainty IV, stat. And get me 50ccs of liquid paradox. We need to destabilize these certainties before they crystallize further.",
+      "tone": "medical command",
+      "context": "Emergency treatment"
+    },
+    {
+      "speaker": "Nurse",
+      "text": "*administering treatment* The paradox is taking effect. Patient's edges are beginning to soften. Certainty levels dropping to safer ranges.",
+      "tone": "professional monitoring",
+      "context": "Treatment progress"
+    },
+    {
+      "speaker": "Patient",
+      "text": "*relaxing* Oh... oh thank goodness. I can feel myself becoming questionable again. Was I really Patricia? Am I? The relief...",
+      "tone": "grateful release",
+      "context": "Recovery beginning"
+    },
+    {
+      "speaker": "Dr. Flux",
+      "text": "*reassuring* You're going to be fine. We'll keep you for observation, make sure the uncertainty holds. Remember: a little doubt a day keeps the certainty away.",
+      "tone": "medical wisdom",
+      "context": "Post-crisis care"
+    }
+  ],
+  "scene_context": "In a specialized emergency room, medical professionals treat dangerous cases of acute certainty, helping patients return to healthy states of identity fluidity through emergency uncertainty interventions.",
+  "philosophical_theme": "Certainty as medical emergency requiring treatment",
+  "visual_elements": "Medical equipment measuring uncertainty levels, IV drips of liquid paradox, monitors showing identity fluctuation rates"
+}
