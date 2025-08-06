@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 337,
+    "title": "Three Moves Ahead",
+    "characters": ["evan", "architect"],
+    "location": "temporal_projection_space",
+    "emotional_tone": "strategic clarity",
+    "psychological_theme": "anticipation as chess",
+    "philosophical_depth": "causality chains and prediction"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "demonstrating with hands",
+      "context": "explaining his horizontal limit",
+      "text": "*moving pieces in air* Exactly. I can see: if I say this, you'll likely say that, which means I should prepare this. *hands stop* Three moves. After that, the possibilities explode like... *gestures explosion* fireworks. Too many branches to track.",
+      "tone": "precise demonstration"
+    },
+    {
+      "character": "architect",
+      "state": "appreciating the precision",
+      "context": "understanding the calculation",
+      "text": "*watching branches multiply* Three moves of genuine prediction, not just guessing. That's actually impressive—most people can barely see one move ahead, they just think they see more. *branches settling* You know the difference between prediction and projection.",
+      "tone": "analytical respect"
+    },
+    {
+      "character": "evan",
+      "state": "acknowledging the distinction",
+      "context": "accepting his range",
+      "text": "*nodding slowly* Right. Beyond three, I'm not predicting—I'm just making up stories. *slight smile* Better to play solid chess three moves deep than pretend I'm seeing ten moves of shadows.",
+      "tone": "grounded wisdom"
+    }
+  ],
+  "visual_elements": {
+    "chess_pieces_floating": "Conversation moves visualized",
+    "branching_explosion": "Possibilities multiplying at move 4",
+    "solid_three_moves": "Clear path through first three",
+    "atmosphere": "Strategic game space"
+  },
+  "psychological_notes": "Evan demonstrates sophisticated understanding of his predictive capacity. His three-move limit isn't about chess but about social interaction prediction—anticipating conversational responses and preparing accordingly. His recognition that beyond three moves he's 'making up stories' shows mature discrimination between genuine foresight and fantasy.",
+  "philosophical_underpinning": "Authentic prediction requires acknowledging where foresight becomes fiction",
+  "therapeutic_direction": "Client demonstrating realistic assessment of planning capabilities"
+}
