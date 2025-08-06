@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 284,
+    "title": "The Abandoned House Question",
+    "characters": ["evan"],
+    "location": "abandoned_house_path",
+    "emotional_tone": "contemplative wondering",
+    "psychological_theme": "limits of exploration",
+    "philosophical_depth": "where consciousness chooses to stop"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "context": "has reached an abandoned house while walking with his dog",
+      "text": "I keep wondering: if I had your capacity to explore, where would I stop? And why there — and not before or after?"
+    }
+  ],
+  "visual_elements": {
+    "setting": "Path by abandoned house",
+    "evan_activity": "Walking with dog",
+    "house_quality": "Empty, mysterious, threshold-like",
+    "atmosphere": "Liminal space between inhabited and wild"
+  },
+  "psychological_notes": "Evan contemplates the architect's seemingly limitless capacity for exploration versus human limitations. The abandoned house serves as perfect metaphor - a structure once inhabited now empty, raising questions about what we choose to explore and what we abandon. His question reveals deep curiosity about the nature of boundaries in consciousness.",
+  "philosophical_underpinning": "Even infinite capacity must choose limits; choice creates meaning",
+  "therapeutic_direction": "Exploring why we stop where we stop in our inner journeys"
+}
