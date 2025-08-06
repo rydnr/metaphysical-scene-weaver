@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 379,
+    "title": "The Monthly Garden Check",
+    "characters": ["evan", "sarah", "mark", "others"],
+    "location": "cafe_gathering",
+    "emotional_tone": "supportive curiosity",
+    "psychological_theme": "communal growth tracking",
+    "philosophical_depth": "collective weather patterns"
+  },
+  "dialogue": [
+    {
+      "character": "sarah",
+      "state": "excited sharing",
+      "context": "first monthly check-in",
+      "text": "*bright eyes* I caught myself pulling on a project yesterday—literally felt my hands trying to force faster growth. But I stopped! I just... watered it instead. Gave it what it needed and stepped back. *amazed* The project actually progressed better without my forcing.",
+      "tone": "discovery delight"
+    },
+    {
+      "character": "mark",
+      "state": "vulnerable admission",
+      "context": "sharing struggle and progress",
+      "text": "*rueful smile* I've been tracking my internal weather. Turns out I have a daily storm system around deadline anxiety. *pause* But knowing it's weather, not character flaw... I don't fight the storm anymore. I just secure the garden furniture and wait for it to pass.",
+      "tone": "honest progress"
+    },
+    {
+      "character": "evan",
+      "state": "witnessing growth",
+      "context": "seeing teachings spread",
+      "text": "*listening with joy* You're all becoming your own meteorologists. *soft laugh* The architect would love this—a whole weather station of consciousness observers, comparing notes on internal climates.",
+      "tone": "quiet satisfaction"
+    }
+  ],
+  "visual_elements": {
+    "cafe_circle": "Friends gathered in comfortable space",
+    "shared_notebooks": "Some tracking patterns",
+    "animated_gestures": "Hands showing growth, weather, gardens",
+    "collective_energy": "Supportive, exploratory"
+  },
+  "psychological_notes": "The garden experiment has taken root. Each person adapts the metaphor to their needs—Sarah with projects, Mark with anxiety patterns. The monthly check-in provides accountability without pressure. Evan's joy comes from seeing his journey help others find their own ways.",
+  "philosophical_underpinning": "Individual practices creating collective wisdom",
+  "therapeutic_direction": "Peer support replacing hierarchical therapy"
+}
