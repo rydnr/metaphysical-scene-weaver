@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 436,
+    "title": "Children of Uncertainty",
+    "characters": ["amara", "dr_patel", "mother", "children"],
+    "location": "preschool_near_questions_quarter",
+    "emotional_tone": "playful wisdom",
+    "psychological_theme": "uncertainty as developmental foundation",
+    "philosophical_depth": "mystery as natural birthright"
+  },
+  "dialogue": [
+    {
+      "character": "amara",
+      "state": "five-year-old wisdom",
+      "context": "explaining her spirals",
+      "text": "This is how questions move."
+    },
+    {
+      "character": "narrative_voice",
+      "state": "observing phenomenon",
+      "context": "watching Amara draw",
+      "text": "The child draws spirals on everything—notebooks, walls, sand. When asked why, she says: 'This is how questions move.'"
+    },
+    {
+      "character": "amara",
+      "state": "explaining play",
+      "context": "with her dolls",
+      "text": "They're looking for themselves."
+    },
+    {
+      "character": "amara",
+      "state": "casual profundity",
+      "context": "during snack time",
+      "text": "Mommy says I'm different every day. But also the same. Like the spiral—it goes round but also forward."
+    },
+    {
+      "character": "amara",
+      "state": "future planning",
+      "context": "career aspirations",
+      "text": "When I grow up, I want to be a question helper. Like the people at the spiral garden."
+    },
+    {
+      "character": "amara",
+      "state": "showing mother",
+      "context": "at pickup time",
+      "text": "Look, I made the question bigger today. It needed more room to dance."
+    }
+  ],
+  "visual_elements": {
+    "spiral_drawings": "On every surface",
+    "playground_spiral": "Painted path for Question Tag",
+    "abstract_portraits": "Children drawing identity as process",
+    "interconnected_questions": "Children's collaborative spiral art"
+  },
+  "psychological_notes": "Shows next evolution where children raised with normalized uncertainty from birth demonstrate healthier development. Amara represents generation that never experiences existential crisis because uncertainty integrated from start. Questions as play rather than terror.",
+  "philosophical_underpinning": "Existential uncertainty as natural developmental stage rather than crisis",
+  "therapeutic_direction": "Prevention of existential trauma through early integration"
+}
