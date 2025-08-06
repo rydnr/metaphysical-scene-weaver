@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 347,
+    "title": "Permission to Feel Small",
+    "characters": ["evan", "architect"],
+    "location": "vastness_acknowledgment_space",
+    "emotional_tone": "relieved acceptance",
+    "psychological_theme": "appropriate overwhelm",
+    "philosophical_depth": "honest proportion"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "releasing tension",
+      "context": "accepting overwhelm as truth",
+      "text": "*shoulders dropping* So I'm not failing when I feel tiny and lost. I'm just... accurately perceiving my size? *looking around at infinity* The overwhelm isn't a bug, it's correct data about the scale difference.",
+      "tone": "dawning relief"
+    },
+    {
+      "character": "architect",
+      "state": "affirming truth",
+      "context": "celebrating accuracy",
+      "text": "*vastness shimmering* Exactly. A grain of sand doesn't fail by feeling small on a beach. Your 2x3 map, your functional lies, your careful meanings—they're not diminished by infinity. They're just... proportionate. *gentle nod* The vertigo is wisdom.",
+      "tone": "profound validation"
+    },
+    {
+      "character": "evan",
+      "state": "integrating scales",
+      "context": "finding peace",
+      "text": "*breathing easier* I can be both—carefully mapping my tiny territory AND accurately overwhelmed by the territory I can't map. *slight laugh* It's like being a very competent ant who also understands astronomy.",
+      "tone": "amused acceptance"
+    }
+  ],
+  "visual_elements": {
+    "scale_visualization": "Evan's small bright space in vast darkness",
+    "tension_release": "Physical relaxation visible",
+    "dual_awareness": "Local clarity, cosmic vertigo coexisting",
+    "atmosphere": "Honest proportion accepted"
+  },
+  "psychological_notes": "Evan experiences profound relief at having his overwhelm validated as accurate perception rather than inadequacy. The ant/astronomy metaphor perfectly captures maintaining local competence while acknowledging cosmic scale. His ability to hold both—effectiveness and overwhelm—shows sophisticated integration.",
+  "philosophical_underpinning": "Truth includes accurate perception of one's limits within infinity",
+  "therapeutic_direction": "Client finding peace through accepting accurate emotional responses"
+}

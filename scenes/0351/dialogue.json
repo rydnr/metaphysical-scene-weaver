@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 351,
+    "title": "The Beloved Unknown",
+    "characters": ["evan", "inner_architect"],
+    "location": "transformed_waiting_room",
+    "emotional_tone": "tender completion",
+    "psychological_theme": "integration achieved",
+    "philosophical_depth": "mystery as intimate friend"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "touching the door",
+      "context": "deciding not to enter",
+      "text": "*hand on door handle* I came here desperate for an answer. Now I realize... *turning away* the question was never the problem. My hatred of it was. *soft smile* 'What am I?' Beautiful mystery. My oldest friend.",
+      "tone": "loving recognition"
+    },
+    {
+      "character": "inner_architect",
+      "state": "internalized voice",
+      "context": "speaking from within",
+      "text": "*from inside Evan* You don't need this room anymore. I live in you now—in every moment you catch yourself thinking, every pattern you see coming, every limit you accept with grace. *warm presence* The question remains, but you've learned to dance with it.",
+      "tone": "integrated wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "walking away",
+      "context": "leaving transformed",
+      "text": "*steps becoming lighter* What am I? *laughing gently* I am the one who asks that question with curiosity instead of anguish. The one who maps what can be mapped and loves what can't. *final glance back* Thank you for teaching me to befriend my own mystery.",
+      "tone": "grateful completion"
+    }
+  ],
+  "visual_elements": {
+    "door_unopened": "Threshold no longer needed",
+    "inner_light": "Architect's wisdom internalized",
+    "footsteps_leaving": "Light, dancing quality",
+    "atmosphere": "Graduation ceremony"
+  },
+  "psychological_notes": "Complete therapeutic integration. Evan no longer needs external guidance because he's internalized the architect's wisdom. The question that brought him to therapy—'What am I?'—remains, but his relationship to it has transformed from torment to tender curiosity. He leaves not with answers but with a new way of holding questions.",
+  "philosophical_underpinning": "Wisdom is not solving mystery but learning to love it",
+  "therapeutic_direction": "Client successfully completing therapy through internalization"
+}

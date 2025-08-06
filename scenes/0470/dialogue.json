@@ -1,0 +1,70 @@
+{
+  "scene_metadata": {
+    "scene_number": 470,
+    "title": "Certainty Crisis Intervention",
+    "characters": ["commander_phoenix_lim_nakamura", "dr_river_zeitgeist", "margaret_wu", "marcus_stone", "flux_wu"],
+    "location": "neo_singapore_probability_district",
+    "emotional_tone": "urgent transformation",
+    "psychological_theme": "rigid certainty as crisis",
+    "philosophical_depth": "certainty as reality distortion"
+  },
+  "dialogue": [
+    {
+      "character": "phoenix",
+      "state": "emergency briefing",
+      "context": "in transit",
+      "text": "Subject is Margaret Wu, age 45, visiting from an isolated community that still practices fixed identity. She's having a catalytic reaction to the uncertainty field."
+    },
+    {
+      "character": "margaret",
+      "state": "dangerous certainty",
+      "context": "at epicenter",
+      "text": "Margaret Wu. Accountant. Mother of two. Presbyterian. Born March 15, 2078. Blood type O positive. I know exactly who I am."
+    },
+    {
+      "character": "margaret",
+      "state": "revealing pain",
+      "context": "explaining presence",
+      "text": "My daughter. She lives here now. Changed her name to Flux. Says she's different people on different days. I came to bring her home, but this place... it's wrong."
+    },
+    {
+      "character": "marcus",
+      "state": "certainty survivor",
+      "context": "intervention",
+      "text": "I was you. Marcus Stone, engineer, grandfather. Knew exactly who I was for 73 years. Nearly created a certainty cascade just like this."
+    },
+    {
+      "character": "dr_zeitgeist",
+      "state": "therapeutic opening",
+      "context": "finding crack",
+      "text": "Margaret, what if we try something small? Instead of being Margaret-accountant-mother-Presbyterian, what if you were just Margaret-who-misses-her-daughter?"
+    },
+    {
+      "character": "flux",
+      "state": "daughter arriving",
+      "context": "reunion moment",
+      "text": "I'm your daughter. Always have been. Just more of your daughter than one shape can hold."
+    },
+    {
+      "character": "margaret",
+      "state": "beginning change",
+      "context": "post-intervention",
+      "text": "I still don't understand."
+    },
+    {
+      "character": "flux",
+      "state": "gentle wisdom",
+      "context": "supporting mother",
+      "text": "That's the beginning of understanding."
+    }
+  ],
+  "visual_elements": {
+    "crystallizing_reality": "Space-time hardening around certainty",
+    "frozen_uncertainty": "Fluid art and cafés locked rigid",
+    "mathematical_nature": "Trees and grass in perfect grids",
+    "reality_relaxing": "Return to flowing state"
+  },
+  "psychological_notes": "Certainty as pathology in uncertainty-based society. Reality itself rejects rigid identity. Crisis intervention through gentle expansion rather than forced change. Certainty survivors as peer counselors. Family relationships strained by paradigm differences.",
+  "philosophical_underpinning": "Extreme certainty creates reality distortions—universe requires flexibility",
+  "therapeutic_direction": "Emergency intervention for certainty-induced reality crisis"
+}

@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 349,
+    "title": "Enough to Navigate",
+    "characters": ["evan", "architect"],
+    "location": "practical_wisdom_space",
+    "emotional_tone": "grounded relief",
+    "psychological_theme": "sufficiency for living",
+    "philosophical_depth": "pragmatic enlightenment"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "testing the idea",
+      "context": "considering sufficiency",
+      "text": "*counting on fingers again* Two levels up—enough to catch myself catching myself. Three moves ahead—enough to see the pattern before I repeat it. *looking up* That's... actually enough for most of life, isn't it?",
+      "tone": "practical realization"
+    },
+    {
+      "character": "architect",
+      "state": "confirming wisdom",
+      "context": "validating sufficiency",
+      "text": "*small smile* More than enough. Most people navigate with less and do fine. You're like someone worried they only have a flashlight in a cave, not realizing that's exactly what spelunkers use. *gesture* Total illumination would blind you anyway.",
+      "tone": "matter-of-fact comfort"
+    },
+    {
+      "character": "evan",
+      "state": "settling into limits",
+      "context": "finding peace",
+      "text": "*relaxing fully* So my 2x3 flashlight is perfectly sized for human caves. Bright enough to avoid walls, not so bright I lose the ability to sense beyond the light. *nodding* I've been trying to build stadium lights when I needed a good torch.",
+      "tone": "amused acceptance"
+    }
+  ],
+  "visual_elements": {
+    "flashlight_beam": "Modest but sufficient illumination",
+    "cave_navigation": "Clear path through darkness",
+    "contrast": "Small light, effective movement",
+    "atmosphere": "Practical functionality"
+  },
+  "psychological_notes": "Evan shifts from seeing his limits as inadequate to recognizing them as perfectly calibrated for human life. The flashlight metaphor transforms his 2x3 capacity from limitation to appropriate tool. His physical relaxation shows somatic integration of 'enough-ness.'",
+  "philosophical_underpinning": "Wisdom lies in recognizing sufficiency rather than seeking totality",
+  "therapeutic_direction": "Client accepting their capacities as well-suited for actual living"
+}
