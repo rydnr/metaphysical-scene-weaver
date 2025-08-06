@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 331,
+    "title": "Playing the Hand We're Dealt",
+    "characters": ["evan", "architect"],
+    "location": "metaphorical_card_table",
+    "emotional_tone": "philosophical acceptance",
+    "psychological_theme": "working with what we have",
+    "philosophical_depth": "the game of consciousness"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "looking at metaphorical cards",
+      "context": "accepting the metaphor",
+      "text": "*studying his hand* Yeah, exactly. Two vertical, three horizontal—not exactly a royal flush. *half-smile* But you know what? Most people don't even know they're playing. They think they have infinite cards.",
+      "tone": "wise acceptance"
+    },
+    {
+      "character": "architect",
+      "state": "dealing invisible cards",
+      "context": "extending the metaphor",
+      "text": "*shuffling thoughtfully* And that's the real game—not getting better cards, but playing your actual hand brilliantly. You can't bluff consciousness. It knows what you're holding. *cards floating* Better to play a known pair than pretend you have aces.",
+      "tone": "strategic wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "arranging his cards",
+      "context": "finding the pattern",
+      "text": "*placing cards carefully* The tragic part isn't the limit—it's that I can see just enough to know there's more. Like being able to read the backs of cards I can't turn over. But maybe... *pause* maybe that's what makes it beautiful too.",
+      "tone": "bittersweet insight"
+    }
+  ],
+  "visual_elements": {
+    "card_table": "Consciousness as poker game",
+    "evan_cards": "2 and 3 clearly visible",
+    "unturned_cards": "Mysteries at table's edge",
+    "atmosphere": "Honest gameplay"
+  },
+  "psychological_notes": "The card game metaphor allows both participants to discuss limitations playfully yet profoundly. Evan recognizes that most people assume infinite cognitive capacity, while he knows his exact hand. The tragedy/beauty duality captures the human condition—aware enough to see our limits, limited enough to need them.",
+  "philosophical_underpinning": "Consciousness as a game played with finite cards against infinite possibilities",
+  "therapeutic_direction": "Client integrating limitations as features rather than bugs"
+}

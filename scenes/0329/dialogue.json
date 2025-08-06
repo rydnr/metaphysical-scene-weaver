@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 329,
+    "title": "The Comfort of Limits",
+    "characters": ["evan", "architect"],
+    "location": "possibility_space_visualization",
+    "emotional_tone": "finding peace in boundaries",
+    "psychological_theme": "limits as liberation",
+    "philosophical_depth": "freedom through constraint"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "state": "containing the infinite",
+      "context": "responding to overwhelm",
+      "text": "*gently drawing boundaries* But that's why your 2x3 map is brilliant. You're not failing to explore infinity—you're succeeding at being human. *possibilities settling* Look how the overwhelm calms when you accept the frame.",
+      "tone": "compassionate wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "relief washing over",
+      "context": "feeling the boundaries",
+      "text": "*breathing easier* You're right. The moment I stop trying to think about thinking about thinking about thinking... *laughs* Even saying it makes me dizzy. But inside 2x3? I can dance.",
+      "tone": "grateful recognition"
+    },
+    {
+      "character": "architect",
+      "state": "celebrating limitation",
+      "context": "reframing constraint",
+      "text": "*boundaries glowing warmly* Exactly. Infinite possibility isn't freedom—it's paralysis. Real freedom comes from knowing your stage. A fish isn't limited by water; it's freed by it. Your 2x3 isn't a cage—it's your element.",
+      "tone": "liberating insight"
+    }
+  ],
+  "visual_elements": {
+    "infinite_branches": "Gradually contained",
+    "boundary_glow": "Warm, protective light",
+    "evan_transformation": "From overwhelm to relief",
+    "atmosphere": "Infinity becoming manageable"
+  },
+  "psychological_notes": "The scene transforms Evan's overwhelm into appreciation for limits. The architect reframes his 2x3 boundary not as failure but as human-scale success. The fish/water metaphor captures how constraints enable rather than restrict. Evan finds peace in accepting his cognitive 'element.'",
+  "philosophical_underpinning": "True freedom emerges from accepted constraints rather than limitless possibility",
+  "therapeutic_direction": "Client finding liberation through acceptance of natural boundaries"
+}

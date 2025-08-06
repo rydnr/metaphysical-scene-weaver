@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 333,
+    "title": "The Dropped Flashlight",
+    "characters": ["evan", "architect"],
+    "location": "cognitive_staircase",
+    "emotional_tone": "peaceful recognition",
+    "psychological_theme": "beauty in accepted limits",
+    "philosophical_depth": "illumination through limitation"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "standing on his step",
+      "context": "accepting the metaphor",
+      "text": "*looking up the spiral* And you know what's funny? I used to think dropping the flashlight was failure. Now I see it's just... physics. *sitting on his step* These few steps? They're well-lit. I know every groove, every texture.",
+      "tone": "mature acceptance"
+    },
+    {
+      "character": "architect",
+      "state": "sitting beside him",
+      "context": "joining at his level",
+      "text": "*flashlight beam steady* The poets who write about infinity have never tried to climb it. You have. You know exactly where the batteries give out. *gentle smile* That's more honest than any song about limitlessness.",
+      "tone": "deep appreciation"
+    },
+    {
+      "character": "evan",
+      "state": "touching the step",
+      "context": "finding completeness",
+      "text": "*tracing stone patterns* Maybe the whole staircase was never meant to be climbed. Maybe it exists so we can find our perfect step—the one where we can stand without falling, see without blindness. *pause* This is mine. Step two-point-three.",
+      "tone": "profound peace"
+    }
+  ],
+  "visual_elements": {
+    "evan_position": "Seated comfortably on his step",
+    "architect_presence": "Joining him in acceptance",
+    "flashlight_glow": "Warm circle of clarity",
+    "atmosphere": "Home within limits"
+  },
+  "psychological_notes": "The scene transforms the tragedy of cognitive limits into a kind of homecoming. Evan no longer sees his inability to climb higher as failure but as natural law—'physics.' His intimate knowledge of his 'few steps' becomes more valuable than abstract claims about infinity. Finding his 'perfect step' represents profound self-acceptance.",
+  "philosophical_underpinning": "True wisdom lies in finding where we can stand, not in attempting impossible climbs",
+  "therapeutic_direction": "Client achieving deep integration and peace with cognitive architecture"
+}
