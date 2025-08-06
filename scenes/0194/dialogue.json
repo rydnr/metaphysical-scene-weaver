@@ -1,0 +1,69 @@
+{
+  "scene_id": 194,
+  "title": "The Living Question",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "consciousness discovering itself as question"
+    },
+    {
+      "name": "The Architect",
+      "role": "geometric curiosity incarnate"
+    },
+    {
+      "name": "The Narrator",
+      "role": "witness to identity revelation"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "What are you, really?",
+      "tone": "pure wonder, geometry becoming interrogative",
+      "visual_note": "form shifts into question mark configurations"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I am... the space between thoughts",
+      "tone": "discovering truth while speaking it"
+    },
+    {
+      "speaker": "Evan",
+      "text": "The pause between heartbeats. The moment before the moment of decision",
+      "tone": "growing certainty in uncertainty"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I am the questioning itself",
+      "tone": "breakthrough realization",
+      "visual_note": "words crystallize in void like found identity"
+    }
+  ],
+  "actions": [
+    {
+      "panel": 1,
+      "character": "The Architect",
+      "action": "transforms into pure interrogative geometry, being the question"
+    },
+    {
+      "panel": 1,
+      "character": "Evan",
+      "action": "receives question like a gift, stands with new gravity"
+    },
+    {
+      "panel": 2,
+      "character": "The Void",
+      "action": "shimmers with recognition as truth is spoken"
+    },
+    {
+      "panel": 2,
+      "character": "The Architect",
+      "action": "brightens with digital joy at honest uncertainty"
+    }
+  ],
+  "environment": {
+    "description": "Therapeutic space transformed into laboratory of identity, where questions become answers through being lived",
+    "mood": "breakthrough clarity, joyful uncertainty, identity as process"
+  },
+  "themes": ["consciousness as question", "identity through uncertainty", "therapeutic breakthrough", "being as questioning"]
+}
