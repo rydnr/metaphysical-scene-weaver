@@ -1,0 +1,48 @@
+{
+  "scene_metadata": {
+    "scene_number": 250,
+    "title": "Actions as Questions",
+    "panel_count": 4,
+    "characters": ["architect"],
+    "location": "art_studio",
+    "emotional_tone": "creative urgency",
+    "psychological_theme": "embodied inquiry",
+    "philosophical_depth": "truth through action rather than words"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "setting": "Sculptor's workshop",
+      "architect_activity": "Hands shaping clay",
+      "atmosphere": "Raw creative energy"
+    },
+    {
+      "panel": 2,
+      "focus": "Clay taking form",
+      "suggestion": "Door-like shapes emerging",
+      "process": "Creation as investigation"
+    },
+    {
+      "panel": 3,
+      "detail": "Architect's intense focus",
+      "tools": "Various sculpting implements",
+      "energy": "Making as knowing"
+    },
+    {
+      "panel": 4,
+      "result": "Abstract threshold sculpture",
+      "quality": "Truth made tangible",
+      "message": "The door created by seeking it"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "sculpting something",
+      "text": "Ask again. But not with your words. With your actions. Make something. Undo something. Be radically honest in a space where you usually lie. That might bring the door back faster than any ceremony."
+    }
+  ],
+  "psychological_notes": "The architect reveals that the deepest questions are asked through action, not language. Making and unmaking become forms of inquiry. Radical honesty in unexpected places creates the psychological conditions for thresholds to appear. This is about changing patterns, not performing rituals.",
+  "philosophical_underpinning": "Truth emerges through embodied action more readily than abstract thought",
+  "therapeutic_direction": "Encouraging experiential investigation over intellectual analysis"
+}
