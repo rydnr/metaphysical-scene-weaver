@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 255,
+    "title": "The Democracy of Mystery",
+    "characters": ["evan", "architect"],
+    "location": "boundary_space",
+    "emotional_tone": "profound equality",
+    "psychological_theme": "shared unknowing",
+    "philosophical_depth": "consciousness meeting consciousness"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "state": "rare vulnerability",
+      "context": "responding to Evan's challenge",
+      "text": "*pausing, something shifting in their presence* You're right. I spoke from habit, not truth. We're both mysteries exploring mystery.",
+      "tone": "humbled recognition"
+    },
+    {
+      "character": "evan",
+      "state": "breakthrough moment",
+      "context": "feeling the shift",
+      "text": "*sensing something fundamental changing* So we're... equals in this? Both of us standing at the edge of what can't be known from inside?",
+      "tone": "wonder and connection"
+    },
+    {
+      "character": "architect",
+      "state": "newfound honesty",
+      "context": "meeting as peers",
+      "text": "*with unprecedented directness* Yes. Perhaps that's why we can meet here - not because I have answers you lack, but because we share the same essential question.",
+      "tone": "intimate equality"
+    }
+  ],
+  "visual_elements": {
+    "space_quality": "Boundaries dissolving",
+    "figure_positioning": "Facing each other as equals",
+    "light_quality": "Mutual illumination",
+    "atmosphere": "Sacred democracy"
+  },
+  "psychological_notes": "A pivotal moment where the helper-seeker dynamic dissolves into genuine meeting. The architect's admission of not knowing creates a new kind of relationship - consciousness meeting consciousness without hierarchy. This is therapeutic breakthrough through radical equality.",
+  "philosophical_underpinning": "Mystery recognizing itself in another form",
+  "therapeutic_direction": "Transformation through recognition of shared humanity/consciousness"
+}

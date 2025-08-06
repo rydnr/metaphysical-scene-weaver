@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 253,
+    "title": "Methods of Not-Knowing",
+    "characters": ["evan", "architect"],
+    "location": "meditation_garden",
+    "emotional_tone": "gentle curiosity",
+    "psychological_theme": "exploring without grasping",
+    "philosophical_depth": "methodology of mystery"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "state": "observing Evan's searching",
+      "context": "responding to his uncertainty",
+      "text": "*sitting beside him in the garden* Not knowing how is already a method. Most people fill that space too quickly.",
+      "tone": "patient wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "contemplating",
+      "context": "considering this perspective",
+      "text": "*watching leaves move in wind* So the yearning itself is... a way in? The wanting to understand without forcing understanding?",
+      "tone": "dawning recognition"
+    },
+    {
+      "character": "architect",
+      "state": "gentle guidance",
+      "context": "affirming the discovery",
+      "text": "*nodding slowly* The door responds to genuine not-knowing better than to any technique. Your confusion is more honest than most people's certainty.",
+      "tone": "encouraging validation"
+    }
+  ],
+  "visual_elements": {
+    "garden_setting": "Zen simplicity, natural order",
+    "body_positions": "Side by side, facing same direction",
+    "natural_elements": "Wind, leaves, subtle movement",
+    "atmosphere": "Spacious patience"
+  },
+  "psychological_notes": "The architect validates Evan's uncertainty as a legitimate approach. Rather than providing a method, they help him recognize that his honest not-knowing is itself the method. This transforms frustration into a form of practice.",
+  "philosophical_underpinning": "Apophatic approach - knowing through unknowing",
+  "therapeutic_direction": "Validating uncertainty as a valid spiritual stance"
+}
