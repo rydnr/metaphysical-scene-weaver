@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 275,
+    "title": "The Weight of Choosing",
+    "characters": ["evan", "architect"],
+    "location": "metaphorical_vehicle",
+    "emotional_tone": "effortful recognition",
+    "psychological_theme": "freedom as work",
+    "philosophical_depth": "choice requires energy"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "feeling the metaphor physically",
+      "context": "understanding through embodiment",
+      "text": "*flexing his own hands as if gripping a wheel* That's why freedom feels exhausting sometimes. It's not just flowing with randomness—it's actively steering against the current of habit.",
+      "tone": "physical understanding"
+    },
+    {
+      "character": "architect",
+      "state": "acknowledging the effort",
+      "context": "validating the struggle",
+      "text": "*showing the wheel turning gradually* Yes. Every authentic choice requires energy. Default mode is frictionless. Freedom has resistance—that's how you know it's real.",
+      "tone": "affirming wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "deeper realization",
+      "context": "connecting to experience",
+      "text": "*remembering moments of choice* So when I chose to keep questioning instead of accepting easy answers... that resistance I felt wasn't weakness. It was freedom happening.",
+      "tone": "retrospective clarity"
+    }
+  ],
+  "visual_elements": {
+    "embodied_metaphor": "Both feeling the effort of steering",
+    "gradual_movement": "Wheel turning with conscious effort",
+    "shared_recognition": "Understanding freedom's weight",
+    "atmosphere": "Respectful acknowledgment of difficulty"
+  },
+  "psychological_notes": "Evan physically embodies the steering metaphor, understanding freedom through his body. The recognition that exhaustion can signal authentic choice reframes difficulty as evidence of agency. His personal example shows how resistance to easy answers was actually freedom in action.",
+  "philosophical_underpinning": "The effort required by choice validates its authenticity",
+  "therapeutic_direction": "Reframing difficulty and resistance as signs of genuine agency"
+}

@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 402,
+    "title": "The Question Inherits",
+    "characters": ["evan", "maya", "sarah"],
+    "location": "family_home",
+    "emotional_tone": "tender wonder",
+    "psychological_theme": "intergenerational transmission",
+    "philosophical_depth": "mystery as birthright"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "father and teacher",
+      "context": "watching daughter discover consciousness",
+      "text": "Teaching my daughter to question, I see the cycle begin anew. The mystery passes to the next generation."
+    },
+    {
+      "character": "maya",
+      "state": "three-year-old wonder",
+      "context": "discovering her hands",
+      "text": "Daddy, what are these?"
+    },
+    {
+      "character": "evan",
+      "state": "teaching uncertainty",
+      "context": "holding her hand gently",
+      "text": "Nobody really knows what hands are. We know what they do, but what they are is mystery."
+    },
+    {
+      "character": "maya",
+      "state": "philosophical child",
+      "context": "bedtime questioning",
+      "text": "But Daddy, if nobody knows what they are, why do they pretend?"
+    },
+    {
+      "character": "evan",
+      "state": "proud recognition",
+      "context": "appreciating her insight",
+      "text": "That's a beautiful question. Maybe they're scared. Maybe nobody taught them that not knowing is okay."
+    },
+    {
+      "character": "maya",
+      "state": "determined helper",
+      "context": "deciding to act",
+      "text": "We should teach them."
+    }
+  ],
+  "visual_elements": {
+    "domestic_scene": "Evening in family home",
+    "three_generations": "The question passing from Evan to Maya",
+    "sarah_watching": "Mother observing this unusual parenting",
+    "bedtime_ritual": "Stories about uncertainty as comfort"
+  },
+  "psychological_notes": "New phase showing how Evan transmits his transformed relationship with uncertainty to next generation. Maya raised with question as companion rather than crisis. This prevents existential trauma by normalizing mystery from start. Intergenerational healing through conscious parenting.",
+  "philosophical_underpinning": "Each generation can transform how the next relates to existential questions",
+  "therapeutic_direction": "Breaking cycles of existential trauma through conscious transmission"
+}
