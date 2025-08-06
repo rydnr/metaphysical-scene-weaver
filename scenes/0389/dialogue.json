@@ -1,0 +1,29 @@
+{
+  "scene_metadata": {
+    "scene_number": 389,
+    "title": "The Question's Echo",
+    "characters": ["evan"],
+    "location": "empty_auditorium",
+    "emotional_tone": "resonant solitude",
+    "psychological_theme": "self as echo chamber",
+    "philosophical_depth": "recursion of consciousness"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "standing center stage",
+      "context": "testing acoustics",
+      "text": "*speaking to empty seats* What am I? *listening to echo* What am I... What am I... What am... What... *long pause* The echo knows something the first asking doesn't. Each repetition strips away another layer of certainty until only the pure question remains. *softer* What am I? *whisper* What am I? *silence* And in the silence after all echoes fade... that's where I live now.",
+      "tone": "exploring resonance"
+    }
+  ],
+  "visual_elements": {
+    "empty_auditorium": "Vast space holding potential audience",
+    "single_figure": "Evan alone but not lonely",
+    "sound_waves": "Visible echoes rippling through space",
+    "lighting": "Single spotlight creating sacred circle"
+  },
+  "psychological_notes": "The echo becomes teacher, showing how repetition transforms meaning. Each bounce off the walls strips away assumptions until only essence remains. Evan discovers that consciousness itself might be echo—reality asking 'What am I?' and hearing itself respond.",
+  "philosophical_underpinning": "Consciousness as self-referential echo chamber",
+  "therapeutic_direction": "Solitude that contains multitudes, emptiness that resonates with fullness"
+}

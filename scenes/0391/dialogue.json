@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 391,
+    "title": "The Question's Garden",
+    "characters": ["evan", "child"],
+    "location": "community_garden",
+    "emotional_tone": "generative wonder",
+    "psychological_theme": "questions as seeds",
+    "philosophical_depth": "cultivation of mystery"
+  },
+  "dialogue": [
+    {
+      "character": "child",
+      "state": "planting seeds",
+      "context": "garden wisdom",
+      "text": "My teacher says plants grow from seeds. What do questions grow from?",
+      "tone": "innocent profundity"
+    },
+    {
+      "character": "evan",
+      "state": "kneeling beside child",
+      "context": "tending earth together",
+      "text": "*smiling at synchronicity* Questions grow from wonder, like these seeds grow from earth. *planting* I've been tending one question for years now—'What am I?'—and it keeps growing new branches, new blossoms. *pause* Some questions are meant to be gardens, not single flowers.",
+      "tone": "horticultural philosophy"
+    },
+    {
+      "character": "child",
+      "state": "curious",
+      "context": "understanding metaphor",
+      "text": "Does your question have roots?",
+      "tone": "piercing insight"
+    },
+    {
+      "character": "evan",
+      "state": "delighted recognition",
+      "context": "depth revealed",
+      "text": "*touching soil* Such deep roots that I've stopped trying to find the bottom. They reach down through me into something older than memory, wider than self. *gentle laugh* The question grows me as much as I grow it. We're becoming the same garden.",
+      "tone": "rooted wisdom"
+    }
+  ],
+  "visual_elements": {
+    "garden_abundance": "Life in various stages of growth",
+    "two_gardeners": "Adult and child as co-cultivators",
+    "soil_connection": "Hands in earth, grounding metaphor",
+    "growth_visible": "Seeds, sprouts, full plants as timeline"
+  },
+  "psychological_notes": "The child's innocent questions reveal profound truths about questions as living things that grow, need tending, have roots and branches. Evan discovers his relationship with 'What am I?' mirrors gardening—patient cultivation rather than forced growth.",
+  "philosophical_underpinning": "Questions as living ecosystems requiring cultivation",
+  "therapeutic_direction": "Growth through tending rather than solving"
+}

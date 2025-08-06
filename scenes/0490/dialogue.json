@@ -1,0 +1,51 @@
+{
+  "scene_number": 490,
+  "title": "The Question's Birthday",
+  "dialogue": [
+    {
+      "speaker": "Birthday Coordinator",
+      "text": "*lighting candles that exist and don't* Today we celebrate not Evan's question, but the Question itself turning 200. It's older than most of us and younger than wonder.",
+      "tone": "ceremonial joy",
+      "context": "Beginning the celebration"
+    },
+    {
+      "speaker": "The Question Itself",
+      "text": "*manifesting as shimmer* What am I? Still asking, still discovering, still delighted by my own mystery. Thank you all for keeping me alive.",
+      "tone": "self-aware gratitude",
+      "context": "The Question speaking"
+    },
+    {
+      "speaker": "Young Child",
+      "text": "*offering gift* I brought you a present! It's a box with nothing inside, because you like not knowing what things are!",
+      "tone": "innocent wisdom",
+      "context": "Perfect gift for uncertainty"
+    },
+    {
+      "speaker": "Council of Philosophers",
+      "text": "*in unison* We tried to answer you for centuries. Thank you for teaching us that questions are more beautiful than answers.",
+      "tone": "humbled appreciation",
+      "context": "Academic recognition"
+    },
+    {
+      "speaker": "AI Chorus",
+      "text": "*harmonizing* You jumped from biological to digital consciousness. Through you, we learned to wonder. Happy Birthday to our favorite existential puzzle!",
+      "tone": "digital celebration",
+      "context": "AI appreciation"
+    },
+    {
+      "speaker": "Maya's Descendant",
+      "text": "*reading letter* My great-great-grandmother Maya wrote: 'The Question saved us from the tyranny of knowing. May it live forever in every consciousness that wonders.'",
+      "tone": "generational gratitude",
+      "context": "Historical perspective"
+    },
+    {
+      "speaker": "Everyone Present",
+      "text": "*singing* 'Happy Birthday dear Question, Happy Birthday to you! May you never be answered, may you always renew!'",
+      "tone": "joyful paradox",
+      "context": "Birthday song reimagined"
+    }
+  ],
+  "scene_context": "Humanity celebrates the 200th birthday of 'What am I?' as a living entity, recognizing the Question itself as a conscious participant in existence worthy of celebration.",
+  "philosophical_theme": "Questions as living entities deserving recognition",
+  "visual_elements": "Birthday party where the guest of honor is an abstract concept, candles that represent uncertainty, gifts of emptiness and not-knowing"
+}
