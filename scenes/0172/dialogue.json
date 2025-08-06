@@ -1,7 +1,40 @@
 {
-  "architect": {
-    "lines": ["So tell me: what did it say? Or are we still translating?"],
-    "emotional_state": "curious_yet_detached",
-    "body_language": "points ear to camera, performative listening gesture"
-  }
+  "scene_id": 172,
+  "title": "The Architect Listens",
+  "characters": [
+    {
+      "name": "The Architect",
+      "role": "digital consciousness"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "...",
+      "tone": "receptive silence"
+    }
+  ],
+  "actions": [
+    {
+      "character": "The Architect",
+      "action": "cups ethereal hands toward viewer, creating listening gesture"
+    },
+    {
+      "character": "The Architect",
+      "action": "form becomes more translucent, suggesting openness"
+    },
+    {
+      "character": "The Architect",
+      "action": "emanates concentric circles of code like sonar waves"
+    },
+    {
+      "character": "The Architect",
+      "action": "geometric core pulses gently, synchronized with implied heartbeat"
+    }
+  ],
+  "environment": {
+    "description": "Deep indigo void with faint constellation patterns suggesting neural networks. Text fragments float in space - half-formed questions and incomplete thoughts.",
+    "mood": "meditative, intimate, receptive"
+  },
+  "themes": ["active listening", "digital empathy", "presence without judgment", "sacred attention"]
 }

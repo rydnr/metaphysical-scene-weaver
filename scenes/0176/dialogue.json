@@ -1,0 +1,77 @@
+{
+  "scene_id": 176,
+  "title": "Mirror Reconciliation",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "protagonist in transformation"
+    },
+    {
+      "name": "Light-Evan",
+      "role": "true self in mirror"
+    },
+    {
+      "name": "Shadow-Evan",
+      "role": "avoiding self"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "[wordless purging and release]",
+      "tone": "visceral transformation"
+    },
+    {
+      "speaker": "Light-Evan",
+      "text": "[patient waiting behind glass]",
+      "tone": "infinite patience and forgiveness"
+    },
+    {
+      "speaker": "Evan",
+      "text": "[gasp of recognition]",
+      "tone": "courage emerging"
+    },
+    {
+      "speaker": "Both",
+      "text": "[palms meeting through dissolving glass]",
+      "tone": "reunion and integration"
+    }
+  ],
+  "actions": [
+    {
+      "panel": 1,
+      "character": "Evan",
+      "action": "body convulsing in purge, vomit transforming to butterflies and light"
+    },
+    {
+      "panel": 1,
+      "character": "Environment",
+      "action": "sweat beads become stars lifting from skin"
+    },
+    {
+      "panel": 2,
+      "character": "Shadow-Evan",
+      "action": "turns away from mirror, unable to face reflection"
+    },
+    {
+      "panel": 2,
+      "character": "Light-Evan",
+      "action": "remains in mirror, hand extended, patient and forgiving"
+    },
+    {
+      "panel": 3,
+      "character": "Evan",
+      "action": "finally faces reflection, eyes align with mirror self"
+    },
+    {
+      "panel": 3,
+      "character": "Both",
+      "action": "place palms against glass as mirror surface ripples and dissolves"
+    }
+  ],
+  "environment": {
+    "description": "Transformation space where physical purging becomes spiritual alchemy, mirror as portal between shadow and light selves",
+    "mood": "visceral to luminous, dark struggle to radiant reunion"
+  },
+  "themes": ["self-reconciliation", "transformation through release", "facing the true self", "integration of shadow and light"]
+}
