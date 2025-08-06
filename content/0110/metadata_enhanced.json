@@ -1,0 +1,40 @@
+{
+  "scene_number": 110,
+  "title": "Guardian at the Gates of Self",
+  "characters": ["evan", "architect"],
+  "location": "void",
+  "emotional_tone": "sovereign wisdom",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "Inside Evan's transparent head: a scientific observatory studying swirling subjective experiences. Objective instruments measure subjective storms. Golden thread marks moments of self-knowledge. Mirror walls show infinite observer regression.",
+      "focus": "Finding objectivity within subjectivity"
+    },
+    {
+      "panel": 2,
+      "description": "Evan as armored guardian before ornate gates labeled 'My Story.' Behind: his truth garden. Outside: crowds with their versions of him. Guardian sword discerns between insight gifts and projection poison. Constellation reads 'Only I can authorize my authentic story.'",
+      "focus": "Sovereignty over personal narrative"
+    }
+  ],
+  "key_themes": [
+    "self-sovereignty",
+    "narrative authority", 
+    "objective patterns in subjective experience",
+    "discernment between insight and projection"
+  ],
+  "transformation_notes": "This scene masterfully balances self-examination with self-protection. The interior observatory shows rigorous self-study while the guardian gate represents healthy boundaries around identity.",
+  "color_palette": {
+    "primary": "introspection gold and sovereignty silver",
+    "secondary": "pattern blue and boundary crimson",
+    "accents": "truth garden green"
+  },
+  "visual_motifs": [
+    "telescope turned inward",
+    "guardian at narrative gates",
+    "objective instruments measuring subjectivity",
+    "discerning sword"
+  ],
+  "dialogue_rhythm": "From paradox discovery to sovereign declaration",
+  "narrator_role": "Philosophical guide through self-knowledge and self-protection"
+}
