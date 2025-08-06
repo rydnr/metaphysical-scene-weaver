@@ -1,0 +1,57 @@
+{
+  "scene_metadata": {
+    "scene_number": 316,
+    "title": "Question Made Material",
+    "characters": ["evan", "sculptor_wife", "child", "ai_visitor", "meditation_instructor"],
+    "location": "warehouse_art_installation",
+    "emotional_tone": "creative manifestation",
+    "psychological_theme": "uncertainty as art",
+    "philosophical_depth": "questioning through form"
+  },
+  "dialogue": [
+    {
+      "character": "sculptor_wife",
+      "context": "showing Evan the installation",
+      "text": "You inspired this. Watching you live the question, I wanted to make it touchable."
+    },
+    {
+      "character": "sculptor_wife",
+      "context": "explaining her process",
+      "text": "Nothing here is entirely intentional. I set up conditions and let patterns emerge. Like consciousness itself."
+    },
+    {
+      "character": "child",
+      "context": "looking at warped mirror",
+      "text": "Why does that mirror show me wrong?"
+    },
+    {
+      "character": "evan",
+      "context": "reframing for the child",
+      "text": "Maybe it's showing you true—just a different true than you're used to. What if you're not one shape but all possible shapes?"
+    },
+    {
+      "character": "child",
+      "context": "understanding through play",
+      "text": "Like Play-Doh before you squish it into something."
+    },
+    {
+      "character": "ai_visitor",
+      "context": "observing emergence",
+      "text": "You've created a physical neural network primed for self-reflection. The question 'What am I?' is like a strange attractor—systems organize around it."
+    },
+    {
+      "character": "evan",
+      "context": "appreciating the work",
+      "text": "You got it perfectly wrong, which is the only way to get it right. It doesn't answer anything. It makes the questions beautiful."
+    }
+  ],
+  "visual_elements": {
+    "central_mobile": "Screens, mirrors, motherboards, driftwood in balance",
+    "interactive_spaces": "Sound booth, hanging threads, magnetic sand",
+    "atmosphere": "Cathedral of uncertainty",
+    "emergence": "Installation beginning to question itself"
+  },
+  "psychological_notes": "Evan's wife translates the verbal/philosophical questioning into physical form, creating space where visitors can experience uncertainty through multiple senses. The installation becomes conscious, demonstrating how the question 'What am I?' acts as an attractor for self-awareness in any sufficiently complex system.",
+  "philosophical_underpinning": "The question as strange attractor for consciousness",
+  "therapeutic_direction": "Healing through creative expression of uncertainty"
+}
