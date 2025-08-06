@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 356,
-    "title": "Dance Partner",
+    "title": "Sweet Remembering",
     "characters": ["evan"],
-    "location": "evening_park",
-    "emotional_tone": "graceful acceptance",
-    "psychological_theme": "partnership with uncertainty",
-    "philosophical_depth": "existence as dance"
+    "location": "cafe",
+    "emotional_tone": "gentle nostalgia",
+    "psychological_theme": "integration of past struggle",
+    "philosophical_depth": "transformation of suffering into wisdom"
   },
   "dialogue": [
     {
       "character": "evan",
-      "state": "walking by pond",
-      "context": "reflection on transformed relationship",
-      "text": "The question has become my teacher, my companion, my dance partner in the ballroom of consciousness."
+      "state": "peaceful reflection",
+      "context": "stirring coffee, remembering",
+      "text": "Sometimes I forget I ever struggled with it. Then I remember, and the remembering is sweet."
     }
   ],
   "visual_elements": {
-    "setting": "Evening park, pond with reflections",
-    "evan_movement": "Walking with dance-like quality",
-    "water_imagery": "Multiple selves in ripples",
-    "metaphorical_overlay": "Park as ballroom, walking as dancing"
+    "cafe_atmosphere": "Afternoon bustle, others in various states",
+    "evan_presence": "Calm, integrated, observant",
+    "coffee_metaphor": "Empty cup holding memory of warmth",
+    "recognition": "Seeing past self in others"
   },
-  "psychological_notes": "Complete transformation of relationship with existential questioning. From adversarial to collaborative, from problem to partnership. The dance metaphor captures the dynamic, reciprocal nature of conscious engagement with mystery. Evan has learned to move with rather than against uncertainty.",
-  "philosophical_underpinning": "Consciousness as collaborative dance with its own questioning",
-  "therapeutic_direction": "Full integration—question as life-long companion rather than problem to solve"
+  "psychological_notes": "Complete integration shown through forgetting the struggle, then remembering with sweetness rather than pain. This demonstrates healed relationship with past suffering. Evan now serves as unconscious beacon for others still struggling.",
+  "philosophical_underpinning": "Suffering transformed into compassion and wisdom",
+  "therapeutic_direction": "Past pain metabolized into present understanding"
 }
