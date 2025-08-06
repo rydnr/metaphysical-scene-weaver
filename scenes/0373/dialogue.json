@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 373,
+    "title": "The Ripple Effect",
+    "characters": ["friend_mark", "evan", "friend_sarah"],
+    "location": "dinner_table_expansion",
+    "emotional_tone": "contemplative shift",
+    "psychological_theme": "paradigm questioning",
+    "philosophical_depth": "cultural assumptions examined"
+  },
+  "dialogue": [
+    {
+      "character": "friend_mark",
+      "state": "processing new perspective",
+      "context": "after listening quietly",
+      "text": "*after long pause* I've been pulling on myself for years. *rubbing temples* Forcing, optimizing, tracking, measuring... What if you're right? What if I'm damaging the roots trying to make myself grow faster?",
+      "tone": "dawning recognition"
+    },
+    {
+      "character": "evan",
+      "state": "compassionate witness",
+      "context": "seeing the pattern spread",
+      "text": "*nodding gently* The exhaustion tells you everything. When forcing becomes suffering, maybe it's time to try watering instead of pulling. *to both friends* We're so trained to be our own harsh project managers. What if we tried being gentle gardeners instead?",
+      "tone": "invitational wisdom"
+    }
+  ],
+  "visual_elements": {
+    "mark_body_language": "Physical exhaustion becoming visible",
+    "table_atmosphere": "Collective contemplation settling",
+    "wine_glasses": "Untouched as conversation deepens",
+    "shared_recognition": "Others nodding, understanding"
+  },
+  "psychological_notes": "Mark represents the high-achiever burnout epidemic. His physical gesture of rubbing temples shows where the forcing lives—in chronic tension. Evan's response normalizes the pattern while offering alternative. The wisdom spreads not through preaching but through recognized exhaustion.",
+  "philosophical_underpinning": "Collective awakening to the violence of self-optimization culture",
+  "therapeutic_direction": "Wisdom becoming communal rather than individual"
+}

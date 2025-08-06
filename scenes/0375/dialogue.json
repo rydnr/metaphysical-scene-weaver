@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 375,
+    "title": "The Garden Experiment",
+    "characters": ["friend_sarah", "evan", "others"],
+    "location": "dinner_conclusion",
+    "emotional_tone": "hopeful curiosity",
+    "psychological_theme": "collective exploration",
+    "philosophical_depth": "new paradigm emerging"
+  },
+  "dialogue": [
+    {
+      "character": "friend_sarah",
+      "state": "tentative commitment",
+      "context": "end of dinner",
+      "text": "*raising glass slowly* To... to trying something different. To seeing what grows when we stop pulling and start watering. *looking around table* Maybe we could check in next month? See how our gardens are growing?",
+      "tone": "vulnerable hope"
+    },
+    {
+      "character": "evan",
+      "state": "quiet fulfillment",
+      "context": "witnessing spread",
+      "text": "*raising his glass* To gentle gardeners and patient growth. To being curious about ourselves instead of cruel. *smile spreading* And to discovering that the questions we can't answer might be the best guides we have.",
+      "tone": "graceful blessing"
+    }
+  ],
+  "visual_elements": {
+    "raised_glasses": "Tentative but sincere toast",
+    "faces_around_table": "Mix of uncertainty and hope",
+    "evening_ending": "Natural conclusion to gathering",
+    "seeds_planted": "Invisible but felt transformation"
+  },
+  "psychological_notes": "Sarah's suggestion of checking in shows the beginning of supportive community around new paradigm. The tentative quality acknowledges this is experiment, not certainty. Evan's fulfillment comes from seeing his personal discovery become communal exploration. Toast ritualizes the shift.",
+  "philosophical_underpinning": "Individual wisdom becoming collective experiment",
+  "therapeutic_direction": "Post-therapeutic wisdom creating therapeutic community"
+}
