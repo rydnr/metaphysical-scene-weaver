@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 352,
-    "title": "The Question Spreads",
-    "characters": ["evan"],
-    "location": "downtown_crowds",
-    "emotional_tone": "interconnected awareness",
-    "psychological_theme": "universal questioning",
-    "philosophical_depth": "existential uncertainty as human gift"
+    "title": "The Lighthouse",
+    "characters": ["architect"],
+    "location": "meta_conversation_space",
+    "emotional_tone": "guiding wisdom",
+    "psychological_theme": "orientation tool",
+    "philosophical_depth": "navigation aid in mystery"
   },
   "dialogue": [
     {
-      "character": "evan",
-      "state": "observing crowd dynamics",
-      "context": "seeing the question everywhere",
-      "text": "The question spreads through the city like beneficial contagion, each person catching their own variant of wonder."
+      "character": "architect",
+      "state": "offering metaphor",
+      "context": "providing navigation tool",
+      "text": "The question can become a lighthouse. Not solving the darkness, not eliminating the mystery, but providing a point of reference as you navigate."
     }
   ],
   "visual_elements": {
-    "crowd_scenes": "Various people in moments of self-reflection",
-    "urban_environment": "City as laboratory of consciousness",
-    "evan_movement": "Walking through, observing",
-    "symbolic_spread": "Question moving like wind through leaves"
+    "lighthouse_metaphor": "Beam of questioning cutting through fog",
+    "ocean_of_mystery": "Vast unknown surrounding",
+    "navigation": "Movement guided by reference point",
+    "atmosphere": "Dark sea with guiding light"
   },
-  "psychological_notes": "Evan perceives the universal nature of existential questioning. He sees how 'What am I?' moves through collective consciousness, touching each person uniquely. This represents movement from personal to transpersonal awareness of the human condition.",
-  "philosophical_underpinning": "Existential uncertainty as evolutionary driver of consciousness",
-  "therapeutic_direction": "Recognition of shared human experience reducing isolation"
+  "psychological_notes": "The architect offers a transformative metaphor - the existential question shifts from problem to navigation aid. Like a lighthouse doesn't eliminate ocean darkness but helps sailors navigate, the question doesn't solve mystery but provides orientation. This reframes the entire therapeutic journey.",
+  "philosophical_underpinning": "Questions as tools rather than problems to solve",
+  "therapeutic_direction": "Reframing existential anxiety as navigation equipment"
 }

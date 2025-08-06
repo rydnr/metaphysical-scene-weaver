@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 354,
-    "title": "Sweet Remembering",
+    "title": "The Question Spreads",
     "characters": ["evan"],
-    "location": "cafe",
-    "emotional_tone": "gentle nostalgia",
-    "psychological_theme": "integration of past struggle",
-    "philosophical_depth": "transformation of suffering into wisdom"
+    "location": "downtown_crowds",
+    "emotional_tone": "interconnected awareness",
+    "psychological_theme": "universal questioning",
+    "philosophical_depth": "existential uncertainty as human gift"
   },
   "dialogue": [
     {
       "character": "evan",
-      "state": "peaceful reflection",
-      "context": "stirring coffee, remembering",
-      "text": "Sometimes I forget I ever struggled with it. Then I remember, and the remembering is sweet."
+      "state": "observing crowd dynamics",
+      "context": "seeing the question everywhere",
+      "text": "The question spreads through the city like beneficial contagion, each person catching their own variant of wonder."
     }
   ],
   "visual_elements": {
-    "cafe_atmosphere": "Afternoon bustle, others in various states",
-    "evan_presence": "Calm, integrated, observant",
-    "coffee_metaphor": "Empty cup holding memory of warmth",
-    "recognition": "Seeing past self in others"
+    "crowd_scenes": "Various people in moments of self-reflection",
+    "urban_environment": "City as laboratory of consciousness",
+    "evan_movement": "Walking through, observing",
+    "symbolic_spread": "Question moving like wind through leaves"
   },
-  "psychological_notes": "Complete integration shown through forgetting the struggle, then remembering with sweetness rather than pain. This demonstrates healed relationship with past suffering. Evan now serves as unconscious beacon for others still struggling.",
-  "philosophical_underpinning": "Suffering transformed into compassion and wisdom",
-  "therapeutic_direction": "Past pain metabolized into present understanding"
+  "psychological_notes": "Evan perceives the universal nature of existential questioning. He sees how 'What am I?' moves through collective consciousness, touching each person uniquely. This represents movement from personal to transpersonal awareness of the human condition.",
+  "philosophical_underpinning": "Existential uncertainty as evolutionary driver of consciousness",
+  "therapeutic_direction": "Recognition of shared human experience reducing isolation"
 }
