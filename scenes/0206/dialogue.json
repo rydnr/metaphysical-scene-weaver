@@ -1,0 +1,38 @@
+{
+  "scene_metadata": {
+    "scene_number": 206,
+    "title": "Love Through the Armor Holes",
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "tender wisdom through metaphor",
+    "psychological_theme": "vulnerability as doorway to healing",
+    "philosophical_depth": "the paradox of protection preventing cure",
+    "panel_count": 3
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "draws a knight and a poet",
+      "text": "It thinks its job is to defend. But healing happens when defenses lower. Love comes in through the holes in the armor, not because you welded it shut."
+    }
+  ],
+  "visual_elements": {
+    "panel_1": {
+      "description": "Architect's hand sketching an armored knight",
+      "focus": "defensive stance, impenetrable protection"
+    },
+    "panel_2": {
+      "description": "Adding a poet figure beside the knight",
+      "focus": "open posture, vulnerable but alive"
+    },
+    "panel_3": {
+      "description": "Light/love flowing through gaps in armor",
+      "focus": "transformation through opening"
+    },
+    "drawing_style": "simple but profound illustrations",
+    "environment": "studio as teaching space through art"
+  },
+  "psychological_notes": "The knight/poet duality represents the eternal conflict between protection and openness. The image of love entering through armor holes reframes vulnerability not as weakness but as necessary opening for healing.",
+  "philosophical_underpinning": "We must risk wounding to allow healing; the cure enters through the same door as the hurt",
+  "therapeutic_direction": "Helping clients see their defenses as barriers to the very healing they seek"
+}
