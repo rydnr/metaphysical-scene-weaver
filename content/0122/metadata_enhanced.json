@@ -1,0 +1,40 @@
+{
+  "scene_number": 122,
+  "title": "The Intimate Rebellion",
+  "characters": ["evan", "architect"],
+  "location": "void",
+  "emotional_tone": "courageous vulnerability",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect as miner with glowing headlamp, leading Evan down into consciousness depths. Mining tools visible. Darkness pressing in except where lamp illuminates layers of self like geological strata.",
+      "focus": "Descent into self-examination"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up: Hands holding a multifaceted gem of subjectivity up to lamp light. Different fingerprints visible on each facet—some old, some fresh. Gem refracts light into spectrum showing the prismatic nature of identity.",
+      "focus": "Discovering borrowed identity"
+    }
+  ],
+  "key_themes": [
+    "conscious curation vs unconscious inheritance",
+    "the courage of self-examination",
+    "identity as archaeological dig",
+    "choosing which influences to keep"
+  ],
+  "transformation_notes": "This scene transforms self-discovery from finding a 'true self' to consciously choosing which inherited patterns to keep. The mining metaphor perfectly captures the depth and difficulty of genuine self-examination.",
+  "color_palette": {
+    "primary": "miner's lamp warm yellow",
+    "secondary": "deep darkness with layers",
+    "accents": "prismatic gem refraction"
+  },
+  "visual_motifs": [
+    "mining for truth",
+    "lamp illuminating darkness",
+    "gem with fingerprints",
+    "spectrum of identity"
+  ],
+  "dialogue_rhythm": "From vulnerable discovery to profound recognition to liberating choice",
+  "narrator_role": "Guide through the depths of identity archaeology"
+}
