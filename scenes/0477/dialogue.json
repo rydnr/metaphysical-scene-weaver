@@ -1,0 +1,51 @@
+{
+  "scene_number": 477,
+  "title": "The Memory Weaver",
+  "dialogue": [
+    {
+      "speaker": "Memory Weaver",
+      "text": "*threading silvery strands between fingers* Each memory changes the moment we recall it. I help people understand they are not their past, but their relationship with it.",
+      "tone": "gentle wisdom",
+      "context": "Working with memory threads"
+    },
+    {
+      "speaker": "Client",
+      "text": "*watching memories shimmer* But if my memories change, and I'm made of memories, then what am I really?",
+      "tone": "dawning uncertainty",
+      "context": "Experiencing memory fluidity"
+    },
+    {
+      "speaker": "Memory Weaver",
+      "text": "*smiling* Exactly the right question. You are the one who remembers, not the memories themselves. The observer, not the observed.",
+      "tone": "affirming insight",
+      "context": "Guiding to deeper understanding"
+    },
+    {
+      "speaker": "Past Self Hologram",
+      "text": "*flickering* I was so certain about everything. So sure I knew who I was. Was I wrong, or just... incomplete?",
+      "tone": "temporal reflection",
+      "context": "Earlier version questioning"
+    },
+    {
+      "speaker": "Client",
+      "text": "*to past self* You were perfect for your moment. I'm perfect for mine. We're both me, just at different points of becoming.",
+      "tone": "compassionate acceptance",
+      "context": "Integrating past selves"
+    },
+    {
+      "speaker": "Memory Weaver",
+      "text": "*weaving new patterns* See how the threads connect? Not a line but a tapestry. Each memory influences all others. You are the pattern, ever-changing, ever-beautiful.",
+      "tone": "artistic revelation",
+      "context": "Showing interconnection"
+    },
+    {
+      "speaker": "Client",
+      "text": "*touching the memory tapestry* I'm not my history... I'm my historian. And I can rewrite the story whenever I need to.",
+      "tone": "empowered realization",
+      "context": "Claiming narrative agency"
+    }
+  ],
+  "scene_context": "In a memory therapy session, a client discovers that identity isn't fixed in past experiences but flows through the ever-changing act of remembering and reinterpreting.",
+  "philosophical_theme": "Memory as fluid construction rather than fixed record",
+  "visual_elements": "Silvery memory threads, holographic past selves, tapestry of interconnected experiences"
+}

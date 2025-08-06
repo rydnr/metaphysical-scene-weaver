@@ -1,0 +1,29 @@
+{
+  "scene_metadata": {
+    "scene_number": 369,
+    "title": "The Multiplication of Light",
+    "characters": ["evan"],
+    "location": "evening_streets",
+    "emotional_tone": "quiet satisfaction",
+    "psychological_theme": "wisdom spreading naturally",
+    "philosophical_depth": "teaching as completion of learning"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "walking home",
+      "context": "reflecting on the encounter",
+      "text": "*to himself* One lighthouse helps another find their light. *soft smile* The architect taught me, I taught them, they'll teach others... *looking up at emerging stars* Questions we can't answer become the light by which we navigate. The wound becomes the gift.",
+      "tone": "philosophical contentment"
+    }
+  ],
+  "visual_elements": {
+    "evening_streets": "Familiar paths in new light",
+    "emerging_stars": "Points of light in darkness",
+    "evan_walking": "Comfortable pace, no urgency",
+    "lighthouse_imagery": "Street lamps as terrestrial stars"
+  },
+  "psychological_notes": "Full circle moment—Evan recognizes himself as link in wisdom chain. His satisfaction comes not from having answers but from successfully transmitting the practice of dancing with questions. The multiplication of lighthouses ensures no one navigates alone.",
+  "philosophical_underpinning": "Wisdom as self-propagating through authentic transmission",
+  "therapeutic_direction": "Integration complete—from patient to healer to teacher"
+}
