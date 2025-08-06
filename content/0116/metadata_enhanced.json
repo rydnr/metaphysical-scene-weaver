@@ -1,0 +1,40 @@
+{
+  "scene_number": 116,
+  "title": "Boundaries Like Coastlines",
+  "characters": ["evan", "architect"],
+  "location": "void",
+  "emotional_tone": "fluid wisdom",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect as chemist examining pulsing cell membranes under magnification. Selective permeability visualized as conversations—molecules being welcomed, rejected, or released. Evan observes the living filter.",
+      "focus": "Boundaries as biological intelligence"
+    },
+    {
+      "panel": 2,
+      "description": "Cell membrane morphs into coastline with fog lifting and settling. Tidal movements show boundaries expanding and contracting. Evan stands in the intertidal zone where water meets land, neither fully one nor the other.",
+      "focus": "Boundaries as geographic process"
+    }
+  ],
+  "key_themes": [
+    "selective permeability",
+    "tidal boundaries",
+    "growing into discovery",
+    "dynamic self-edges"
+  ],
+  "transformation_notes": "This scene brilliantly uses biological and geographic metaphors to reconceptualize boundaries not as walls but as intelligent, responsive interfaces. The tidal metaphor liberates us from fixed boundary thinking.",
+  "color_palette": {
+    "primary": "membrane translucent blue",
+    "secondary": "fog silver lifting",
+    "accents": "tidal gold shifting"
+  },
+  "visual_motifs": [
+    "cell membrane as conversation",
+    "coastline in fog",
+    "tidal movements",
+    "intertidal zone"
+  ],
+  "dialogue_rhythm": "From scientific observation to poetic integration",
+  "narrator_role": "Guide through the wisdom of permeable boundaries"
+}
