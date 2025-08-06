@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 359,
+    "title": "Ripples of Recognition",
+    "characters": ["evan", "stranger"],
+    "location": "park_bench",
+    "emotional_tone": "compassionate connection",
+    "psychological_theme": "recognizing shared struggle",
+    "philosophical_depth": "suffering as universal portal"
+  },
+  "dialogue": [
+    {
+      "character": "stranger",
+      "state": "sitting alone",
+      "context": "visibly struggling",
+      "text": "*muttering to themselves* What am I even doing? What's the point of... what AM I? *head in hands* This question is killing me.",
+      "tone": "desperate confusion"
+    },
+    {
+      "character": "evan",
+      "state": "recognizing the pattern",
+      "context": "approaching gently",
+      "text": "*sitting down carefully* I know that question. *soft voice* I fought it for years. Thought it was my enemy. *pause* Would you like to know what I learned? Not the answer—I never found that. But something better.",
+      "tone": "gentle offering"
+    }
+  ],
+  "visual_elements": {
+    "parallel_postures": "Stranger's despair mirroring Evan's past",
+    "careful_approach": "Evan moving like approaching wounded animal",
+    "evening_light": "Soft illumination suggesting possibility",
+    "space_between": "Respectful distance on bench"
+  },
+  "psychological_notes": "First test of Evan's ability to transmit wisdom. He recognizes his past self in the stranger's struggle. His approach is careful, non-intrusive, offering possibility rather than imposing solution. The admission of not having the answer establishes trust and authenticity.",
+  "philosophical_underpinning": "Wisdom transmission through recognized suffering",
+  "therapeutic_direction": "Evan stepping into guide role naturally"
+}
