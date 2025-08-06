@@ -1,0 +1,48 @@
+{
+  "scene_number": 122,
+  "title": "The Intimate Rebellion",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*descending into inner depths* Sometimes I catch myself thinking thoughts that feel... borrowed. Like I'm wearing someone else's opinions as my own.",
+      "tone": "vulnerable discovery",
+      "context": "Beginning to question the origins of self"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*adjusting miner's headlamp* Most never venture this deep. They accept the surface self as given, never questioning who installed these beliefs.",
+      "tone": "acknowledging courage",
+      "context": "Recognizing the rarity of deep self-examination"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*finding something in the darkness* Here—look at this. I always thought this was 'me,' but now... whose voice is this really?",
+      "tone": "unsettling recognition",
+      "context": "Discovering foreign elements in self"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*holding the discovered piece up to lamp light* And that's the most intimate rebellion of all. To hold your own subjectivity up to the light and go, 'Whose fingerprints are these?'",
+      "tone": "profound recognition",
+      "context": "Naming the deepest form of revolution"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*examining the fingerprints* My parents'... society's... traumas I inherited... How much of 'me' is actually mine?",
+      "tone": "existential vertigo",
+      "context": "Questioning the authenticity of identity"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*gem refracting into spectrum* Perhaps the rebellion isn't finding a 'pure' self underneath, but choosing which fingerprints to keep. Conscious curation instead of unconscious inheritance.",
+      "tone": "liberating insight",
+      "context": "Reframing identity as choice"
+    }
+  ],
+  "scene_context": "Deep in the mines of consciousness, Evan and the Architect (as miner) examine the origins of self, discovering that the most intimate rebellion is questioning which parts of identity are truly one's own.",
+  "philosophical_theme": "authentic selfhood through examination",
+  "visual_progression": {
+    "panel_1": "The Architect as miner with headlamp, guiding Evan into consciousness depths",
+    "panel_2": "Close-up of gem-like subjectivity held to light, revealing multiple fingerprints"
+  }
+}
