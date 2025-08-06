@@ -1,6 +1,7 @@
 {
-  "evan": {
-    "lines": ["PSYCHOLOGIST: Add emotionally resonant dialogue"],
-    "emotional_state": "PSYCHOLOGIST: Define the emotional arc"
+  "architect": {
+    "lines": ["So tell me: what did it say? Or are we still translating?"],
+    "emotional_state": "curious_yet_detached",
+    "body_language": "points ear to camera, performative listening gesture"
   }
 }
