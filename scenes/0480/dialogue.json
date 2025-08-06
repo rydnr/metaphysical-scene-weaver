@@ -1,0 +1,70 @@
+{
+  "scene_metadata": {
+    "scene_number": 480,
+    "title": "The Last Certainty Museum",
+    "characters": ["curator_null_anderson_void", "young_visitor", "child_visitor", "asteroid_colonist", "elderly_visitor"],
+    "location": "former_vatican_museum",
+    "emotional_tone": "melancholic reverence",
+    "psychological_theme": "certainty as historical artifact",
+    "philosophical_depth": "identity prison vs freedom"
+  },
+  "dialogue": [
+    {
+      "character": "young_visitor",
+      "state": "incredulous wonder",
+      "context": "viewing driver's license",
+      "text": "They carried cards declaring who they were. As if identity could fit in a wallet."
+    },
+    {
+      "character": "null",
+      "state": "historical empathy",
+      "context": "explaining past",
+      "text": "The terror of not knowing was so great, they created these talismans of certainty. Each one a small shield against the void they feared to face."
+    },
+    {
+      "character": "child",
+      "state": "innocent questioning",
+      "context": "viewing mannequins",
+      "text": "Were they happy?"
+    },
+    {
+      "character": "null",
+      "state": "gentle sadness",
+      "context": "historical perspective",
+      "text": "They thought they were. They called it 'knowing their place' and found peace in the prison. Until someone named Evan asked a question that shattered all the cages."
+    },
+    {
+      "character": "asteroid_colonist",
+      "state": "trying to understand",
+      "context": "in chapel",
+      "text": "They gathered to agree on who they were?"
+    },
+    {
+      "character": "teenager",
+      "state": "emerging from booth",
+      "context": "experiencing fixed identity",
+      "text": "It's suffocating. How did they breathe? How did they grow?"
+    },
+    {
+      "character": "elderly_visitor",
+      "state": "remembering transition",
+      "context": "touching photo albums",
+      "text": "We thought consistency was virtue. We thought changing was betrayal. Now my grandchildren change hourly and call it dancing."
+    },
+    {
+      "character": "null",
+      "state": "concluding wisdom",
+      "context": "final question",
+      "text": "Would a butterfly return to its cocoon? Would a river flow backward to its source? We've learned to love the question too much to ever again mistake an answer for the truth."
+    }
+  ],
+  "visual_elements": {
+    "preserved_artifacts": "Driver's licenses, fixed role mannequins",
+    "certainty_chapel": "Rigid architecture resisting ambiguity",
+    "transition_videos": "Historical footage of humanity's awakening",
+    "blank_name_tags": "Gift representing freedom from labels"
+  },
+  "psychological_notes": "Certainty as extinct behavior preserved in museum. Fixed identity shown as historical curiosity/tragedy. Modern visitors unable to comprehend need for static self. Contrast between past's desperate certainty and present's joyful uncertainty.",
+  "philosophical_underpinning": "Fixed identity as prison humanity escaped—certainty as evolutionary dead end",
+  "therapeutic_direction": "Remembering the pain of certainty to appreciate the freedom of uncertainty"
+}
