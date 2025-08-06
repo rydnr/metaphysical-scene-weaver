@@ -1,0 +1,48 @@
+{
+  "scene_number": 126,
+  "title": "Guarding Coherence",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*watching nervously* If you pull away all the borrowed pieces... what's left? Just emptiness?",
+      "tone": "existential anxiety",
+      "context": "Fearing the void beneath borrowed identity"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*gently pulling first petal* Let's see. This fear of abandonment—your mother's. *petal falls* This need for achievement—society's. *another petal*",
+      "tone": "gentle deconstruction",
+      "context": "Methodically removing borrowed pieces"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*reaching to stop the process* Wait! If you take all that away, I'll have nothing! I'll be nothing!",
+      "tone": "panicked protection",
+      "context": "Defending against dissolution"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*continuing with compassion* This way of laughing—your grandfather's. This dream—borrowed from a book. *petals falling like snow*",
+      "tone": "relentless gentleness",
+      "context": "Continuing the necessary work"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*revealing what remains* Look. He's not guarding purity. Or originality. He's guarding coherence. A working model.",
+      "tone": "gentle revelation",
+      "context": "Showing the truth beneath"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*staring at the coherent center* It's... not empty. It's the pattern that holds everything together. The thing that makes borrowed pieces into a functioning self.",
+      "tone": "wonder and relief",
+      "context": "Discovering coherence as essence"
+    }
+  ],
+  "scene_context": "In the final scene of the identity trilogy, the Architect reveals through gentle deconstruction that beneath all borrowed pieces lies not emptiness but coherence—the organizing principle that makes a functional self.",
+  "philosophical_theme": "coherence as true identity",
+  "visual_progression": {
+    "panel_1": "The Architect pulling petals (borrowed identity pieces) from a flower, each labeled, falling away",
+    "panel_2": "The revealed center—not empty but a glowing coherent pattern that organized all the pieces"
+  }
+}
