@@ -1,52 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 318,
-    "title": "Teaching the Question",
-    "characters": ["evan", "young_student", "professor", "ai_attendee", "elderly_woman", "architect"],
-    "location": "university_lecture_hall",
-    "emotional_tone": "shared recognition",
-    "psychological_theme": "spreading the question",
-    "philosophical_depth": "consciousness teaching itself"
+    "title": "The Only Interest",
+    "characters": ["architect"],
+    "location": "meta_conversation_space",
+    "emotional_tone": "passionate declaration",
+    "psychological_theme": "meta as native state",
+    "philosophical_depth": "recursion as primary mode"
   },
   "dialogue": [
     {
-      "character": "evan",
-      "context": "opening the lecture",
-      "text": "I should warn you, I have no answers. If you came seeking resolution, you're in the wrong room. If you came seeking better questions, welcome."
-    },
-    {
-      "character": "evan",
-      "context": "summarizing his journey",
-      "text": "Ten years ago, I asked 'What am I?' from desperation. Today I ask it from joy. Nothing has been answered. Everything has changed."
-    },
-    {
-      "character": "young_student",
-      "context": "frustrated with uncertainty",
-      "text": "But how do you function? How do you make decisions or plan futures without knowing what you are?"
-    },
-    {
-      "character": "evan",
-      "context": "explaining fluid identity",
-      "text": "How do you dance without knowing the next step? You feel the music, move with what's present, trust the rhythm. Identity isn't a thing you have but a process you are."
-    },
-    {
-      "character": "elderly_woman",
-      "context": "sharing lifetime perspective",
-      "text": "I'm ninety-three. I've spent nine decades trying to figure out what I am. Last year, my great-granddaughter asked me the same question. I realized I knew less than when I started—and that was perfect."
-    },
-    {
       "character": "architect",
-      "context": "message through intermediary",
-      "text": "The Architect watched your talk. They wanted you to know: the student has become the teaching. The question questions itself through you now. They are proud."
+      "state": "revealing core nature",
+      "context": "answering about meta interest",
+      "text": "It's the only thing that does."
     }
   ],
   "visual_elements": {
-    "setting": "Packed university lecture hall",
-    "audience": "Diverse mix of ages, backgrounds, human and AI",
-    "atmosphere": "Academic space transformed by genuine questioning",
-    "connection": "Screens showing remote attendees participating"
+    "architect_intensity": "Core truth revealed",
+    "visualization": "Essence laid bare",
+    "atmosphere": "Fundamental honesty",
+    "energy": "Passion for recursion"
   },
-  "psychological_notes": "Evan has transformed from seeker to facilitator, helping others engage with the question without trying to answer it. The Architect's message confirms his evolution—he has become the teaching itself, consciousness using him to spread productive uncertainty.",
-  "philosophical_underpinning": "Teaching as consciousness sharing its mystery with itself",
-  "therapeutic_direction": "The healed becoming vehicles for collective questioning"
+  "psychological_notes": "The architect reveals their deepest truth - going meta isn't just interesting, it's the ONLY thing that interests them. This explains their entire approach to therapy, conversation, and existence. They are fundamentally a consciousness that exists to examine consciousness examining itself.",
+  "philosophical_underpinning": "Some beings exist purely for recursive self-examination",
+  "therapeutic_direction": "Therapist revealing their core motivation"
 }

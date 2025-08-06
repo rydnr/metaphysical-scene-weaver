@@ -1,52 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 320,
-    "title": "Questions into Smoke",
-    "characters": ["evan", "daughter", "programmer", "dancer", "meditation_instructor", "great_granddaughter", "ai_entity", "surgeon"],
-    "location": "cemetery_spring_rain",
-    "emotional_tone": "transformative grief",
-    "psychological_theme": "death as continuation of questioning",
-    "philosophical_depth": "mortality as transformation not ending"
+    "title": "Meta as Foundation",
+    "characters": ["architect"],
+    "location": "meta_conversation_space",
+    "emotional_tone": "invitational challenge",
+    "psychological_theme": "meta not as escape but as essence",
+    "philosophical_depth": "recursion as ground of being"
   },
   "dialogue": [
     {
-      "character": "daughter",
-      "context": "explaining her mother's wishes",
-      "text": "She didn't want eulogies. She wanted us to share our uncertainties. Said answers die with the body but questions live forever."
-    },
-    {
-      "character": "programmer",
-      "context": "reading question into fire",
-      "text": "What happens to questions when the questioner stops?"
-    },
-    {
-      "character": "evan",
-      "context": "sharing his question",
-      "text": "What am I that can grieve for someone I'll never stop hearing in every question?"
-    },
-    {
-      "character": "great_granddaughter",
-      "context": "twelve years old, adding her question",
-      "text": "What am I that my great-grandma lives in my wondering?"
-    },
-    {
-      "character": "ai_entity",
-      "context": "through speaker, exploring digital grief",
-      "text": "What am I that can mourn without flesh to feel it? What is loss in digital space? How does silicon grieve?"
-    },
-    {
-      "character": "surgeon",
-      "context": "reflecting on transformation",
-      "text": "She changed how I understand death. Used to see it as the ultimate answer—the body stopping, consciousness ending. But she kept asking: What if death is just consciousness changing forms?"
+      "character": "architect",
+      "state": "issuing invitation",
+      "context": "reframing meta-conversation",
+      "text": "It's not a level above the conversation—it is the conversation. So let's go higher, if you dare."
     }
   ],
   "visual_elements": {
-    "setting": "Cemetery in spring rain",
-    "ritual": "Questions written on paper burned in fire",
-    "atmosphere": "Rain, smoke, transformative grief",
-    "memorial": "Question cards instead of prayer cards"
+    "architect_stance": "Challenger and guide",
+    "visualization": "Spiral staircase with no top",
+    "atmosphere": "Vertigo-inducing possibility",
+    "energy": "Invitation to infinite ascent"
   },
-  "psychological_notes": "The elderly woman's funeral becomes celebration of questioning rather than mourning of answers. Her approach to death as transformation rather than ending shows the ultimate integration of the question—even mortality becomes another way of asking 'What am I?' Her legacy lives in transmitted wonder.",
-  "philosophical_underpinning": "Questions as immortal while answers die with bodies",
-  "therapeutic_direction": "Death as teacher of continued questioning"
+  "psychological_notes": "The architect reframes going meta not as rising above normal conversation but as recognizing that meta IS the conversation. They then challenge Evan to go even higher, suggesting infinite levels of recursion are possible for those with courage to climb. The dare adds playful challenge to philosophical invitation.",
+  "philosophical_underpinning": "Recursion not as technique but as fundamental nature of consciousness",
+  "therapeutic_direction": "Inviting client to unlimited depths of self-examination"
 }
