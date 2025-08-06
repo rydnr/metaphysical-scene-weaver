@@ -1,0 +1,46 @@
+{
+  "scene_metadata": {
+    "scene_number": 410,
+    "title": "Festival of Questions",
+    "characters": ["evan", "maya", "sarah", "old_man", "crowd"],
+    "location": "expanded_spiral_garden",
+    "emotional_tone": "joyous celebration",
+    "psychological_theme": "uncertainty as cultural celebration",
+    "philosophical_depth": "question as creative force"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "witnessing transformation",
+      "context": "at the festival",
+      "text": "The question has become a celebration. What am I? I am this moment, asking."
+    },
+    {
+      "character": "crowd",
+      "state": "collective joy",
+      "context": "shouting together",
+      "text": "What am I?"
+    },
+    {
+      "character": "old_man",
+      "state": "sharing history",
+      "context": "approaching Evan",
+      "text": "I knew the architect. They would be amazed to see this."
+    },
+    {
+      "character": "maya",
+      "state": "confident young adult",
+      "context": "finding her father",
+      "text": "Dad, remember when you used to worry I'd have an existential crisis? I think we're past that as a culture."
+    }
+  ],
+  "visual_elements": {
+    "festival_atmosphere": "Art installations, performances, workshops",
+    "expanded_garden": "Several city blocks of spiral sanctuary",
+    "creative_expressions": "Question-based art, music, dance",
+    "candlelight_spiral": "Hundreds walking with lights"
+  },
+  "psychological_notes": "Represents complete cultural transformation where existential uncertainty is celebrated rather than pathologized. Maya's generation treats the question as creative medium. Shows how individual healing (Evan) can catalyze collective transformation. The festival demonstrates uncertainty as basis for community rather than isolation.",
+  "philosophical_underpinning": "Existential questions as creative force rather than problem to solve",
+  "therapeutic_direction": "Cultural healing through celebration of shared human condition"
+}

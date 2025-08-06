@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 408,
+    "title": "Child's Wisdom",
+    "characters": ["evan", "maya", "sarah"],
+    "location": "home_garden",
+    "emotional_tone": "gentle revelation",
+    "psychological_theme": "wisdom through innocence",
+    "philosophical_depth": "nothing to figure out"
+  },
+  "dialogue": [
+    {
+      "character": "maya",
+      "state": "twelve-year-old insight",
+      "context": "after watching ants",
+      "text": "Daddy, what if there's nothing to figure out?"
+    },
+    {
+      "character": "evan",
+      "state": "recognizing profundity",
+      "context": "responding to daughter",
+      "text": "Maya asks me: 'Daddy, what if there's nothing to figure out?' I tell her she's already wiser than I was at forty."
+    },
+    {
+      "character": "evan",
+      "state": "sharing his journey",
+      "context": "sitting beside her",
+      "text": "You know, I spent twenty years trying to figure myself out before realizing what you just said."
+    },
+    {
+      "character": "maya",
+      "state": "observing absurdity",
+      "context": "continuing insight",
+      "text": "But everyone's always trying to figure things out. Like there's going to be a test or something."
+    },
+    {
+      "character": "maya",
+      "state": "deepening understanding",
+      "context": "watching ants",
+      "text": "Maybe we're like them. Doing our thing without needing to see the whole picture."
+    },
+    {
+      "character": "maya",
+      "state": "penetrating observation",
+      "context": "final insight",
+      "text": "I think people make up things to figure out because they're scared of just being."
+    }
+  ],
+  "visual_elements": {
+    "garden_setting": "Peaceful Sunday morning",
+    "ant_meditation": "Child absorbed in simple observation",
+    "family_presence": "Three generations of questioning",
+    "natural_wisdom": "Insight arising without struggle"
+  },
+  "psychological_notes": "Maya demonstrates the fruit of being raised with uncertainty as friend. Her insight 'nothing to figure out' deconstructs entire self-help industry and existential anxiety in one phrase. Shows how wisdom can arise naturally when not corrupted by cultural pressure to know oneself definitively.",
+  "philosophical_underpinning": "The deepest truths are often the simplest, seen clearly by unconditioned mind",
+  "therapeutic_direction": "Liberation from the compulsion to solve oneself"
+}

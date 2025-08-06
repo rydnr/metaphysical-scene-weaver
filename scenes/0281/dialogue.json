@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 281,
+    "title": "Gratitude for Gravity",
+    "characters": ["evan", "architect"],
+    "location": "philosophical_space",
+    "emotional_tone": "profound appreciation",
+    "psychological_theme": "celebrating constraint",
+    "philosophical_depth": "resistance as blessing"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "transformed understanding",
+      "context": "feeling the sacred",
+      "text": "*placing hand on heart, feeling its rhythm* The heartbeat that limits my days also makes each day precious. The gravity that holds me down also lets me dance. Thank you, universe, for pushing back.",
+      "tone": "embodied gratitude"
+    },
+    {
+      "character": "architect",
+      "state": "witnessing completion",
+      "context": "seeing full integration",
+      "text": "*space itself seeming to breathe* That's the final transformation—from resenting limits to recognizing them as love. The universe's resistance isn't punishment. It's partnership.",
+      "tone": "cosmic appreciation"
+    },
+    {
+      "character": "evan",
+      "state": "complete presence",
+      "context": "being the understanding",
+      "text": "*feeling weight as blessing* Every 'no' creates space for meaningful 'yes.' Every wall becomes a surface to paint on. Every limit... a gift that makes us real.",
+      "tone": "sacred recognition"
+    }
+  ],
+  "visual_elements": {
+    "heartbeat_visible": "Life's rhythm as constraint and gift",
+    "breathing_space": "Universe as living partner",
+    "evan_grounded": "Weight as connection not burden",
+    "atmosphere": "Sacred ordinary"
+  },
+  "psychological_notes": "Evan's hand on heart connects abstract philosophy to embodied reality. He recognizes that the very limitations he once fought against—mortality, gravity, resistance—are what make existence meaningful. This is mature gratitude: thanking the universe for its very pushback.",
+  "philosophical_underpinning": "Constraints are not obstacles to meaning but its very source",
+  "therapeutic_direction": "Transforming resentment of limits into gratitude for structure"
+}
