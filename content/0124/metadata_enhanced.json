@@ -1,0 +1,40 @@
+{
+  "scene_number": 124,
+  "title": "Guarding the Patchwork",
+  "characters": ["evan", "architect"],
+  "location": "void",
+  "emotional_tone": "fierce compassion",
+  "panel_count": "2-panel",
+  "panel_structure": [
+    {
+      "panel": 1,
+      "description": "The Architect as fighter in defensive stance, armor partially revealing the patchwork beneath. Fierce protection posture but with visible vulnerability. The patchwork glows with borrowed but precious pieces.",
+      "focus": "Holy fierceness protecting fragility"
+    },
+    {
+      "panel": 2,
+      "description": "Close-up of patchwork identity—each piece clearly borrowed (parent's fear, society's dream, culture's value) but woven into coherent whole. Hands holding it with both tenderness and fierce protection. Light showing it's imperfect but functional.",
+      "focus": "The necessary patchwork we call self"
+    }
+  ],
+  "key_themes": [
+    "defending borrowed identity",
+    "holy necessity",
+    "patchwork as functional self",
+    "fierce protection of fragility"
+  ],
+  "transformation_notes": "This scene transforms the discovery of borrowed identity (from Scene 122) into understanding why we defend it so fiercely. Not delusion but survival—the patchwork is all we've got.",
+  "color_palette": {
+    "primary": "fighter's red courage",
+    "secondary": "patchwork multicolor",
+    "accents": "holy gold threading"
+  },
+  "visual_motifs": [
+    "fighter protecting vulnerability",
+    "patchwork as coherent whole",
+    "armor revealing what it protects",
+    "borrowed pieces glowing"
+  ],
+  "dialogue_rhythm": "From confused vulnerability to fierce recognition to compassionate acceptance",
+  "narrator_role": "Compassionate witness to the necessity of borrowed identity"
+}
