@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 258,
+    "title": "The Weight of Freedom",
+    "panel_count": 2,
+    "characters": ["evan"],
+    "location": "continuing_path",
+    "emotional_tone": "deep philosophical inquiry",
+    "psychological_theme": "freedom and consequence",
+    "philosophical_depth": "the paradox of choice and determinism"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "visual": "Evan walking, thoughtful",
+      "imagination_overlay": "Scales of justice floating above",
+      "symbolism": "Weighing freedom against consequence"
+    },
+    {
+      "panel": 2,
+      "focus": "The balance symbol",
+      "quality": "Freedom and determinism in equilibrium",
+      "atmosphere": "Mental wrestling with paradox"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "action": "continues walking, imagining a balance, the justice symbol",
+      "text": "Freedom is not free of inconsistencies. Am I free if the consequences of my decisions or actions reward one option over another?"
+    }
+  ],
+  "psychological_notes": "Evan grapples with the fundamental paradox of free will - how can choices be free if they're influenced by consequences? This represents sophisticated psychological thinking about the nature of agency. The justice symbol suggests he's weighing not just choices but the very concept of choice itself.",
+  "philosophical_underpinning": "True freedom may be impossible if choices are shaped by their outcomes",
+  "therapeutic_direction": "Examining how our sense of agency coexists with causal determinism"
+}
