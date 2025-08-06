@@ -1,0 +1,64 @@
+{
+  "scene_metadata": {
+    "scene_number": 440,
+    "title": "The Certainty Movement",
+    "characters": ["marcus_sterling", "dr_amara_singh", "young_protester", "angry_father", "maya", "sage"],
+    "location": "questions_quarter_protests",
+    "emotional_tone": "tension and transformation",
+    "psychological_theme": "backlash against uncertainty",
+    "philosophical_depth": "resistance as form of engagement"
+  },
+  "dialogue": [
+    {
+      "character": "protesters",
+      "state": "demanding certainty",
+      "context": "marching with signs",
+      "text": "The protestors carry signs: 'Certainty is our right!' They march past the Questions Quarter, demanding answers no one can give."
+    },
+    {
+      "character": "marcus_sterling",
+      "state": "rallying followers",
+      "context": "through megaphone",
+      "text": "They want us confused, questioning, weak! Human beings deserve to know what they are!"
+    },
+    {
+      "character": "dr_amara_singh",
+      "state": "calm confidence",
+      "context": "to her staff",
+      "text": "The question has survived worse opposition. It survived centuries of being pathologized."
+    },
+    {
+      "character": "angry_father",
+      "state": "parental fear",
+      "context": "to news crew",
+      "text": "My daughter came home from school asking what she is! Children need stability, not questions!"
+    },
+    {
+      "character": "young_protester",
+      "state": "breaking down",
+      "context": "in the garden",
+      "text": "I just wanted to know for sure."
+    },
+    {
+      "character": "dr_amara_singh",
+      "state": "gentle understanding",
+      "context": "responding",
+      "text": "So did we all. Until we learned the beauty of not knowing."
+    },
+    {
+      "character": "maya",
+      "state": "elder perspective",
+      "context": "watching from window",
+      "text": "The question is patient. It outlasts its opposition."
+    }
+  ],
+  "visual_elements": {
+    "protest_march": "Signs demanding certainty passing the Quarter",
+    "boarded_windows": "Shops protecting against disruption",
+    "counter_procession": "Silent walkers with question cards",
+    "abandoned_signs": "Protest signs left in garden at dawn"
+  },
+  "psychological_notes": "Shows inevitable backlash against cultural acceptance of uncertainty. The Movement represents those who experience existential questioning as threat rather than gift. Paradoxically, their protest is form of engagement with the very questions they reject. Some protesters transform into questioners.",
+  "philosophical_underpinning": "Opposition to mystery is still relationship with mystery",
+  "therapeutic_direction": "Understanding resistance as stage in acceptance process"
+}

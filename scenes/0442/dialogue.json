@@ -1,0 +1,70 @@
+{
+  "scene_metadata": {
+    "scene_number": 442,
+    "title": "Genetic Questions",
+    "characters": ["dr_kenji_nakamura", "yuki", "dr_sarah_okonkwo", "family_members"],
+    "location": "home_and_laboratory",
+    "emotional_tone": "scientific wonder",
+    "psychological_theme": "inherited questioning patterns",
+    "philosophical_depth": "individual exceeding genetic sum"
+  },
+  "dialogue": [
+    {
+      "character": "dr_kenji_nakamura",
+      "state": "morning reflection",
+      "context": "at mirror with heritage",
+      "text": "In the mirror, I see my mother's eyes, my father's nose, ancestors I never met. 'What am I?' includes all of them, yet exceeds their sum."
+    },
+    {
+      "character": "yuki",
+      "state": "innocent profundity",
+      "context": "joining at mirror",
+      "text": "Daddy, why do I have great-grandma's chin but my own thoughts?"
+    },
+    {
+      "character": "dr_kenji_nakamura",
+      "state": "sharing discovery",
+      "context": "to research team",
+      "text": "We're evolving. Not just culturally but neurologically. The practice of questioning identity may be driving human consciousness toward greater complexity."
+    },
+    {
+      "character": "yuki",
+      "state": "proud explanation",
+      "context": "to her class",
+      "text": "He studies how questions change our brains!"
+    },
+    {
+      "character": "dr_sarah_okonkwo",
+      "state": "expanding perspective",
+      "context": "research discussion",
+      "text": "ARIA asks the same question without genes. Perhaps consciousness itself, not genetics, drives the questioning."
+    },
+    {
+      "character": "yuki",
+      "state": "bedtime wondering",
+      "context": "being tucked in",
+      "text": "Daddy, will my children wonder what they are too?"
+    },
+    {
+      "character": "dr_kenji_nakamura",
+      "state": "hopeful response",
+      "context": "to Yuki",
+      "text": "Probably. But they might wonder in ways we can't imagine."
+    },
+    {
+      "character": "yuki",
+      "state": "satisfied wisdom",
+      "context": "considering future",
+      "text": "Good. Same question, new surprises."
+    }
+  ],
+  "visual_elements": {
+    "mirror_generations": "Seeing ancestors in present faces",
+    "brain_scans": "Neural pathways of questioners vs resisters",
+    "dna_spirals": "Genetic helixes resembling garden paths",
+    "family_dinner": "Three generations of questioners"
+  },
+  "psychological_notes": "Explores how existential questioning might create heritable changes in neurology and consciousness. Shows the question as both genetic inheritance and transcendent property. Yuki represents generation for whom questioning is biological and cultural birthright.",
+  "philosophical_underpinning": "Consciousness exceeds its material components while including them",
+  "therapeutic_direction": "Understanding identity as river flowing through generations"
+}
