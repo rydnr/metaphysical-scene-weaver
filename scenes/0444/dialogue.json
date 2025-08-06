@@ -1,0 +1,64 @@
+{
+  "scene_metadata": {
+    "scene_number": 444,
+    "title": "Uncertainty Therapy",
+    "characters": ["dr_rosa_martinez", "retired_ceo", "new_mother", "teenager", "marcus_sterling"],
+    "location": "spiral_garden_therapy",
+    "emotional_tone": "therapeutic transformation",
+    "psychological_theme": "healing through questions",
+    "philosophical_depth": "falling in love with uncertainty"
+  },
+  "dialogue": [
+    {
+      "character": "dr_rosa_martinez",
+      "state": "setting intention",
+      "context": "opening group session",
+      "text": "The therapy group meets in the spiral garden. 'We're not here to answer your questions,' the facilitator says, 'but to help you fall in love with them.'"
+    },
+    {
+      "character": "retired_ceo",
+      "state": "vulnerable sharing",
+      "context": "expressing fear",
+      "text": "I spent forty years being 'successful businessman.' Now that identity is gone and I'm terrified of the emptiness."
+    },
+    {
+      "character": "dr_rosa_martinez",
+      "state": "reframing gently",
+      "context": "therapeutic response",
+      "text": "What if the emptiness is spaciousness? Room for something new to emerge?"
+    },
+    {
+      "character": "marcus_sterling",
+      "state": "reformed certainty seeker",
+      "context": "confessing transformation",
+      "text": "I was so angry at uncertainty. But the certainty I demanded was killing me."
+    },
+    {
+      "character": "new_mother",
+      "state": "relieved recognition",
+      "context": "finding freedom",
+      "text": "Thank god. I'm so tired of people telling me who I should be."
+    },
+    {
+      "character": "marcus_sterling",
+      "state": "deeper revelation",
+      "context": "sharing journey",
+      "text": "But at night, the questions came anyway. I was fighting myself."
+    },
+    {
+      "character": "dr_rosa_martinez",
+      "state": "closing wisdom",
+      "context": "final invitation",
+      "text": "Some relationships are meant to last. Your relationship with 'What am I?' might be the most enduring one you'll ever have."
+    }
+  ],
+  "visual_elements": {
+    "garden_setting": "Natural therapeutic space",
+    "walking_meditation": "Movement preventing stuckness",
+    "art_expression": "Questions rendered visually",
+    "transformation_visible": "Softening and opening"
+  },
+  "psychological_notes": "Shows evolution of therapeutic practice to embrace rather than resolve existential uncertainty. Marcus Sterling's presence demonstrates how even strongest resistance can transform. Group discovers uncertainty as opportunity rather than affliction. Therapy helps develop affectionate relationship with questions.",
+  "philosophical_underpinning": "Questions as lifelong companions deserving love not resolution",
+  "therapeutic_direction": "Uncertainty as wellness rather than illness"
+}
