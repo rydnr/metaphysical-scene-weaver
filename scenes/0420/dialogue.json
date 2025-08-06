@@ -1,0 +1,40 @@
+{
+  "scene_metadata": {
+    "scene_number": 420,
+    "title": "Aging With Mystery",
+    "characters": ["evan", "young_volunteer", "maya", "sarah"],
+    "location": "senior_center_garden",
+    "emotional_tone": "gentle wisdom",
+    "psychological_theme": "question as life companion",
+    "philosophical_depth": "mystery aging into gentleness"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "elderly reflection",
+      "context": "gardening at seventy",
+      "text": "As I age, the question ages with me. We're old companions now, gentle with each other's mysteries."
+    },
+    {
+      "character": "young_volunteer",
+      "state": "desperate seeking",
+      "context": "breaking silence",
+      "text": "How do you stand it? Not knowing what you really are?"
+    },
+    {
+      "character": "evan",
+      "state": "demonstrating peace",
+      "context": "through presence more than words",
+      "text": "*continues gardening with meditative calm*"
+    }
+  ],
+  "visual_elements": {
+    "aged_hands": "Spotted with age, working soil",
+    "garden_meditation": "Each movement a gentle inquiry",
+    "generational_meeting": "Evan, Maya, grandchild",
+    "evening_settling": "Question like old cat in bones"
+  },
+  "psychological_notes": "Shows how relationship with existential uncertainty evolves through life stages. The question transforms from sharp blade to smooth stone. Evan at 70 demonstrates complete integration - the question no longer torments but accompanies. Gentleness replaces struggle.",
+  "philosophical_underpinning": "Existential questions age and mellow like their questioners",
+  "therapeutic_direction": "Peace through long-term relationship with uncertainty"
+}

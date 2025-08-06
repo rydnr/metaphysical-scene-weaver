@@ -1,0 +1,58 @@
+{
+  "scene_metadata": {
+    "scene_number": 418,
+    "title": "Questions Quarter",
+    "characters": ["evan", "maya", "jordan", "council_members", "community_voices"],
+    "location": "city_council_meeting",
+    "emotional_tone": "collective transformation",
+    "psychological_theme": "personal to cultural shift",
+    "philosophical_depth": "uncertainty as civic resource"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "releasing ownership",
+      "context": "presenting to council",
+      "text": "The question no longer belongs to me. It belongs to all of us, spreading like seeds on wind."
+    },
+    {
+      "character": "teacher",
+      "state": "sharing evidence",
+      "context": "supporting proposal",
+      "text": "Question curriculum reduced anxiety in my students."
+    },
+    {
+      "character": "jordan",
+      "state": "advocating for space",
+      "context": "representing new generation",
+      "text": "We need spaces that honor not-knowing. Not everyone has philosophical families."
+    },
+    {
+      "character": "opposition_voice",
+      "state": "expressing concerns",
+      "context": "council debate",
+      "text": "Won't celebrating uncertainty undermine achievement?"
+    },
+    {
+      "character": "elderly_man",
+      "state": "sharing impact",
+      "context": "after meeting",
+      "text": "My grandson wants to study 'uncertainty design' in college. Because of what you started."
+    },
+    {
+      "character": "evan",
+      "state": "gentle correction",
+      "context": "redirecting credit",
+      "text": "Because of what started in all of us."
+    }
+  ],
+  "visual_elements": {
+    "council_chamber": "Civic discussion of existential matters",
+    "diverse_supporters": "Teachers, therapists, artists, business owners",
+    "approval_celebration": "Community gathering after vote",
+    "evening_spiral": "Original garden as landmark"
+  },
+  "psychological_notes": "Depicts complete transformation from personal crisis to cultural resource. The question has evolved from Evan's private struggle to public good. Shows how individual healing can catalyze systemic change. Multiple generations now involved in normalizing uncertainty.",
+  "philosophical_underpinning": "Personal transformation as seed for cultural evolution",
+  "therapeutic_direction": "Collective healing through shared uncertainty spaces"
+}
