@@ -1,0 +1,59 @@
+{
+  "scene_id": 189,
+  "title": "Time to Go",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "transformed traveler"
+    },
+    {
+      "name": "The Architect",
+      "role": "eternal host"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "I should go. But I don't want this to end.",
+      "tone": "bittersweet recognition"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Endings are doorways. And besides, in a universe where consciousness creates reality, have we ever really been separate?",
+      "tone": "gentle philosophy"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Will I see you again?",
+      "tone": "hopeful uncertainty"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "You'll see me everywhere now. In every question, every paradox, every moment of wonder.",
+      "tone": "mysterious promise"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "stands slowly, gathering himself for return to ordinary world"
+    },
+    {
+      "character": "The Architect",
+      "action": "remains seated but somehow fills entire space with presence"
+    },
+    {
+      "character": "Door",
+      "action": "waits patiently, threshold between transformation space and daily life"
+    },
+    {
+      "character": "Light",
+      "action": "shifts toward evening, marking time's gentle insistence"
+    }
+  ],
+  "environment": {
+    "description": "Cafe preparing for transition, late afternoon becoming evening, sacred space releasing its pilgrim back to the world",
+    "mood": "bittersweet departure, grateful completion, promise of continuation"
+  },
+  "themes": ["endings as beginnings", "integration with daily life", "teacher everywhere", "carrying transformation forward"]
+}

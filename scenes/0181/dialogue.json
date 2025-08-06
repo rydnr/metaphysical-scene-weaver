@@ -1,0 +1,59 @@
+{
+  "scene_id": 181,
+  "title": "After the Storm",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "transformed seeker"
+    },
+    {
+      "name": "The Architect",
+      "role": "witness to transformation"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "I understand now. I can't save them. I can only witness.",
+      "tone": "profound acceptance"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "And in witnessing without trying to fix, what happens?",
+      "tone": "gentle guidance"
+    },
+    {
+      "speaker": "Evan",
+      "text": "The suffering... it doesn't disappear. But it becomes bearable. Sacred, even.",
+      "tone": "quiet revelation"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Welcome to the other side of the paradox.",
+      "tone": "warm acknowledgment"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "sits in peaceful exhaustion, transformed by the journey"
+    },
+    {
+      "character": "Environment",
+      "action": "cafe returns to normal, but everything looks different to transformed eyes"
+    },
+    {
+      "character": "The Architect",
+      "action": "observes with satisfaction of a guide whose student has graduated"
+    },
+    {
+      "character": "Light",
+      "action": "filters through window differently, as if recognizing a fellow traveler"
+    }
+  ],
+  "environment": {
+    "description": "Post-storm cafe, everything ordinary yet completely transformed, afternoon light carrying new meaning",
+    "mood": "peaceful resolution, quiet wisdom, integration complete"
+  },
+  "themes": ["integration of lessons", "wisdom through acceptance", "transformation complete", "ordinary as sacred"]
+}
