@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 220,
+    "title": "Return to Beginning",
+    "characters": ["evan"],
+    "location": "therapy_room",
+    "emotional_tone": "composed return",
+    "psychological_theme": "integration requires return",
+    "philosophical_depth": "the journey's circular nature"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "action": "restores his posture and control, turns around",
+      "text": "After that, the music changed to make me aware that I had to \"go back\" to where the session started, and the door did not appear again."
+    }
+  ],
+  "visual_elements": {
+    "evan_posture": "straightening, returning to ordinary consciousness",
+    "body_language": "controlled, integrated, grounded",
+    "environment": "therapy room solidifying back to normal",
+    "lighting": "returning to ordinary therapeutic ambiance"
+  },
+  "psychological_notes": "The restoration of posture and control marks the ego's necessary return. The journey to dissolution must be followed by reintegration. The door's disappearance suggests the invitation was complete - what needed to be shown was shown.",
+  "philosophical_underpinning": "Every spiritual journey requires return; integration happens in ordinary consciousness",
+  "therapeutic_direction": "Honoring both the journey out and the journey back"
+}

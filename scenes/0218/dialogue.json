@@ -1,0 +1,28 @@
+{
+  "scene_metadata": {
+    "scene_number": 218,
+    "title": "The Vanishing Door",
+    "characters": ["evan"],
+    "location": "therapy_room",
+    "emotional_tone": "worried recognition",
+    "psychological_theme": "ego dissolution and surrender",
+    "philosophical_depth": "annihilation as transformation"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "appears a bit worried",
+      "visualization": "background symbolizes giving up control",
+      "text": "It happened five or six times. I remember it because every time the door appeared, I felt like vanishing."
+    }
+  ],
+  "visual_elements": {
+    "evan_expression": "concern mixed with awe",
+    "background": "abstract representation of control dissolving",
+    "door_presence": "golden doorknob glowing with invitation",
+    "atmosphere": "reality becoming permeable"
+  },
+  "psychological_notes": "The repetition (5-6 times) suggests the psyche's insistence on this passage. The feeling of vanishing represents ego death - not physical death but the dissolution of false self. The worry is natural when facing one's own disappearance.",
+  "philosophical_underpinning": "To pass through certain doors, we must be willing to cease existing as we know ourselves",
+  "therapeutic_direction": "Approaching the terror and liberation of ego dissolution"
+}
