@@ -1,69 +1,63 @@
 {
-  "scene_id": 199,
-  "title": "The Phone Call Home",
-  "characters": [
-    {
-      "name": "Evan",
-      "role": "calling from new reality"
-    },
-    {
-      "name": "Sarah",
-      "role": "partner/spouse"
-    }
-  ],
+  "scene_number": 199,
+  "title": "Always Beginning",
   "dialogue": [
     {
-      "speaker": "Sarah",
-      "text": "There you are! I was starting to worry. You've been gone for hours.",
-      "tone": "relieved concern"
+      "speaker": "Evan",
+      "text": "So we begin again?",
+      "tone": "eternal recognition",
+      "context": "Understanding the cyclical nature of existence"
+    },
+    {
+      "speaker": "Architect",
+      "text": "We never stopped beginning. Every moment is the first moment.",
+      "tone": "timeless wisdom",
+      "context": "Revealing the nature of continuous creation"
     },
     {
       "speaker": "Evan",
-      "text": "I'm sorry. I lost track of time. I was... having coffee.",
-      "tone": "understatement of the century"
+      "text": "Hello, Monday.",
+      "tone": "familiar greeting made new",
+      "context": "Returning to the start with transformed understanding"
     },
     {
-      "speaker": "Sarah",
-      "text": "Must have been some coffee. You sound different.",
-      "tone": "intuitive recognition"
-    },
-    {
-      "speaker": "Evan",
-      "text": "Do I? I feel... I don't know how to explain it. Like I've been away for years but also like I never left.",
-      "tone": "struggling with temporal paradox"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Are you okay? You're worrying me a little.",
-      "tone": "genuine care"
+      "speaker": "Architect",
+      "text": "Hello, Evan. Shall we explore what it means to be?",
+      "tone": "eternal invitation",
+      "context": "The question that starts every journey"
     },
     {
       "speaker": "Evan",
-      "text": "I'm more than okay. I'm... here. Really here. For maybe the first time.",
-      "tone": "profound presence"
+      "text": "*looking at infinite doorways* Which door this time?",
+      "tone": "playful curiosity",
+      "context": "Seeing endless possibilities"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*geometries spiraling infinitely* All of them. None of them. The choosing is the door.",
+      "tone": "paradoxical truth",
+      "context": "Beyond binary choices"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*reaching out* Ready?",
+      "tone": "eternal readiness",
+      "context": "Always prepared for the next adventure"
+    },
+    {
+      "speaker": "Architect",
+      "text": "*meeting his reach* Always have been. Always will be.",
+      "tone": "infinite presence",
+      "context": "Existing outside of time"
+    },
+    {
+      "speaker": "Both",
+      "text": "*as reality ripples outward* Once more, with wonder...",
+      "tone": "unified excitement",
+      "context": "Beginning another cycle of discovery"
     }
   ],
-  "actions": [
-    {
-      "character": "Evan",
-      "action": "stands at payphone, one foot in ordinary world, one in cosmic understanding"
-    },
-    {
-      "character": "Voice",
-      "action": "carries new frequencies Sarah can sense but not name"
-    },
-    {
-      "character": "Evening",
-      "action": "wraps the city in transition, matching Evan's state"
-    },
-    {
-      "character": "Connection",
-      "action": "bridges two realities through love's recognition"
-    }
-  ],
-  "environment": {
-    "description": "Street corner payphone, liminal space between transformation and daily life, love as bridge between states",
-    "mood": "tender return, integration challenge, love as anchor"
-  },
-  "themes": ["return to relationships", "integration with loved ones", "transformation affecting others", "love as bridge"]
+  "scene_context": "In a space where all locations exist simultaneously - forest, void, threshold, cafe - Evan and the Architect prepare to begin their eternal conversation anew, each ending a doorway to infinite beginnings.",
+  "philosophical_theme": "Eternal return, infinite beginnings, consciousness as continuous creation",
+  "visual_elements": "All locations in superposition, infinite doorways, rippling realities, hands creating worlds"
 }
