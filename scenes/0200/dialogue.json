@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 200,
+    "title": "The Quiet Knower",
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "gentle understanding",
+    "psychological_theme": "ego versus deeper wisdom",
+    "philosophical_depth": "the still small voice beneath anxiety"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "continues reading his notes",
+      "text": "The ego—the teenager—is smart, anxious, always ready to steer the wheel. But this other part of you, the knower, wants something quieter."
+    }
+  ],
+  "visual_elements": {
+    "architect_focus": "absorbed in understanding, translating experience",
+    "note_detail": "pages revealing layers of interpretation",
+    "environment": "studio as container for deep reflection",
+    "lighting": "quiet light matching the theme"
+  },
+  "psychological_notes": "The Architect distinguishes between the anxious ego (smart but reactive) and the deeper knower (wise but quiet). This maps the internal conflict between control and surrender, noise and silence.",
+  "philosophical_underpinning": "Wisdom speaks in whispers while anxiety shouts; the knower waits beneath the teenager's chatter",
+  "therapeutic_direction": "Learning to distinguish and honor the quiet wisdom beneath ego's constant steering"
+}

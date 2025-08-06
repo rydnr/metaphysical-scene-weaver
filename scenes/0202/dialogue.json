@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 202,
+    "title": "Verb With Flesh",
+    "characters": ["architect"],
+    "location": "architect_studio",
+    "emotional_tone": "amazed recognition",
+    "psychological_theme": "identity as process not thing",
+    "philosophical_depth": "being as becoming made manifest"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "action": "now takes a book from the shelf",
+      "text": "And the hypnosis moment… wow. The answer to \"what am I?\" wasn't a noun. It was a verb with flesh: change incarnate."
+    }
+  ],
+  "visual_elements": {
+    "architect_gesture": "reaching for book as if for confirmation",
+    "book_symbolism": "external authority consulted then transcended",
+    "environment": "studio filled with attempts to capture the uncapturable",
+    "lighting": "illumination of profound recognition"
+  },
+  "psychological_notes": "The Architect grasps the revolutionary nature of the answer - identity not as fixed entity but as embodied process. 'Verb with flesh' captures the paradox of human existence: constant change in temporary form.",
+  "philosophical_underpinning": "Process philosophy made visceral; Heraclitus meets biology",
+  "therapeutic_direction": "Shifting from 'who am I?' to 'what am I becoming?'"
+}
