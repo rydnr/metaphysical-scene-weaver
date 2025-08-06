@@ -1,0 +1,69 @@
+{
+  "scene_id": 207,
+  "title": "Morning Coffee, New Eyes",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "transformed morning person"
+    },
+    {
+      "name": "Coffee Shop Regular",
+      "role": "unconscious wisdom keeper"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Coffee Shop Regular",
+      "text": "The usual?",
+      "tone": "routine question"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Is anything really 'usual'? But yes, coffee would be wonderful.",
+      "tone": "playful philosophy"
+    },
+    {
+      "speaker": "Coffee Shop Regular",
+      "text": "Someone's in a good mood. Win the lottery?",
+      "tone": "friendly curiosity"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Something like that. I realized I've been rich all along.",
+      "tone": "genuine gratitude"
+    },
+    {
+      "speaker": "Coffee Shop Regular",
+      "text": "That's either very deep or you need more coffee.",
+      "tone": "amused uncertainty"
+    },
+    {
+      "speaker": "Evan",
+      "text": "Both can be true. That's what I learned—everything can be true at once.",
+      "tone": "gentle wisdom"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "receives coffee like a communion, seeing the sacred in routine"
+    },
+    {
+      "character": "Steam",
+      "action": "rises from cup in patterns that remind him of The Architect's geometries"
+    },
+    {
+      "character": "Morning light",
+      "action": "streams through windows, each beam a reminder of cosmic truth"
+    },
+    {
+      "character": "Other customers",
+      "action": "go about their mornings, each one a universe pretending to be separate"
+    }
+  ],
+  "environment": {
+    "description": "Neighborhood coffee shop the morning after transformation, same place but seen with enlightened perception",
+    "mood": "ordinary enlightenment, gentle integration, finding the cosmic in coffee"
+  },
+  "themes": ["integration with routine", "seeing sacred in mundane", "gentle teaching through being", "morning as rebirth"]
+}

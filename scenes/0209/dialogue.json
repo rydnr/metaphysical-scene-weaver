@@ -1,0 +1,73 @@
+{
+  "scene_id": 209,
+  "title": "The Work Meeting",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "enlightened employee"
+    },
+    {
+      "name": "Boss",
+      "role": "stressed manager"
+    },
+    {
+      "name": "Colleagues",
+      "role": "corporate chorus"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Boss",
+      "text": "We're facing significant challenges this quarter. The numbers don't lie.",
+      "tone": "corporate anxiety"
+    },
+    {
+      "speaker": "Evan",
+      "text": "What if the numbers are just one way of telling the story?",
+      "tone": "gentle reframing"
+    },
+    {
+      "speaker": "Boss",
+      "text": "Evans, this is serious. We need solutions, not philosophy.",
+      "tone": "frustrated urgency"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I understand. What if the solution is to first understand what problem we're really solving?",
+      "tone": "calm inquiry"
+    },
+    {
+      "speaker": "Colleague",
+      "text": "He has a point. Are we fixing symptoms or causes?",
+      "tone": "dawning recognition"
+    },
+    {
+      "speaker": "Boss",
+      "text": "I... hmm. That's actually... let me think about this differently.",
+      "tone": "paradigm shifting"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "sits peacefully amid corporate storm, presence calming the room"
+    },
+    {
+      "character": "Presentation slides",
+      "action": "show graphs and charts that Evan now sees as modern cave paintings"
+    },
+    {
+      "character": "Conference room",
+      "action": "transforms subtly from battlefield to collaboration space"
+    },
+    {
+      "character": "Team",
+      "action": "unconsciously mirrors Evan's calmer energy"
+    }
+  ],
+  "environment": {
+    "description": "Corporate conference room where transformation meets quarterly reports, wisdom infiltrates metrics",
+    "mood": "corporate anxiety meeting centered presence, gradual shift from fear to curiosity"
+  },
+  "themes": ["wisdom in workplace", "reframing problems", "presence as leadership", "transformation in corporate life"]
+}
