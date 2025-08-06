@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 261,
+    "title": "Building from Rubble",
+    "characters": ["evan", "architect"],
+    "location": "construction_site",
+    "emotional_tone": "creative determination",
+    "psychological_theme": "reconstruction after deconstruction",
+    "philosophical_depth": "creating meaning from questioned foundations"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "surveying the demolition",
+      "context": "accepting his role",
+      "text": "*looking at the conceptual rubble* I guess someone has to ask the questions that break things. But what do we build from what's left?",
+      "tone": "constructive curiosity"
+    },
+    {
+      "character": "architect",
+      "state": "collaborative building",
+      "context": "joining the reconstruction",
+      "text": "*picking up pieces of broken certainties* Maybe we build something that includes its own questioning. A structure that dances with its own demolition.",
+      "tone": "creative wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "understanding dawning",
+      "context": "seeing new possibility",
+      "text": "*beginning to stack rubble creatively* So not permanent answers but... living questions? Buildings that know they're temporary?",
+      "tone": "breakthrough insight"
+    }
+  ],
+  "visual_elements": {
+    "site_transformation": "Demolition becoming construction",
+    "rubble_quality": "Broken certainties as building material",
+    "collaborative_work": "Two figures building together",
+    "atmosphere": "Creative reconstruction"
+  },
+  "psychological_notes": "Evan accepts his role as questioner who breaks false certainties, but now asks what comes next. The architect suggests building structures that include their own impermanence - wisdom that knows its own limits. This represents mature philosophical thinking where truth includes acknowledgment of its own provisional nature.",
+  "philosophical_underpinning": "Truth as dynamic process rather than static structure",
+  "therapeutic_direction": "Moving from destruction to creative reconstruction with humility"
+}
