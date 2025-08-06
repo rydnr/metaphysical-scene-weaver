@@ -1,0 +1,69 @@
+{
+  "scene_id": 211,
+  "title": "Teaching Without Teaching",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "unconscious teacher"
+    },
+    {
+      "name": "Stressed Stranger",
+      "role": "seeker without knowing"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Stressed Stranger",
+      "text": "Excuse me, is this the right platform for downtown?",
+      "tone": "anxious rushing"
+    },
+    {
+      "speaker": "Evan",
+      "text": "It is. The train comes when it comes. There's a bench here if you'd like to wait with intention rather than anxiety.",
+      "tone": "gentle offering"
+    },
+    {
+      "speaker": "Stressed Stranger",
+      "text": "I can't wait. I'm already late. Everything's falling apart.",
+      "tone": "spiral of panic"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I've found that everything falls apart exactly when it needs to. Like leaves in autumn, making room for new growth.",
+      "tone": "sharing experience"
+    },
+    {
+      "speaker": "Stressed Stranger",
+      "text": "That's... I never thought of it that way. You seem so calm.",
+      "tone": "curiosity breaking through panic"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I'm just someone who learned that missing one train usually means you're perfectly on time for another journey entirely.",
+      "tone": "lived wisdom"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "stands on platform like a lighthouse, steady in the storm of rush hour"
+    },
+    {
+      "character": "Stressed Stranger",
+      "action": "gradually slows down, matching Evan's calmer rhythm"
+    },
+    {
+      "character": "Other commuters",
+      "action": "rush past, some pausing briefly in the bubble of calm"
+    },
+    {
+      "character": "Train",
+      "action": "arrives exactly when it needs to, neither late nor early"
+    }
+  ],
+  "environment": {
+    "description": "Subway platform during evening rush, transformed into accidental wisdom school",
+    "mood": "urban anxiety meeting centered presence, public space becoming sacred"
+  },
+  "themes": ["teaching through being", "wisdom in transit", "calm as contagion", "reframing crisis as opportunity"]
+}

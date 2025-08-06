@@ -1,0 +1,37 @@
+{
+  "scene_metadata": {
+    "scene_number": 230,
+    "title": "Rituals of Creation",
+    "panel_count": 2,
+    "characters": ["architect"],
+    "location": "monastery_laboratory_fusion",
+    "emotional_tone": "contemplative insight",
+    "psychological_theme": "projects as self-communication",
+    "philosophical_depth": "creation as ritual rather than product"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "setting": "Laboratory with monastic elements",
+      "character_appearance": "architect dressed like a monk",
+      "visual_blend": "science meets spirituality",
+      "atmosphere": "sacred investigation"
+    },
+    {
+      "panel": 2,
+      "focus": "architect's knowing expression",
+      "background": "projects floating like prayers",
+      "symbolism": "creation as communication with self"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "appearance": "dressed like a monk",
+      "text": "They might be rituals. Self-talk encoded as action. That's why you don't care if anyone sees them... but also secretly do."
+    }
+  ],
+  "psychological_notes": "Personal projects as rituals reveals their true psychological function - not to produce outcomes but to process inner states. The paradox of not caring but secretly caring captures the complex relationship we have with our creations. They're private prayers that wouldn't mind being overheard.",
+  "philosophical_underpinning": "Creation as spiritual practice transcends the need for external validation while remaining open to connection",
+  "therapeutic_direction": "Understanding the ritual nature of personal projects removes productivity pressure"
+}

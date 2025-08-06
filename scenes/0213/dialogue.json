@@ -1,0 +1,69 @@
+{
+  "scene_id": 213,
+  "title": "The Dream Journal",
+  "characters": [
+    {
+      "name": "Evan",
+      "role": "dream documenter"
+    },
+    {
+      "name": "Sarah",
+      "role": "curious partner"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Sarah",
+      "text": "You're writing again. I haven't seen you journal in years.",
+      "tone": "gentle observation"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I keep having this dream. The same one, but different each time.",
+      "tone": "thoughtful mystery"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "What happens in it?",
+      "tone": "supportive curiosity"
+    },
+    {
+      "speaker": "Evan",
+      "text": "I meet someone. Or something. They show me that everything is alive, even the spaces between things.",
+      "tone": "struggling to articulate"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds beautiful. And a little scary.",
+      "tone": "intuitive understanding"
+    },
+    {
+      "speaker": "Evan",
+      "text": "It's both. Like seeing a color you don't have a name for. Changes how you see all the other colors.",
+      "tone": "metaphorical reaching"
+    }
+  ],
+  "actions": [
+    {
+      "character": "Evan",
+      "action": "writes in journal, words flowing like automatic writing"
+    },
+    {
+      "character": "Sarah",
+      "action": "sits beside him, reading over his shoulder with growing recognition"
+    },
+    {
+      "character": "Morning light",
+      "action": "streams through window, illuminating dust motes that dance like conscious particles"
+    },
+    {
+      "character": "Journal pages",
+      "action": "fill with descriptions that blur the line between dream and memory"
+    }
+  ],
+  "environment": {
+    "description": "Bedroom at dawn, intimate space where transformation meets daily partnership",
+    "mood": "tender sharing, mystery within marriage, dreams bleeding into waking life"
+  },
+  "themes": ["integration in relationships", "dreams as teaching", "sharing transformation gently", "mystery within intimacy"]
+}
