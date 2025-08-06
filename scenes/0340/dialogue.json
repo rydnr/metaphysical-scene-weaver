@@ -1,28 +1,28 @@
 {
   "scene_metadata": {
     "scene_number": 340,
-    "title": "The One Questioner",
-    "characters": ["evan"],
-    "location": "stopped_on_spiral",
-    "emotional_tone": "cosmic vertigo",
-    "psychological_theme": "dissolution of separate self",
-    "philosophical_depth": "consciousness investigating itself through multiplicity"
+    "title": "Identity Repair",
+    "characters": ["architect"],
+    "location": "meta_conversation_space",
+    "emotional_tone": "therapeutic insight",
+    "psychological_theme": "healing through reframing",
+    "philosophical_depth": "narrative continuity"
   },
   "dialogue": [
     {
-      "character": "evan",
-      "state": "overwhelming realization",
-      "context": "boundaries of self dissolving",
-      "text": "What if everyone who asks 'What am I?' is the same consciousness, exploring itself through billions of perspectives?"
+      "character": "architect",
+      "state": "therapeutic wisdom",
+      "context": "reframing mistake processing",
+      "text": "You're right that you can't change the past. But you can relate to it differently. Thinking through your errors isn't just mental flagellation—it's identity repair."
     }
   ],
   "visual_elements": {
-    "evan_reaction": "Stick dropping from nerveless fingers",
-    "postural_change": "Standing still, overwhelmed",
-    "perceptual_effect": "Boundaries dissolving",
-    "symbolic_element": "One awareness behind all eyes"
+    "architect_presence": "Compassionate understanding",
+    "visualization": "Past being rewoven",
+    "repair_imagery": "Broken narrative mending",
+    "atmosphere": "Healing possibility"
   },
-  "psychological_notes": "Peak realization—Evan directly perceives that all questioners are the same consciousness investigating itself through apparent separation. This isn't intellectual understanding but experiential recognition. The isolation of existential questioning transforms into ultimate communion.",
-  "philosophical_underpinning": "Non-dual recognition—multiplicity as methodology for self-knowledge",
-  "therapeutic_direction": "Transcendence of individual therapeutic narrative into universal healing"
+  "psychological_notes": "The architect reframes Evan's rumination about mistakes as constructive 'identity repair' rather than pointless self-punishment. This therapeutic insight shows how reviewing errors serves psychological function - maintaining narrative coherence and self-concept continuity even when actions contradict self-image.",
+  "philosophical_underpinning": "Identity as ongoing narrative construction requiring maintenance",
+  "therapeutic_direction": "Transforming rumination into conscious healing work"
 }

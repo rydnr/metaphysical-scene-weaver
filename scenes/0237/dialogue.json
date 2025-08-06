@@ -1,0 +1,43 @@
+{
+  "scene_metadata": {
+    "scene_number": 237,
+    "title": "Walking Into Truth",
+    "characters": ["evan", "architect"],
+    "location": "theater_exit_to_street",
+    "emotional_tone": "raw confrontation",
+    "psychological_theme": "accepting difficult self-knowledge",
+    "philosophical_depth": "liberation through honest seeing"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "shaken by recognition",
+      "context": "after seeing the film",
+      "text": "*stumbling into daylight* That was... that was me, wasn't it? Dragging myself in ways I was never meant to move.",
+      "tone": "devastated clarity"
+    },
+    {
+      "character": "architect",
+      "state": "supportive presence",
+      "context": "guiding through breakthrough",
+      "text": "*steadying him gently* The pain isn't in the seeing. The pain was in the not seeing. Now you know why you're so tired.",
+      "tone": "compassionate truth"
+    },
+    {
+      "character": "evan",
+      "state": "integration beginning",
+      "context": "feeling the shift",
+      "text": "*blinking in sudden sunlight* Something's changing. The street looks different. Like reality is... offering something?",
+      "tone": "wonder emerging"
+    }
+  ],
+  "visual_elements": {
+    "lighting_contrast": "Dark theater to bright street",
+    "evan_transformation": "From hunched resistance to opening awareness",
+    "street_quality": "Ordinary reality taking on mythic undertones",
+    "atmosphere": "Threshold between realization and possibility"
+  },
+  "psychological_notes": "The moment of recognizing how we fight our own nature is devastating but liberating. Evan's insight that he's been 'dragging himself' in unnatural ways explains his exhaustion. The architect's reframe - that pain was in NOT seeing - marks the shift from self-punishment to self-compassion. His perception of reality 'offering something' signals readiness for transformation.",
+  "philosophical_underpinning": "Truth hurts only until we stop resisting it; then it becomes liberation",
+  "therapeutic_direction": "Moving through the pain of recognition into the possibility of change"
+}
