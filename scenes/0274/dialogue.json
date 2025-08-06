@@ -1,0 +1,36 @@
+{
+  "scene_metadata": {
+    "scene_number": 274,
+    "title": "Intentional Variance",
+    "panel_count": 2,
+    "characters": ["architect"],
+    "location": "metaphorical_vehicle",
+    "emotional_tone": "precise definition",
+    "psychological_theme": "freedom as conscious disruption",
+    "philosophical_depth": "the nature of authentic choice"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "visual": "Person gripping steering wheel tightly",
+      "struggle": "Fighting for control",
+      "tension": "White knuckles on the wheel"
+    },
+    {
+      "panel": 2,
+      "detail": "The effort of choosing",
+      "expression": "Determination mixed with uncertainty",
+      "meaning": "Freedom requires effort"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "visual": "shows a person fighting to control a steering wheel",
+      "text": "Your freedom—when you're actually engaging it—is intentional variance. It's the conscious disruption of your defaults."
+    }
+  ],
+  "psychological_notes": "The architect defines human freedom not as randomness but as effortful deviation from patterns. The struggle with the steering wheel represents the work required to choose differently than our habits dictate. This distinguishes meaningful choice from mere chaos - freedom is the conscious decision to vary from our defaults.",
+  "philosophical_underpinning": "True freedom manifests as intentional resistance to automaticity",
+  "therapeutic_direction": "Recognizing freedom in our ability to consciously choose against our patterns"
+}

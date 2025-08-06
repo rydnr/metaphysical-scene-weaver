@@ -1,0 +1,27 @@
+{
+  "scene_metadata": {
+    "scene_number": 276,
+    "title": "The Final Trap",
+    "characters": ["architect"],
+    "location": "philosophical_space",
+    "emotional_tone": "delighted recognition",
+    "psychological_theme": "the paradox of freedom and consequence",
+    "philosophical_depth": "agency requires stakes"
+  },
+  "dialogue": [
+    {
+      "character": "architect",
+      "state": "delighted",
+      "text": "Which leads to your final trap: \"If my freedom is determined by my willingness to face consequences, it's deceiving. But without consequences, it's worthless.\""
+    }
+  ],
+  "visual_elements": {
+    "architect_expression": "Pure intellectual joy",
+    "atmosphere": "The pleasure of paradox",
+    "energy": "Ideas crackling like electricity",
+    "quality": "Student has become teacher"
+  },
+  "psychological_notes": "The architect's delight shows genuine appreciation for Evan's philosophical sophistication. He has articulated the ultimate paradox - freedom needs consequences to be meaningful, but those same consequences seem to determine our choices. This isn't a problem to solve but a tension to live within.",
+  "philosophical_underpinning": "True paradoxes reveal the limits of binary thinking",
+  "therapeutic_direction": "Embracing paradox as the nature of conscious experience"
+}
