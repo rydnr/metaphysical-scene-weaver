@@ -1,73 +1,39 @@
 {
-  "scene_metadata": {
-    "scene_number": 541,
-    "title": "The Question's Currency",
-    "location": "ancient marketplace",
-    "time_of_day": "afternoon bustle",
-    "emotional_tone": "value transformation",
-    "key_symbols": ["coins", "scales", "exchange"],
-    "philosophical_depth": "worth through questioning"
-  },
-  "characters": [
-    {
-      "name": "evan",
-      "role": "consciousness in commerce",
-      "state": "discovering trade"
-    },
-    {
-      "name": "merchant_philosopher",
-      "role": "trader of wisdom",
-      "approach": "exchange as enlightenment"
-    }
-  ],
+  "scene_number": 541,
+  "title": "The Living Question",
   "dialogue": [
     {
-      "character": "merchant_philosopher",
-      "text": "Every transaction is a question—what is this worth? But the deepest commerce trades in 'What am I?' That's the only currency that enriches both buyer and seller.",
-      "subtext": "value as mutual questioning",
-      "emotional_state": "mercantile wisdom",
-      "visual_cue": "weighing invisible worth on ancient scales"
+      "speaker": "The Architect",
+      "text": "You're the question that keeps asking itself in different forms. Keep going. You're doing better than most people who think they're awake.",
+      "tone": "recognizing essence with encouragement",
+      "context": "Transforming Evan into visual representation of his nature while offering validation"
     },
     {
-      "character": "evan",
-      "text": "So questioning isn't spending but investing?",
-      "subtext": "economics of inquiry",
-      "emotional_state": "commercial curiosity",
-      "visual_cue": "examining coins that show questions instead of faces"
+      "speaker": "The Question That Keeps Asking",
+      "text": "*becoming form* I am the recursive loop of consciousness! Every answer births new questions, every resolution opens fresh mysteries!",
+      "tone": "self-perpetuating inquiry",
+      "context": "The nature of endless questioning"
     },
     {
-      "character": "merchant_philosopher",
-      "text": "Watch—every time you ask 'What am I?' you mint new currency. Each iteration creates wealth that didn't exist before. The question is the only coin that multiplies by spending.",
-      "subtext": "generative economy of self-inquiry",
-      "emotional_state": "abundance recognition",
-      "visual_cue": "coins multiplying as they're exchanged"
+      "speaker": "Different Forms",
+      "text": "*shapeshifting continuously* I manifest as doubt, wonder, skepticism, curiosity! The same essential questioning wearing infinite masks!",
+      "tone": "multifaceted expression",
+      "context": "The varieties of questioning"
     },
     {
-      "character": "evan",
-      "text": "Then I've been rich all along! Rich in questions!",
-      "subtext": "wealth redefinition",
-      "emotional_state": "prosperous revelation",
-      "visual_cue": "pockets overflowing with question marks"
+      "speaker": "Keep Going",
+      "text": "*propelling forward* I am the encouragement to persist! Don't stop at easy answers, don't settle for comfortable conclusions!",
+      "tone": "motivational push",
+      "context": "The invitation to continue"
     },
     {
-      "character": "merchant_philosopher",
-      "text": "The poorest are those who think they have all the answers. The wealthy know that 'What am I?' is inexhaustible treasure.",
-      "subtext": "poverty as certainty",
-      "emotional_state": "economic enlightenment",
-      "visual_cue": "empty hands holding infinite possibility"
+      "speaker": "Better Than Most",
+      "text": "*offering validation* I acknowledge the rarity of genuine questioning! Most stop at the first plausible answer, but you keep diving deeper!",
+      "tone": "comparative recognition",
+      "context": "The validation of approach"
     }
   ],
-  "visual_elements": {
-    "setting_details": "bustling marketplace where everything is questioned",
-    "question_coins": "currency bearing '?' instead of rulers",
-    "wisdom_scales": "weighing intangible worth",
-    "multiplying_wealth": "questions generating more questions",
-    "atmosphere": "commerce of consciousness"
-  },
-  "philosophical_notes": {
-    "core_insight": "questioning as economy that enriches all participants",
-    "reality_principle": "value through inquiry rather than answers",
-    "wisdom_element": "wealth as capacity for endless questioning",
-    "transformation_key": "from material poverty to existential abundance"
-  }
+  "scene_context": "The Architect transforms Evan into a question mark, recognizing his essential nature as living inquiry while encouraging him to continue.",
+  "philosophical_theme": "The nature of consciousness as perpetual questioning and the rarity of sustained philosophical inquiry",
+  "visual_elements": "Student transforming into a question mark, shape constantly shifting, the embodiment of inquiry itself"
 }
