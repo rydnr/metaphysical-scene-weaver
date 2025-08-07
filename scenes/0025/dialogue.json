@@ -1,0 +1,65 @@
+{
+  "scene_id": 25,
+  "title": "The Unbearable Lightness of Asking",
+  "location": "A shifting library where books open themselves and words float from pages",
+  "time": "The moment between reading and understanding",
+  "characters": [
+    {
+      "name": "evan",
+      "role": "The Questioner who's starting to float"
+    },
+    {
+      "name": "alex",
+      "role": "The Observer who notices the lightness"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "Do you feel it too? This strange lightness? Ever since I started asking 'What am I?' seriously, I've been... untethering from things."
+    },
+    {
+      "character": "alex",
+      "text": "I see it. You're not standing the same way. It's like gravity forgot to hold you completely."
+    },
+    {
+      "character": "evan",
+      "text": "That's exactly it. The question isn't weighing me down - it's lifting me up. Making me... less certain and more free at the same time."
+    },
+    {
+      "character": "alex",
+      "text": "Maybe that's what questions do when we really inhabit them. They dissolve the weight of assumed answers."
+    },
+    {
+      "character": "evan",
+      "text": "Look - the books are opening by themselves now. As if they know I'm not looking for answers anymore."
+    },
+    {
+      "character": "alex",
+      "text": "The words are floating up like they want to dance with your uncertainty."
+    },
+    {
+      "character": "evan",
+      "text": "Is this what happens when identity becomes a question instead of a statement? Everything gets lighter?"
+    }
+  ],
+  "visual_elements": [
+    "Books opening spontaneously with pages fluttering",
+    "Words literally floating from pages like butterflies",
+    "Evan seeming to hover slightly above the ground",
+    "Library shelves becoming translucent and permeable",
+    "Light bending around the questioning figure"
+  ],
+  "philosophical_notes": [
+    "The paradox of certainty as weight and uncertainty as freedom",
+    "Questions as a form of levitation from fixed reality",
+    "The relationship between knowing and gravity",
+    "Identity as anchor versus identity as flight"
+  ],
+  "completion_status": {
+    "dialogue": "complete",
+    "visual_elements": "complete",
+    "philosophical_notes": "complete",
+    "metadata": "complete"
+  }
+}
