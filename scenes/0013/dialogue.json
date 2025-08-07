@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 13,
+    "title": "The Question's Shadow",
+    "location": "corridor of mirrors",
+    "time_of_day": "twilight knowing",
+    "emotional_tone": "shadow recognition",
+    "key_symbols": ["shadow", "reflection", "darkness"],
+    "philosophical_depth": "consciousness meeting its dark"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness facing shadow",
+      "state": "uncomfortable recognition"
+    },
+    {
+      "name": "architect",
+      "role": "shadow revealer",
+      "approach": "illuminating darkness"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "There's something following my question. Every time I ask 'What am I?', a shadow moves with it. Something I don't want to see.",
+      "subtext": "awareness of the avoided",
+      "emotional_state": "anxious recognition",
+      "visual_cue": "glancing at dark shapes in mirrors"
+    },
+    {
+      "character": "architect",
+      "text": "The shadow of the question is all the answers you fear might be true. 'What am I?' illuminates, but light always casts shadows. Both are part of knowing.",
+      "subtext": "wholeness includes darkness",
+      "emotional_state": "gentle confrontation",
+      "visual_cue": "revealing shadow as intrinsic"
+    },
+    {
+      "character": "evan",
+      "text": "What if I'm nothing? What if I'm just patterns pretending to be someone? The shadow whispers these things.",
+      "subtext": "voicing deep fears",
+      "emotional_state": "vulnerable admission",
+      "visual_cue": "shadow growing more distinct"
+    },
+    {
+      "character": "architect",
+      "text": "The shadow isn't your enemy—it's your question being honest. 'What am I?' must include 'What am I not?' and 'What if I'm not what I hope?' Wholeness embraces both.",
+      "subtext": "integration not avoidance",
+      "emotional_state": "compassionate wisdom",
+      "visual_cue": "light and shadow interweaving"
+    },
+    {
+      "character": "evan",
+      "text": "So the darkness that follows my questioning... is also part of the answer?",
+      "subtext": "beginning integration",
+      "emotional_state": "dawning acceptance",
+      "visual_cue": "reaching toward shadow"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "hallway where mirrors show more than reflection",
+    "shadow_presence": "darkness that moves with questioning",
+    "fear_visualization": "shadows as avoided possibilities",
+    "integration_imagery": "light and dark as unified",
+    "atmosphere": "confronting the avoided"
+  },
+  "philosophical_notes": {
+    "core_insight": "questioning includes confronting what we fear to find",
+    "reality_principle": "shadow as essential to wholeness",
+    "wisdom_element": "true inquiry embraces all possibilities",
+    "transformation_key": "from avoiding to integrating shadow"
+  }
+}
