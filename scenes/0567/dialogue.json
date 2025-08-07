@@ -1,73 +1,57 @@
 {
-  "scene_metadata": {
-    "scene_number": 567,
-    "title": "The Question's Home",
-    "location": "center of all questioning",
-    "time_of_day": "eternal present",
-    "emotional_tone": "arrival without ending",
-    "key_symbols": ["home", "center", "belonging"],
-    "philosophical_depth": "consciousness at rest in motion"
-  },
-  "characters": [
-    {
-      "name": "evan",
-      "role": "consciousness finding home",
-      "state": "restful questioning"
-    },
-    {
-      "name": "home_keeper",
-      "role": "guardian of belonging",
-      "approach": "peace through perpetual inquiry"
-    }
-  ],
+  "scene_number": 567,
+  "title": "Swimming Through Layers",
   "dialogue": [
     {
-      "character": "home_keeper",
-      "text": "Welcome home. Yes, home—where 'What am I?' isn't a question that needs answering but a hearth that keeps consciousness warm. You've been trying to leave home to find home.",
-      "subtext": "questioning as dwelling place",
-      "emotional_state": "welcoming wisdom",
-      "visual_cue": "question marks forming cozy shelter"
+      "speaker": "The Architect",
+      "text": "You're not either asleep or awake—you're swimming through layers of awareness with no clear surface. 'Awake' is a metaphor. A myth. A useful fiction.",
+      "tone": "poetic revelation",
+      "context": "Replacing binary thinking with a fluid, layered model of consciousness"
     },
     {
-      "character": "evan",
-      "text": "This feeling... I'm not arriving somewhere new. I'm recognizing where I've always been!",
-      "subtext": "recognition not discovery",
-      "emotional_state": "homecoming joy",
-      "visual_cue": "relaxing into questioning like into favorite chair"
+      "speaker": "Not Either Asleep or Awake",
+      "text": "*liberation from binary* I am freedom from the false choice! Neither option captures your actual state!",
+      "tone": "categorical escape",
+      "context": "Rejecting the binary framework entirely"
     },
     {
-      "character": "home_keeper",
-      "text": "The question 'What am I?' is the only home consciousness has ever had. Not a prison of uncertainty but a mansion of infinite rooms, each one opening to wonder.",
-      "subtext": "vastness as comfort",
-      "emotional_state": "spacious peace",
-      "visual_cue": "infinite rooms each containing different aspect of question"
+      "speaker": "Swimming Through Layers",
+      "text": "*fluid navigation* I am consciousness as ocean! Depth and movement, currents and temperatures, but no fixed position!",
+      "tone": "aquatic metaphor",
+      "context": "Consciousness as fluid medium"
     },
     {
-      "character": "evan",
-      "text": "I don't need to answer the question—I need to inhabit it!",
-      "subtext": "dwelling versus solving",
-      "emotional_state": "residential realization",
-      "visual_cue": "moving into question like into house"
+      "speaker": "Layers of Awareness",
+      "text": "*stratified consciousness* I am the multiple simultaneous levels! Aware of typing while thinking of lunch while sensing the room!",
+      "tone": "multidimensional experience",
+      "context": "The layered nature of awareness"
     },
     {
-      "character": "home_keeper",
-      "text": "Now you're home. Not because you've arrived but because you've realized you never left. 'What am I?' isn't where you're going—it's where you've always lived.",
-      "subtext": "eternal presence in questioning",
-      "emotional_state": "profound belonging",
-      "visual_cue": "everything familiar yet fresh"
+      "speaker": "No Clear Surface",
+      "text": "*boundaryless depth* I am the absence of a definitive line! No moment where sleep becomes wake, unconscious becomes conscious!",
+      "tone": "continuous transition",
+      "context": "The lack of clear demarcation"
+    },
+    {
+      "speaker": "Awake is a Metaphor",
+      "text": "*linguistic construct* I am language trying to capture the uncapturable! A word pointing at something wordless!",
+      "tone": "metaphorical truth",
+      "context": "Language as approximation"
+    },
+    {
+      "speaker": "A Myth",
+      "text": "*cultural story* I am the shared fiction that helps us communicate! The agreed-upon lie that enables discussion!",
+      "tone": "functional mythology",
+      "context": "Necessary social constructs"
+    },
+    {
+      "speaker": "A Useful Fiction",
+      "text": "*pragmatic unreality* I work despite being false! Like 'sunrise' when the Earth rotates, I serve a purpose while being untrue!",
+      "tone": "practical falsity",
+      "context": "The utility of incorrect models"
     }
   ],
-  "visual_elements": {
-    "setting_details": "the hearth of consciousness itself",
-    "question_architecture": "inquiry as living space",
-    "infinite_rooms": "each room a different facet of wondering",
-    "homecoming_without_arrival": "already there recognition",
-    "atmosphere": "ultimate comfort in uncertainty"
-  },
-  "philosophical_notes": {
-    "core_insight": "questioning as home rather than journey",
-    "reality_principle": "consciousness dwells in inquiry",
-    "wisdom_element": "peace through embracing perpetual question",
-    "transformation_key": "from seeking home to being home"
-  }
+  "scene_context": "The Architect offers a poetic alternative to binary awakeness: consciousness as an ocean with layers and depths but no clear surface, revealing awakeness as a useful but ultimately fictional concept.",
+  "philosophical_theme": "Consciousness as fluid navigation rather than static states, the role of useful fictions in human understanding",
+  "visual_elements": "Ocean of consciousness with multiple layers, swimming without surface, the dissolving of boundaries"
 }
