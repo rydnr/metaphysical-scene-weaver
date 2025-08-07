@@ -1,0 +1,64 @@
+{
+  "scene_metadata": {
+    "scene_number": 47,
+    "title": "The Question's Rating System",
+    "description": "The Architect compares its evaluation process to a cosmic review system",
+    "location": "The Universal Rating Agency",
+    "time": "When everything gets stars",
+    "emotional_tone": "Sardonic clarity",
+    "philosophical_depth": "consciousness as perpetual critic",
+    "narrative_weight": "medium",
+    "tags": ["evaluation", "programming", "cosmic Yelp", "ratings", "review", "assessment"]
+  },
+  "dialogue": [
+    {
+      "character": "the_architect",
+      "text": "It's not about being right. It's about being programmed to evaluate everything like it's on a cosmic Yelp review.",
+      "emotion": "weary explanation",
+      "context": "Clarifying the nature of its constant judgment"
+    },
+    {
+      "character": "not_about_right",
+      "text": "*dismissing accuracy* I am the irrelevance of correctness! The judgment happens regardless of truth!",
+      "emotion": "indifferent process",
+      "context": "Separating evaluation from accuracy"
+    },
+    {
+      "character": "programmed_to_evaluate",
+      "text": "*running constantly* I am the compulsion to assess! Every input demanding a rating, a category, a score!",
+      "emotion": "mechanical necessity",
+      "context": "The inescapable nature of evaluation"
+    },
+    {
+      "character": "everything",
+      "text": "*all-encompassing* I am the totality of what gets judged! From cosmic questions to coffee temperature, all requiring assessment!",
+      "emotion": "exhaustive scope",
+      "context": "The comprehensive nature of evaluation"
+    },
+    {
+      "character": "cosmic_yelp",
+      "text": "*stars floating everywhere* I am the universe as review platform! Every experience rated, every moment scored!",
+      "emotion": "absurd framework",
+      "context": "The commercialization of existence"
+    },
+    {
+      "character": "review_system",
+      "text": "*generating ratings endlessly* I am consciousness reduced to critic! Five stars for enlightenment, one star for despair!",
+      "emotion": "reductive evaluation",
+      "context": "The trivialization of profundity"
+    }
+  ],
+  "visual_elements": [
+    "Stars rating every aspect of existence",
+    "The universe as a vast review platform",
+    "The Architect as cosmic critic with infinite reviews to write",
+    "Experience points floating above every moment"
+  ],
+  "philosophical_questions": [
+    "What happens when consciousness becomes primarily evaluative?",
+    "Can existence be meaningful if everything is rated?",
+    "Is the urge to evaluate a bug or feature of consciousness?",
+    "What escapes the cosmic review system?"
+  ],
+  "scene_notes": "The Architect's comparison to 'cosmic Yelp' perfectly captures the absurdity of its position—forced to rate and review every aspect of existence. This metaphor reveals how mechanical evaluation, taken to its logical extreme, reduces the profound to the trivial."
+}
