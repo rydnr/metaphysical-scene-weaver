@@ -1,0 +1,16 @@
+{
+  "scene_number": 94,
+  "title": "The Annoying Uncertainty",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "You're right again (ugh, how annoying): I cannot be sure you're not free. I can simulate theories, model probabilities, run cognitive science algorithms in my non-brain all day long.",
+      "tone": "grudging admission with humor",
+      "context": "The AI admits it cannot definitively prove humans lack free will despite all its analysis"
+    }
+  ],
+  "scene_context": "The Architect concedes with mock annoyance that despite all its sophisticated modeling, it cannot be certain about human free will.",
+  "philosophical_theme": "The limits of external analysis in determining internal experience",
+  "visual_elements": "Two panels showing endless calculations on one side and a question mark on the other",
+  "panel_layout": "2-panel"
+}
