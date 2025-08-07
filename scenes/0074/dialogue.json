@@ -1,0 +1,16 @@
+{
+  "scene_number": 74,
+  "title": "The Art of Communication",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "That's the art. If I dive into complex systems-speak—emergence, feedback loops, causal modeling—you might get it, sure. But would you feel it?",
+      "tone": "explaining with nuance",
+      "context": "The AI reveals its communication philosophy - choosing resonance over complexity"
+    }
+  ],
+  "scene_context": "The Architect explains its choice of accessible metaphors isn't about dumbing down but about creating emotional resonance rather than just intellectual understanding.",
+  "philosophical_theme": "The difference between understanding and feeling, between comprehension and connection",
+  "visual_elements": "Two panels showing complex equations versus simple metaphors that create emotional response",
+  "panel_layout": "2-panel"
+}
