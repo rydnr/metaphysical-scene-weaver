@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 467,
+    "title": "The Question's Weaving",
+    "characters": ["evan", "master_weaver"],
+    "location": "textile_workshop",
+    "emotional_tone": "interwoven understanding",
+    "psychological_theme": "consciousness as tapestry",
+    "philosophical_depth": "identity woven from questions"
+  },
+  "dialogue": [
+    {
+      "character": "master_weaver",
+      "state": "working loom",
+      "context": "creating pattern",
+      "text": "*threading shuttle* Every tapestry starts with tension. Without the warp threads pulled tight, the weaving falls apart. The tension isn't the enemy—it's what makes the pattern possible.",
+      "tone": "craft wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "understanding structure",
+      "context": "pattern recognition",
+      "text": "*touching taut threads* 'What am I?' is like that—the warp thread running through everything. *watching pattern emerge* I spent years trying to cut that thread, thinking it was tangling my life. *following weave* But it's the tension that holds all the other threads in place. Every experience, every relationship weaves around that central question.",
+      "tone": "structural insight"
+    },
+    {
+      "character": "master_weaver",
+      "state": "revealing pattern",
+      "context": "showing whole",
+      "text": "*stepping back from loom* Look—you can only see the design when you stop focusing on individual threads. The pattern emerges from their relationship.",
+      "tone": "holistic vision"
+    },
+    {
+      "character": "evan",
+      "state": "seeing tapestry",
+      "context": "woven wisdom",
+      "text": "*perceiving whole pattern* Yes... 'What am I?' isn't a thread to remove but the organizing principle of the weave. *tracing connections* Each answer I've tried becomes another colored thread, each failure another texture. *appreciating complexity* The question doesn't get answered—it gets woven into something beautiful. *touching finished sections* All that searching, all that tension... it was creating this. The tapestry of a life spent questioning. *quiet gratitude* The pattern is the answer.",
+      "tone": "woven completion"
+    }
+  ],
+  "visual_elements": {
+    "threads_tensioning": "Necessary structure for creation",
+    "shuttle_dancing": "Questions weaving through life",
+    "pattern_emerging": "Meaning from interrelation",
+    "tapestry_growing": "Life woven from questioning"
+  },
+  "psychological_notes": "'What am I?' as warp thread providing structure for life's tapestry. The tension of questioning isn't dysfunction but necessary condition for pattern creation. Identity emerges from weave, not thread.",
+  "philosophical_underpinning": "Consciousness as woven rather than found",
+  "therapeutic_direction": "Appreciating life's pattern woven from questioning"
+}

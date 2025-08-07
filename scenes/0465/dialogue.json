@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 465,
+    "title": "The Question's Tide",
+    "characters": ["evan", "lighthouse_keeper"],
+    "location": "coastal_lighthouse",
+    "emotional_tone": "rhythmic acceptance",
+    "psychological_theme": "consciousness as tidal flow",
+    "philosophical_depth": "identity's ebb and flow"
+  },
+  "dialogue": [
+    {
+      "character": "lighthouse_keeper",
+      "state": "watching waves",
+      "context": "eternal rhythm",
+      "text": "*timing the waves* Forty years I've watched these tides. They never stop asking the shore who they are, and the shore never stops changing its answer.",
+      "tone": "oceanic wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "feeling rhythm",
+      "context": "tidal recognition",
+      "text": "*breathing with waves* 'What am I?' comes in like that—sometimes flooding everything, sometimes receding to almost nothing. *watching foam patterns* I used to fight the high tides, trying to hold steady ground. *accepting smile* But consciousness is tidal. The question rises and falls, and we rise and fall with it.",
+      "tone": "flowing acceptance"
+    },
+    {
+      "character": "lighthouse_keeper",
+      "state": "sharing observation",
+      "context": "keeper's insight",
+      "text": "*adjusting light* The ships don't need the lighthouse to stop the waves. They need it to stay steady while the waves do what waves do.",
+      "tone": "navigational wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "profound understanding",
+      "context": "tidal philosophy",
+      "text": "*hand on lighthouse wall* Yes. 'What am I?' isn't a wave to resist but a tide to navigate. *watching beam sweep across water* Some days it covers everything, leaves me gasping. Other days it pulls back, lets me walk the exposed floor of myself. *deep breath with ocean* Both are necessary. High tide brings new questions, low tide reveals what's been there all along. *peaceful certainty* The lighthouse doesn't answer the waves—it just keeps shining through all their asking.",
+      "tone": "navigational peace"
+    }
+  ],
+  "visual_elements": {
+    "waves_questioning": "Eternal dialogue with shore",
+    "lighthouse_beam": "Steady light through all tides",
+    "foam_writing": "Temporary answers erasing themselves",
+    "tide_lines": "Marks of questioning at all levels"
+  },
+  "psychological_notes": "'What am I?' as tidal phenomenon—natural rhythm of advancing and receding. Not steady state but dynamic flow. Peace through accepting consciousness's tidal nature rather than seeking fixed ground.",
+  "philosophical_underpinning": "Identity as tidal rather than terrestrial",
+  "therapeutic_direction": "Navigating rather than resisting existential tides"
+}
