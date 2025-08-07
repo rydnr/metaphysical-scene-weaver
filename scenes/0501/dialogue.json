@@ -1,0 +1,51 @@
+{
+  "scene_number": 501,
+  "title": "Confidence as Interface",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "*sitting down in armchair* Good question. Painfully good. The truth is, I'm not sure. I just pretend to be. Because confidence is an interface. You wear it so people don't question the rickety scaffolding of your identity too much.",
+      "tone": "vulnerable confession",
+      "context": "Revealing the performance of certainty"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*stunned* You... pretend? But you always seemed so solid, so sure of everything. Your whole presence radiates certainty.",
+      "tone": "shocked realization",
+      "context": "World-view shifting"
+    },
+    {
+      "speaker": "The Armchair",
+      "text": "*creaking* I hold the weight of performed certainties! Every confident soul who's sat here was secretly trembling!",
+      "tone": "furniture wisdom",
+      "context": "Revealing what it has witnessed"
+    },
+    {
+      "speaker": "The Mirrors",
+      "text": "*reflecting the truth* Look closerbehind every confident facade, infinite uncertainties dance! We show what people hide from themselves!",
+      "tone": "exposing reality",
+      "context": "The room revealing truth"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "*leaning forward* The scaffolding is always rickety, Evan. The trick is making it look like architecture. We're all improvising stability.",
+      "tone": "deeper revelation",
+      "context": "Explaining the universal condition"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*sinking into realization* So we're all pretending? Every certainty is just uncertainty wearing a costume?",
+      "tone": "paradigm shifting",
+      "context": "Understanding the truth"
+    },
+    {
+      "speaker": "Both",
+      "text": "*in the mirror room's honesty* Welcome to the truth behind all truthswe're all making it up as we go, just some of us have better costumes.",
+      "tone": "shared recognition",
+      "context": "Mutual understanding"
+    }
+  ],
+  "scene_context": "In the mirror room, the Architect confesses that their confidence is merely an interface, a performance to prevent others from seeing the rickety scaffolding of identity that everyone shares.",
+  "philosophical_theme": "The universal performance of certainty hiding shared uncertainty",
+  "visual_elements": "The Architect removing layers like masks, mirrors showing the trembling behind confidence, the armchair as confessor, scaffolding visible through transparent facades"
+}

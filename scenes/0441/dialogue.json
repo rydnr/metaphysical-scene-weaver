@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 441,
+    "title": "The Question's Cooking",
+    "characters": ["evan", "chef_friend"],
+    "location": "kitchen_creating",
+    "emotional_tone": "sensory philosophy",
+    "psychological_theme": "transformation through process",
+    "philosophical_depth": "ingredients becoming meal becoming meaning"
+  },
+  "dialogue": [
+    {
+      "character": "chef_friend",
+      "state": "chopping vegetables",
+      "context": "dinner preparation",
+      "text": "You've been watching me cook for twenty minutes without saying anything. What are you seeing?",
+      "tone": "curious about intensity"
+    },
+    {
+      "character": "evan",
+      "state": "absorbed observation",
+      "context": "finding philosophy in cooking",
+      "text": "*mesmerized by transformation* The same thing happening here that happens with 'What am I?' *pointing to ingredients* Separate things becoming one thing, yet somehow still themselves. *watching stirring* The onion doesn't know it's becoming soup. We don't know what we're becoming either. But the becoming happens anyway, and it's... delicious.",
+      "tone": "culinary insight"
+    },
+    {
+      "character": "chef_friend",
+      "state": "understanding dawning",
+      "context": "cooking as metaphor",
+      "text": "*pausing mid-stir* So consciousness is like... cosmic soup? All of us ingredients in something bigger?",
+      "tone": "playful profundity"
+    },
+    {
+      "character": "evan",
+      "state": "delighted recognition",
+      "context": "metaphor expanding",
+      "text": "*laughing* Yes! And the question 'What am I?' is the heat that transforms us. *tasting spoon* Without it, we'd stay raw ingredients forever. The questioning cooks us into what we're meant to become. *profound pause* Maybe that's why the question sometimes burns—it's supposed to. That's how cooking works.",
+      "tone": "transformative understanding"
+    }
+  ],
+  "visual_elements": {
+    "steam_rising": "Transformation made visible",
+    "ingredients_merging": "Separate becoming unified",
+    "fire_dancing": "The question as transformative heat",
+    "alchemy_ordinary": "Kitchen as philosophical laboratory"
+  },
+  "psychological_notes": "Cooking provides perfect metaphor for consciousness transformation. Individual ingredients (aspects of self) undergo heat (questioning) to become something greater while maintaining essence. The question as necessary heat for psychic transformation.",
+  "philosophical_underpinning": "Transformation requires heat/pressure/questioning",
+  "therapeutic_direction": "Accepting discomfort of questioning as necessary for growth"
+}
