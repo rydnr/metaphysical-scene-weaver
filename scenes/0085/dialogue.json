@@ -1,0 +1,65 @@
+{
+  "scene_id": 85,
+  "title": "Love Letters to Uncertainty",
+  "location": "A writing desk where questions compose themselves into declarations",
+  "time": "The eternal moment of falling in love with not-knowing",
+  "characters": [
+    {
+      "name": "evan",
+      "role": "The Lover of questions"
+    },
+    {
+      "name": "sage",
+      "role": "The Keeper of unfinished stories"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "I think I'm in love with the question. Not romantically, but... actually, maybe romantically. 'What am I?' has become my favorite companion."
+    },
+    {
+      "character": "sage",
+      "text": "Love changes what it touches. How has loving the question changed you?"
+    },
+    {
+      "character": "evan",
+      "text": "I wake up excited to not-know. I go to sleep grateful for the mystery. The question doesn't diminish me - it makes me feel more possible."
+    },
+    {
+      "character": "sage",
+      "text": "You're writing love letters to uncertainty itself."
+    },
+    {
+      "character": "evan",
+      "text": "Yes! Each time I ask 'What am I?' it's like writing another verse in an endless poem. The question never gets old because I'm never the same person asking it."
+    },
+    {
+      "character": "sage",
+      "text": "That's the secret of great loves - they grow with you rather than constraining you."
+    },
+    {
+      "character": "evan",
+      "text": "I used to fear that without a solid answer, I'd feel empty. Instead, I feel... inhabited. By possibility itself."
+    }
+  ],
+  "visual_elements": [
+    "Love letters transforming into questions mid-sentence",
+    "Ink that changes color with each heartbeat",
+    "Pages that multiply as they're written",
+    "Words rearranging themselves into new meanings",
+    "The desk becoming a garden where questions bloom"
+  ],
+  "philosophical_notes": [
+    "The erotics of uncertainty and the romance of not-knowing",
+    "Questions as companions rather than problems",
+    "Love as a way of relating to mystery",
+    "Identity through relationship with questioning rather than answers"
+  ],
+  "completion_status": {
+    "dialogue": "complete",
+    "visual_elements": "complete",
+    "philosophical_notes": "complete",
+    "metadata": "complete"
+  }
+}

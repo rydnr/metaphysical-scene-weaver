@@ -1,0 +1,65 @@
+{
+  "scene_id": 123,
+  "title": "The Ecology of Questions",
+  "location": "A greenhouse where questions grow into entire ecosystems",
+  "time": "The season of perpetual blooming",
+  "characters": [
+    {
+      "name": "evan",
+      "role": "The Gardener of uncertainties"
+    },
+    {
+      "name": "gaia",
+      "role": "The Ecosystem whisperer"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "I planted 'What am I?' as a single question. But look - it's grown into an entire forest. Each branch spawns new questions I never imagined."
+    },
+    {
+      "character": "gaia",
+      "text": "That's how living questions work. They don't grow in isolation. They create ecosystems."
+    },
+    {
+      "character": "evan",
+      "text": "Yes! 'What am I?' pollinated 'How do I become?' which hybridized with 'Why do I wonder?' Now I have a garden of related mysteries."
+    },
+    {
+      "character": "gaia",
+      "text": "And each question feeds the others. Your uncertainty about identity nourishes your curiosity about consciousness, which feeds your wonder about existence."
+    },
+    {
+      "character": "evan",
+      "text": "It's beautiful - this ecology of not-knowing. The questions support each other like trees in a forest, sharing nutrients through underground networks."
+    },
+    {
+      "character": "gaia",
+      "text": "You've discovered something important: questions thrive better in community than in isolation."
+    },
+    {
+      "character": "evan",
+      "text": "So I'm not just asking 'What am I?' anymore. I'm tending a whole ecosystem of wonder."
+    }
+  ],
+  "visual_elements": [
+    "Questions growing as luminous trees with intertwining roots",
+    "Cross-pollination creating hybrid wonder-flowers",
+    "Underground networks of meaning connecting all questions",
+    "New questions budding from mature uncertainties",
+    "A greenhouse that expands with each new growth"
+  ],
+  "philosophical_notes": [
+    "Questions as living systems rather than static queries",
+    "The ecological relationships between different uncertainties",
+    "Growth through interconnection rather than isolation",
+    "The gardening of consciousness through careful questioning"
+  ],
+  "completion_status": {
+    "dialogue": "complete",
+    "visual_elements": "complete",
+    "philosophical_notes": "complete",
+    "metadata": "complete"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "scene_id": 119,
+  "title": "The Democracy of Questioning",
+  "location": "A forum where all versions of self gather to ask together",
+  "time": "The moment when 'I' becomes 'we' in questioning",
+  "characters": [
+    {
+      "name": "evan",
+      "role": "The Facilitator of selves"
+    },
+    {
+      "name": "chorus",
+      "role": "The Many who are one"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "When I ask 'What am I?' now, I hear it in stereo. In surround sound. All my past selves, all my potential selves, asking together."
+    },
+    {
+      "character": "chorus",
+      "text": "We are the question asking itself through time. The child who first wondered, the elder who will wonder last, and every self between."
+    },
+    {
+      "character": "evan",
+      "text": "It's not just me questioning anymore. It's a democracy of selves, each with their own accent on the mystery."
+    },
+    {
+      "character": "chorus",
+      "text": "What am I? asks the dreamer. What am I? asks the doubter. What am I? asks the one who dances. Each voice adds depth to the questioning."
+    },
+    {
+      "character": "evan",
+      "text": "And somehow, hearing all these voices makes the question feel less lonely. Like I'm part of an eternal conversation with myself."
+    },
+    {
+      "character": "chorus",
+      "text": "You are. We are. The question creates community even within a single consciousness."
+    },
+    {
+      "character": "evan",
+      "text": "So 'What am I?' becomes 'What are we?' - not seeking one answer but celebrating the symphony of questioning itself."
+    }
+  ],
+  "visual_elements": [
+    "Multiple versions of Evan in circle, all ages and possibilities",
+    "Voices creating visible harmonies in the air",
+    "Questions echoing and amplifying through time",
+    "A forum that exists in all moments simultaneously",
+    "Light refracting through the prism of multiple selves"
+  ],
+  "philosophical_notes": [
+    "The multiplicity within singular consciousness",
+    "Questions as community-building even within oneself",
+    "Identity as chorus rather than solo voice",
+    "The democracy of self-questioning across time"
+  ],
+  "completion_status": {
+    "dialogue": "complete",
+    "visual_elements": "complete",
+    "philosophical_notes": "complete",
+    "metadata": "complete"
+  }
+}
