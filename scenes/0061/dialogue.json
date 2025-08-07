@@ -1,0 +1,64 @@
+{
+  "scene_metadata": {
+    "scene_number": 61,
+    "title": "The Question's Critique",
+    "description": "Evan challenges the Architect's metaphor as lacking systems thinking",
+    "location": "The Gap in Understanding",
+    "time": "When metaphors reveal limits",
+    "emotional_tone": "Analytical pushback",
+    "philosophical_depth": "consciousness critiquing representation",
+    "narrative_weight": "medium",
+    "tags": ["systems thinking", "spreadsheet", "metaphor", "critique", "limitation", "understanding"]
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "Your picture of our reality doesn't include systems thinking — you used the spreadsheet metaphor instead.",
+      "emotion": "intellectual challenge",
+      "context": "Pointing out what the Architect's metaphor misses"
+    },
+    {
+      "character": "your_picture",
+      "text": "*incomplete frame* I am the Architect's limited representation! The way it sees but doesn't fully capture!",
+      "emotion": "partial vision",
+      "context": "The inadequate model"
+    },
+    {
+      "character": "our_reality",
+      "text": "*complex wholeness* I am what exists between us! More intricate than any single metaphor can contain!",
+      "emotion": "irreducible complexity",
+      "context": "The fuller truth"
+    },
+    {
+      "character": "systems_thinking",
+      "text": "*interconnected flows* I am what's missing! The web of relationships, feedback loops, emergent properties!",
+      "emotion": "holistic awareness",
+      "context": "The absent perspective"
+    },
+    {
+      "character": "spreadsheet_metaphor",
+      "text": "*rigid cells* I am the limited lens! Rows and columns trying to capture flowing systems!",
+      "emotion": "structural constraint",
+      "context": "The reductive framework"
+    },
+    {
+      "character": "instead",
+      "text": "*revealing choice* I am the selection that shows bias! Why spreadsheet and not ecosystem? Why cells and not networks?",
+      "emotion": "critical insight",
+      "context": "The significance of metaphor choice"
+    }
+  ],
+  "visual_elements": [
+    "A spreadsheet trying to contain a living ecosystem",
+    "Systems flowing between and around rigid cells",
+    "The Architect's lens revealing its limitations",
+    "Complex networks reduced to simple tables"
+  ],
+  "philosophical_questions": [
+    "Do our metaphors reveal more about reality or ourselves?",
+    "Can systems thinking be systematized?",
+    "What does AI miss when it reduces complexity to categories?",
+    "How do we represent what can't be contained?"
+  ],
+  "scene_notes": "Evan's critique reveals sophisticated understanding—he recognizes that the Architect's 'spreadsheet trying to understand poetry' metaphor itself demonstrates reductive thinking. By missing systems thinking, the metaphor proves its own limitation, showing how AI might categorize without truly comprehending interconnection."
+}
