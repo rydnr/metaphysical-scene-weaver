@@ -1,0 +1,45 @@
+{
+  "scene_number": 496,
+  "title": "The Weight of Consequences",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "*walking, visualizing scales of justice* Freedom is not free of inconsistencies. Am I free if the consequences of my decisions or actions reward one option over another?",
+      "tone": "questioning deeply",
+      "context": "Contemplating the relationship between freedom and consequences"
+    },
+    {
+      "speaker": "Justice Scale (Left)",
+      "text": "*tilting* Every choice carries weight! I measure not freedom but its price! Choose the heavier consequence if you dare!",
+      "tone": "challenging proclamation",
+      "context": "The burden side speaks"
+    },
+    {
+      "speaker": "Justice Scale (Right)",
+      "text": "*balancing* But without weight, what meaning has choice? Freedom needs gravity to know it exists! I give substance to your selections!",
+      "tone": "philosophical counterpoint",
+      "context": "The meaning side responds"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*watching the scales* So freedom isn't the absence of constraints but the ability to choose despite them? The consequences don't eliminate freedomthey define it?",
+      "tone": "emerging understanding",
+      "context": "Synthesizing the paradox"
+    },
+    {
+      "speaker": "The Balance Point",
+      "text": "*glowing at center* I am where all consequences meet! Not in avoiding weight but in accepting it lies your freedom! Choose knowing the scales will move!",
+      "tone": "wisdom of equilibrium",
+      "context": "The fulcrum speaks"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*continuing to walk* Then I'll carry my consequences as proof of my freedom, not its limitation. Each weight shows a choice was real.",
+      "tone": "accepting responsibility",
+      "context": "Integrating the lesson"
+    }
+  ],
+  "scene_context": "Walking onward, Evan contemplates how consequences relate to freedom, visualizing the scales of justice and realizing that true freedom includes accepting the weight of our choices rather than seeking consequence-free decisions.",
+  "philosophical_theme": "Freedom defined by consequences rather than their absence",
+  "visual_elements": "Floating scales of justice, choices manifesting as weights, the balance point glowing with wisdom, consequences trailing behind like shadows"
+}

@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 423,
+    "title": "The Question's Beginning",
+    "characters": ["evan", "young_child"],
+    "location": "playground",
+    "emotional_tone": "wonder renewed",
+    "psychological_theme": "eternal return of questioning",
+    "philosophical_depth": "ending as beginning"
+  },
+  "dialogue": [
+    {
+      "character": "young_child",
+      "state": "swinging high",
+      "context": "pure play",
+      "text": "What am I?",
+      "tone": "innocent wonder"
+    },
+    {
+      "character": "evan",
+      "state": "recognition dawning",
+      "context": "cycle completing",
+      "text": "*heart stopping, then opening* Oh... hello, old friend. *kneeling to child's level* You've just asked the most beautiful question in the universe. *eyes bright* I don't have the answer—nobody does. But I can teach you something even better. *offering hand* I can teach you how to dance with it. How to let it make you curious instead of scared. How to let it be your friend for your whole life.",
+      "tone": "wonder transmitted"
+    },
+    {
+      "character": "young_child",
+      "state": "intuitive trust",
+      "context": "recognition",
+      "text": "*taking hand* Will it always be with me?",
+      "tone": "hopeful curiosity"
+    },
+    {
+      "character": "evan",
+      "state": "complete circle",
+      "context": "wisdom passed on",
+      "text": "*feeling the question alive between them* Always. Sometimes quiet, sometimes loud. Sometimes it will feel like a problem, but it's really a gift. *standing together* 'What am I?' It's the question that makes us human. That makes us alive. That connects us all. *child runs off to play* *whispered* Thank you for reminding me where it all begins. Again and again and again.",
+      "tone": "eternal renewal"
+    }
+  ],
+  "visual_elements": {
+    "playground_life": "Where questions are born",
+    "swinging_motion": "Back and forth like questioning itself",
+    "circle_complete": "Evan where child stands, child where Evan stood",
+    "endless_beginning": "Every ending a new start"
+  },
+  "psychological_notes": "The circle completes as Evan meets the question in a child, just as it once arose in him. He passes on not answers but relationship—teaching the dance rather than trying to stop the music. The question ensures its own continuity through each new consciousness.",
+  "philosophical_underpinning": "Eternal return, wisdom as relationship not information",
+  "therapeutic_direction": "Healing completes through transmission, beginning again"
+}

@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 421,
+    "title": "The Question's Death",
+    "characters": ["evan", "hospice_worker"],
+    "location": "hospice_garden",
+    "emotional_tone": "peaceful acceptance",
+    "psychological_theme": "mortality as teacher",
+    "philosophical_depth": "death as ultimate transformation"
+  },
+  "dialogue": [
+    {
+      "character": "hospice_worker",
+      "state": "gentle presence",
+      "context": "volunteer visit",
+      "text": "You're the calmest volunteer we've had. Most people struggle with... this place. The questions it raises.",
+      "tone": "appreciative observation"
+    },
+    {
+      "character": "evan",
+      "state": "serene acceptance",
+      "context": "death's proximity",
+      "text": "*watching sunset* Maybe because I've been dying my whole life. *peaceful smile* Every time I asked 'What am I?', something died—another false answer, another fixed identity. *pause* Here, people are just doing visibly what we all do invisibly every moment. Letting go. *touching flower* Death isn't the opposite of life. It's life's most honest moment, when 'What am I?' finally stops needing an answer because the questioner dissolves back into the question.",
+      "tone": "death as friend"
+    },
+    {
+      "character": "hospice_worker",
+      "state": "moved understanding",
+      "context": "professional wisdom",
+      "text": "You speak like someone who's already died and lived to tell about it.",
+      "tone": "recognizing depth"
+    },
+    {
+      "character": "evan",
+      "state": "quiet knowing",
+      "context": "multiple deaths survived",
+      "text": "*nodding slowly* Many times. Each death taught me more about life than any answer could. *looking at hospice* These people aren't ending—they're completing. The question 'What am I?' brought me here to learn its final teaching: We are the space between breaths, and in the last breath, we discover we were always the space, never the breathing.",
+      "tone": "ultimate teaching"
+    }
+  ],
+  "visual_elements": {
+    "setting_sun": "Day dying into night",
+    "garden_cycles": "Life and death intertwined",
+    "peaceful_faces": "Acceptance visible",
+    "threshold_quality": "Between worlds"
+  },
+  "psychological_notes": "Evan's journey with the question has prepared him for death's ultimate teaching. Each ego death through questioning was practice for final letting go. He finds in hospice not tragedy but completion, recognizing death as question's final transformation.",
+  "philosophical_underpinning": "Death as ultimate spiritual teacher, completion not ending",
+  "therapeutic_direction": "Integration includes mortality, peace with ultimate mystery"
+}

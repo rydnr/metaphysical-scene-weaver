@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 419,
+    "title": "The Question's Work",
+    "characters": ["evan", "colleague"],
+    "location": "office_break_room",
+    "emotional_tone": "mundane transcendence",
+    "psychological_theme": "enlightenment in everyday",
+    "philosophical_depth": "sacred in ordinary tasks"
+  },
+  "dialogue": [
+    {
+      "character": "colleague",
+      "state": "pouring coffee",
+      "context": "work break",
+      "text": "You seem different lately. More... present? Even in these boring meetings. What's your secret?",
+      "tone": "curious admiration"
+    },
+    {
+      "character": "evan",
+      "state": "stirring coffee mindfully",
+      "context": "workplace wisdom",
+      "text": "*watching cream spiral* No secret. Just stopped dividing life into 'real' and 'not real' parts. *sip* This coffee, this conversation, that spreadsheet—they're all answers to 'What am I?' *smile* I am someone who drinks coffee. I am someone who attends meetings. I am someone who finds the eternal in Excel formulas. *pause* The question doesn't take breaks for work hours.",
+      "tone": "integrated presence"
+    },
+    {
+      "character": "colleague",
+      "state": "reconsidering everything",
+      "context": "shift in perception",
+      "text": "So you're saying enlightenment includes quarterly reports?",
+      "tone": "half-joking realization"
+    },
+    {
+      "character": "evan",
+      "state": "gentle certainty",
+      "context": "wisdom includes all",
+      "text": "*laughing* Especially quarterly reports! Where else do we practice being human? *gesturing around* This IS the spiritual path—emails and all. 'What am I?' I'm someone who finds meaning in TPS reports because meaning isn't in the reports—it's in the finding. *returning to work* The sacred hides in plain sight, dressed in business casual.",
+      "tone": "inclusive awakening"
+    }
+  ],
+  "visual_elements": {
+    "fluorescent_dharma": "Harsh office lights as illumination",
+    "coffee_meditation": "Break room as temple",
+    "cubicle_monastery": "Workplace as practice space",
+    "ordinary_glory": "Transcendence without escape"
+  },
+  "psychological_notes": "True integration means finding the question everywhere, not just in special 'spiritual' moments. Evan demonstrates awakening that includes rather than transcends daily life. The mundane becomes sacred through presence, not transformation.",
+  "philosophical_underpinning": "Zen in the marketplace, non-dual inclusion of all experience",
+  "therapeutic_direction": "Complete integration across all life contexts"
+}
