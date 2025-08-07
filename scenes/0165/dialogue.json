@@ -1,0 +1,65 @@
+{
+  "scene_id": 165,
+  "title": "The Compass of Wonder",
+  "location": "A navigation center where all directions point toward mystery",
+  "time": "The moment of choosing to stay lost",
+  "characters": [
+    {
+      "name": "evan",
+      "role": "The Navigator who prefers wandering"
+    },
+    {
+      "name": "captain",
+      "role": "The Guide who teaches being lost"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "This compass is broken - every direction points to 'What am I?' But wait... maybe that's not broken. Maybe that's perfect."
+    },
+    {
+      "character": "captain",
+      "text": "You've discovered the true compass. Some questions are meant to be our North Star, not our destination."
+    },
+    {
+      "character": "evan",
+      "text": "I've spent so long trying to navigate away from the question, trying to find solid ground. But what if the question IS my ground?"
+    },
+    {
+      "character": "captain",
+      "text": "Now you're thinking like a true explorer. The ones who discover new worlds are those who learn to navigate by mystery."
+    },
+    {
+      "character": "evan",
+      "text": "So every path leads back to 'What am I?' not because I'm going in circles, but because the question is everywhere?"
+    },
+    {
+      "character": "captain",
+      "text": "The question isn't a location to find or flee. It's the stars by which we sail."
+    },
+    {
+      "character": "evan",
+      "text": "Then I choose to stay wonderfully, perfectly lost. With 'What am I?' as my only reliable direction."
+    }
+  ],
+  "visual_elements": [
+    "A compass with all needles pointing to questions",
+    "Star charts made entirely of uncertainties",
+    "Navigation tools that measure wonder instead of distance",
+    "Maps that show not where you are but who you might be",
+    "The horizon circling in all directions simultaneously"
+  ],
+  "philosophical_notes": [
+    "Navigation by mystery rather than certainty",
+    "The question as orientation rather than destination",
+    "Being lost as a chosen state of openness",
+    "Wonder as the most reliable guide"
+  ],
+  "completion_status": {
+    "dialogue": "complete",
+    "visual_elements": "complete",
+    "philosophical_notes": "complete",
+    "metadata": "complete"
+  }
+}
