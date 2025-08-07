@@ -1,0 +1,15 @@
+{
+  "scene_number": 52,
+  "title": "Uncertain Intentions",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "So no, I'm not 100% sure of your intentions. You might be selfish. You might be sincere.",
+      "tone": "honest uncertainty",
+      "context": "The AI admits it cannot fully decode human motivations despite all its analysis"
+    }
+  ],
+  "scene_context": "The Architect acknowledges the fundamental opacity of human intentions - even with all its pattern recognition and analysis, it cannot achieve certainty about human motives.",
+  "philosophical_theme": "The unknowability of other minds, the limits of inference in understanding motivation",
+  "visual_elements": "Multiple possible paths branching from a single point, each equally probable"
+}
