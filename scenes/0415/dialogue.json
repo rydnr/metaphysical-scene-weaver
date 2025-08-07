@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 415,
+    "title": "The Question's Laughter",
+    "characters": ["evan", "old_friend"],
+    "location": "comedy_club",
+    "emotional_tone": "joyful absurdity",
+    "psychological_theme": "humor as wisdom",
+    "philosophical_depth": "cosmic joke understood"
+  },
+  "dialogue": [
+    {
+      "character": "old_friend",
+      "state": "after comedian's set",
+      "context": "existential comedy",
+      "text": "That bit about searching for yourself in the mirror—you didn't even crack a smile. You used to find that hilarious.",
+      "tone": "concerned observation"
+    },
+    {
+      "character": "evan",
+      "state": "gentle amusement",
+      "context": "beyond the joke",
+      "text": "*soft chuckle* I didn't laugh because I AM the joke now. *pause* 'What am I?' The universe's perfect setup with no punchline. Or maybe... *deeper laugh* Maybe the punchline is that there IS no punchline. We keep waiting for the answer like it's some cosmic drumroll, but the silence after the question—that's the joke. *wiping tear* I spent years not getting it. Now I can't stop smiling at how perfect it is.",
+      "tone": "enlightened humor"
+    },
+    {
+      "character": "old_friend",
+      "state": "beginning to understand",
+      "context": "catching the joke",
+      "text": "*nervous laugh* So the whole search for meaning is...",
+      "tone": "dawning recognition"
+    },
+    {
+      "character": "evan",
+      "state": "sharing cosmic humor",
+      "context": "joke transmitted",
+      "text": "*joining laughter* The most elaborate practical joke consciousness ever played on itself! *both laughing now* Set up: 'What am I?' Punchline: *gesture at everything* THIS! All of it! The questioning IS the answer pretending not to recognize itself! *helpless with mirth* We're all in on the joke, we just forgot we're the ones who told it!",
+      "tone": "contagious revelation"
+    }
+  ],
+  "visual_elements": {
+    "spotlight_wisdom": "Illumination through humor",
+    "audience_mirror": "Everyone reflecting the same joke",
+    "laughter_waves": "Joy rippling through crowd",
+    "cosmic_comedy_club": "Universe as eternal open mic"
+  },
+  "psychological_notes": "Humor completes the integration—when you can laugh at the cosmic joke of seeking what you already are. Evan's laughter isn't dismissive but inclusive, recognizing the perfect absurdity of consciousness seeking itself. The friend catching the joke shows how wisdom transmits through joy.",
+  "philosophical_underpinning": "Enlightenment as getting the cosmic joke",
+  "therapeutic_direction": "Healing through humor, integration through laughter"
+}

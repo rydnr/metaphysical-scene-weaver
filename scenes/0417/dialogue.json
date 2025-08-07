@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 417,
+    "title": "The Question's Love",
+    "characters": ["evan", "partner"],
+    "location": "home_evening",
+    "emotional_tone": "intimate recognition",
+    "psychological_theme": "love as answer-in-action",
+    "philosophical_depth": "being known through knowing another"
+  },
+  "dialogue": [
+    {
+      "character": "partner",
+      "state": "quiet together",
+      "context": "end of day intimacy",
+      "text": "You still ask it sometimes. In your sleep. 'What am I?' Like a mantra or a prayer.",
+      "tone": "tender observation"
+    },
+    {
+      "character": "evan",
+      "state": "surprised tenderness",
+      "context": "unconscious revelation",
+      "text": "*taking partner's hand* Even in dreams? *pause* I suppose it's so deep in me now it asks itself. *looking at partner* But you know what's strange? When I look at you, really look, the question changes. It becomes 'What are we?' And somehow... *voice softening* somehow that's easier to answer. We are this. This moment. This looking. This loving that knows without knowing.",
+      "tone": "love as gnosis"
+    },
+    {
+      "character": "partner",
+      "state": "meeting the depth",
+      "context": "shared recognition",
+      "text": "*touching Evan's face* Maybe that's what you are—the space where 'I' becomes 'we' and the question finally rests.",
+      "tone": "intimate wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "complete presence",
+      "context": "love as answer",
+      "text": "*eyes filling* Yes. In loving you, I stop needing to know what I am because I become what we are. The question doesn't get answered—it gets shared. And shared questions weigh nothing at all.",
+      "tone": "dissolved boundaries"
+    }
+  ],
+  "visual_elements": {
+    "evening_light": "Day dissolving into night",
+    "intertwined_hands": "Boundaries unclear",
+    "shared_gaze": "Mutual recognition",
+    "home_as_sanctuary": "Safe space for mystery"
+  },
+  "psychological_notes": "Love provides what solitary questioning cannot—direct experience of self through other. The question transforms from 'What am I?' to 'What are we?', finding rest in relationship. Not answer but dissolution of the need to answer through merged being.",
+  "philosophical_underpinning": "Martin Buber's I-Thou as resolution to self-inquiry",
+  "therapeutic_direction": "Healing through relationship, identity through connection"
+}
