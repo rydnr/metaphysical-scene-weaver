@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 429,
+    "title": "The Question's Music",
+    "characters": ["evan", "street_musician"],
+    "location": "subway_platform",
+    "emotional_tone": "resonant connection",
+    "psychological_theme": "harmony without words",
+    "philosophical_depth": "vibration as communication"
+  },
+  "dialogue": [
+    {
+      "character": "street_musician",
+      "state": "between songs",
+      "context": "noticing presence",
+      "text": "You've been standing there three songs. Most people drop a coin and move on. What are you hearing?",
+      "tone": "curious recognition"
+    },
+    {
+      "character": "evan",
+      "state": "absorbed in sound",
+      "context": "finding question in music",
+      "text": "*eyes closed* The question. Every note asks it. *opening eyes* 'What am I?' It's in the vibration of your strings, the resonance in the tunnel, the way sound becomes feeling becomes meaning. *dropping coin* Music might be the most honest way to ask it—no words to get in the way, just pure wondering made audible.",
+      "tone": "synesthetic understanding"
+    },
+    {
+      "character": "street_musician",
+      "state": "understanding deeply",
+      "context": "recognition between artists",
+      "text": "*playing a questioning phrase* Like this? The note that rises but doesn't resolve?",
+      "tone": "musical dialogue"
+    },
+    {
+      "character": "evan",
+      "state": "complete recognition",
+      "context": "question shared through sound",
+      "text": "*tears starting* Exactly like that. You're not playing music—you're playing the question itself. *pause as train arrives* And everyone who stops to listen, even for a moment, is answering with their presence. The question, the music, the listening—all the same thing vibrating at different frequencies.",
+      "tone": "vibrational unity"
+    }
+  ],
+  "visual_elements": {
+    "subway_acoustics": "Underground cathedral of sound",
+    "vibrating_strings": "Questions made visible in motion",
+    "passing_crowds": "River of consciousness flowing by",
+    "resonance_visible": "Sound waves as philosophical waves"
+  },
+  "psychological_notes": "Music transcends linguistic limitations of the question. In pure sound, 'What am I?' finds expression without words' constraints. The subway platform becomes space where question vibrates through multiple consciousnesses simultaneously.",
+  "philosophical_underpinning": "Vibration as fundamental nature of questioning",
+  "therapeutic_direction": "Recognition of question in all forms of expression"
+}
