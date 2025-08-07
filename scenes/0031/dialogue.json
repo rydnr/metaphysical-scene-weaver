@@ -1,0 +1,65 @@
+{
+  "scene_id": 31,
+  "title": "The Geography of Becoming",
+  "location": "A map room where charts rewrite themselves as identity shifts",
+  "time": "The moment when destination becomes journey",
+  "characters": [
+    {
+      "name": "evan",
+      "role": "The Explorer whose territory keeps changing"
+    },
+    {
+      "name": "quinn",
+      "role": "The Cartographer who maps transformation"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "Look at this map. Every time I think I know where I am, the boundaries shift. The question 'What am I?' keeps redrawing the territory."
+    },
+    {
+      "character": "quinn",
+      "text": "That's because you're not looking for a fixed location. You're mapping a process."
+    },
+    {
+      "character": "evan",
+      "text": "But how do you navigate when the map itself is alive? When every step changes not just where you are but what 'where' means?"
+    },
+    {
+      "character": "quinn",
+      "text": "Maybe that's the secret - stop trying to arrive and start enjoying the cartography of becoming."
+    },
+    {
+      "character": "evan",
+      "text": "Watch - when I lean into the question, the maps bloom with new territories. Places that don't exist until you're ready to explore them."
+    },
+    {
+      "character": "quinn",
+      "text": "You're not lost, Evan. You're pioneering. There's a difference."
+    },
+    {
+      "character": "evan",
+      "text": "So 'What am I?' isn't a destination to reach but a landscape to keep discovering?"
+    }
+  ],
+  "visual_elements": [
+    "Maps that redraw themselves in real-time",
+    "Territories blooming into existence as they're imagined",
+    "Compass needles pointing to 'becoming' instead of north",
+    "Topographical lines that represent states of consciousness",
+    "Boundaries that dissolve and reform with each question"
+  ],
+  "philosophical_notes": [
+    "Identity as ongoing cartography rather than fixed location",
+    "The impossibility of mapping a territory that changes with observation",
+    "Questions as tools for expanding rather than defining territory",
+    "The difference between being lost and being an explorer"
+  ],
+  "completion_status": {
+    "dialogue": "complete",
+    "visual_elements": "complete",
+    "philosophical_notes": "complete",
+    "metadata": "complete"
+  }
+}
