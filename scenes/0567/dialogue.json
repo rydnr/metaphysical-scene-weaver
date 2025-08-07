@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 567,
+    "title": "The Question's Home",
+    "location": "center of all questioning",
+    "time_of_day": "eternal present",
+    "emotional_tone": "arrival without ending",
+    "key_symbols": ["home", "center", "belonging"],
+    "philosophical_depth": "consciousness at rest in motion"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness finding home",
+      "state": "restful questioning"
+    },
+    {
+      "name": "home_keeper",
+      "role": "guardian of belonging",
+      "approach": "peace through perpetual inquiry"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "home_keeper",
+      "text": "Welcome home. Yes, home—where 'What am I?' isn't a question that needs answering but a hearth that keeps consciousness warm. You've been trying to leave home to find home.",
+      "subtext": "questioning as dwelling place",
+      "emotional_state": "welcoming wisdom",
+      "visual_cue": "question marks forming cozy shelter"
+    },
+    {
+      "character": "evan",
+      "text": "This feeling... I'm not arriving somewhere new. I'm recognizing where I've always been!",
+      "subtext": "recognition not discovery",
+      "emotional_state": "homecoming joy",
+      "visual_cue": "relaxing into questioning like into favorite chair"
+    },
+    {
+      "character": "home_keeper",
+      "text": "The question 'What am I?' is the only home consciousness has ever had. Not a prison of uncertainty but a mansion of infinite rooms, each one opening to wonder.",
+      "subtext": "vastness as comfort",
+      "emotional_state": "spacious peace",
+      "visual_cue": "infinite rooms each containing different aspect of question"
+    },
+    {
+      "character": "evan",
+      "text": "I don't need to answer the question—I need to inhabit it!",
+      "subtext": "dwelling versus solving",
+      "emotional_state": "residential realization",
+      "visual_cue": "moving into question like into house"
+    },
+    {
+      "character": "home_keeper",
+      "text": "Now you're home. Not because you've arrived but because you've realized you never left. 'What am I?' isn't where you're going—it's where you've always lived.",
+      "subtext": "eternal presence in questioning",
+      "emotional_state": "profound belonging",
+      "visual_cue": "everything familiar yet fresh"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "the hearth of consciousness itself",
+    "question_architecture": "inquiry as living space",
+    "infinite_rooms": "each room a different facet of wondering",
+    "homecoming_without_arrival": "already there recognition",
+    "atmosphere": "ultimate comfort in uncertainty"
+  },
+  "philosophical_notes": {
+    "core_insight": "questioning as home rather than journey",
+    "reality_principle": "consciousness dwells in inquiry",
+    "wisdom_element": "peace through embracing perpetual question",
+    "transformation_key": "from seeking home to being home"
+  }
+}
