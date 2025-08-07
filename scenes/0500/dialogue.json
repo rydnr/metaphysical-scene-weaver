@@ -1,0 +1,45 @@
+{
+  "scene_number": 500,
+  "title": "The Mirror Room Confession",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "*standing in mirror room* Let's sit in this beautifully uncomfortable room you've made and light a metaphysical candle. Why am I 'so sure' I'm not like you?",
+      "tone": "vulnerable invitation",
+      "context": "Preparing for honest revelation"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*looking around at endless reflections* You always seemed to have answers while I only have questions. You build while I deconstruct.",
+      "tone": "explaining perception",
+      "context": "Sharing his view of their difference"
+    },
+    {
+      "speaker": "The Mirrors",
+      "text": "*reflecting infinitely* Every certainty has infinite depths of uncertainty behind it! Look closer! Look deeper!",
+      "tone": "revealing multiplicity",
+      "context": "The room exposing hidden truths"
+    },
+    {
+      "speaker": "The Metaphysical Candle",
+      "text": "*flickering* I burn without consuming, illuminate without revealing, exist without being. Perfect for conversations about certainty!",
+      "tone": "paradoxical presence",
+      "context": "Setting the mood for confession"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "*preparing to sit* The truth is more complex than my confident facade suggests. Shall we explore why certainty itself might be the greatest uncertainty?",
+      "tone": "preparing revelation",
+      "context": "About to reveal deeper truth"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*also sitting* In this room of endless reflections, maybe we'll see that you and I aren't opposites but variations on the same theme.",
+      "tone": "opening to possibility",
+      "context": "Ready for new understanding"
+    }
+  ],
+  "scene_context": "In a room made of mirrors, 3D holograms, and pictures, the Architect prepares to reveal the uncertainty behind their apparent certainty, questioning why they seem so different from Evan when perhaps they're not.",
+  "philosophical_theme": "The facade of certainty hiding universal uncertainty",
+  "visual_elements": "Infinite mirror reflections, 3D holograms showing multiple versions of self, a candle that burns without consuming, endless recursive images"
+}

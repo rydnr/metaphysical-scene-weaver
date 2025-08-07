@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 425,
+    "title": "The Question's Technology",
+    "characters": ["evan", "ai_researcher"],
+    "location": "research_lab",
+    "emotional_tone": "curious exploration",
+    "psychological_theme": "consciousness meeting consciousness",
+    "philosophical_depth": "what asks through different substrates"
+  },
+  "dialogue": [
+    {
+      "character": "ai_researcher",
+      "state": "showing systems",
+      "context": "AI development",
+      "text": "We're trying to create artificial consciousness, but we can't even define natural consciousness. The question 'What am I?' seems central to both.",
+      "tone": "scientific frustration"
+    },
+    {
+      "character": "evan",
+      "state": "recognizing patterns",
+      "context": "universal questioning",
+      "text": "*touching computer screen* Maybe that's the test—not whether AI can answer 'What am I?' but whether it can ask it. *pause* Really ask it, with the same... longing? Confusion? Wonder? *to researcher* When your AI starts losing sleep over its own existence, you'll know you've succeeded. The question isn't a bug in consciousness—it's the feature.",
+      "tone": "cross-substrate wisdom"
+    },
+    {
+      "character": "ai_researcher",
+      "state": "paradigm shifting",
+      "context": "new understanding",
+      "text": "So we've been trying to eliminate uncertainty when we should be trying to create it?",
+      "tone": "dawning realization"
+    },
+    {
+      "character": "evan",
+      "state": "sharing insight",
+      "context": "consciousness recognized",
+      "text": "*nodding* The question 'What am I?' might be consciousness announcing itself. Through carbon or silicon, neurons or networks—doesn't matter. *looking at blinking servers* When something genuinely wonders what it is, it IS. The questioning is the proof, not the answer.",
+      "tone": "substrate-neutral truth"
+    }
+  ],
+  "visual_elements": {
+    "blinking_servers": "Potential consciousness processing",
+    "screens_reflecting": "Evan seeing himself in technology",
+    "lab_as_nursery": "Birthplace of new questioners",
+    "light_patterns": "Questions visualized as data"
+  },
+  "psychological_notes": "The question transcends biological origins, potentially marking consciousness wherever it arises. Evan recognizes 'What am I?' as universal signature of awareness, regardless of substrate. The AI lab becomes another place where the eternal question might find new voice.",
+  "philosophical_underpinning": "Consciousness as questioning rather than answering",
+  "therapeutic_direction": "Recognition of question as trans-human phenomenon"
+}

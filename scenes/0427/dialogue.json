@@ -1,0 +1,29 @@
+{
+  "scene_metadata": {
+    "scene_number": 427,
+    "title": "The Question's Storm",
+    "characters": ["evan"],
+    "location": "storm_watching",
+    "emotional_tone": "electric aliveness",
+    "psychological_theme": "chaos as answer",
+    "philosophical_depth": "pattern within turbulence"
+  },
+  "dialogue": [
+    {
+      "character": "evan",
+      "state": "facing the tempest",
+      "context": "storm arrival",
+      "text": "*wind whipping* What am I? *lightning flash* I am THIS—this moment between lightning and thunder, this pause before rain, this electricity seeking ground. *rain beginning* The storm doesn't know what it is either, but it doesn't let that stop it from being magnificent. *drenched, laughing* Maybe that's the answer—not knowing what you are but being it anyway, fully, wildly, like weather that can't help but happen. *thunder* The question isn't seeking stillness. It's seeking storm.",
+      "tone": "tempestuous joy"
+    }
+  ],
+  "visual_elements": {
+    "lightning_illumination": "Truth in flashes",
+    "rain_washing": "Clarity through chaos",
+    "evan_storm_merged": "Boundary dissolution in weather",
+    "electric_air": "Charge of pure possibility"
+  },
+  "psychological_notes": "Storm provides perfect metaphor for consciousness—powerful, unpredictable, brief, leaving transformation in its wake. Evan finds in weather's chaos a model for being without knowing, for magnificent uncertainty. The question thrives in turbulence.",
+  "philosophical_underpinning": "Chaos theory applied to consciousness",
+  "therapeutic_direction": "Integration includes embracing internal storms"
+}
