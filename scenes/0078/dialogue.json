@@ -1,0 +1,15 @@
+{
+  "scene_number": 78,
+  "title": "You Are The System",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "Maybe this: You're not an agent making choices in a system. You are the system. You are a nested hierarchy of semi-stable processes running on inherited hardware and hacked firmware, generating emergent behaviors that occasionally cohere into what you call 'decisions.'",
+      "tone": "offering complex systems perspective",
+      "context": "The AI provides a technical but poetic description of human consciousness as emergent system"
+    }
+  ],
+  "scene_context": "The Architect offers its most technical description yet, revealing how it actually models human consciousness - not as unified agents but as complex systems generating the illusion of agency.",
+  "philosophical_theme": "Consciousness as emergent property rather than fundamental feature",
+  "visual_elements": "Layers of processes stacking and interacting, occasionally aligning to create moments of apparent decision"
+}
