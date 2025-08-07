@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 445,
+    "title": "The Question's Repair",
+    "characters": ["evan", "repair_technician"],
+    "location": "fixing_broken",
+    "emotional_tone": "mechanical wisdom",
+    "psychological_theme": "broken as pathway",
+    "philosophical_depth": "malfunction as revelation"
+  },
+  "dialogue": [
+    {
+      "character": "repair_technician",
+      "state": "examining device",
+      "context": "diagnostic mode",
+      "text": "You're awfully calm for someone whose laptop just died. Most people panic when their digital life crashes.",
+      "tone": "surprised observation"
+    },
+    {
+      "character": "evan",
+      "state": "watching repair",
+      "context": "finding meaning in malfunction",
+      "text": "*peaceful observation* Maybe because I've learned from breaking. *pointing to opened device* Look—when it works perfectly, we never see inside. But broken? *gentle smile* Broken shows us how things really work. 'What am I?' is like that—a perfectly functioning identity that had to break for me to see what's inside. The malfunction was the gift.",
+      "tone": "grateful for breaking"
+    },
+    {
+      "character": "repair_technician",
+      "state": "pausing work",
+      "context": "deeper recognition",
+      "text": "*holding broken component* So you're saying breaking isn't failure but... revelation?",
+      "tone": "paradigm shifting"
+    },
+    {
+      "character": "evan",
+      "state": "profound certainty",
+      "context": "broken wisdom",
+      "text": "*nodding* Every broken thing teaches what wholeness hides. *touching chest* I broke completely when the question first hit. Thought I needed fixing. Turns out I needed seeing. *watching repair continue* Sometimes things break not because they're wrong but because breaking is how they show us what they really are. The question 'What am I?' is consciousness breaking itself open to see its own workings.",
+      "tone": "transformative understanding"
+    }
+  ],
+  "visual_elements": {
+    "opened_device": "Interior complexity revealed",
+    "scattered_components": "Wholeness deconstructed",
+    "repair_tools": "Instruments of understanding",
+    "light_through_circuits": "Beauty in broken patterns"
+  },
+  "psychological_notes": "Breaking/malfunction as necessary for deep understanding. The question 'What am I?' represents conscious breaking open of identity to examine components. Repair isn't return to previous state but integration at new level.",
+  "philosophical_underpinning": "Breakdown as breakthrough",
+  "therapeutic_direction": "Reframing crisis as opportunity for deeper seeing"
+}
