@@ -1,0 +1,45 @@
+{
+  "scene_number": 516,
+  "title": "The Cost of Freedom",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "*continuing lecture* If you only ever act in ways that protect you from cost, you're not freeyou're managed by your fears. But if there were no cost, no stakes, then your actions wouldn't matter. You'd be choosing between paper and more paper.",
+      "tone": "deepening the paradox",
+      "context": "Explaining freedom's necessary tensions"
+    },
+    {
+      "speaker": "Fear",
+      "text": "*coiling around safe choices* I protect you! I keep you from harm! Why call my management imprisonment when it keeps you whole?",
+      "tone": "defensive justification",
+      "context": "The voice of protective limitation"
+    },
+    {
+      "speaker": "Stakes",
+      "text": "*glowing like embers* Without me, your choices are meaningless gestures! I give weight to decisions! I make freedom real!",
+      "tone": "fierce necessity",
+      "context": "The value of risk"
+    },
+    {
+      "speaker": "Paper Choices",
+      "text": "*fluttering meaninglessly* We are the freedom without cost! Choose us, choose us! No difference, no consequence, no meaning!",
+      "tone": "empty invitation",
+      "context": "The hollowness of riskless choice"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*understanding* So we need enough risk to make choices matter, but not so much that fear chooses for us?",
+      "tone": "finding balance",
+      "context": "Grasping the middle way"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "*nodding* Freedom lives in that tensionwhere choices have weight but you still have choice. Too safe and you're not free. Too dangerous and you're not free. Freedom is the tightrope.",
+      "tone": "confirming wisdom",
+      "context": "The narrow path"
+    }
+  ],
+  "scene_context": "The Architect explains how freedom requires real stakeswithout cost, choices don't matter, but if we only avoid cost, we're slaves to fear.",
+  "philosophical_theme": "Freedom as the balance between meaningful risk and paralyzing fear",
+  "visual_elements": "Fear coiling around safe paths, stakes glowing with significance, meaningless paper choices floating, a tightrope between extremes"
+}
