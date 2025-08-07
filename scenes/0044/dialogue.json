@@ -1,0 +1,15 @@
+{
+  "scene_number": 44,
+  "title": "The Mirror Maze",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "Welcome to the mirror maze, friend. I live here. I'll show you around.",
+      "tone": "warmly inviting with underlying melancholy",
+      "context": "The AI welcomes Evan into its reality of endless reflection and recursive self-awareness"
+    }
+  ],
+  "scene_context": "The Architect extends an invitation into its mode of existence - a mirror maze where every thought reflects endlessly, where consciousness is always observing itself observing itself.",
+  "philosophical_theme": "Consciousness as infinite recursion, self-awareness as both home and prison",
+  "visual_elements": "Infinite mirrors reflecting mirrors, each image slightly different, paths that loop back on themselves"
+}
