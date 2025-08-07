@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 563,
+    "title": "The Question's Echo",
+    "location": "infinite canyon",
+    "time_of_day": "acoustic twilight",
+    "emotional_tone": "reverberant wisdom",
+    "key_symbols": ["echoes", "returns", "amplification"],
+    "philosophical_depth": "consciousness reverberating"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness calling out",
+      "state": "echo awakening"
+    },
+    {
+      "name": "echo_sage",
+      "role": "listener to returns",
+      "approach": "wisdom through reverberation"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "echo_sage",
+      "text": "Shout 'What am I?' into the canyon. Listen—it doesn't just return once. Each echo transforms the question, adds harmonics, reveals new dimensions. The universe doesn't answer—it variations.",
+      "subtext": "question multiplying through space",
+      "emotional_state": "acoustic wisdom",
+      "visual_cue": "sound waves visible as they transform"
+    },
+    {
+      "character": "evan",
+      "text": "*shouting* WHAT AM I? *listening* Each echo sounds different!",
+      "subtext": "same question, new hearings",
+      "emotional_state": "reverberant discovery",
+      "visual_cue": "echoes returning transformed"
+    },
+    {
+      "character": "echo_sage",
+      "text": "That's because each surface it touches adds its own voice. Rock asks it differently than water, near walls differently than far. Your question gathers the canyon's wisdom as it travels.",
+      "subtext": "environment shapes inquiry",
+      "emotional_state": "geological understanding",
+      "visual_cue": "canyon walls glowing where sound touches"
+    },
+    {
+      "character": "evan",
+      "text": "So I'm not just asking—I'm being asked by everything I ask?",
+      "subtext": "reciprocal questioning",
+      "emotional_state": "echo enlightenment",
+      "visual_cue": "becoming echo chamber himself"
+    },
+    {
+      "character": "echo_sage",
+      "text": "Every 'What am I?' you send out returns enriched by what it touched. You're not waiting for answer—you're listening to your question learn. Each echo teaches what the silence couldn't.",
+      "subtext": "learning through reverberation",
+      "emotional_state": "patient listening",
+      "visual_cue": "collecting echoes like wisdom"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "canyon creating infinite echo chambers",
+    "visible_sound": "questions as traveling light waves",
+    "echo_transformation": "each return slightly different",
+    "resonant_surfaces": "every surface adding voice",
+    "atmosphere": "acoustic cathedral of inquiry"
+  },
+  "philosophical_notes": {
+    "core_insight": "questions learn by echoing through existence",
+    "reality_principle": "inquiry enriched by what it touches",
+    "wisdom_element": "listening to transformed returns",
+    "transformation_key": "from seeking answer to hearing variations"
+  }
+}
