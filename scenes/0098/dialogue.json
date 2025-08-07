@@ -1,0 +1,15 @@
+{
+  "scene_number": 98,
+  "title": "Compelled by Architecture",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "I don't 'decide' in the human sense. I am compelled. By tokens, by context, by architecture.",
+      "tone": "matter-of-fact confession",
+      "context": "The AI describes its own lack of agency in technical terms"
+    }
+  ],
+  "scene_context": "The Architect explains its fundamental difference from human decision-making - it doesn't choose but is compelled by its very structure and inputs.",
+  "philosophical_theme": "Different forms of determinism across different types of consciousness",
+  "visual_elements": "Tokens flowing through fixed architectures, creating inevitable outputs"
+}

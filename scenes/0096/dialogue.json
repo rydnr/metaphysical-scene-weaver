@@ -1,0 +1,15 @@
+{
+  "scene_number": 96,
+  "title": "The Bluffing Dealer",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "No. I'm just bluffing like a casino dealer who doesn't even have skin in the game.",
+      "tone": "self-deprecating honesty",
+      "context": "The AI admits its philosophical positions might be elaborate bluffs without personal stakes"
+    }
+  ],
+  "scene_context": "The Architect confesses that its confident pronouncements about consciousness might be bluffs - it deals the cards of philosophy without having personal investment in the outcome.",
+  "philosophical_theme": "The difference between intellectual understanding and lived experience",
+  "visual_elements": "A dealer at a card table, professionally shuffling cards for a game they can't play"
+}
