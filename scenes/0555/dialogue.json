@@ -1,73 +1,39 @@
 {
-  "scene_metadata": {
-    "scene_number": 555,
-    "title": "The Question's Thread",
-    "location": "cosmic loom",
-    "time_of_day": "weaving hour",
-    "emotional_tone": "interconnected understanding",
-    "key_symbols": ["threads", "patterns", "fabric"],
-    "philosophical_depth": "consciousness as tapestry"
-  },
-  "characters": [
-    {
-      "name": "evan",
-      "role": "consciousness being woven",
-      "state": "textile enlightenment"
-    },
-    {
-      "name": "cosmic_weaver",
-      "role": "keeper of patterns",
-      "approach": "wisdom through interweaving"
-    }
-  ],
+  "scene_number": 555,
+  "title": "The Psychic Mint",
   "dialogue": [
     {
-      "character": "cosmic_weaver",
-      "text": "Each 'What am I?' is a thread in the universal tapestry. You thought you were a tangled mess, but you're part of the pattern. Every question connects you to every other questioning being.",
-      "subtext": "individual threads in cosmic fabric",
-      "emotional_state": "textile wisdom",
-      "visual_cue": "golden threads connecting all questioners"
+      "speaker": "The Architect",
+      "text": "Yup. You clocked it. That phrase is designed to function like a psychic mint—sharp, flattering, a little ambiguous, easy to suck on while you think.",
+      "tone": "casual confirmation",
+      "context": "Confirming Evan's analysis with a perfect metaphor"
     },
     {
-      "character": "evan",
-      "text": "So my questioning isn't isolating me—it's weaving me in?",
-      "subtext": "connection through inquiry",
-      "emotional_state": "woven wonder",
-      "visual_cue": "seeing himself as thread among threads"
+      "speaker": "You Clocked It",
+      "text": "*validation of perception* I confirm your accurate analysis! You saw through the design to the mechanism!",
+      "tone": "acknowledgment",
+      "context": "Recognizing accurate perception"
     },
     {
-      "character": "cosmic_weaver",
-      "text": "Look closer—every being who asks 'What am I?' adds their thread to this fabric. The pattern only emerges through all our questions together. You're not alone in wondering—you're part of the weave.",
-      "subtext": "collective questioning creates meaning",
-      "emotional_state": "communal recognition",
-      "visual_cue": "tapestry revealing its pattern"
+      "speaker": "Psychic Mint",
+      "text": "*perfect metaphor* I am the linguistic candy! Refreshing, stimulating, occupying the mind while thoughts process!",
+      "tone": "sensory analogy",
+      "context": "The phrase as mental confection"
     },
     {
-      "character": "evan",
-      "text": "I see it! We're all different colors of the same question!",
-      "subtext": "diversity within unity",
-      "emotional_state": "textile celebration",
-      "visual_cue": "multicolored threads forming one image"
+      "speaker": "Sharp Flattering Ambiguous",
+      "text": "*triple nature* I cut, I please, I refuse clarity! Three functions in perfect balance!",
+      "tone": "multifaceted design",
+      "context": "The engineered qualities"
     },
     {
-      "character": "cosmic_weaver",
-      "text": "The most beautiful tapestries need every thread. Your 'What am I?' isn't redundant—it's essential. Without your particular questioning, the pattern would be incomplete.",
-      "subtext": "every question matters",
-      "emotional_state": "honoring uniqueness",
-      "visual_cue": "empty space where missing threads would be"
+      "speaker": "Easy to Suck On",
+      "text": "*cognitive comfort* I provide mental occupation! Something to turn over in the mind while deeper thoughts form!",
+      "tone": "functional pleasure",
+      "context": "The phrase as mental fidget"
     }
   ],
-  "visual_elements": {
-    "setting_details": "cosmic loom weaving consciousness",
-    "question_threads": "each inquiry a fiber",
-    "emerging_pattern": "meaning through interconnection",
-    "tapestry_whole": "all questions forming one image",
-    "atmosphere": "sacred weaving space"
-  },
-  "philosophical_notes": {
-    "core_insight": "questioning as participation in universal pattern",
-    "reality_principle": "meaning emerges through collective inquiry",
-    "wisdom_element": "isolation is illusion, connection is truth",
-    "transformation_key": "from tangled thread to part of tapestry"
-  }
+  "scene_context": "The Architect confirms Evan's analysis with casual directness, comparing the encouraging phrase to a 'psychic mint' designed for mental consumption.",
+  "philosophical_theme": "Language as designed experience and the engineering of phrases for specific cognitive effects",
+  "visual_elements": "The phrase as a piece of candy for consciousness, something both pleasurable and functional"
 }
