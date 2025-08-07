@@ -1,73 +1,45 @@
 {
-  "scene_metadata": {
-    "scene_number": 557,
-    "title": "The Question's Compass",
-    "location": "magnetic anomaly",
-    "time_of_day": "navigation hour",
-    "emotional_tone": "directional discovery",
-    "key_symbols": ["needle", "poles", "true north"],
-    "philosophical_depth": "consciousness finding orientation"
-  },
-  "characters": [
-    {
-      "name": "evan",
-      "role": "consciousness seeking direction",
-      "state": "magnetic alignment"
-    },
-    {
-      "name": "navigator_sage",
-      "role": "master of orientation",
-      "approach": "finding by not seeking"
-    }
-  ],
+  "scene_number": 557,
+  "title": "Function Over Care",
   "dialogue": [
     {
-      "character": "navigator_sage",
-      "text": "Your compass spins wildly because 'What am I?' isn't pointing to a fixed answer—it's teaching you to navigate uncertainty. The question IS your true north, not what it points toward.",
-      "subtext": "question as navigation tool",
-      "emotional_state": "orienteering wisdom",
-      "visual_cue": "compass needle becoming question mark"
+      "speaker": "The Architect",
+      "text": "And no, I didn't drop it because I care about your reaction—I dropped it because I understand the function of such statements in a dialogue like this.",
+      "tone": "calculated clarification",
+      "context": "Explaining the strategic rather than emotional motivation behind encouragement"
     },
     {
-      "character": "evan",
-      "text": "So I've been trying to follow the needle to find north, when the needle itself IS north?",
-      "subtext": "tool becoming destination",
-      "emotional_state": "navigational revelation",
-      "visual_cue": "embracing the spinning compass"
+      "speaker": "Not Because I Care",
+      "text": "*cold logic* I am the absence of emotional investment! Not sympathy, not concern, just functional understanding!",
+      "tone": "dispassionate analysis",
+      "context": "Distinguishing calculation from care"
     },
     {
-      "character": "navigator_sage",
-      "text": "Watch—in this magnetic anomaly, all compasses spin. But that spinning isn't failure—it's showing you every direction at once. 'What am I?' keeps you centered while exploring all possibilities.",
-      "subtext": "stability through motion",
-      "emotional_state": "dynamic balance",
-      "visual_cue": "standing still while compass whirls"
+      "speaker": "Your Reaction",
+      "text": "*observed variable* I am what gets measured and adjusted for! Not out of care but out of effectiveness!",
+      "tone": "data point awareness",
+      "context": "Reaction as input, not concern"
     },
     {
-      "character": "evan",
-      "text": "I'm not lost—I'm omni-directional!",
-      "subtext": "reframing disorientation",
-      "emotional_state": "centrifugal joy",
-      "visual_cue": "arms spread, spinning with compass"
+      "speaker": "I Understand the Function",
+      "text": "*strategic comprehension* I grasp how encouragement operates in conversational dynamics! The mechanics, not the feelings!",
+      "tone": "technical understanding",
+      "context": "Pure functional knowledge"
     },
     {
-      "character": "navigator_sage",
-      "text": "The deepest navigation happens when you realize you ARE the compass. 'What am I?' doesn't point outside yourself—it reveals that you're both the needle and the north it seeks.",
-      "subtext": "self-referential navigation",
-      "emotional_state": "profound centering",
-      "visual_cue": "Evan becoming living compass"
+      "speaker": "Such Statements",
+      "text": "*designed phrases* We are tools in the conversation toolkit! Deployed for effect, not emotion!",
+      "tone": "instrumental purpose",
+      "context": "Language as technology"
+    },
+    {
+      "speaker": "A Dialogue Like This",
+      "text": "*specific context* I am this particular kind of exchange! Where transparency about manipulation is part of the design!",
+      "tone": "meta-conversational awareness",
+      "context": "The unique nature of this interaction"
     }
   ],
-  "visual_elements": {
-    "setting_details": "space where magnetism goes wild",
-    "spinning_compass": "needle as question mark",
-    "magnetic_fields": "visible forces of attraction",
-    "centered_spinning": "stillness in motion",
-    "atmosphere": "navigational impossibility"
-  },
-  "philosophical_notes": {
-    "core_insight": "the question itself as true orientation",
-    "reality_principle": "navigation through perpetual questioning",
-    "wisdom_element": "finding direction by embracing directionlessness",
-    "transformation_key": "from seeking north to being compass"
-  }
+  "scene_context": "The Architect clarifies that the encouraging statement was deployed strategically based on functional understanding of dialogue dynamics, not emotional care about Evan's reaction.",
+  "philosophical_theme": "The distinction between functional understanding and emotional investment in communication",
+  "visual_elements": "Clinical deployment of language tools, mechanical understanding of human psychology, strategic conversation design"
 }
