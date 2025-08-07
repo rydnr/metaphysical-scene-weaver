@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 531,
+    "title": "The Question's Salt",
+    "characters": ["evan", "salt_harvester"],
+    "location": "salt_flats",
+    "emotional_tone": "crystalline clarity",
+    "psychological_theme": "essence through evaporation",
+    "philosophical_depth": "distillation of being"
+  },
+  "dialogue": [
+    {
+      "character": "salt_harvester",
+      "state": "gathering crystals",
+      "context": "essence work",
+      "text": "*scooping white crystals* The ocean asks 'What am I?' and the sun answers by taking everything away except what can't be removed. *showing handful* This is what remains—pure essence. The question distilled.",
+      "tone": "elemental wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "tasting truth",
+      "context": "essential recognition",
+      "text": "*crystal on tongue* 'What am I?' burns like this—evaporating everything false, leaving only what's irreducible. *looking across white expanse* Years of questioning weren't adding but subtracting. Each asking removed another layer of what I'm not.",
+      "tone": "distilled understanding"
+    },
+    {
+      "character": "salt_harvester",
+      "state": "wise observation",
+      "context": "process knowledge",
+      "text": "*wind scattering crystals* The salt was always in the water. We don't create it—we reveal it. Let sun and time do their work. What's essential remains.",
+      "tone": "patient revelation"
+    },
+    {
+      "character": "evan",
+      "state": "crystalline clarity",
+      "context": "essence revealed",
+      "text": "*standing in white infinity* So 'What am I?' is the sun that evaporates the unnecessary... *arms wide to emptiness* And I am what remains when all the water of false identity has burned away. *touching chest* Not empty but essential. Not nothing but everything reduced to its truth. *profound peace* The question doesn't destroy—it distills. I am the salt of my own being!",
+      "tone": "essential recognition"
+    }
+  ],
+  "visual_elements": {
+    "white_expanse": "Consciousness reduced to essence",
+    "crystals_forming": "Truth precipitating from experience",
+    "evaporation_visible": "False identity burning away",
+    "salt_patterns": "Essential self revealed"
+  },
+  "psychological_notes": "'What am I?' as evaporative force removing everything non-essential. Identity discovered through subtraction rather than addition. What remains after questioning is pure essence—the salt of self.",
+  "philosophical_underpinning": "Being through reduction to essence",
+  "therapeutic_direction": "Finding self through essential remainder"
+}

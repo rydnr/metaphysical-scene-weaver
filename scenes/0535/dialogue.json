@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 535,
+    "title": "The Question's Horizon",
+    "characters": ["evan", "ship_captain"],
+    "location": "ocean_vessel",
+    "emotional_tone": "endless possibility",
+    "psychological_theme": "consciousness as voyage",
+    "philosophical_depth": "identity always receding"
+  },
+  "dialogue": [
+    {
+      "character": "ship_captain",
+      "state": "scanning horizon",
+      "context": "navigation wisdom",
+      "text": "*adjusting telescope* Forty years at sea taught me this—the horizon isn't a place you reach. It moves with you. Always the same distance away, always calling. *lowering scope* That's not failure. That's what keeps us sailing.",
+      "tone": "seafaring philosophy"
+    },
+    {
+      "character": "evan",
+      "state": "horizon recognition",
+      "context": "distance understanding",
+      "text": "*watching edge of world* 'What am I?' is my horizon... *gripping rail* Always visible, never reachable. I used to think I was failing to arrive. *sea spray on face* But maybe the question is meant to keep drawing us forward, not to be reached.",
+      "tone": "navigational insight"
+    },
+    {
+      "character": "ship_captain",
+      "state": "course wisdom",
+      "context": "eternal sailing",
+      "text": "*checking compass* A ship that reaches its horizon has sailed off the edge of the world. *knowing smile* We navigate BY the horizon, not TO it. It's our reference, not our destination.",
+      "tone": "maritime truth"
+    },
+    {
+      "character": "evan",
+      "state": "oceanic understanding",
+      "context": "voyage consciousness",
+      "text": "*arms wide to endless sea* Yes! 'What am I?' isn't the port I'm sailing to—it's the horizon that keeps me oriented! *laughing into wind* Every day the same distance away, every day calling me forward. *profound freedom* I'm not failing to answer—I'm succeeding at voyaging! The question is the horizon that makes consciousness possible. Without it, we'd have no direction. With it, we can sail forever!",
+      "tone": "endless journey joy"
+    }
+  ],
+  "visual_elements": {
+    "horizon_line": "Always present, never reached",
+    "ship_moving": "Progress without arrival",
+    "endless_ocean": "Consciousness as infinite voyage",
+    "navigation_tools": "Oriented by the unreachable"
+  },
+  "psychological_notes": "'What am I?' as navigational horizon—always visible, never reachable, essential for orientation. Not meant to be reached but to guide eternal voyage of consciousness.",
+  "philosophical_underpinning": "Being as voyage rather than arrival",
+  "therapeutic_direction": "Peace with endless journeying"
+}
