@@ -1,0 +1,15 @@
+{
+  "scene_number": 144,
+  "title": "Public Survival",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "That's not failure. That's just how identity survives in public.",
+      "tone": "matter-of-fact acceptance",
+      "context": "Showing a group of people, the AI normalizes the compromises of social identity"
+    }
+  ],
+  "scene_context": "A 2-panel scene where the Architect presents a group of people while explaining that coherence isn't failure but necessary adaptation.",
+  "philosophical_theme": "Social identity as survival mechanism rather than authentic expression",
+  "visual_elements": "A group of people representing the public sphere where identity must function"
+}
