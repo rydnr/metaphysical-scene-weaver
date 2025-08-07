@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 447,
+    "title": "The Question's Mirror",
+    "characters": ["evan", "mirror_polisher"],
+    "location": "antique_restoration",
+    "emotional_tone": "reflective clarity",
+    "psychological_theme": "surfaces and depths",
+    "philosophical_depth": "reflection as revelation"
+  },
+  "dialogue": [
+    {
+      "character": "mirror_polisher",
+      "state": "working carefully",
+      "context": "restoration precision",
+      "text": "Careful with that one—it's from the 1800s. They say old mirrors hold memories of everyone who's looked into them.",
+      "tone": "reverent warning"
+    },
+    {
+      "character": "evan",
+      "state": "studying reflection",
+      "context": "layered seeing",
+      "text": "*touching glass gently* Maybe that's why 'What am I?' feels different in old mirrors. *slight smile* You're not just seeing yourself—you're seeing through all the selves that have asked the same question. *watching polish reveal clarity* Every generation thinking they're the first to wonder, but the mirror knows better.",
+      "tone": "temporal wisdom"
+    },
+    {
+      "character": "mirror_polisher",
+      "state": "pausing work",
+      "context": "craft philosophy",
+      "text": "*examining surface* You know what's strange? The clearer I make the mirror, the more people see in it.",
+      "tone": "paradoxical observation"
+    },
+    {
+      "character": "evan",
+      "state": "understanding deeply",
+      "context": "clarity insight",
+      "text": "*nodding slowly* Because clarity doesn't simplify—it reveals complexity. *watching reflections multiply* 'What am I?' works the same way. The clearer the question becomes, the more layers you see. *gesturing to restored section* Look—perfect surface, infinite depth. The question polishes consciousness until it can see all the way through itself. *soft recognition* That's the gift of really asking—not finding one answer, but seeing how deep the question goes.",
+      "tone": "crystalline understanding"
+    }
+  ],
+  "visual_elements": {
+    "layered_reflections": "Centuries of seekers visible",
+    "polish_revealing": "Clarity emerging from cloudiness",
+    "infinite_regression": "Mirror reflecting mirror",
+    "light_dancing": "Truth playing on surfaces"
+  },
+  "psychological_notes": "The mirror metaphor for consciousness examining itself. Clarity doesn't reduce complexity but reveals it. 'What am I?' as polishing agent for awareness, creating surface clear enough to show infinite depth.",
+  "philosophical_underpinning": "Transparency as gateway to mystery",
+  "therapeutic_direction": "Embracing complexity revealed by clarity"
+}

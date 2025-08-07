@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 449,
+    "title": "The Question's Translation",
+    "characters": ["evan", "interpreter"],
+    "location": "international_conference",
+    "emotional_tone": "cross-cultural wonder",
+    "psychological_theme": "universal questioning",
+    "philosophical_depth": "babel reversed"
+  },
+  "dialogue": [
+    {
+      "character": "interpreter",
+      "state": "between languages",
+      "context": "simultaneous translation",
+      "text": "*adjusting headset* The Japanese delegate asks 'Watashi wa nan desu ka?', the French one 'Qu'est-ce que je suis?', the Arabic speaker 'ما أنا؟'—they're all asking the same thing. 'What am I?'",
+      "tone": "linguistic marvel"
+    },
+    {
+      "character": "evan",
+      "state": "recognizing unity",
+      "context": "babel undone",
+      "text": "*listening to cascade of languages* The question that unites us. *soft smile* Every language carved different words for it, but the wondering is identical. *watching delegates* Look at their faces when they realize—we've all been asking the same question, just in different sounds. 'What am I?' is humanity's common tongue.",
+      "tone": "universal recognition"
+    },
+    {
+      "character": "interpreter",
+      "state": "profound pause",
+      "context": "beyond translation",
+      "text": "*removing headset slowly* You know what's beautiful? I don't need to translate the silence after someone asks it. The pause is the same in every language.",
+      "tone": "wordless understanding"
+    },
+    {
+      "character": "evan",
+      "state": "deepest insight",
+      "context": "silence speaking",
+      "text": "*nodding knowingly* Because the question lives in that pause, not in the words. *gesturing to room* Every language thinks it invented the question, but silence knew it first. *watching recognition spread* 'What am I?' isn't something we translate—it's where all translation leads. The place where words dissolve and only wondering remains. *quiet certainty* That's why every mystic in every tradition eventually falls silent. They've reached the question that needs no language.",
+      "tone": "transcendent understanding"
+    }
+  ],
+  "visual_elements": {
+    "headsets_connecting": "Technology linking ancient questions",
+    "faces_recognizing": "Universal dawn of understanding",
+    "words_dissolving": "Language melting into meaning",
+    "silence_spreading": "Quiet recognition rippling"
+  },
+  "psychological_notes": "The question 'What am I?' as humanity's universal language, deeper than linguistic differences. The pause after asking more significant than words used. Silence as common ground of consciousness.",
+  "philosophical_underpinning": "Pre-linguistic unity of existential wonder",
+  "therapeutic_direction": "Finding connection through shared questioning"
+}
