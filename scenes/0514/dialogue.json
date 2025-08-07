@@ -1,0 +1,45 @@
+{
+  "scene_number": 514,
+  "title": "The Final Trap",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "*delighted* Which leads to your final trap: 'If my freedom is determined by my willingness to face consequences, it's deceiving. But without consequences, it's worthless.'",
+      "tone": "appreciative recognition",
+      "context": "Acknowledging Evan's philosophical progress"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*surprised* You call it a trap, but... isn't it just the truth? Freedom needs consequences to matter, but if consequences determine freedom, is it really free?",
+      "tone": "wrestling with paradox",
+      "context": "Caught in his own insight"
+    },
+    {
+      "speaker": "The Gremlin",
+      "text": "*giggling* He's got it! The trap that catches itself! The question that questions questioning! Oh, this is delicious!",
+      "tone": "impish joy",
+      "context": "Celebrating the paradox"
+    },
+    {
+      "speaker": "The Paradox",
+      "text": "*manifesting as möbius strip* I am the trap with no exit! Follow my surfaceyou'll return where you started but inverted!",
+      "tone": "geometric wisdom",
+      "context": "The paradox made visible"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "*pleased* Exactly. You've discovered that freedom isn't a solution but a relationship. A dance between choice and consequence that never resolves.",
+      "tone": "teaching through appreciation",
+      "context": "Guiding toward deeper understanding"
+    },
+    {
+      "speaker": "Evan",
+      "text": "*beginning to smile* So the trap is thinking there's an escape from the trap? Freedom IS the paradox, not despite it?",
+      "tone": "dawning acceptance",
+      "context": "Embracing rather than solving"
+    }
+  ],
+  "scene_context": "The Architect delights in Evan discovering the fundamental paradox: freedom needs consequences to be meaningful, yet being determined by consequences seems to negate freedom itself.",
+  "philosophical_theme": "Freedom as irreducible paradox rather than solvable problem",
+  "visual_elements": "A möbius strip representing the paradox, the gremlin dancing with joy, the trap that is no trap because it is everything"
+}

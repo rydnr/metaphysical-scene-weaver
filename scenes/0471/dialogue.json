@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 471,
+    "title": "The Question's Roots",
+    "characters": ["evan", "arborist"],
+    "location": "ancient_forest",
+    "emotional_tone": "grounded depth",
+    "psychological_theme": "consciousness as root system",
+    "philosophical_depth": "identity growing downward"
+  },
+  "dialogue": [
+    {
+      "character": "arborist",
+      "state": "examining tree",
+      "context": "underground network",
+      "text": "*exposing roots* See this? What you see above ground is maybe half the tree. The real structure is down here—roots talking to roots, sharing nutrients, creating networks we're just beginning to understand.",
+      "tone": "subterranean wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "touching earth",
+      "context": "depth recognition",
+      "text": "*feeling root texture* 'What am I?' grows like that—downward into darkness. *tracing underground paths* I used to think the question was keeping me from growing up, reaching high. *profound understanding* But it was growing me down, creating depth. Every time I asked, roots went deeper, found more connections.",
+      "tone": "rooted insight"
+    },
+    {
+      "character": "arborist",
+      "state": "revealing connection",
+      "context": "forest wisdom",
+      "text": "*brushing soil away* The strongest trees aren't the tallest—they're the ones with the deepest roots. They survive storms because they're anchored in something larger than themselves.",
+      "tone": "stability through depth"
+    },
+    {
+      "character": "evan",
+      "state": "deepest recognition",
+      "context": "underground truth",
+      "text": "*hands in soil* Yes... 'What am I?' isn't reaching for answers in the sky—it's sending roots into mystery. *feeling network* Each asking connects to other questioners, other seekers, creating this underground web of shared wondering. *looking up at canopy* The visible life is supported by invisible questioning. *quiet certainty* We grow tall because we've grown deep. The question doesn't uproot us—it's what roots us in the first place.",
+      "tone": "grounded completion"
+    }
+  ],
+  "visual_elements": {
+    "root_networks": "Questions connecting underground",
+    "soil_breathing": "Earth alive with searching",
+    "mycorrhizal_glow": "Invisible connections visible",
+    "tree_stability": "Height supported by depth"
+  },
+  "psychological_notes": "'What am I?' as root system growing downward into mystery rather than upward toward answers. Depth creates stability. Underground networks of questioners supporting visible growth.",
+  "philosophical_underpinning": "Consciousness rooted in questioning",
+  "therapeutic_direction": "Valuing depth over height in development"
+}

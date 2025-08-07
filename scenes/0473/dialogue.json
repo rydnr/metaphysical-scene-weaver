@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 473,
+    "title": "The Question's Crystal",
+    "characters": ["evan", "geologist"],
+    "location": "crystal_cave",
+    "emotional_tone": "structured beauty",
+    "psychological_theme": "consciousness crystallizing",
+    "philosophical_depth": "identity through pressure"
+  },
+  "dialogue": [
+    {
+      "character": "geologist",
+      "state": "examining formation",
+      "context": "geological time",
+      "text": "*shining light through crystal* Million years of pressure, perfect conditions, and chaos becomes this. Order emerging from disorder, but only through unimaginable compression over time.",
+      "tone": "geological wonder"
+    },
+    {
+      "character": "evan",
+      "state": "seeing structure",
+      "context": "crystalline insight",
+      "text": "*touching crystal face* 'What am I?' creates that kind of pressure. *watching light refract* Years of the question pressing from all sides, no escape, no relief... *appreciating geometry* Until consciousness starts forming these patterns. Not random anymore but structured, organized. The pressure wasn't crushing—it was crystallizing.",
+      "tone": "compressed wisdom"
+    },
+    {
+      "character": "geologist",
+      "state": "deeper explanation",
+      "context": "formation process",
+      "text": "*pointing to growth patterns* Each face reflects the same light differently. The crystal is one thing expressing itself through multiple surfaces. Unity through multiplicity.",
+      "tone": "structural poetry"
+    },
+    {
+      "character": "evan",
+      "state": "crystalline clarity",
+      "context": "pressure transformed",
+      "text": "*watching rainbow refractions* That's what happened... 'What am I?' compressed consciousness until it crystallized into something that could hold light. *turning crystal* Each time I look from a different angle, I see new colors, but it's the same crystal. *profound recognition* The question didn't break me—it restructured me. Pressure plus time plus proper conditions equals... *holding crystal to light* This. Consciousness clear enough to see through, structured enough to split light into rainbows. The question is the pressure that creates the crystal.",
+      "tone": "transformed structure"
+    }
+  ],
+  "visual_elements": {
+    "crystal_geometry": "Order from chaos through pressure",
+    "light_refracting": "One becoming many through structure",
+    "growth_patterns": "Time made visible in layers",
+    "rainbow_splitting": "Unity revealing multiplicity"
+  },
+  "psychological_notes": "'What am I?' as geological pressure creating crystalline consciousness. Years of compression transform chaotic questioning into ordered structure capable of refracting experience into spectrum of meaning.",
+  "philosophical_underpinning": "Identity crystallized through pressure",
+  "therapeutic_direction": "Appreciating pressure as structuring force"
+}

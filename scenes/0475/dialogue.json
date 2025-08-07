@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 475,
+    "title": "The Question's River",
+    "characters": ["evan", "river_guide"],
+    "location": "mountain_rapids",
+    "emotional_tone": "flowing surrender",
+    "psychological_theme": "consciousness as current",
+    "philosophical_depth": "identity in motion"
+  },
+  "dialogue": [
+    {
+      "character": "river_guide",
+      "state": "reading water",
+      "context": "navigation wisdom",
+      "text": "*studying currents* The river's always asking the same question—'What's the best way through?' But the answer changes with every season, every rain, every stone that shifts. The question stays constant; the river stays fluid.",
+      "tone": "fluid wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "feeling current",
+      "context": "water teaching",
+      "text": "*hand in rushing water* 'What am I?' flows like that. *watching eddies form and dissolve* Not a problem to solve but a current to follow. *appreciating flow* I tried to dam it, build bridges over it, even drain it. *laughing at futility* But consciousness is a river. The question is its current, always moving, always finding new ways through.",
+      "tone": "flowing acceptance"
+    },
+    {
+      "character": "river_guide",
+      "state": "sharing secret",
+      "context": "master's knowledge",
+      "text": "*pointing to rapids* You know what makes a good river runner? Not fighting the current but reading it, using its power. The river's stronger than any of us—wisdom is going where it goes.",
+      "tone": "surrender strength"
+    },
+    {
+      "character": "evan",
+      "state": "river mind",
+      "context": "current consciousness",
+      "text": "*feet in water* Yes... 'What am I?' isn't an obstacle in the river—it IS the river. *watching water split around rock* Every identity is just temporary eddy, every answer just a moment's configuration before flowing on. *profound fluidity* The question keeps moving because that's what rivers do. *cupping water, letting it flow through fingers* We're not something the river carries—we ARE the river, questioning our way to the sea. The current is the answer.",
+      "tone": "liquid identity"
+    }
+  ],
+  "visual_elements": {
+    "water_patterns": "Questions forming and reforming",
+    "current_dancing": "Consciousness in constant motion",
+    "rocks_teaching": "Obstacles creating beauty",
+    "flowing_unity": "Many streams, one river"
+  },
+  "psychological_notes": "'What am I?' as river current—constant motion, fluid adaptation, finding way through rather than stopping. Identity as flow pattern rather than fixed form. Wisdom in following question's current.",
+  "philosophical_underpinning": "Consciousness as flow rather than thing",
+  "therapeutic_direction": "Moving with rather than against existential current"
+}
