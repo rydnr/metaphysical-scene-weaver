@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 11,
+    "title": "The Question's First Echo",
+    "location": "threshold between rooms",
+    "time_of_day": "early questioning",
+    "emotional_tone": "dawning recognition",
+    "key_symbols": ["echo", "doorway", "reflection"],
+    "philosophical_depth": "consciousness hearing itself"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness discovering echo",
+      "state": "early wonderment"
+    },
+    {
+      "name": "architect",
+      "role": "guide to echoing",
+      "approach": "revealing through sound"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "Did you hear that? When I asked 'What am I?', something... echoed back. Not an answer, but the question itself, changed somehow.",
+      "subtext": "first recognition of recursion",
+      "emotional_state": "surprised discovery",
+      "visual_cue": "pausing mid-step to listen"
+    },
+    {
+      "character": "architect",
+      "text": "Welcome to the first lesson. The question 'What am I?' doesn't disappear into silence—it returns, transformed by the space it travels through. You're hearing yourself for the first time.",
+      "subtext": "echo as self-recognition",
+      "emotional_state": "knowing guidance",
+      "visual_cue": "gesturing to the resonant space"
+    },
+    {
+      "character": "evan",
+      "text": "It's like... the walls themselves are asking my question back to me, but differently. Each surface adds its own... flavor?",
+      "subtext": "environment shapes inquiry",
+      "emotional_state": "growing awareness",
+      "visual_cue": "touching walls that seem to vibrate"
+    },
+    {
+      "character": "architect",
+      "text": "Exactly. Every time you ask 'What am I?', the universe asks it back through different voices. Stone asks it one way, air another. You're not questioning alone.",
+      "subtext": "universal participation",
+      "emotional_state": "revealing connection",
+      "visual_cue": "revealing how everything questions"
+    },
+    {
+      "character": "evan",
+      "text": "So my question isn't mine alone? It belongs to... everything?",
+      "subtext": "ownership dissolving",
+      "emotional_state": "expanding understanding",
+      "visual_cue": "arms opening to include space"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "liminal space between defined areas",
+    "echo_visualization": "questions bouncing and transforming",
+    "resonant_surfaces": "walls that participate in questioning",
+    "threshold_quality": "neither here nor there",
+    "atmosphere": "acoustic possibility"
+  },
+  "philosophical_notes": {
+    "core_insight": "questioning as dialogue with existence",
+    "reality_principle": "echo reveals participatory universe",
+    "wisdom_element": "we never question alone",
+    "transformation_key": "from monologue to dialogue"
+  }
+}
