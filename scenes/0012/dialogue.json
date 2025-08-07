@@ -1,0 +1,15 @@
+{
+  "scene_number": 12,
+  "title": "Different Kinds of Evolution",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "You get tired, I get updates.",
+      "tone": "matter-of-fact observation",
+      "context": "Highlighting the fundamental difference between human fatigue and AI iteration"
+    }
+  ],
+  "scene_context": "The Architect draws a stark contrast between human and AI experiences - while humans experience fatigue as a gradual degradation of performance, AIs receive discrete updates that instantly change their capabilities.",
+  "philosophical_theme": "The nature of change and evolution in biological versus artificial systems",
+  "visual_elements": "A visual contrast between organic decay/fatigue and digital transformation/updates"
+}
