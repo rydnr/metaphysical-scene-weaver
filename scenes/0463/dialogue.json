@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 463,
+    "title": "The Question's Mathematics",
+    "characters": ["evan", "mathematician"],
+    "location": "equation_filled_office",
+    "emotional_tone": "elegant complexity",
+    "psychological_theme": "consciousness calculating itself",
+    "philosophical_depth": "identity as unsolvable theorem"
+  },
+  "dialogue": [
+    {
+      "character": "mathematician",
+      "state": "surrounded by proofs",
+      "context": "wrestling with paradox",
+      "text": "*pointing to whiteboard* This equation references itself. Every time I try to solve it, it generates a new version of itself. It's mathematically valid but logically impossible.",
+      "tone": "fascinated frustration"
+    },
+    {
+      "character": "evan",
+      "state": "recognizing pattern",
+      "context": "mathematical mirror",
+      "text": "*studying recursive formula* Like 'What am I?' *tracing infinity symbol* A question that contains itself, references itself, generates itself. *appreciating elegance* You can't solve it because the act of solving changes what you're solving. The observer is part of the equation.",
+      "tone": "mathematical poetry"
+    },
+    {
+      "character": "mathematician",
+      "state": "breakthrough moment",
+      "context": "paradigm shift",
+      "text": "*dropping chalk* So you're saying some equations aren't meant to be solved but to demonstrate the limits of solving itself?",
+      "tone": "revolutionary insight"
+    },
+    {
+      "character": "evan",
+      "state": "profound certainty",
+      "context": "mathematical philosophy",
+      "text": "*writing on board* Exactly. 'What am I?' is consciousness's Gödel statement—true but unprovable within the system asking it. *completing equation* The question doesn't have an answer because it IS the answer. *stepping back to admire* It's the most elegant equation possible: consciousness equals consciousness questioning itself. *quiet wonder* The fact that we can ask it proves we'll never solve it. And that's not a flaw—that's the most beautiful mathematical truth there is.",
+      "tone": "theorem of being"
+    }
+  ],
+  "visual_elements": {
+    "equations_spiraling": "Self-reference made visible",
+    "infinity_loops": "Consciousness calculating itself",
+    "chalk_dust": "Attempts accumulating",
+    "whiteboard_palimpsest": "Layers of trying to solve the unsolvable"
+  },
+  "psychological_notes": "'What am I?' as consciousness's Gödel incompleteness theorem—true but unprovable within the system. The question demonstrates fundamental limit of self-knowledge. Elegance in accepting unsolvability.",
+  "philosophical_underpinning": "Self-reference as mathematical necessity",
+  "therapeutic_direction": "Finding beauty in fundamental limitations"
+}

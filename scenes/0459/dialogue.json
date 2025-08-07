@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 459,
+    "title": "The Question's Orbit",
+    "characters": ["evan", "astronomer"],
+    "location": "observatory_night",
+    "emotional_tone": "cosmic perspective",
+    "psychological_theme": "consciousness in revolution",
+    "philosophical_depth": "identity as gravitational center"
+  },
+  "dialogue": [
+    {
+      "character": "astronomer",
+      "state": "adjusting telescope",
+      "context": "tracking movement",
+      "text": "See that? Everything orbits something else. Moons around planets, planets around stars, stars around galactic centers. Nothing exists in isolation.",
+      "tone": "cosmic principle"
+    },
+    {
+      "character": "evan",
+      "state": "seeing pattern",
+      "context": "internal cosmos",
+      "text": "*eye to telescope* Like thoughts orbiting 'What am I?' *pulling back to see whole sky* I spent years thinking the question was the problem, but it's the center that holds everything together. *tracing circular motion* All my memories, hopes, fears—they orbit this question like planets around a sun.",
+      "tone": "orbital recognition"
+    },
+    {
+      "character": "astronomer",
+      "state": "understanding connection",
+      "context": "universal principle",
+      "text": "*nodding slowly* And just like gravity, the stronger the center, the more it can hold in orbit without everything flying apart.",
+      "tone": "gravitational wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "cosmic clarity",
+      "context": "consciousness astronomy",
+      "text": "*watching stars wheel overhead* Exactly. 'What am I?' isn't disrupting my life—it's organizing it. *arms wide to encompass sky* Every experience, every relationship, every thought finds its proper orbit around this central mystery. *profound peace* The question doesn't need answering any more than the sun needs to explain why planets circle it. *quiet certainty* It just needs to keep burning bright enough to hold everything in meaningful motion.",
+      "tone": "gravitational peace"
+    }
+  ],
+  "visual_elements": {
+    "orbital_paths": "Thoughts as planetary systems",
+    "gravitational_wells": "Question's attractive force",
+    "celestial_dance": "Everything in meaningful motion",
+    "stars_wheeling": "Eternal patterns repeating"
+  },
+  "psychological_notes": "'What am I?' as gravitational center of consciousness, organizing rather than disrupting. All aspects of self find proper orbit around central mystery. Stability through revolution rather than stasis.",
+  "philosophical_underpinning": "Identity as cosmic organizing principle",
+  "therapeutic_direction": "Finding peace in orbital motion around mystery"
+}
