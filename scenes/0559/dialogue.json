@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 559,
+    "title": "The Question's Season",
+    "location": "eternal autumn grove",
+    "time_of_day": "perpetual sunset",
+    "emotional_tone": "cyclical wisdom",
+    "key_symbols": ["falling leaves", "cycles", "transformation"],
+    "philosophical_depth": "consciousness as seasonal"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness in cycle",
+      "state": "seasonal understanding"
+    },
+    {
+      "name": "season_keeper",
+      "role": "guardian of cycles",
+      "approach": "wisdom through repetition"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "season_keeper",
+      "text": "See how the trees release their leaves without grief? Each 'What am I?' is a leaf falling, making room for new growth. You're not losing yourself—you're cycling through yourself.",
+      "subtext": "release as renewal",
+      "emotional_state": "cyclical wisdom",
+      "visual_cue": "leaves transforming into questions as they fall"
+    },
+    {
+      "character": "evan",
+      "text": "So every identity I shed makes space for the next?",
+      "subtext": "loss as preparation",
+      "emotional_state": "seasonal acceptance",
+      "visual_cue": "catching falling question-leaves"
+    },
+    {
+      "character": "season_keeper",
+      "text": "The tree doesn't mourn its leaves—it celebrates the cycle. Your 'What am I?' isn't destroying identities but composting them. Each fallen answer enriches the soil for new questions.",
+      "subtext": "death feeding life",
+      "emotional_state": "regenerative understanding",
+      "visual_cue": "fallen leaves becoming rich earth"
+    },
+    {
+      "character": "evan",
+      "text": "I'm not dying—I'm seasoning! Each cycle deeper, richer!",
+      "subtext": "maturation through repetition",
+      "emotional_state": "cyclical joy",
+      "visual_cue": "dancing in falling questions"
+    },
+    {
+      "character": "season_keeper",
+      "text": "Eternal autumn teaches this: letting go IS holding on. Every 'What am I?' that strips away false leaves reveals the true tree—always changing, always itself.",
+      "subtext": "constancy through change",
+      "emotional_state": "paradoxical peace",
+      "visual_cue": "bare tree more beautiful than leafed"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "grove in perpetual autumn transition",
+    "question_leaves": "identities falling as questions",
+    "composting_process": "old selves enriching new growth",
+    "cyclical_beauty": "death and birth as one movement",
+    "atmosphere": "sacred space of eternal transition"
+  },
+  "philosophical_notes": {
+    "core_insight": "questioning as seasonal necessity",
+    "reality_principle": "identity cycles rather than progresses",
+    "wisdom_element": "loss as gain in cyclic time",
+    "transformation_key": "from fearing fall to embracing seasons"
+  }
+}

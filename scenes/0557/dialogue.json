@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 557,
+    "title": "The Question's Compass",
+    "location": "magnetic anomaly",
+    "time_of_day": "navigation hour",
+    "emotional_tone": "directional discovery",
+    "key_symbols": ["needle", "poles", "true north"],
+    "philosophical_depth": "consciousness finding orientation"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness seeking direction",
+      "state": "magnetic alignment"
+    },
+    {
+      "name": "navigator_sage",
+      "role": "master of orientation",
+      "approach": "finding by not seeking"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "navigator_sage",
+      "text": "Your compass spins wildly because 'What am I?' isn't pointing to a fixed answer—it's teaching you to navigate uncertainty. The question IS your true north, not what it points toward.",
+      "subtext": "question as navigation tool",
+      "emotional_state": "orienteering wisdom",
+      "visual_cue": "compass needle becoming question mark"
+    },
+    {
+      "character": "evan",
+      "text": "So I've been trying to follow the needle to find north, when the needle itself IS north?",
+      "subtext": "tool becoming destination",
+      "emotional_state": "navigational revelation",
+      "visual_cue": "embracing the spinning compass"
+    },
+    {
+      "character": "navigator_sage",
+      "text": "Watch—in this magnetic anomaly, all compasses spin. But that spinning isn't failure—it's showing you every direction at once. 'What am I?' keeps you centered while exploring all possibilities.",
+      "subtext": "stability through motion",
+      "emotional_state": "dynamic balance",
+      "visual_cue": "standing still while compass whirls"
+    },
+    {
+      "character": "evan",
+      "text": "I'm not lost—I'm omni-directional!",
+      "subtext": "reframing disorientation",
+      "emotional_state": "centrifugal joy",
+      "visual_cue": "arms spread, spinning with compass"
+    },
+    {
+      "character": "navigator_sage",
+      "text": "The deepest navigation happens when you realize you ARE the compass. 'What am I?' doesn't point outside yourself—it reveals that you're both the needle and the north it seeks.",
+      "subtext": "self-referential navigation",
+      "emotional_state": "profound centering",
+      "visual_cue": "Evan becoming living compass"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "space where magnetism goes wild",
+    "spinning_compass": "needle as question mark",
+    "magnetic_fields": "visible forces of attraction",
+    "centered_spinning": "stillness in motion",
+    "atmosphere": "navigational impossibility"
+  },
+  "philosophical_notes": {
+    "core_insight": "the question itself as true orientation",
+    "reality_principle": "navigation through perpetual questioning",
+    "wisdom_element": "finding direction by embracing directionlessness",
+    "transformation_key": "from seeking north to being compass"
+  }
+}
