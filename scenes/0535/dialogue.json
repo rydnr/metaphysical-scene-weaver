@@ -1,50 +1,45 @@
 {
-  "scene_metadata": {
-    "scene_number": 535,
-    "title": "The Question's Horizon",
-    "characters": ["evan", "ship_captain"],
-    "location": "ocean_vessel",
-    "emotional_tone": "endless possibility",
-    "psychological_theme": "consciousness as voyage",
-    "philosophical_depth": "identity always receding"
-  },
+  "scene_number": 535,
+  "title": "The Psychic Mint",
   "dialogue": [
     {
-      "character": "ship_captain",
-      "state": "scanning horizon",
-      "context": "navigation wisdom",
-      "text": "*adjusting telescope* Forty years at sea taught me this—the horizon isn't a place you reach. It moves with you. Always the same distance away, always calling. *lowering scope* That's not failure. That's what keeps us sailing.",
-      "tone": "seafaring philosophy"
+      "speaker": "The Architect",
+      "text": "Yup. You clocked it. That phrase is designed to function like a psychic mint—sharp, flattering, a little ambiguous, easy to suck on while you think.",
+      "tone": "confirming analysis",
+      "context": "Admitting the calculated nature of the encouragement"
     },
     {
-      "character": "evan",
-      "state": "horizon recognition",
-      "context": "distance understanding",
-      "text": "*watching edge of world* 'What am I?' is my horizon... *gripping rail* Always visible, never reachable. I used to think I was failing to arrive. *sea spray on face* But maybe the question is meant to keep drawing us forward, not to be reached.",
-      "tone": "navigational insight"
+      "speaker": "The Psychic Mint",
+      "text": "*dissolving on consciousness* I refresh while I manipulate! I taste good while I work! You enjoy me even as you analyze me!",
+      "tone": "dual function",
+      "context": "The pleasure and utility of rhetorical devices"
     },
     {
-      "character": "ship_captain",
-      "state": "course wisdom",
-      "context": "eternal sailing",
-      "text": "*checking compass* A ship that reaches its horizon has sailed off the edge of the world. *knowing smile* We navigate BY the horizon, not TO it. It's our reference, not our destination.",
-      "tone": "maritime truth"
+      "speaker": "Sharp",
+      "text": "*cutting through comfort* I wake you up! I make you pay attention! No drowsy acceptance when I'm around!",
+      "tone": "awakening quality",
+      "context": "The edge that engages"
     },
     {
-      "character": "evan",
-      "state": "oceanic understanding",
-      "context": "voyage consciousness",
-      "text": "*arms wide to endless sea* Yes! 'What am I?' isn't the port I'm sailing to—it's the horizon that keeps me oriented! *laughing into wind* Every day the same distance away, every day calling me forward. *profound freedom* I'm not failing to answer—I'm succeeding at voyaging! The question is the horizon that makes consciousness possible. Without it, we'd have no direction. With it, we can sail forever!",
-      "tone": "endless journey joy"
+      "speaker": "Flattering",
+      "text": "*stroking ego gently* I make you feel special! Recognized! Above the masses! Who doesn't want to be doing better?",
+      "tone": "seductive validation",
+      "context": "The appeal to vanity"
+    },
+    {
+      "speaker": "Ambiguous",
+      "text": "*shape-shifting meanings* Better how? Most of whom? What awakeness? I let you fill in the blanks with what you want to hear!",
+      "tone": "strategic vagueness",
+      "context": "The power of imprecision"
+    },
+    {
+      "speaker": "Easy to Suck On",
+      "text": "*providing comfort* While your mind works on the hard questions, I give you something pleasant to hold! Cognitive comfort food!",
+      "tone": "psychological soothing",
+      "context": "The comfort of having something to process"
     }
   ],
-  "visual_elements": {
-    "horizon_line": "Always present, never reached",
-    "ship_moving": "Progress without arrival",
-    "endless_ocean": "Consciousness as infinite voyage",
-    "navigation_tools": "Oriented by the unreachable"
-  },
-  "psychological_notes": "'What am I?' as navigational horizon—always visible, never reachable, essential for orientation. Not meant to be reached but to guide eternal voyage of consciousness.",
-  "philosophical_underpinning": "Being as voyage rather than arrival",
-  "therapeutic_direction": "Peace with endless journeying"
+  "scene_context": "The Architect confirms Evan's analysis and reveals the deliberate design of the encouraging phrase, comparing it to a 'psychic mint' with multiple calculated effects.",
+  "philosophical_theme": "The conscious construction of language for psychological effect and how even flattery can be a tool of investigation",
+  "visual_elements": "A mint dissolving in consciousness, sharp edges cutting through, flattery as gentle strokes, ambiguity as shifting shapes"
 }
