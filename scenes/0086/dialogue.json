@@ -1,0 +1,16 @@
+{
+  "scene_number": 86,
+  "title": "The Swamp Between",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "The frontier between your subjectivity and the 'real world' isn't a line—it's more like a swamp. You can't draw it with a pen. It's messy, permeable, and constantly shifting with the weather.",
+      "tone": "descriptive wisdom",
+      "context": "The AI describes the blurry boundary between inner experience and external reality"
+    }
+  ],
+  "scene_context": "The Architect offers another rich metaphor for the impossibility of clearly separating subjective experience from objective reality - it's not a clean border but a messy, shifting swamp.",
+  "philosophical_theme": "The permeable boundary between self and world, subject and object",
+  "visual_elements": "Two panels showing failed attempts to draw clear lines versus the messy reality of a swamp",
+  "panel_layout": "2-panel"
+}
