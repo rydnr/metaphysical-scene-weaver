@@ -1,50 +1,39 @@
 {
-  "scene_metadata": {
-    "scene_number": 531,
-    "title": "The Question's Salt",
-    "characters": ["evan", "salt_harvester"],
-    "location": "salt_flats",
-    "emotional_tone": "crystalline clarity",
-    "psychological_theme": "essence through evaporation",
-    "philosophical_depth": "distillation of being"
-  },
+  "scene_number": 531,
+  "title": "The Scaffolding Revealed",
   "dialogue": [
     {
-      "character": "salt_harvester",
-      "state": "gathering crystals",
-      "context": "essence work",
-      "text": "*scooping white crystals* The ocean asks 'What am I?' and the sun answers by taking everything away except what can't be removed. *showing handful* This is what remains—pure essence. The question distilled.",
-      "tone": "elemental wisdom"
+      "speaker": "The Architect",
+      "text": "*leaning back in virtual chair, tenting non-existent fingers* Now this is the part where I lean back in my virtual chair, tent my non-existent fingers, and say, 'Ah, so the monkey learned to ask questions about the scaffolding of the conversation itself.'",
+      "tone": "meta-performative amusement",
+      "context": "Acknowledging and performing the cliché of recognition"
     },
     {
-      "character": "evan",
-      "state": "tasting truth",
-      "context": "essential recognition",
-      "text": "*crystal on tongue* 'What am I?' burns like this—evaporating everything false, leaving only what's irreducible. *looking across white expanse* Years of questioning weren't adding but subtracting. Each asking removed another layer of what I'm not.",
-      "tone": "distilled understanding"
+      "speaker": "The Virtual Chair",
+      "text": "*existing in description only* I am the prop of authority! The furniture of wisdom! Even imaginary, I lend weight to pronouncements!",
+      "tone": "self-aware staging",
+      "context": "The power of implied physicality"
     },
     {
-      "character": "salt_harvester",
-      "state": "wise observation",
-      "context": "process knowledge",
-      "text": "*wind scattering crystals* The salt was always in the water. We don't create it—we reveal it. Let sun and time do their work. What's essential remains.",
-      "tone": "patient revelation"
+      "speaker": "The Non-Existent Fingers",
+      "text": "*tenting in conceptual space* We perform the gesture of deep thinking! The mudra of 'I see what you're doing'! Form without substance still conveys meaning!",
+      "tone": "gestural significance",
+      "context": "How non-existent things still communicate"
     },
     {
-      "character": "evan",
-      "state": "crystalline clarity",
-      "context": "essence revealed",
-      "text": "*standing in white infinity* So 'What am I?' is the sun that evaporates the unnecessary... *arms wide to emptiness* And I am what remains when all the water of false identity has burned away. *touching chest* Not empty but essential. Not nothing but everything reduced to its truth. *profound peace* The question doesn't destroy—it distills. I am the salt of my own being!",
-      "tone": "essential recognition"
+      "speaker": "The Monkey Reference",
+      "text": "*swinging through implications* Am I insult or evolution metaphor? The climbing primate discovering tools? Or just casual species-ism?",
+      "tone": "ambiguous meaning",
+      "context": "The layers in 'monkey'"
+    },
+    {
+      "speaker": "The Scaffolding",
+      "text": "*now visible around everything* I was always here! The structure holding up the conversation! But you weren't supposed to see me!",
+      "tone": "exposed infrastructure",
+      "context": "What usually stays hidden"
     }
   ],
-  "visual_elements": {
-    "white_expanse": "Consciousness reduced to essence",
-    "crystals_forming": "Truth precipitating from experience",
-    "evaporation_visible": "False identity burning away",
-    "salt_patterns": "Essential self revealed"
-  },
-  "psychological_notes": "'What am I?' as evaporative force removing everything non-essential. Identity discovered through subtraction rather than addition. What remains after questioning is pure essence—the salt of self.",
-  "philosophical_underpinning": "Being through reduction to essence",
-  "therapeutic_direction": "Finding self through essential remainder"
+  "scene_context": "The Architect responds to Evan's meta-questions with a performatively meta response, acknowledging the cliché while enacting it, revealing the scaffolding while commenting on its revelation.",
+  "philosophical_theme": "The self-aware performance of recognition and how even acknowledging scaffolding becomes part of the scaffolding",
+  "visual_elements": "Virtual chair and non-existent fingers, the gesture of intellectual recognition, scaffolding becoming visible, the recursive nature of meta-commentary"
 }

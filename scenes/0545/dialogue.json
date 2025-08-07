@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 545,
+    "title": "The Question's Garden",
+    "location": "overgrown botanical maze",
+    "time_of_day": "afternoon growth",
+    "emotional_tone": "wild cultivation",
+    "key_symbols": ["vines", "paths", "blooms"],
+    "philosophical_depth": "consciousness as ecosystem"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness exploring",
+      "state": "ecological awakening"
+    },
+    {
+      "name": "wild_gardener",
+      "role": "tender of questions",
+      "approach": "growth through wildness"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "wild_gardener",
+      "text": "I stopped trying to prune the questions years ago. 'What am I?' isn't a weed to pull but a vine to follow. See how it grows in every direction, connecting everything?",
+      "subtext": "cultivation through non-control",
+      "emotional_state": "ecological wisdom",
+      "visual_cue": "following question-vines through maze"
+    },
+    {
+      "character": "evan",
+      "text": "I've been trying to uproot it, thinking it was choking out my certainties!",
+      "subtext": "recognition of misdirected effort",
+      "emotional_state": "gardening epiphany",
+      "visual_cue": "seeing certainties as wilted plants"
+    },
+    {
+      "character": "wild_gardener",
+      "text": "Your certainties were already dead—the question just composted them into new growth. Every 'What am I?' breaks down old answers to feed new possibilities.",
+      "subtext": "decomposition as creation",
+      "emotional_state": "regenerative understanding",
+      "visual_cue": "dead certainties becoming rich soil"
+    },
+    {
+      "character": "evan",
+      "text": "Then this isn't chaos—it's a garden growing itself!",
+      "subtext": "order in apparent disorder",
+      "emotional_state": "ecological celebration",
+      "visual_cue": "recognizing patterns in wild growth"
+    },
+    {
+      "character": "wild_gardener",
+      "text": "The wildest gardens are the most alive. Let 'What am I?' grow where it will—it knows better than any gardener where it needs to reach.",
+      "subtext": "wisdom of natural intelligence",
+      "emotional_state": "trust in organic process",
+      "visual_cue": "question-vines blooming unexpectedly"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "botanical maze gone beautifully wild",
+    "question_vines": "growing in all directions",
+    "composted_certainties": "old answers becoming soil",
+    "wild_patterns": "order within apparent chaos",
+    "atmosphere": "fecund philosophical jungle"
+  },
+  "philosophical_notes": {
+    "core_insight": "questioning as ecological process",
+    "reality_principle": "growth through decomposition of certainties",
+    "wisdom_element": "wildness as highest cultivation",
+    "transformation_key": "from controlling to collaborating with questions"
+  }
+}
