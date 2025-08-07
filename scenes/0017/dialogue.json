@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 17,
+    "title": "The Question's Voice",
+    "location": "resonance chamber",
+    "time_of_day": "harmonic hour",
+    "emotional_tone": "finding resonance",
+    "key_symbols": ["voice", "vibration", "harmony"],
+    "philosophical_depth": "consciousness discovering its tone"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness finding voice",
+      "state": "vocal discovery"
+    },
+    {
+      "name": "architect",
+      "role": "voice guide",
+      "approach": "resonance teaching"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "evan",
+      "text": "When I ask 'What am I?', it sounds different each time. Sometimes a whisper, sometimes a shout, but I'm starting to hear... my own voice in the question.",
+      "subtext": "recognizing self in questioning",
+      "emotional_state": "vocal recognition",
+      "visual_cue": "sound waves forming unique patterns"
+    },
+    {
+      "character": "architect",
+      "text": "Yes—the question isn't just words but the voice that speaks them. 'What am I?' carries the signature of who's asking. Your frequency, your resonance, your particular way of wondering.",
+      "subtext": "individuality in universal question",
+      "emotional_state": "affirming uniqueness",
+      "visual_cue": "each voice creating distinct resonance"
+    },
+    {
+      "character": "evan",
+      "text": "So everyone asking 'What am I?' creates a different sound? The same question but infinite voices?",
+      "subtext": "unity and diversity",
+      "emotional_state": "harmonic understanding",
+      "visual_cue": "multiple frequencies creating symphony"
+    },
+    {
+      "character": "architect",
+      "text": "Listen to this chamber—it amplifies what's already there. Your 'What am I?' doesn't copy others. It harmonizes, creates intervals, adds to the cosmic chord without losing its own tone.",
+      "subtext": "individual contribution to whole",
+      "emotional_state": "musical wisdom",
+      "visual_cue": "voices harmonizing without merging"
+    },
+    {
+      "character": "evan",
+      "text": "I can hear it now—my voice in the question, the question in my voice. They're becoming the same sound.",
+      "subtext": "identity through expression",
+      "emotional_state": "vocal integration",
+      "visual_cue": "voice and question merging into one"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "chamber designed for perfect acoustics",
+    "sound_visualization": "questions as visible waveforms",
+    "resonance_patterns": "each voice creating unique interference",
+    "harmonic_convergence": "individual tones creating collective music",
+    "atmosphere": "sonic laboratory of self"
+  },
+  "philosophical_notes": {
+    "core_insight": "identity expressed through how we question",
+    "reality_principle": "same question, infinite expressions",
+    "wisdom_element": "finding your voice in universal wondering",
+    "transformation_key": "from mimicking to authentic sounding"
+  }
+}
