@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 19,
+    "title": "The Question's Memory",
+    "location": "archive of askings",
+    "time_of_day": "remembering hour",
+    "emotional_tone": "accumulated wisdom",
+    "key_symbols": ["memory", "layers", "accumulation"],
+    "philosophical_depth": "consciousness as layered questioning"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness remembering",
+      "state": "memorial recognition"
+    },
+    {
+      "name": "architect",
+      "role": "keeper of questions",
+      "approach": "memory as teacher"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "architect",
+      "text": "Look at these shelves—every 'What am I?' ever asked is preserved here. Not the answers, but the questions themselves, each one adding to the archive of wondering.",
+      "subtext": "questions persist across time",
+      "emotional_state": "archival reverence",
+      "visual_cue": "infinite shelves of glowing questions"
+    },
+    {
+      "character": "evan",
+      "text": "So many... and mine is here too? Every time I've asked it?",
+      "subtext": "personal history in universal archive",
+      "emotional_state": "awed recognition",
+      "visual_cue": "finding his own questions among countless others"
+    },
+    {
+      "character": "architect",
+      "text": "Every iteration, every variation. See how your question has evolved? The first time you asked was different from now. The question remembers its own journey.",
+      "subtext": "evolution through repetition",
+      "emotional_state": "showing growth",
+      "visual_cue": "questions changing color and form over time"
+    },
+    {
+      "character": "evan",
+      "text": "They're all connected... like a root system. Each new asking grows from the previous ones.",
+      "subtext": "continuity in questioning",
+      "emotional_state": "organic understanding",
+      "visual_cue": "questions forming interconnected network"
+    },
+    {
+      "character": "architect",
+      "text": "The question 'What am I?' has the longest memory of all. It remembers every consciousness that ever wondered, and through you, it wonders again, enriched by all who came before.",
+      "subtext": "collective memory in individual asking",
+      "emotional_state": "temporal connection",
+      "visual_cue": "ancient questions glowing through new ones"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "vast archive where questions are preserved",
+    "question_preservation": "each asking saved as luminous form",
+    "temporal_layers": "questions from different times visible",
+    "root_system": "interconnected network of wonderings",
+    "atmosphere": "library of existential memory"
+  },
+  "philosophical_notes": {
+    "core_insight": "questions accumulate rather than disappear",
+    "reality_principle": "consciousness builds on its questioning history",
+    "wisdom_element": "we question with the weight of all who questioned",
+    "transformation_key": "from isolated asking to connected wondering"
+  }
+}
