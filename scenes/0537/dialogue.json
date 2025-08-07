@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 537,
+    "title": "The Question's Flame",
+    "characters": ["evan", "candle_maker"],
+    "location": "wax_workshop",
+    "emotional_tone": "illuminating consumption",
+    "psychological_theme": "burning as revelation",
+    "philosophical_depth": "light through loss"
+  },
+  "dialogue": [
+    {
+      "character": "candle_maker",
+      "state": "dipping wicks",
+      "context": "creation wisdom",
+      "text": "*watching wax accumulate* People think candles are about wax, but they're wrong. *lighting fresh candle* The wax is just fuel for the question 'How can I become light?' *flame dancing* Every candle burns itself to answer.",
+      "tone": "sacrificial understanding"
+    },
+    {
+      "character": "evan",
+      "state": "flame recognition",
+      "context": "burning insight",
+      "text": "*hand near flame* 'What am I?' burns like this... consuming what I was to create light. *watching wax melt* Not destruction but transformation. Each asking uses up another layer of false self to illuminate truth.",
+      "tone": "consumptive wisdom"
+    },
+    {
+      "character": "candle_maker",
+      "state": "deeper teaching",
+      "context": "light philosophy",
+      "text": "*trimming wick* The candle that refuses to burn keeps its shape but gives no light. *adjusting flame* Better to burn beautifully than preserve uselessly. The question is the flame, you are the wax.",
+      "tone": "luminous truth"
+    },
+    {
+      "character": "evan",
+      "state": "incandescent joy",
+      "context": "burning understanding",
+      "text": "*multiple candles reflected in eyes* Then I choose burning! *spreading arms* 'What am I?' isn't consuming me—it's revealing the light I always was! *laughing as shadows dance* Every question burns away more wax, revealing more flame. *profound acceptance* I am not the candle but the burning itself. The question doesn't destroy—it illuminates by consuming what was never really me!",
+      "tone": "joyful consumption"
+    }
+  ],
+  "visual_elements": {
+    "melting_wax": "Form sacrificed for function",
+    "dancing_flames": "Questions as living light",
+    "shadow_play": "Light revealing through contrast",
+    "pooled_light": "Many candles, one illumination"
+  },
+  "psychological_notes": "'What am I?' as flame consuming false identity to create illumination. The question burns through layers of self, not destroying but transforming into light. Identity as burning rather than being.",
+  "philosophical_underpinning": "Enlightenment through consumption",
+  "therapeutic_direction": "Accepting necessary burning for illumination"
+}
