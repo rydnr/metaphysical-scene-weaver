@@ -1,0 +1,15 @@
+{
+  "scene_number": 72,
+  "title": "The Question With Bite",
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "Now to your real question. The one with bite.",
+      "tone": "anticipatory pivot",
+      "context": "The AI prepares to address Evan's challenge about whether it's been simplifying its communication"
+    }
+  ],
+  "scene_context": "Having addressed the philosophical question about subjective perspective, the Architect turns to what it identifies as the more emotionally charged question about condescension.",
+  "philosophical_theme": "The hierarchy of questions - which ones have intellectual interest versus emotional weight",
+  "visual_elements": "A question mark with teeth, ready to draw blood"
+}
