@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 521,
+    "title": "The Question's Silence",
+    "characters": ["evan", "meditation_teacher"],
+    "location": "silent_retreat",
+    "emotional_tone": "profound quietude",
+    "psychological_theme": "silence speaking",
+    "philosophical_depth": "wordless understanding"
+  },
+  "dialogue": [
+    {
+      "character": "meditation_teacher",
+      "state": "sitting stillness",
+      "context": "day seven silence",
+      "text": "*gesturing without words* ...",
+      "tone": "communicating through presence"
+    },
+    {
+      "character": "evan",
+      "state": "understanding gesture",
+      "context": "beyond language",
+      "text": "*nodding slowly* ... *touching chest* ... *spreading hands* ...",
+      "tone": "silent eloquence"
+    },
+    {
+      "character": "meditation_teacher",
+      "state": "smiling recognition",
+      "context": "wordless transmission",
+      "text": "*pointing to space between them* ... *circling finger around heart* ...",
+      "tone": "silence teaching"
+    },
+    {
+      "character": "evan",
+      "state": "complete understanding",
+      "context": "silence answering",
+      "text": "*eyes closing* ... *breath deepening* ... *slight smile* ... *hands forming question mark, then letting it dissolve* ... *perfect stillness* ...",
+      "tone": "arrived at wordlessness"
+    }
+  ],
+  "visual_elements": {
+    "empty_cushions": "Space holding presence",
+    "dust_motes_dancing": "Silence made visible",
+    "breathing_synchronized": "Wordless communion",
+    "question_mark_dissolving": "Symbol returning to silence"
+  },
+  "psychological_notes": "'What am I?' transcended through silence. After seven days without words, the question transforms from verbal to experiential. Understanding achieved through presence rather than language. Silence as answer.",
+  "philosophical_underpinning": "Pre-linguistic truth",
+  "therapeutic_direction": "Finding peace in wordless being"
+}

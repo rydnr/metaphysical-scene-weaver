@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 519,
+    "title": "The Question's Compass",
+    "characters": ["evan", "cartographer"],
+    "location": "map_room",
+    "emotional_tone": "oriented wandering",
+    "psychological_theme": "directionless direction",
+    "philosophical_depth": "navigation without destination"
+  },
+  "dialogue": [
+    {
+      "character": "cartographer",
+      "state": "studying charts",
+      "context": "mapping mystery",
+      "text": "*spreading ancient maps* Every explorer thought they were mapping new territory, but look—they all drew the same coastline of mystery from different angles. The unknown has a shape.",
+      "tone": "geometric mystery"
+    },
+    {
+      "character": "evan",
+      "state": "tracing routes",
+      "context": "journey recognition",
+      "text": "*finger following paths* 'What am I?' is like that—not a destination on any map but the compass itself. *comparing charts* Every seeker's journey looks different, but we're all circumnavigating the same mystery. *placing compass on map* The question doesn't point to answers—it points to true north of being.",
+      "tone": "navigational wisdom"
+    },
+    {
+      "character": "cartographer",
+      "state": "revealing pattern",
+      "context": "meta-mapping",
+      "text": "*overlaying transparencies* When you stack all these maps, the individual paths disappear but the pattern remains. Everyone's been sailing around the same central void.",
+      "tone": "unified wandering"
+    },
+    {
+      "character": "evan",
+      "state": "compass truth",
+      "context": "oriented mystery",
+      "text": "*watching needle quiver* Because 'What am I?' isn't leading us somewhere—it's keeping us oriented while we explore. *spinning compass* Every direction leads back to the question, every journey circles this central not-knowing. *profound acceptance* The compass that always points to mystery is more valuable than any map to certainty. We're not lost—we're circumnavigating ourselves. The journey IS the destination.",
+      "tone": "perfectly lost"
+    }
+  ],
+  "visual_elements": {
+    "overlapping_journeys": "Different paths, same orbit",
+    "compass_spinning": "All directions equally valid",
+    "uncharted_center": "The unmappable self",
+    "navigation_tools": "Instruments for mystery"
+  },
+  "psychological_notes": "'What am I?' as compass rather than map—providing orientation without destination. All seekers circumnavigating same central mystery. Being lost with good compass better than found with wrong map.",
+  "philosophical_underpinning": "Journey as destination in self-inquiry",
+  "therapeutic_direction": "Accepting exploration without arrival"
+}
