@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 411,
+    "title": "The Question's Future",
+    "characters": ["evan", "pregnant_friend"],
+    "location": "baby_nursery",
+    "emotional_tone": "generative hope",
+    "psychological_theme": "questions yet to come",
+    "philosophical_depth": "wonder as birthright"
+  },
+  "dialogue": [
+    {
+      "character": "pregnant_friend",
+      "state": "preparing nursery",
+      "context": "nesting phase",
+      "text": "I wonder what questions she'll ask. What if I don't have answers?",
+      "tone": "anticipatory worry"
+    },
+    {
+      "character": "evan",
+      "state": "helping arrange",
+      "context": "sharing wisdom",
+      "text": "*placing mobile* She'll ask 'What am I?' in a thousand different ways. 'Why is sky?' 'Where was I before?' 'What happens when?' *gentle smile* And the beautiful thing? You don't need answers. You just need to honor the questions. *touching crib* Let her wonder. Protect her wondering. The questions she asks will be her wings.",
+      "tone": "protective wisdom"
+    },
+    {
+      "character": "pregnant_friend",
+      "state": "understanding dawning",
+      "context": "parental preparation",
+      "text": "So I'm not raising someone who knows things, but someone who knows how to wonder?",
+      "tone": "revelatory shift"
+    },
+    {
+      "character": "evan",
+      "state": "deep recognition",
+      "context": "future seeing",
+      "text": "*nodding* Every child born is the universe asking 'What am I?' in a new voice. *hand on friend's belly* She's already the question, forming herself into new ways of asking. Your job isn't to answer but to make space for her questioning to flourish. *profound pause* The future isn't in the answers we leave but in the questions we protect.",
+      "tone": "cosmic parenting"
+    }
+  ],
+  "visual_elements": {
+    "empty_crib": "Space for future questioner",
+    "mobile_turning": "Questions circling overhead",
+    "soft_preparations": "Gentleness awaiting wonder",
+    "potential_palpable": "Unborn philosopher preparing"
+  },
+  "psychological_notes": "The scene projects questioning into future generation. Evan helps friend reframe parenting from answer-providing to wonder-protecting. The unborn child already carries 'What am I?'—the eternal question preparing new voice. Wisdom transmits through supporting future questioners.",
+  "philosophical_underpinning": "Questions as evolutionary inheritance",
+  "therapeutic_direction": "Healing extends to future generations through protected wonder"
+}

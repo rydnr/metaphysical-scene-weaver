@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 407,
+    "title": "The Question's Memory",
+    "characters": ["evan", "elderly_parent"],
+    "location": "childhood_home",
+    "emotional_tone": "tender recursion",
+    "psychological_theme": "generational questioning",
+    "philosophical_depth": "inheritance of wonder"
+  },
+  "dialogue": [
+    {
+      "character": "elderly_parent",
+      "state": "looking through photos",
+      "context": "memory lane",
+      "text": "You asked 'What am I?' constantly as a child. Drove us crazy. *chuckle* We tried everything—answers, distractions, new toys. Nothing worked.",
+      "tone": "fond remembrance"
+    },
+    {
+      "character": "evan",
+      "state": "recognizing pattern",
+      "context": "childhood echo",
+      "text": "*touching old photo* I'd forgotten... or maybe I never forgot. Maybe the question just went underground for decades, waiting. *pause* You know what's beautiful? You never told me to stop asking. Even when it drove you crazy, you let me wonder. *deeper recognition* That might be why I survived when it returned with such force.",
+      "tone": "grateful understanding"
+    },
+    {
+      "character": "elderly_parent",
+      "state": "wise hindsight",
+      "context": "parental insight",
+      "text": "We couldn't answer it for you then. Still can't now. But watching you grow peaceful with it... *touching Evan's hand* Maybe that's what parenting is—protecting the questions until our children are strong enough to dance with them.",
+      "tone": "intergenerational wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "completing circle",
+      "context": "continuity seen",
+      "text": "The question was always here, wasn't it? In this house, in our family, maybe in our DNA. *looking at parent* 'What am I?' The family heirloom nobody talks about but everyone inherits.",
+      "tone": "ancestral recognition"
+    }
+  ],
+  "visual_elements": {
+    "photo_album": "Time collapsed into images",
+    "childhood_room": "Past and present coexisting",
+    "two_generations": "Questions passed between ages",
+    "familiar_objects": "Memory triggers everywhere"
+  },
+  "psychological_notes": "Discovery that the question existed in childhood reveals it as lifelong companion, not adult crisis. Parents' wisdom in allowing questioning preserved Evan's capacity for wonder. The question as family inheritance suggests existential inquiry runs in bloodlines.",
+  "philosophical_underpinning": "Questions as genetic/cultural inheritance",
+  "therapeutic_direction": "Integration across lifespan, healing through generational perspective"
+}

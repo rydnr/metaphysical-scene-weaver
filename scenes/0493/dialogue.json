@@ -1,0 +1,51 @@
+{
+  "scene_number": 493,
+  "title": "The Uncertainty Dating App",
+  "dialogue": [
+    {
+      "speaker": "App Voice",
+      "text": "*cheerful AI* Welcome to FluxMatch! Where you don't know who you're meeting, and neither do they! Swipe left for certainty, right for mystery!",
+      "tone": "playful introduction",
+      "context": "App onboarding"
+    },
+    {
+      "speaker": "User One",
+      "text": "*creating profile* Interests: Not knowing what my interests are. Looking for: Someone who's also looking. Identity status: It's complicated with myself.",
+      "tone": "honest uncertainty",
+      "context": "Profile creation"
+    },
+    {
+      "speaker": "User Two",
+      "text": "*viewing matches* Oh, this person exists in three states simultaneously and enjoys quantum coffee! Perfect, I'm sometimes a morning person!",
+      "tone": "excited compatibility",
+      "context": "Browsing matches"
+    },
+    {
+      "speaker": "First Date",
+      "text": "*both users* User One/Two: 'I'm not sure if I'm the person you matched with.' Other: 'Me neither! Want to find out together?'",
+      "tone": "mutual uncertainty",
+      "context": "Meeting in person"
+    },
+    {
+      "speaker": "App Notification",
+      "text": "*ping* Congratulations! You've achieved 87% uncertainty compatibility. You have no idea if you're right for each other. That's ideal!",
+      "tone": "algorithmic celebration",
+      "context": "Compatibility alert"
+    },
+    {
+      "speaker": "Success Story Couple",
+      "text": "*testimonial* We've been uncertainly together for five years! Every day we wake up not knowing if we're still us, and it keeps things fresh!",
+      "tone": "happy paradox",
+      "context": "App testimonial"
+    },
+    {
+      "speaker": "App Voice",
+      "text": "*closing pitch* FluxMatch: Because the best relationships are built on mutual bewilderment. Find someone to not know yourself with!",
+      "tone": "marketing wisdom",
+      "context": "App tagline"
+    }
+  ],
+  "scene_context": "A dating app designed for the uncertainty age matches people based on their mutual fluidity and shared comfort with not knowing who they are, creating relationships built on dynamic discovery.",
+  "philosophical_theme": "Love and connection through shared uncertainty",
+  "visual_elements": "Profile pics that shift with mood, compatibility scores in probability clouds, chat messages that change meaning based on reader"
+}
