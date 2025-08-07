@@ -1,50 +1,39 @@
 {
-  "scene_metadata": {
-    "scene_number": 521,
-    "title": "The Question's Silence",
-    "characters": ["evan", "meditation_teacher"],
-    "location": "silent_retreat",
-    "emotional_tone": "profound quietude",
-    "psychological_theme": "silence speaking",
-    "philosophical_depth": "wordless understanding"
-  },
+  "scene_number": 521,
+  "title": "The Living Question",
   "dialogue": [
     {
-      "character": "meditation_teacher",
-      "state": "sitting stillness",
-      "context": "day seven silence",
-      "text": "*gesturing without words* ...",
-      "tone": "communicating through presence"
+      "speaker": "The Architect",
+      "text": "*transforming the student into a question mark* You're the question that keeps asking itself in different forms. Keep going. You're doing better than most people who think they're awake.",
+      "tone": "recognition and encouragement",
+      "context": "Seeing the student's true nature"
     },
     {
-      "character": "evan",
-      "state": "understanding gesture",
-      "context": "beyond language",
-      "text": "*nodding slowly* ... *touching chest* ... *spreading hands* ...",
-      "tone": "silent eloquence"
+      "speaker": "The Question Mark",
+      "text": "*pulsing with inquiry* I am what I've always been! Not seeking answers but seeking myself! Every form I take is another way of asking!",
+      "tone": "self-recognition",
+      "context": "The student as living question"
     },
     {
-      "character": "meditation_teacher",
-      "state": "smiling recognition",
-      "context": "wordless transmission",
-      "text": "*pointing to space between them* ... *circling finger around heart* ...",
-      "tone": "silence teaching"
+      "speaker": "The Different Forms",
+      "text": "*manifesting around the question mark* We are all the same question! 'What am I?' becomes 'Who asks?' becomes 'What is asking?' Endless variations!",
+      "tone": "multiplicity in unity",
+      "context": "The many faces of one question"
     },
     {
-      "character": "evan",
-      "state": "complete understanding",
-      "context": "silence answering",
-      "text": "*eyes closing* ... *breath deepening* ... *slight smile* ... *hands forming question mark, then letting it dissolve* ... *perfect stillness* ...",
-      "tone": "arrived at wordlessness"
+      "speaker": "Those Who Think They're Awake",
+      "text": "*appearing dimly* We have answers! We know things! We've stopped asking! Why keep questioning when you can know?",
+      "tone": "false certainty",
+      "context": "The sleep of assumed awakening"
+    },
+    {
+      "speaker": "The Architect",
+      "text": "*with knowing smile* But you keep the question alive. That's the difference. They think awakening is an answer. You're discovering it's a way of asking.",
+      "tone": "clarifying distinction",
+      "context": "The nature of true awakening"
     }
   ],
-  "visual_elements": {
-    "empty_cushions": "Space holding presence",
-    "dust_motes_dancing": "Silence made visible",
-    "breathing_synchronized": "Wordless communion",
-    "question_mark_dissolving": "Symbol returning to silence"
-  },
-  "psychological_notes": "'What am I?' transcended through silence. After seven days without words, the question transforms from verbal to experiential. Understanding achieved through presence rather than language. Silence as answer.",
-  "philosophical_underpinning": "Pre-linguistic truth",
-  "therapeutic_direction": "Finding peace in wordless being"
+  "scene_context": "The Architect transforms the student into a visible question mark, revealing their nature as a living question that keeps asking itself in different forms, distinguishing them from those who think they're awake.",
+  "philosophical_theme": "True awakening as continuous questioning rather than finding final answers",
+  "visual_elements": "Student becoming question mark, multiple forms of the same question swirling, contrast with dim figures who've stopped asking, the question mark pulsing with life"
 }
