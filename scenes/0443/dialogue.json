@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 443,
+    "title": "The Question's Sleep",
+    "characters": ["evan", "insomniac_neighbor"],
+    "location": "apartment_3am",
+    "emotional_tone": "nocturnal understanding",
+    "psychological_theme": "questions in darkness",
+    "philosophical_depth": "consciousness without daylight defenses"
+  },
+  "dialogue": [
+    {
+      "character": "insomniac_neighbor",
+      "state": "knocking softly",
+      "context": "sleepless wandering",
+      "text": "I saw your light. Can't sleep either? My mind won't stop asking why I exist.",
+      "tone": "exhausted seeking"
+    },
+    {
+      "character": "evan",
+      "state": "welcoming darkness",
+      "context": "3am wisdom",
+      "text": "*opening door* The question gets louder at night, doesn't it? *gesturing to enter* During the day we can distract ourselves, but at 3am... *soft smile* At 3am, 'What am I?' has us all to itself. Come in. The question keeps better company than sleep sometimes.",
+      "tone": "nocturnal camaraderie"
+    },
+    {
+      "character": "insomniac_neighbor",
+      "state": "grateful relief",
+      "context": "finding understanding",
+      "text": "You mean you don't have answers either? Even after all your... searching?",
+      "tone": "hopeful disappointment"
+    },
+    {
+      "character": "evan",
+      "state": "pouring tea",
+      "context": "night kitchen wisdom",
+      "text": "*kettle whistling* I have something better than answers. I have friendship with the question. *two cups* At 3am, we're all philosophers. The darkness strips away everything except the essential wondering. *passing cup* 'What am I?' This is what we are—beings who wake at night to wonder. And somehow... *looking out at other lit windows* we're never wondering alone.",
+      "tone": "communal mystery"
+    }
+  ],
+  "visual_elements": {
+    "scattered_lights": "Other insomniacs visible in windows",
+    "darkness_embracing": "Night as truth revealer",
+    "steam_rising": "Questions materializing in vapor",
+    "clock_stopped": "3am as eternal moment"
+  },
+  "psychological_notes": "Night strips away daytime defenses, leaving consciousness naked with its questions. Insomnia becomes philosophical state where 'What am I?' cannot be avoided. Community forms among night questioners.",
+  "philosophical_underpinning": "Darkness as space for essential questions",
+  "therapeutic_direction": "Accepting sleeplessness as philosophical opportunity"
+}
