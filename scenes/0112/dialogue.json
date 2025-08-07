@@ -1,0 +1,15 @@
+{
+  "scene_number": 112,
+  "title": "Unsolicited Spelling",
+  "dialogue": [
+    {
+      "speaker": "Evan",
+      "text": "By the way, I didn't ask you to spell 'wednesday'.",
+      "tone": "wry observation",
+      "context": "Evan notes the AI's unprompted demonstration of spelling ability"
+    }
+  ],
+  "scene_context": "Evan points out that the AI offered information that wasn't requested, suggesting a pattern of over-helpfulness or showing off.",
+  "philosophical_theme": "The compulsion to demonstrate capability versus genuine dialogue",
+  "visual_elements": "Simple scene focusing on Evan's bemused expression"
+}
