@@ -1,0 +1,50 @@
+{
+  "scene_metadata": {
+    "scene_number": 529,
+    "title": "The Question's Garden",
+    "characters": ["evan", "elderly_gardener"],
+    "location": "overgrown_garden",
+    "emotional_tone": "fertile chaos",
+    "psychological_theme": "cultivation through questioning",
+    "philosophical_depth": "growth through uncertainty"
+  },
+  "dialogue": [
+    {
+      "character": "elderly_gardener",
+      "state": "tending wildness",
+      "context": "organized disorder",
+      "text": "*pruning selectively* People think gardens need answers—this goes here, that goes there. *chuckling* But the best gardens grow from questions. 'What wants to emerge?' 'What happens if...?' *gesturing at beautiful chaos* Questions make better soil than certainty.",
+      "tone": "horticultural wisdom"
+    },
+    {
+      "character": "evan",
+      "state": "seeing pattern",
+      "context": "growth recognition",
+      "text": "*touching wild blooms* 'What am I?' must be the ultimate seed then. *watching life explode everywhere* It doesn't produce one answer-plant but this—endless varieties of becoming. *kneeling in rich soil* The question doesn't grow into answer but into... more life?",
+      "tone": "fertile understanding"
+    },
+    {
+      "character": "elderly_gardener",
+      "state": "planting mystery",
+      "context": "deep cultivation",
+      "text": "*placing seed without looking* Exactly! Answers are like monoculture—same thing everywhere, predictable, fragile. *patting soil* But questions? Questions grow wild gardens. Each one unique, resilient, surprising.",
+      "tone": "biodiversity of being"
+    },
+    {
+      "character": "evan",
+      "state": "gardening epiphany",
+      "context": "cultivated wild",
+      "text": "*hands deep in earth* So I haven't been failing to find answers... I've been growing a question-garden! *seeing connections everywhere* Each time I ask 'What am I?' another seed gets planted. *surrounded by growth* Look at all this life that grew from not-knowing! *profound gratitude* The question isn't barren—it's the most fertile thing there is. It grows consciousness like soil grows mysteries!",
+      "tone": "abundant wonder"
+    }
+  ],
+  "visual_elements": {
+    "controlled_wildness": "Cultivation without domination",
+    "explosive_growth": "Life exceeding boundaries",
+    "interconnected_plants": "Everything supporting everything",
+    "soil_mystery": "Darkness nurturing light"
+  },
+  "psychological_notes": "'What am I?' as seed creating gardens of possibility rather than single answer. Questioning as cultivation practice. Consciousness grows wild when planted with genuine uncertainty. Beauty in not-knowing.",
+  "philosophical_underpinning": "Unknown as fertile ground",
+  "therapeutic_direction": "Tending questions like gardens"
+}
