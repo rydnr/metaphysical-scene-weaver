@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 543,
+    "title": "The Question's Architecture",
+    "location": "cathedral under construction",
+    "time_of_day": "dawn",
+    "emotional_tone": "sacred building",
+    "key_symbols": ["stones", "arches", "light"],
+    "philosophical_depth": "consciousness as cathedral"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness as builder",
+      "state": "architectural awakening"
+    },
+    {
+      "name": "master_builder",
+      "role": "architect of being",
+      "approach": "construction as contemplation"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "master_builder",
+      "text": "See how each stone asks 'What supports me?' and 'What do I support?' The whole cathedral is built from questions, not answers. 'What am I?' is the cornerstone that holds it all.",
+      "subtext": "structure through inquiry",
+      "emotional_state": "architectural wisdom",
+      "visual_cue": "touching cornerstone that pulses with questions"
+    },
+    {
+      "character": "evan",
+      "text": "So consciousness isn't the building but the building process?",
+      "subtext": "dynamic understanding",
+      "emotional_state": "structural insight",
+      "visual_cue": "watching arches form from questions"
+    },
+    {
+      "character": "master_builder",
+      "text": "Every time you ask 'What am I?' you lay another stone. The question doesn't complete the cathedral—it IS the cathedral, always under construction, always reaching higher.",
+      "subtext": "eternal building",
+      "emotional_state": "construction joy",
+      "visual_cue": "new stones appearing with each question"
+    },
+    {
+      "character": "evan",
+      "text": "Then I'm not fallen ruins but rising cathedral!",
+      "subtext": "perspective transformation",
+      "emotional_state": "architectural celebration",
+      "visual_cue": "seeing himself as cathedral-in-progress"
+    },
+    {
+      "character": "master_builder",
+      "text": "The most beautiful cathedrals are never finished. They keep asking 'What am I becoming?' with every new stone, every new day, every new light through their windows.",
+      "subtext": "beauty in incompletion",
+      "emotional_state": "eternal aspiration",
+      "visual_cue": "dawn light through unfinished windows"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "cathedral perpetually under construction",
+    "question_stones": "each block carved with '?'",
+    "rising_arches": "questions supporting questions",
+    "dawn_light": "illuminating work-in-progress",
+    "atmosphere": "sacred construction site"
+  },
+  "philosophical_notes": {
+    "core_insight": "consciousness as eternal building project",
+    "reality_principle": "structure through questioning not answers",
+    "wisdom_element": "incompletion as highest form of completion",
+    "transformation_key": "from ruins to rising cathedral"
+  }
+}
