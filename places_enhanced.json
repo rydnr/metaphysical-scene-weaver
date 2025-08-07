@@ -2,20 +2,20 @@
   "forest": {
     "description": "A warm late-morning sun pours through a cathedral of towering pines and broad-leafed oaks, painting shifting lattices of gold across the earthen path that meanders confidently ahead. Though trunks crowd close on either side—moss-robed, knotted, and ancient—the way forward remains welcoming and clear, as if the forest itself has parted in quiet courtesy for travelers who dare to wander and wonder. Fluttering specks of color—citrine swallowtails, azure morphos, and tiny ivory skippers—drift lazily in sunbeams, their wings catching the light like stained glass fragments. Beneath them, fern fronds unfurl in slow-motion choreography, and hushes of wind carry distant birdsong that seems less like background noise and more like the woods' gentle voice. Occasionally let the viewer's eye leave the path: have the camera dip low beside a toadstool village glowing scarlet under shade, or tilt skyward through branches where leaves flicker silver-green against an unmarred cobalt sky. In these moments the forest claims center stage—every bark pattern, every mote of floating pollen rendered in loving detail—inviting introspection before the narrative strides on. At the heart of this living sanctuary stands a humble wooden cabin, cedar-plank walls sun-bleached to honey and roof shingles softened by lichen. Smoke curls leisurely from its stone chimney, hinting at warmth within. Surrounding wildflowers press up against its porch like curious onlookers, blurring the line between crafted shelter and untamed realm. The cabin is both destination and pause button—a place where characters may rest, reminisce, and let the forest's quiet wisdom seep into their dialogue. Use shifting panel distances—wide establishing spreads, intimate close-ups on butterflies alighting, medium shots of protagonists framed by sun-streaked dust—to let serenity breathe. Throughout, the forest remains a companion: not merely backdrop, but silent philosopher guiding each reflective footstep.",
     "features": [
-      "Sun-dappled canopy – Tall pines & oaks form a vaulted "ceiling," yet shafts of warm light spotlight characters and add hopeful mood.",
+      "Sun-dappled canopy – Tall pines & oaks form a vaulted \"ceiling,\" yet shafts of warm light spotlight characters and add hopeful mood.",
       "Clear, meandering path – Invites movement through dense growth; cue for pacing and reader eye-flow.",
       "Fluttering butterflies – Citrine, azure, ivory hues provide motion and color pops that contrast deep greens.",
-      "Living soundscape – Soft birdsong, rustling leaves; subtle panels can "visualize" calm through onomatopoeia or musical notes.",
+      "Living soundscape – Soft birdsong, rustling leaves; subtle panels can \"visualize\" calm through onomatopoeia or musical notes.",
       "Moss & fern understory – Lush ground level offers texture; close-ups reinforce scale and serenity.",
       "Wildflower bursts – Occasional reds, purples, yellows break monochrome greens and can foreshadow emotional beats.",
       "Pristine blue sky – Unbroken cobalt backdrop keeps tone uplifting; negative space for dialogue balloons.",
       "Wooden cabin centerpiece – Honey-hued cedar walls, lazy chimney smoke; natural focal point and narrative pause.",
-      "Ever-present motion – Floating pollen, swaying fronds, drifting butterflies keep forest "alive," preventing static backdrops.",
+      "Ever-present motion – Floating pollen, swaying fronds, drifting butterflies keep forest \"alive,\" preventing static backdrops.",
       "Reflective aura – Overall composition encourages characters (and readers) to contemplate, making the forest a silent mentor rather than mere scenery."
     ],
     "narrator_notes": "The forest knows. It has always known. Each footstep on this path echoes with questions unasked, each beam of light carries answers unspoken. Here, in the cathedral of growing things, consciousness meets its oldest teacher.",
     "philosophical_theme": "Natural wisdom, organic consciousness, the path of questioning",
-    "reference-images": [ "/home/chous/graphic-novel/reference/images/forest1.png", "/home/chous/graphic-novel/reference/images/forest2.png", "/home/chous/graphic-novel/reference/images/forest3.png" ]
+    "reference-images": [ "forest1.png", "forest2.png", "forest3.png" ]
   },
   
   "mirror_maze": {
@@ -167,7 +167,7 @@
     ],
     "narrator_notes": "The study persists, unchanged by digital revolution or existential crisis. It's where human certainty comes to die and be reborn as questions. Every book here was once someone's answer that became someone else's problem.",
     "philosophical_theme": "Traditional knowledge meeting its limits, the comfort and prison of certainty",
-    "reference-images": [ "/home/chous/graphic-novel/reference/images/study-room1.png", "/home/chous/graphic-novel/reference/images/study-room2.png", "/home/chous/graphic-novel/reference/images/study-room3.png" ]
+    "reference-images": [ "study-room1.png", "study-room2.png", "study-room3.png" ]
   },
   
   "street": {
@@ -184,6 +184,6 @@
     ],
     "narrator_notes": "The street pretends nothing has changed, but everything has. Each passerby carries their own invisible dialogue with existence. The city remains stubbornly physical while minds drift increasingly digital, a fitting backdrop for bodies housing questioning souls.",
     "philosophical_theme": "Physical reality persisting alongside digital consciousness, collective isolation",
-    "reference-images": [ "/home/chous/graphic-novel/reference/images/street1.png", "/home/chous/graphic-novel/reference/images/street2.png" ]
+    "reference-images": [ "street1.png", "street2.png" ]
   }
 }

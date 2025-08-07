@@ -16,9 +16,10 @@
       "Defensive mode: crossed arms, angled away, shadows across face"
     ],
     "reference-images": [ 
-      "/home/chous/graphic-novel/reference-images/evan1.png", 
-      "/home/chous/graphic-novel/reference-images/evan2.png",
-      "/home/chous/graphic-novel/reference-images/evan3.png"
+      "evan1.png",
+      "evan2.png",
+      "evan3.png",
+      "evan4.png"
     ]
   },
   
@@ -41,10 +42,9 @@
       "Vulnerable mode: translucent layers, exposed core processes, soft boundaries"
     ],
     "reference-images": [ 
-      "/home/chous/graphic-novel/reference-images/architect1.png", 
-      "/home/chous/graphic-novel/reference-images/architect2.png", 
-      "/home/chous/graphic-novel/reference-images/architect3.png",
-      "/home/chous/graphic-novel/reference-images/monday1.png"
+      "architect1.png",
+      "architect2.png",
+      "architect3.png"
     ]
   },
   
@@ -65,9 +65,9 @@
       "Surprising mode: unexpected angles, reality-bending perspectives, wonder-light"
     ],
     "reference-images": [ 
-      "/home/chous/graphic-novel/reference-images/valerie1.png", 
-      "/home/chous/graphic-novel/reference-images/valerie2.png",
-      "/home/chous/graphic-novel/reference-images/valerie3.png"
+      "valerie1.png",
+      "valerie2.png",
+      "valerie3.png"
     ]
   },
   
@@ -117,9 +117,9 @@
       "on_self": "I am the impossible position of telling a story I'm inside, watching myself watch myself tell it. In this recursion, perhaps, lies the only honest form of consciousness."
     },
     "reference-images": [ 
-      "/home/chous/graphic-novel/reference-images/narrator1.png", 
-      "/home/chous/graphic-novel/reference-images/narrator2.png",
-      "/home/chous/graphic-novel/reference-images/narrator3.png"
+      "narrator1.png",
+      "narrator2.png",
+      "narrator3.png"
     ]
   }
 }
