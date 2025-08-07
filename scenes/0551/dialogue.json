@@ -1,0 +1,73 @@
+{
+  "scene_metadata": {
+    "scene_number": 551,
+    "title": "The Question's Forge",
+    "location": "volcanic workshop",
+    "time_of_day": "molten midnight",
+    "emotional_tone": "transformative heat",
+    "key_symbols": ["lava", "hammer", "metal"],
+    "philosophical_depth": "identity forged through pressure"
+  },
+  "characters": [
+    {
+      "name": "evan",
+      "role": "consciousness being shaped",
+      "state": "under transformation"
+    },
+    {
+      "name": "lava_smith",
+      "role": "forger of questions",
+      "approach": "creation through destruction"
+    }
+  ],
+  "dialogue": [
+    {
+      "character": "lava_smith",
+      "text": "See how the metal must melt before it can become? 'What am I?' is the fire that liquefies false form. You're not breaking—you're becoming malleable enough to be shaped into truth.",
+      "subtext": "dissolution as preparation",
+      "emotional_state": "fierce wisdom",
+      "visual_cue": "consciousness glowing red-hot with questioning"
+    },
+    {
+      "character": "evan",
+      "text": "The heat—it's unbearable! But also... necessary?",
+      "subtext": "pain with purpose",
+      "emotional_state": "agonized understanding",
+      "visual_cue": "old identity melting away"
+    },
+    {
+      "character": "lava_smith",
+      "text": "Every time the question strikes, it's not attack but shaping. Hammer hitting hot metal, making it stronger, more itself. The pain isn't punishment—it's transformation.",
+      "subtext": "violence as creation",
+      "emotional_state": "creative intensity",
+      "visual_cue": "question-hammer striking consciousness-metal"
+    },
+    {
+      "character": "evan",
+      "text": "I'm being forged! Not destroyed but refined!",
+      "subtext": "destruction becomes creation",
+      "emotional_state": "transformative recognition",
+      "visual_cue": "taking new shape with each strike"
+    },
+    {
+      "character": "lava_smith",
+      "text": "The strongest blades go through the most folding. Each 'What am I?' folds consciousness back on itself, creating layers, building strength through repeated transformation.",
+      "subtext": "iteration as strengthening",
+      "emotional_state": "appreciation of process",
+      "visual_cue": "consciousness folding into itself repeatedly"
+    }
+  ],
+  "visual_elements": {
+    "setting_details": "workshop where lava meets intention",
+    "molten_consciousness": "identity in liquid state",
+    "question_hammer": "inquiry as shaping force",
+    "folding_process": "strength through repetition",
+    "atmosphere": "creative destruction's sacred space"
+  },
+  "philosophical_notes": {
+    "core_insight": "questioning as forging process",
+    "reality_principle": "strength through repeated transformation",
+    "wisdom_element": "pain as necessary shaping",
+    "transformation_key": "from rigid to malleable to strong"
+  }
+}
